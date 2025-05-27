@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "e58025fa8f6c12821408d28dce7917d47f550785",
+  "size": 1360,
+  "url": "https://api.github.com/repos/terryma/vim-smooth-scroll/contents/README.md?ref=master",
+  "html_url": "https://github.com/terryma/vim-smooth-scroll/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/terryma/vim-smooth-scroll/git/blobs/e58025fa8f6c12821408d28dce7917d47f550785",
+  "download_url": "https://raw.githubusercontent.com/terryma/vim-smooth-scroll/master/README.md",
+  "type": "file",
+  "content": "IyB2aW0tc21vb3RoLXNjcm9sbAoKIyMgQWJvdXQKW3ZpbS1zbW9vdGgtc2Ny\nb2xsXSBtYWtlcyBzY3JvbGxpbmcgaW4gVmltIG5pY2UgYW5kIHNtb290aC4g\nRmluZCB5b3Vyc2VsZiBjb21wbGV0ZWx5IGxvc3QgZXZlcnkgdGltZSB5b3Ug\ndXNlIGBgYEN0cmwtZmBgYCBvciAgYGBgQ3RybC1iYGBgPyBZb3UgbWlnaHQg\nd2FudCB0byBnaXZlIHRoaXMgcGx1Z2luIGEgdHJ5LgoKIyMgSW5zdGFsbGF0\naW9uCkluc3RhbGwgdXNpbmcgW1BhdGhvZ2VuXSwgW1Z1bmRsZV0sIFtOZW9i\ndW5kbGVdLCBvciB5b3VyIGZhdm9yaXRlIFZpbSBwYWNrYWdlIG1hbmFnZXIu\nCgojIyBRdWljayBTdGFydApNYXAgeW91ciBmYXZvcml0ZSBrZXlzIGxpa2Ug\nYmVsb3c6CgpgYGB2aW0Kbm9yZW1hcCA8c2lsZW50PiA8Yy11PiA6Y2FsbCBz\nbW9vdGhfc2Nyb2xsI3VwKCZzY3JvbGwsIDAsIDIpPENSPgpub3JlbWFwIDxz\naWxlbnQ+IDxjLWQ+IDpjYWxsIHNtb290aF9zY3JvbGwjZG93bigmc2Nyb2xs\nLCAwLCAyKTxDUj4Kbm9yZW1hcCA8c2lsZW50PiA8Yy1iPiA6Y2FsbCBzbW9v\ndGhfc2Nyb2xsI3VwKCZzY3JvbGwqMiwgMCwgNCk8Q1I+Cm5vcmVtYXAgPHNp\nbGVudD4gPGMtZj4gOmNhbGwgc21vb3RoX3Njcm9sbCNkb3duKCZzY3JvbGwq\nMiwgMCwgNCk8Q1I+CmBgYAoKIyMgRnVuY3Rpb24KYGBgc21vb3RoX3Njcm9s\nbCN1cGBgYCBhbmQgYGBgc21vb3RoX3Njcm9sbCNkb3duYGBgIGJvdGggdGFr\nZSB0aGUgZm9sbG93aW5nIDMgcGFyYW1ldGVycy4gQ3VzdG9taXplIGl0IGhv\nd2V2ZXIgeW91IGxpa2UKLSBfX0Rpc3RhbmNlX186IFRoaXMgaXMgdGhlIHRv\ndGFsIG51bWJlciBvZiBsaW5lcyB5b3Ugd2FudCB0byBzY3JvbGwKLSBfX0R1\ncmF0aW9uX186IFRoaXMgaXMgaG93IGxvbmcgeW91IHdhbnQgZWFjaCBmcmFt\nZSBvZiB0aGUgc2Nyb2xsaW5nIGFuaW1hdGlvbiB0byBsYXN0IGluIF9fbWls\nbGlzZWNvbmRzX18uIEVhY2ggZnJhbWUgd2lsbCB0YWtlIF9hdCBsZWFzdF8g\ndGhpcyBhbW91bnQgb2YgdGltZS4gSXQgY291bGQgdGFrZSBtb3JlIGlmIFZp\nbSdzIHNjcm9sbGluZyBpdHNlbGYgaXMgc2xvdwotIF9fU3BlZWRfXzogVGhp\ncyBpcyBob3cgbWFueSBsaW5lcyB0byBzY3JvbGwgZHVyaW5nIGVhY2ggZnJh\nbWUgb2YgdGhlIHNjcm9sbGluZyBhbmltYXRpb24KClt2aW0tc21vb3RoLXNj\ncm9sbF06aHR0cDovL2dpdGh1Yi5jb20vdGVycnltYS92aW0tc21vb3RoLXNj\ncm9sbApbUGF0aG9nZW5dOmh0dHA6Ly9naXRodWIuY29tL3Rwb3BlL3ZpbS1w\nYXRob2dlbgpbVnVuZGxlXTpodHRwOi8vZ2l0aHViLmNvbS9nbWFyaWsvdnVu\nZGxlCltOZW9idW5kbGVdOmh0dHA6Ly9naXRodWIuY29tL1Nob3Vnby9uZW9i\ndW5kbGUudmltCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/terryma/vim-smooth-scroll/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/terryma/vim-smooth-scroll/git/blobs/e58025fa8f6c12821408d28dce7917d47f550785",
+    "html": "https://github.com/terryma/vim-smooth-scroll/blob/master/README.md"
+  }
+}

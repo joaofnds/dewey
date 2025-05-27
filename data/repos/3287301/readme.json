@@ -1,0 +1,18 @@
+{
+  "name": "README.txt",
+  "path": "README.txt",
+  "sha": "ebbd50fc0b713aee3fe868bf6f8200962de3ca38",
+  "size": 664,
+  "url": "https://api.github.com/repos/llvm-mirror/llvm/contents/README.txt?ref=master",
+  "html_url": "https://github.com/llvm-mirror/llvm/blob/master/README.txt",
+  "git_url": "https://api.github.com/repos/llvm-mirror/llvm/git/blobs/ebbd50fc0b713aee3fe868bf6f8200962de3ca38",
+  "download_url": "https://raw.githubusercontent.com/llvm-mirror/llvm/master/README.txt",
+  "type": "file",
+  "content": "VGhlIExMVk0gQ29tcGlsZXIgSW5mcmFzdHJ1Y3R1cmUKPT09PT09PT09PT09\nPT09PT09PT09PT09PT09PT09PT0KClRoaXMgZGlyZWN0b3J5IGFuZCBpdHMg\nc3ViZGlyZWN0b3JpZXMgY29udGFpbiBzb3VyY2UgY29kZSBmb3IgTExWTSwK\nYSB0b29sa2l0IGZvciB0aGUgY29uc3RydWN0aW9uIG9mIGhpZ2hseSBvcHRp\nbWl6ZWQgY29tcGlsZXJzLApvcHRpbWl6ZXJzLCBhbmQgcnVudGltZSBlbnZp\ncm9ubWVudHMuCgpMTFZNIGlzIG9wZW4gc291cmNlIHNvZnR3YXJlLiBZb3Ug\nbWF5IGZyZWVseSBkaXN0cmlidXRlIGl0IHVuZGVyIHRoZSB0ZXJtcyBvZgp0\naGUgbGljZW5zZSBhZ3JlZW1lbnQgZm91bmQgaW4gTElDRU5TRS50eHQuCgpQ\nbGVhc2Ugc2VlIHRoZSBkb2N1bWVudGF0aW9uIHByb3ZpZGVkIGluIGRvY3Mv\nIGZvciBmdXJ0aGVyCmFzc2lzdGFuY2Ugd2l0aCBMTFZNLCBhbmQgaW4gcGFy\ndGljdWxhciBkb2NzL0dldHRpbmdTdGFydGVkLnJzdCBmb3IgZ2V0dGluZwpz\ndGFydGVkIHdpdGggTExWTSBhbmQgZG9jcy9SRUFETUUudHh0IGZvciBhbiBv\ndmVydmlldyBvZiBMTFZNJ3MKZG9jdW1lbnRhdGlvbiBzZXR1cC4KCklmIHlv\ndSBhcmUgd3JpdGluZyBhIHBhY2thZ2UgZm9yIExMVk0sIHNlZSBkb2NzL1Bh\nY2thZ2luZy5yc3QgZm9yIG91cgpzdWdnZXN0aW9ucy4KCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/llvm-mirror/llvm/contents/README.txt?ref=master",
+    "git": "https://api.github.com/repos/llvm-mirror/llvm/git/blobs/ebbd50fc0b713aee3fe868bf6f8200962de3ca38",
+    "html": "https://github.com/llvm-mirror/llvm/blob/master/README.txt"
+  }
+}

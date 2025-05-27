@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "076850697f27abb6a5d01c4edbd90576fc04ff6e",
+  "size": 715,
+  "url": "https://api.github.com/repos/osyo-manga/vim-anzu/contents/README.md?ref=master",
+  "html_url": "https://github.com/osyo-manga/vim-anzu/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/osyo-manga/vim-anzu/git/blobs/076850697f27abb6a5d01c4edbd90576fc04ff6e",
+  "download_url": "https://raw.githubusercontent.com/osyo-manga/vim-anzu/master/README.md",
+  "type": "file",
+  "content": "IyMgdmltLWFuenUKCuePvuWcqOOBruaknOe0ouS9jee9ruOCkueUu+mdouOB\nq+ihqOekuuOBmeOCi+OBn+OCgeOBruODl+ODqeOCsOOCpOODs+OBp+OBmeOA\nggoKIVt0ZXN0XShodHRwczovL2YuY2xvdWQuZ2l0aHViLmNvbS9hc3NldHMv\nMjE0NDg4Lzk5OTYwNy82NzM0NjMyNC0wYTM0LTExZTMtODI2NC0xNThjODg2\nNWQ2NjkuZ2lmKQohW2FuenUzXShodHRwczovL2YuY2xvdWQuZ2l0aHViLmNv\nbS9hc3NldHMvMjE0NDg4LzE1MDY1MTQvMjVkYzE0N2MtNDkzMC0xMWUzLTk3\nODAtYTgxYzhhZTdlMDg3LmdpZikKCgojIyMjIEV4YW1wbGUKCmBgYHZpbQoi\nIG1hcHBpbmcKbm1hcCBuIDxQbHVnPihhbnp1LW4td2l0aC1lY2hvKQpubWFw\nIE4gPFBsdWc+KGFuenUtTi13aXRoLWVjaG8pCm5tYXAgKiA8UGx1Zz4oYW56\ndS1zdGFyLXdpdGgtZWNobykKbm1hcCAjIDxQbHVnPihhbnp1LXNoYXJwLXdp\ndGgtZWNobykKCiIgY2xlYXIgc3RhdHVzCm5tYXAgPEVzYz48RXNjPiA8UGx1\nZz4oYW56dS1jbGVhci1zZWFyY2gtc3RhdHVzKQoKCiIgc3RhdHVzbGluZQpz\nZXQgc3RhdHVzbGluZT0le2FuenUjc2VhcmNoX3N0YXR1cygpfQoKCiIgaWYg\nc3RhcnQgYW56dS1tb2RlIGtleSBtYXBwaW5nCiIgYW56dS1tb2RlIGlzIGFu\nenUoMTIvNTEpIGluIHNjcmVlbgoiIG5tYXAgbiA8UGx1Zz4oYW56dS1tb2Rl\nLW4pCiIgbm1hcCBOIDxQbHVnPihhbnp1LW1vZGUtTikKYGBgCgoKCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/osyo-manga/vim-anzu/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/osyo-manga/vim-anzu/git/blobs/076850697f27abb6a5d01c4edbd90576fc04ff6e",
+    "html": "https://github.com/osyo-manga/vim-anzu/blob/master/README.md"
+  }
+}

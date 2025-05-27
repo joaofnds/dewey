@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "2a1a821b22c5f81326e2646bea46a72d740cfbb1",
+  "size": 416,
+  "url": "https://api.github.com/repos/gigamonkey/whistle/contents/README?ref=master",
+  "html_url": "https://github.com/gigamonkey/whistle/blob/master/README",
+  "git_url": "https://api.github.com/repos/gigamonkey/whistle/git/blobs/2a1a821b22c5f81326e2646bea46a72d740cfbb1",
+  "download_url": "https://raw.githubusercontent.com/gigamonkey/whistle/master/README",
+  "type": "file",
+  "content": "V2hpc3RsZSBpcyBhIHdlYiBzZXJ2ZXIgYnVpbHQgb24gdG9wIG9mIFRvb3QK\nKGh0dHBzOi8vZ2l0aHViLmNvbS9naWdhbW9ua2V5L3Rvb3QpLgoKVG9vdCBw\ncm92aWRlcyB0aGUgbG93LWxldmVsIEhUVFAgcGx1bWJpbmcgYW5kIGhhbmRz\nIG9mZiBlYWNoIHJlcXVlc3QKdG8gYSBoYW5kbGVyLiBXaGlzdGxlIGlzIG9u\nZSBzdWNoIGhhbmRsZXIgdGhhdCBjYW4gYmUgY29uZmlndXJlZCB2aWEKY29u\nZmlnIGZpbGVzIChub3QgY29kZSkgdG8gYXV0b21hdGljYWxseSByZWRpcmVj\ndCBjZXJ0YWluIHVybHMKZWxzZXdoZXJlOyB0byByZXF1aXJlIGJhc2ljLWF1\ndGhlbnRpY2F0aW9uIGZvciBjZXJ0YWluIHVybHM7IGFuZCB0bwpoYW5kbGUg\ndXJscyBtYXRjaGluZyBzcGVjaWZpYyBwYXR0ZXJucyB3aXRoIHNwZWNpZmlj\nIGZ1bmN0aW9ucy4=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gigamonkey/whistle/contents/README?ref=master",
+    "git": "https://api.github.com/repos/gigamonkey/whistle/git/blobs/2a1a821b22c5f81326e2646bea46a72d740cfbb1",
+    "html": "https://github.com/gigamonkey/whistle/blob/master/README"
+  }
+}

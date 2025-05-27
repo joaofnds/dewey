@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f401b38053399b56cce464cf193c6c736c0e36d0",
+  "size": 1169,
+  "url": "https://api.github.com/repos/onsails/diaglist.nvim/contents/README.md?ref=master",
+  "html_url": "https://github.com/onsails/diaglist.nvim/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/onsails/diaglist.nvim/git/blobs/f401b38053399b56cce464cf193c6c736c0e36d0",
+  "download_url": "https://raw.githubusercontent.com/onsails/diaglist.nvim/master/README.md",
+  "type": "file",
+  "content": "IyBMaXZlLXVwZGF0aW5nIE5lb3ZpbSBMU1AgZGlhZ25vc3RpY3MgaW4gcXVp\nY2tmaXggYW5kIGxvY2xpc3QKCiFbZGVtb10oaHR0cHM6Ly9naXRodWIuY29t\nL29uc2FpbHMvZGlhZ2xpc3QubnZpbS9yYXcvZ2lmL2RlbW8uZ2lmKQoKIyMg\nRmVhdHVyZXMKCi0gW3hdIHdvcmtzcGFjZSBkaWFnbm9zdGljcyBvZiBhbGwg\nYnVmZmVycyBpbiBxdWlja2ZpeAogICAgLSBbeF0gcHJpb3JpdGl6ZSBjdXJy\nZW50IGJ1ZiBkaWFnbm9zdGljcwogICAgLSBbeF0gbGl2ZSBkaWFnbm9zdGlj\ncyB1cGRhdGUKICAgIC0gW3hdIG5vIGNvbmZsaWN0cyB3aXRoIG90aGVyIGNv\nbW1hbmRzIHVzaW5nIHF1aWNrZml4CiAgICAtIFt4XSBvcHRpb25hbGx5IHNo\nb3cgb25seSBjdXJyZW50IGJ1ZmZlcidzIGNsaWVudHMgZGlhZ25vc3RpY3MK\nICAgIC0gW3hdIGRlYm91bmNlCi0gW3hdIGN1cnJlbnQgYnVmZmVyIGRpYWdu\nb3N0aWNzIGluIGxvY2xpc3QKICAgIC0gW3hdIGxpdmUgZGlhZ25vc3RpY3Mg\ndXBkYXRlCiAgICAtIFsgXSBubyBjb25mbGljdHMgd2l0aCBvdGhlciBjb21t\nYW5kcyB1c2luZyBsb2NsaXN0CiAgICAtIFsgXSBkZWJvdW5jZQoKIyMgU2V0\ndXAKCmBgYGx1YQpsdWEgcmVxdWlyZSgiZGlhZ2xpc3QiKS5pbml0KHsKICAg\nIC0tIG9wdGlvbmFsIHNldHRpbmdzCiAgICAtLSBiZWxvdyBhcmUgZGVmYXVs\ndHMKICAgIGRlYnVnID0gZmFsc2UsIAoKICAgIC0tIGluY3JlYXNlIGZvciBu\nb2lzeSBzZXJ2ZXJzCiAgICBkZWJvdW5jZV9tcyA9IDE1MCwKfSkKYGBgCgpJ\nbml0IHNldHMgZGlhZyB1cGRhdGUgb24gYExzcERpYWdub3N0aWNzQ2hhbmdl\nZGAsIGBXaW5FbnRlcmAsIGBCdWZFbnRlcmAgZm9yIGxpdmUgZGlhZ25vc3Rp\nY3MgdXBkYXRlCmFuZCBgUXVpY2tGaXhDbWRQcmVgIHRvIGF2b2lkIGNvbmZs\naWN0cyB3aXRoIG90aGVyIGNvbW1hbmRzIHVzaW5nIHF1aWNrZml4LgoKIyMg\nTWFwcGluZ3MKClRoZXJlIGFyZSBubyBkZWZhdWx0IG1hcHBpbmdzLiBIZXJl\nIGlzIGFuIGV4YW1wbGU6CgpgYGB2aW1zY3JpcHQKbm1hcCA8c3BhY2U+ZHcg\nPGNtZD5sdWEgcmVxdWlyZSgnZGlhZ2xpc3QnKS5vcGVuX2FsbF9kaWFnbm9z\ndGljcygpPGNyPgpubWFwIDxzcGFjZT5kMCA8Y21kPmx1YSByZXF1aXJlKCdk\naWFnbGlzdCcpLm9wZW5fYnVmZmVyX2RpYWdub3N0aWNzKCk8Y3I+CmBgYAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/onsails/diaglist.nvim/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/onsails/diaglist.nvim/git/blobs/f401b38053399b56cce464cf193c6c736c0e36d0",
+    "html": "https://github.com/onsails/diaglist.nvim/blob/master/README.md"
+  }
+}

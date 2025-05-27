@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "e2f4cfd1bdb70a7d5ad6621e683ab4dfa03fb99a",
+  "size": 744,
+  "url": "https://api.github.com/repos/dhanar10/vaultwarden-fly/contents/README.md?ref=main",
+  "html_url": "https://github.com/dhanar10/vaultwarden-fly/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/dhanar10/vaultwarden-fly/git/blobs/e2f4cfd1bdb70a7d5ad6621e683ab4dfa03fb99a",
+  "download_url": "https://raw.githubusercontent.com/dhanar10/vaultwarden-fly/main/README.md",
+  "type": "file",
+  "content": "CiMgdmF1bHR3YXJkZW4tZmx5CgpEZXBsb3kgYSBWYXVsdHdhcmRlbiBwcml2\nYXRlIGluc3RhbmNlIHRvIEZseSBlYXNpbHkKCiMjIFJlcXVpcmVtZW50cwoK\nMS4gRmx5IGFjY291bnQgKFRyaWFsIFBsYW4gaXMgb2theSkKMi4gZmx5Y3Rs\nCjMuIGRvY2tlcgoKIyMgRGVwbG95bWVudAoKMS4gQ2xvbmUgdGhpcyByZXBv\nc2l0b3J5CjIuIFJ1biB0aGUgZm9sbG93aW5nCglgYGAgYmFzaAoJJCBiYXNo\nIGRlcGxveS5zaCBteXZhdWx0d2FyZGVuIHwgdGVlIGRlcGxveS5sb2cgICAj\nIFVzZSBteXZhdWx0d2FyZGVuIGFzIGFwcCBuYW1lCglgYGAKMy4gS2VlcCBg\nZGVwbG95LmxvZ2AgaW4gYSBzYWZlIHBsYWNlIHNpbmNlIGl0IGNvbnRhaW5z\nIGNyZWRlbnRpYWxzIHdoaWNoIHdpbGwgbm90IGJlIHNob3duIGFnYWluCjQu\nIEFkZCB1c2VycyBieSBjcmVhdGluZyBlbWFpbCBpbnZpdGF0aW9ucyBpbiBh\nZG1pbiBpbnRlcmZhY2UgKG5vIGVtYWlscyB3aWxsIGFjdHVhbGx5IGJlIHNl\nbnQgaGVyZSkKNS4gQ3JlYXRlIHVzZXIgYWNjb3VudHMgaW4gbG9naW4gaW50\nZXJmYWNlIHdpdGggbWF0Y2hpbmcgZW1haWwgaW52aXRhdGlvbnMKCiMjIENy\nZWRpdHMKCiogaHR0cHM6Ly9naXRodWIuY29tL2RhbmktZ2FyY2lhL3ZhdWx0\nd2FyZGVuCiogaHR0cHM6Ly9naXRodWIuY29tL2RhdmlkamFtZXNob3dlbGwv\ndmF1bHR3YXJkZW5faGVyb2t1CiogaHR0cHM6Ly9naXRodWIuY29tL3N0ZDJt\nYWluL2JpdHdhcmRlbnJzX2hlcm9rdQoK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/dhanar10/vaultwarden-fly/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/dhanar10/vaultwarden-fly/git/blobs/e2f4cfd1bdb70a7d5ad6621e683ab4dfa03fb99a",
+    "html": "https://github.com/dhanar10/vaultwarden-fly/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0f56dc0b066acae57fad8f33b90d023d8df55949",
+  "size": 938,
+  "url": "https://api.github.com/repos/SebLague/Digital-Logic-Sim/contents/README.md?ref=main",
+  "html_url": "https://github.com/SebLague/Digital-Logic-Sim/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/SebLague/Digital-Logic-Sim/git/blobs/0f56dc0b066acae57fad8f33b90d023d8df55949",
+  "download_url": "https://raw.githubusercontent.com/SebLague/Digital-Logic-Sim/main/README.md",
+  "type": "file",
+  "content": "IyBEaWdpdGFsLUxvZ2ljLVNpbQpBIG1pbmltYWxpc3RpYyBkaWdpdGFsIGxv\nZ2ljIHNpbXVsYXRvciwgd2hpY2ggSSBjcmVhdGVkIGFzIHBhcnQgb2YgbXkg\ndmlkZW8gc2VyaWVzOiBbRXhwbG9yaW5nIEhvdyBDb21wdXRlcnMgV29ya10o\naHR0cHM6Ly93d3cueW91dHViZS5jb20vcGxheWxpc3Q/bGlzdD1QTEZ0X0F2\nV3NYbDBkUGhxVnNLdDFOaV80NkFSeWlDR1NxKS4KPGJyPllvdSBjYW4gZmlu\nZCB0aGUgbGF0ZXN0IGJ1aWxkcyBvdmVyIFtoZXJlXShodHRwczovL3NlYmFz\ndGlhbi5pdGNoLmlvL2RpZ2l0YWwtbG9naWMtc2ltKS48YnI+CgpOb3RlOiBQ\ndWxsIHJlcXVlc3RzIGFyZSB3ZWxjb21lLCBidXQgcGxlYXNlIGJlIGF3YXJl\nIHRoYXQgSSdtIGZhciBtb3JlIGxpa2VseSB0byBtZXJnZSBwZXJmb3JtYW5j\nZS91eCBpbXByb3ZlbWVudHMgYW5kIGJ1ZyBmaXhlcyB0aGFuIG5ldyBidWls\ndC1pbiBjaGlwcyBvciBmZWF0dXJlcy4gSSBkbyBob3BlIHRvIHByb3ZpZGUg\nc29tZSBmb3JtIG9mIG1vZCBzdXBwb3J0IGluIHRoZSBmdXR1cmUsIGJ1dCBk\nb24ndCBoYXZlIGFueSBjb25jcmV0ZSBwbGFucyBmb3IgaXQgcmlnaHQgbm93\nLiBJZiB5b3UnZCBsaWtlIHRvIGFzayBvciBkaXNjdXNzIGFueXRoaW5nIHJl\nbGF0aW5nIHRvIGRldmVsb3BtZW50IHdpdGggbWUvb3RoZXJzLCBjaGVjayBv\ndXQgW0Rpc2N1c3Npb25zL0Rldl0oaHR0cHM6Ly9naXRodWIuY29tL1NlYkxh\nZ3VlL0RpZ2l0YWwtTG9naWMtU2ltL2Rpc2N1c3Npb25zL2NhdGVnb3JpZXMv\nZGV2KS4KClshW0lNQUdFIEFMVCBURVhUIEhFUkVdKGh0dHBzOi8vcmF3Lmdp\ndGh1YnVzZXJjb250ZW50LmNvbS9TZWJMYWd1ZS9JbWFnZXMvbWFzdGVyL0V4\ncGxvcmluZyUyMGhvdyUyMGNvbXB1dGVycyUyMHdvcmsuanBnKV0oaHR0cDov\nL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVFad25lUmItenFBKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/SebLague/Digital-Logic-Sim/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/SebLague/Digital-Logic-Sim/git/blobs/0f56dc0b066acae57fad8f33b90d023d8df55949",
+    "html": "https://github.com/SebLague/Digital-Logic-Sim/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "83cf1930a9eb17b3dded601a1810ce696402e007",
+  "size": 888,
+  "url": "https://api.github.com/repos/tensorflow/playground/contents/README.md?ref=master",
+  "html_url": "https://github.com/tensorflow/playground/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/tensorflow/playground/git/blobs/83cf1930a9eb17b3dded601a1810ce696402e007",
+  "download_url": "https://raw.githubusercontent.com/tensorflow/playground/master/README.md",
+  "type": "file",
+  "content": "IyBEZWVwIHBsYXlncm91bmQKCkRlZXAgcGxheWdyb3VuZCBpcyBhbiBpbnRl\ncmFjdGl2ZSB2aXN1YWxpemF0aW9uIG9mIG5ldXJhbCBuZXR3b3Jrcywgd3Jp\ndHRlbiBpbgpUeXBlU2NyaXB0IHVzaW5nIGQzLmpzLiBXZSB1c2UgR2l0SHVi\nIGlzc3VlcyBmb3IgdHJhY2tpbmcgbmV3IHJlcXVlc3RzIGFuZCBidWdzLgpZ\nb3VyIGZlZWRiYWNrIGlzIGhpZ2hseSBhcHByZWNpYXRlZCEKCioqSWYgeW91\nJ2QgbGlrZSB0byBjb250cmlidXRlLCBiZSBzdXJlIHRvIHJldmlldyB0aGUg\nW2NvbnRyaWJ1dGlvbiBndWlkZWxpbmVzXShDT05UUklCVVRJTkcubWQpLioq\nCgojIyBEZXZlbG9wbWVudAoKVG8gcnVuIHRoZSB2aXN1YWxpemF0aW9uIGxv\nY2FsbHksIHJ1bjoKLSBgbnBtIGlgIHRvIGluc3RhbGwgZGVwZW5kZW5jaWVz\nCi0gYG5wbSBydW4gYnVpbGRgIHRvIGNvbXBpbGUgdGhlIGFwcCBhbmQgcGxh\nY2UgaXQgaW4gdGhlIGBkaXN0L2AgZGlyZWN0b3J5Ci0gYG5wbSBydW4gc2Vy\ndmVgIHRvIHNlcnZlIGZyb20gdGhlIGBkaXN0L2AgZGlyZWN0b3J5IGFuZCBv\ncGVuIGEgcGFnZSBvbiB5b3VyIGJyb3dzZXIuCgpGb3IgYSBmYXN0IGVkaXQt\ncmVmcmVzaCBjeWNsZSB3aGVuIGRldmVsb3BpbmcgcnVuIGBucG0gcnVuIHNl\ncnZlLXdhdGNoYC4KVGhpcyB3aWxsIHN0YXJ0IGFuIGh0dHAgc2VydmVyIGFu\nZCBhdXRvbWF0aWNhbGx5IHJlLWNvbXBpbGUgdGhlIFR5cGVTY3JpcHQsCkhU\nTUwgYW5kIENTUyBmaWxlcyB3aGVuZXZlciB0aGV5IGNoYW5nZS4KCiMjIEZv\nciBvd25lcnMKVG8gcHVzaCB0byBwcm9kdWN0aW9uOiBgZ2l0IHN1YnRyZWUg\ncHVzaCAtLXByZWZpeCBkaXN0IG9yaWdpbiBnaC1wYWdlc2AuCgpUaGlzIGlz\nIG5vdCBhbiBvZmZpY2lhbCBHb29nbGUgcHJvZHVjdC4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tensorflow/playground/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/tensorflow/playground/git/blobs/83cf1930a9eb17b3dded601a1810ce696402e007",
+    "html": "https://github.com/tensorflow/playground/blob/master/README.md"
+  }
+}

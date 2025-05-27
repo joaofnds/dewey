@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b927b96f68ba8b1d80a08a5d44f6daa6064d2d9d",
+  "size": 617,
+  "url": "https://api.github.com/repos/Clozure/ccl/contents/README.md?ref=master",
+  "html_url": "https://github.com/Clozure/ccl/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/Clozure/ccl/git/blobs/b927b96f68ba8b1d80a08a5d44f6daa6064d2d9d",
+  "download_url": "https://raw.githubusercontent.com/Clozure/ccl/master/README.md",
+  "type": "file",
+  "content": "IyBDbG96dXJlIENMCgpUaGlzIGlzIHRoZSBzb3VyY2UgY29kZSBmb3IgQ2xv\nenVyZSBDTC4KCkJlY2F1c2UgQ0NMIGlzIHdyaXR0ZW4gaW4gaXRzZWxmLCB5\nb3UgbmVlZCBhbiBhbHJlYWR5LXdvcmtpbmcgdmVyc2lvbgpvZiBDQ0wgdG8g\nY29tcGlsZSBpdC4KClNlZSBodHRwczovL2dpdGh1Yi5jb20vQ2xvenVyZS9j\nY2wvcmVsZWFzZXMvbGF0ZXN0IGZvciBpbnN0cnVjdGlvbnMKb24gaG93IHRv\nIGdldCBhIGNvcHkgb2YgQ0NMIGZvciB5b3VyIHN5c3RlbS4KClRvIHJlcG9y\ndCBhIGJ1ZyBvciByZXF1ZXN0IGFuIGVuaGFuY2VtZW50LCBwbGVhc2UgbWFr\nZSBhbiBpc3N1ZSBhdApodHRwczovL2dpdGh1Yi5jb20vQ2xvenVyZS9jY2wv\naXNzdWVzLgoKSWYgeW91IGhhdmUgcXVlc3Rpb25zIG9yIHJ1biBpbnRvIHBy\nb2JsZW1zLCBzZW5kIG1haWwgdG8KY2NsLWRldmVsQGNsb3p1cmUuY29tIChz\nZWUgaHR0cHM6Ly9saXN0cy5jbG96dXJlLmNvbSBmb3IgaW5zdHJ1Y3Rpb25z\nCm9uIGhvdyB0byBzdWJzY3JpYmUpLCBhc2sgb24gI2NjbCBvbiBsaWJlcmEu\nY2hhdCwgb3IgY3JlYXRlIGFuCmlzc3VlIGhlcmUsIGVzcGVjaWFsbHkgaWYg\neW91IHRoaW5rIHlvdSBoYXZlIGZvdW5kIGEgYnVnLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Clozure/ccl/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/Clozure/ccl/git/blobs/b927b96f68ba8b1d80a08a5d44f6daa6064d2d9d",
+    "html": "https://github.com/Clozure/ccl/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "4611b1d1701a61df75abd0e1fae5065da7d0d40f",
+  "size": 1545,
+  "url": "https://api.github.com/repos/cenkalti/backoff/contents/README.md?ref=v5",
+  "html_url": "https://github.com/cenkalti/backoff/blob/v5/README.md",
+  "git_url": "https://api.github.com/repos/cenkalti/backoff/git/blobs/4611b1d1701a61df75abd0e1fae5065da7d0d40f",
+  "download_url": "https://raw.githubusercontent.com/cenkalti/backoff/v5/README.md",
+  "type": "file",
+  "content": "IyBFeHBvbmVudGlhbCBCYWNrb2ZmIFshW0dvRG9jXVtnb2RvYyBpbWFnZV1d\nW2dvZG9jXQoKVGhpcyBpcyBhIEdvIHBvcnQgb2YgdGhlIGV4cG9uZW50aWFs\nIGJhY2tvZmYgYWxnb3JpdGhtIGZyb20gW0dvb2dsZSdzIEhUVFAgQ2xpZW50\nIExpYnJhcnkgZm9yIEphdmFdW2dvb2dsZS1odHRwLWphdmEtY2xpZW50XS4K\nCltFeHBvbmVudGlhbCBiYWNrb2ZmXVtleHBvbmVudGlhbCBiYWNrb2ZmIHdp\na2ldCmlzIGFuIGFsZ29yaXRobSB0aGF0IHVzZXMgZmVlZGJhY2sgdG8gbXVs\ndGlwbGljYXRpdmVseSBkZWNyZWFzZSB0aGUgcmF0ZSBvZiBzb21lIHByb2Nl\nc3MsCmluIG9yZGVyIHRvIGdyYWR1YWxseSBmaW5kIGFuIGFjY2VwdGFibGUg\ncmF0ZS4KVGhlIHJldHJpZXMgZXhwb25lbnRpYWxseSBpbmNyZWFzZSBhbmQg\nc3RvcCBpbmNyZWFzaW5nIHdoZW4gYSBjZXJ0YWluIHRocmVzaG9sZCBpcyBt\nZXQuCgojIyBVc2FnZQoKSW1wb3J0IHBhdGggaXMgYGdpdGh1Yi5jb20vY2Vu\na2FsdGkvYmFja29mZi92NWAuIFBsZWFzZSBub3RlIHRoZSB2ZXJzaW9uIHBh\ncnQgYXQgdGhlIGVuZC4KCkZvciBtb3N0IGNhc2VzLCB1c2UgYFJldHJ5YCBm\ndW5jdGlvbi4gU2VlIFtleGFtcGxlX3Rlc3QuZ29dW2V4YW1wbGVdIGZvciBh\nbiBleGFtcGxlLgoKSWYgeW91IGhhdmUgc3BlY2lmaWMgbmVlZHMsIGNvcHkg\nYFJldHJ5YCBmdW5jdGlvbiAoZnJvbSBbcmV0cnkuZ29dW3JldHJ5LXNyY10p\nIGludG8geW91ciBjb2RlIGFuZCBtb2RpZnkgaXQgYXMgbmVlZGVkLgoKIyMg\nQ29udHJpYnV0aW5nCgoqIEkgd291bGQgbGlrZSB0byBrZWVwIHRoaXMgbGli\ncmFyeSBhcyBzbWFsbCBhcyBwb3NzaWJsZS4KKiBQbGVhc2UgZG9uJ3Qgc2Vu\nZCBhIFBSIHdpdGhvdXQgb3BlbmluZyBhbiBpc3N1ZSBhbmQgZGlzY3Vzc2lu\nZyBpdCBmaXJzdC4KKiBJZiBwcm9wb3NlZCBjaGFuZ2UgaXMgbm90IGEgY29t\nbW9uIHVzZSBjYXNlLCBJIHdpbGwgcHJvYmFibHkgbm90IGFjY2VwdCBpdC4K\nCltnb2RvY106IGh0dHBzOi8vcGtnLmdvLmRldi9naXRodWIuY29tL2Nlbmth\nbHRpL2JhY2tvZmYvdjUKW2dvZG9jIGltYWdlXTogaHR0cHM6Ly9nb2RvYy5v\ncmcvZ2l0aHViLmNvbS9jZW5rYWx0aS9iYWNrb2ZmP3N0YXR1cy5wbmcKCltn\nb29nbGUtaHR0cC1qYXZhLWNsaWVudF06IGh0dHBzOi8vZ2l0aHViLmNvbS9n\nb29nbGUvZ29vZ2xlLWh0dHAtamF2YS1jbGllbnQvYmxvYi9kYTFhYTk5M2U5\nMDI4NWVjMTg1NzlmMTU1MzMzOWIwMGUxOWIzYWI1L2dvb2dsZS1odHRwLWNs\naWVudC9zcmMvbWFpbi9qYXZhL2NvbS9nb29nbGUvYXBpL2NsaWVudC91dGls\nL0V4cG9uZW50aWFsQmFja09mZi5qYXZhCltleHBvbmVudGlhbCBiYWNrb2Zm\nIHdpa2ldOiBodHRwOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0V4cG9uZW50\naWFsX2JhY2tvZmYKCltyZXRyeS1zcmNdOiBodHRwczovL2dpdGh1Yi5jb20v\nY2Vua2FsdGkvYmFja29mZi9ibG9iL3Y1L3JldHJ5LmdvCltleGFtcGxlXTog\naHR0cHM6Ly9naXRodWIuY29tL2NlbmthbHRpL2JhY2tvZmYvYmxvYi92NS9l\neGFtcGxlX3Rlc3QuZ28K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/cenkalti/backoff/contents/README.md?ref=v5",
+    "git": "https://api.github.com/repos/cenkalti/backoff/git/blobs/4611b1d1701a61df75abd0e1fae5065da7d0d40f",
+    "html": "https://github.com/cenkalti/backoff/blob/v5/README.md"
+  }
+}

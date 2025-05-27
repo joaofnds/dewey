@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a276016e8040e65476f8424614828766eb8ac37c",
+  "size": 1348,
+  "url": "https://api.github.com/repos/babashka/scittle/contents/README.md?ref=main",
+  "html_url": "https://github.com/babashka/scittle/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/babashka/scittle/git/blobs/a276016e8040e65476f8424614828766eb8ac37c",
+  "download_url": "https://raw.githubusercontent.com/babashka/scittle/main/README.md",
+  "type": "file",
+  "content": "IyBTY2l0dGxlCgpUaGUgW1NtYWxsIENsb2p1cmUgSW50ZXJwcmV0ZXJdKGh0\ndHBzOi8vZ2l0aHViLmNvbS9iYWJhc2hrYS9zY2kpIGV4cG9zZWQgZm9yIHVz\nYWdlIGluIHNjcmlwdCB0YWdzLgoKVHJ5IGl0IG91dCBvbiBbQ29kZVBlbl0o\naHR0cHM6Ly9jb2RlcGVuLmlvL1ByZXN0YW5jZS9wZW4vUG9PZFpRdykhCgpT\nZWUgW0dpdGh1YiBwYWdlc10oaHR0cHM6Ly9iYWJhc2hrYS5vcmcvc2NpdHRs\nZS8pIGZvciB1c2FnZS4KClNlZQpbYmFiYXNoa2Etc2NpdHRsZS1ndWVzdGJv\nb2tdKGh0dHBzOi8vZ2l0aHViLmNvbS9rbG9pbWhhcmR0L2JhYmFzaGthLXNj\naXR0bGUtZ3Vlc3Rib29rKQpmb3IgYSBtaW5pbWFsIGZ1bGwgc3RhY2sgd2Vi\nIGFwcGxpY2F0aW9uLgoKU2VlIFtyZWxlYXNlc10oaHR0cHM6Ly9naXRodWIu\nY29tL2JhYmFzaGthL3NjaXR0bGUvcmVsZWFzZXMpIGZvciBsaW5rcyB0bwpb\nSlNEZWxpdnJdKGh0dHBzOi8vd3d3LmpzZGVsaXZyLmNvbSkgdG8gZ2V0IHZl\ncnNpb25lZCBhcnRpZmFjdHMuCgojIyBTZXJ2aW5nIGFzc2V0cwoKVG8gc2Vy\ndmUgYXNzZXRzIHlvdSBjYW4gdXNlIHRoZQpbYmFiYXNoa2EuaHR0cC1zZXJ2\nZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9iYWJhc2hrYS9odHRwLXNlcnZlcikg\nZGVwZW5kZW5jeSAod2l0aApiYWJhc2hrYSBvciBDbG9qdXJlIEpWTSk6Cgpg\nYGAgY2xvanVyZQoocmVxdWlyZSAnW2JhYmFzaGthLmh0dHAtc2VydmVyIDph\ncyBodHRwXSkKKGh0dHAvc2VydmUgezpwb3J0IDEzNDEgOmRpciAicmVzb3Vy\nY2VzL3B1YmxpYyJ9KQpAKHByb21pc2UpIDs7IHdhaXQgdW50aWwgcHJvY2Vz\ncyBpcyBraWxsZWQKYGBgCgojIyMgblJFUEwKClNlZSBbZG9jL25yZXBsXShk\nb2MvbnJlcGwpLgoKIyMgVGFza3MKClJ1biBgYmIgdGFza3NgIHRvIHNlZSBh\nbGwgYXZhaWxhYmxlIHRhc2tzOgoKYGBgCiQgYmIgdGFza3MKVGhlIGZvbGxv\nd2luZyB0YXNrcyBhcmUgYXZhaWxhYmxlOgoKY2xlYW4gICBTdGFydCBmcm9t\nIGNsZWFuIHNsYXRlLgpkZXYgICAgIERldmVsb3BtZW50IGJ1aWxkLiBTdGFy\ndHMgd2Vic2VydmVyIGFuZCB3YXRjaGVzIGZvciBjaGFuZ2VzLgpwcm9kICAg\nIEJ1aWxkcyBwcm9kdWN0aW9uIGFydGlmYWN0cy4KcmVsZWFzZSBVcGRhdGVz\nIEdpdGh1YiBwYWdlcyB3aXRoIG5ldyByZWxlYXNlIGJ1aWxkLgpgYGAKCiMj\nIENyZWRpdHMKCklkZWEgYnkgQXJuZSBCcmFzc2V1ciBhLmsuYSBbcGxleHVz\nXShodHRwczovL2dpdGh1Yi5jb20vcGxleHVzKS4KCiMjIExpY2Vuc2UKCkNv\ncHlyaWdodCDCqSAyMDIxIC0gMjAyMiBNaWNoaWVsIEJvcmtlbnQKCkRpc3Ry\naWJ1dGVkIHVuZGVyIHRoZSBFUEwgTGljZW5zZS4gU2VlIExJQ0VOU0UuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/babashka/scittle/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/babashka/scittle/git/blobs/a276016e8040e65476f8424614828766eb8ac37c",
+    "html": "https://github.com/babashka/scittle/blob/main/README.md"
+  }
+}

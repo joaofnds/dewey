@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "24f1d78a39d0a1bd2356d6464007fd4657baa572",
+  "size": 70,
+  "url": "https://api.github.com/repos/askmeegs/next19-istio-traffic-demos/contents/README.md?ref=master",
+  "html_url": "https://github.com/askmeegs/next19-istio-traffic-demos/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/askmeegs/next19-istio-traffic-demos/git/blobs/24f1d78a39d0a1bd2356d6464007fd4657baa572",
+  "download_url": "https://raw.githubusercontent.com/askmeegs/next19-istio-traffic-demos/master/README.md",
+  "type": "file",
+  "content": "IyBuZXh0MTktaXN0aW8tdHJhZmZpYy1kZW1vcwp1cGRhdGVkIHJlcG8gZm9y\nIE5leHQgMTkgKEhZQjIwMSkgZGVtb3MuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/askmeegs/next19-istio-traffic-demos/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/askmeegs/next19-istio-traffic-demos/git/blobs/24f1d78a39d0a1bd2356d6464007fd4657baa572",
+    "html": "https://github.com/askmeegs/next19-istio-traffic-demos/blob/master/README.md"
+  }
+}

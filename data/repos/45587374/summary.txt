@@ -1,0 +1,1 @@
+`agave` is a typeface repository providing a monospace programming font. It is designed for use in programming environments, offering a visually distinct representation of code through its character design. Developed in Tcl, this project provides a font file, likely used for display in code editors and terminal emulators. The project type is a font and intended for developers.

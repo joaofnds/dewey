@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "ab1e283035e1a4e8b647abb79330cb02cac1d62a",
+  "size": 1563,
+  "url": "https://api.github.com/repos/graphql-go/relay/contents/README.md?ref=master",
+  "html_url": "https://github.com/graphql-go/relay/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/graphql-go/relay/git/blobs/ab1e283035e1a4e8b647abb79330cb02cac1d62a",
+  "download_url": "https://raw.githubusercontent.com/graphql-go/relay/master/README.md",
+  "type": "file",
+  "content": "IyBncmFwaHFsLXJlbGF5LWdvIFshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly90\ncmF2aXMtY2kub3JnL2dyYXBocWwtZ28vcmVsYXkuc3ZnKV0oaHR0cHM6Ly90\ncmF2aXMtY2kub3JnL2dyYXBocWwtZ28vcmVsYXkpIFshW0dvRG9jXShodHRw\nczovL2dvZG9jLm9yZy9ncmFwaHFsLWdvL3JlbGF5P3N0YXR1cy5zdmcpXSho\ndHRwczovL2dvZG9jLm9yZy9naXRodWIuY29tL2dyYXBocWwtZ28vcmVsYXkp\nIFshW0NvdmVyYWdlIFN0YXR1c10oaHR0cHM6Ly9jb3ZlcmFsbHMuaW8vcmVw\nb3MvZ3JhcGhxbC1nby9yZWxheS9iYWRnZS5zdmc/YnJhbmNoPW1hc3RlciZz\nZXJ2aWNlPWdpdGh1YildKGh0dHBzOi8vY292ZXJhbGxzLmlvL2dpdGh1Yi9n\ncmFwaHFsLWdvL3JlbGF5P2JyYW5jaD1tYXN0ZXIpIFshW0pvaW4gdGhlIGNo\nYXQgYXQgaHR0cHM6Ly9naXR0ZXIuaW0vZ3JhcGhxbC1nby9ncmFwaHFsXSho\ndHRwczovL2JhZGdlcy5naXR0ZXIuaW0vSm9pbiUyMENoYXQuc3ZnKV0oaHR0\ncHM6Ly9naXR0ZXIuaW0vZ3JhcGhxbC1nby9ncmFwaHFsP3V0bV9zb3VyY2U9\nYmFkZ2UmdXRtX21lZGl1bT1iYWRnZSZ1dG1fY2FtcGFpZ249cHItYmFkZ2Um\ndXRtX2NvbnRlbnQ9YmFkZ2UpCgpBIEdvL0dvbGFuZyBsaWJyYXJ5IHRvIGhl\nbHAgY29uc3RydWN0IGEgW2dyYXBocWwtZ29dKGh0dHBzOi8vZ2l0aHViLmNv\nbS9ncmFwaHFsLWdvL2dyYXBocWwpIHNlcnZlciBzdXBwb3J0aW5nIHJlYWN0\nLXJlbGF5LgoKU2VlIGEgbGl2ZSBkZW1vIGhlcmU6IGh0dHA6Ly9iaXQubHkv\ndHJ5LWdyYXBocWwtZ28KClNvdXJjZSBjb2RlIGZvciBkZW1vIGNhbiBiZSBm\nb3VuZCBhdCBodHRwczovL2dpdGh1Yi5jb20vZ3JhcGhxbC1nby9wbGF5Z3Jv\ndW5kCgojIyMgTm90ZXM6ClRoaXMgaXMgYmFzZWQgb24gYWxwaGEgdmVyc2lv\nbiBvZiBgZ3JhcGhxbC1nb2AgYW5kIGBncmFwaHFsLXJlbGF5LWdvYC4gCkJl\nIHN1cmUgdG8gd2F0Y2ggYm90aCByZXBvc2l0b3JpZXMgZm9yIGxhdGVzdCBj\naGFuZ2VzLgoKIyMjIFR1dG9yaWFsCltMZWFybiBHb2xhbmcgKyBHcmFwaFFM\nICsgUmVsYXkgUGFydCAyOiBZb3VyIGZpcnN0IFJlbGF5IGFwcGxpY2F0aW9u\nXSggaHR0cHM6Ly93ZWhhdmVmYWNlcy5uZXQvbGVhcm4tZ29sYW5nLWdyYXBo\ncWwtcmVsYXktMi1hNTZjYmNjM2UzNDEpCgojIyMgVGVzdApgYGBiYXNoCiQg\nZ28gZ2V0IGdpdGh1Yi5jb20vZ3JhcGhxbC1nby9yZWxheQokIGdvIGJ1aWxk\nICYmIGdvIHRlc3QgLi8uLi4KYGBgCgojIyMgVE9ETzoKLSBbeF0gU3Rhcndh\ncnMgZXhhbXBsZQotIFt4XSBIVFRQIGhhbmRsZXIgdG8gZWFzaWx5IGNyZWF0\nZSBhIFJlbGF5LWNvbXBsaWFudCBHcmFwaFFMIHNlcnZlciBfKE1vdmVkIHRv\nOiBbZ3JhcGhxbC1nby1oYW5kbGVyXShodHRwczovL2dpdGh1Yi5jb20vZ3Jh\ncGhxbC1nby9oYW5kbGVyKSlfCi0gWyBdIEluLWNvZGUgZG9jdW1lbnRhdGlv\nbiAoZ29kb2NzKQotIFsgXSBVc2FnZSBndWlkZSAvIHVzZXIgZG9jdW1lbnRh\ndGlvbgotIFt4XSBUdXRvcmlhbAotIFsgXSBFbmQtdG8tZW5kIGV4YW1wbGUg\nKGdyYXBocWwtcmVsYXktZ28gKyByZWFjdC1yZWxheSkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/graphql-go/relay/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/graphql-go/relay/git/blobs/ab1e283035e1a4e8b647abb79330cb02cac1d62a",
+    "html": "https://github.com/graphql-go/relay/blob/master/README.md"
+  }
+}

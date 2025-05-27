@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "09d3b946ef8050d560f7e0f98b1ab3577c260b10",
+  "size": 226,
+  "url": "https://api.github.com/repos/golang/tour/contents/README.md?ref=master",
+  "html_url": "https://github.com/golang/tour/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/golang/tour/git/blobs/09d3b946ef8050d560f7e0f98b1ab3577c260b10",
+  "download_url": "https://raw.githubusercontent.com/golang/tour/master/README.md",
+  "type": "file",
+  "content": "IyBHbyBUb3VyCgpUaGUgYWN0dWFsIHdlYiBwYWdlcyBmb3IK4oCcQSBUb3Vy\nIG9mIEdv4oCdIG1vdmVkIHRvIFtnb2xhbmcub3JnL3gvd2Vic2l0ZV0oaHR0\ncHM6Ly9nb2xhbmcub3JnL3gvd2Vic2l0ZSkuCgpUaGlzIHJlcG8gc3RpbGwg\naG9sZHMgdGhlIHN1cHBvcnRpbmcgcGFja2FnZXMgbGlrZQpbZ29sYW5nLm9y\nZy94L3RvdXIvcGljXShodHRwczovL2dvbGFuZy5vcmcveC90b3VyL3BpYyku\nCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/golang/tour/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/golang/tour/git/blobs/09d3b946ef8050d560f7e0f98b1ab3577c260b10",
+    "html": "https://github.com/golang/tour/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f0a3b5a004b1f7de2f02534054bef57461874a3f",
+  "size": 991,
+  "url": "https://api.github.com/repos/devbythebook/meetings/contents/README.md?ref=master",
+  "html_url": "https://github.com/devbythebook/meetings/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/devbythebook/meetings/git/blobs/f0a3b5a004b1f7de2f02534054bef57461874a3f",
+  "download_url": "https://raw.githubusercontent.com/devbythebook/meetings/master/README.md",
+  "type": "file",
+  "content": "IyBkZXZieXRoZWJvb2sKClshW0dpdHRlcl0oaHR0cHM6Ly9iYWRnZXMuZ2l0\ndGVyLmltL2RldmJ5dGhlYm9vay9jb21tdW5pdHkuc3ZnKV0oaHR0cHM6Ly9n\naXR0ZXIuaW0vZGV2Ynl0aGVib29rL2NvbW11bml0eT91dG1fc291cmNlPWJh\nZGdlJnV0bV9tZWRpdW09YmFkZ2UmdXRtX2NhbXBhaWduPXByLWJhZGdlKQoK\nQ29tdW5pZGFkZSBmb2NhZGEgbm9zIGNvbmhlY2ltZW50b3MgZXNzZW5jaWFp\ncyBwYXJhIHRvZG8gZGVzZW52b2x2ZWRvciwgaW5kZXBlbmRlbnRlIGRlIGxp\nbmd1YWdlbSBvdSBmcmFtZXdvcmsuIEEgaWRlaWEgaW5pY2lhbCDDqSBwYXNz\nYXIgbyBjb250ZcO6ZG8gZG9zIHByaW5jaXBhaXMgbGl2cm9zIGUgdMOpY25p\nY2FzIGRhIMOhcmVhIHBhcmEgcXVlIHZvY8OqIHBvc3NhIHNlIHRvcm5hciB1\nbSBkZXNlbnZvbHZlZG9yIG1lbGhvci4gVmFtb3MgYWJvcmRhciBsaXZyb3Mg\nY29tbzogQ2xlYW4gQ29kZSwgRG9tYWluIERyaXZlbiBEZXNpZ24sIERlc2ln\nbiBQYXR0ZXJucywgUmVmYWN0b3JpbmcsIFRoZSBQcmFnbWF0aWMgUHJvZ3Jh\nbW1lciwgZXRjLiBFIHTDqWNuaWNhcyBjb21vIFRlc3QgRHJpdmVuIERlc2ln\nbiwgQmVoYXZpb3IgRHJpdmVuIERlc2lnbiwgT2JqZWN0IE9yaWVudGVkIERl\nc2lnbiwgRnVuY3Rpb25hbCBQcm9ncmFtbWluZywgUmVhY3RpdmUgUHJvZ3Jh\nbW1pbmcsIGV0Yy4gVHVkbyBlbSBzZXUgdGVtcG8sIGNsYXJvIQpTZSB2b2PD\nqiBxdWVyIHNlIHRvcm5hciB1bSBkZXNlbnZvbHZlZG9yIG1lbGhvciBlIGFq\ndWRhciBvdXRyb3MgZGVzZW52b2x2ZWRvcmVzIGEgbWVsaG9yYXJlbSB0YW1i\nw6ltLCBlbnRyYSBhw60gZSBib3JhIGFwcmVuZGVyIQoKW0VudHJlIG5vIG5v\nc3NvIHNsYWNrXShodHRwczovL2pvaW4uc2xhY2suY29tL3QvZGV2Ynl0aGVi\nb29rL3NoYXJlZF9pbnZpdGUvenQtY2c1b2NzbXItZzNWMzc5bEpzMnlSV0Jx\naWVvbDhGZykgZSBhanVkZSBhIGNvbnN0cnVpciBlc3NhIGNvbXVuaWRhZGUh\nCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/devbythebook/meetings/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/devbythebook/meetings/git/blobs/f0a3b5a004b1f7de2f02534054bef57461874a3f",
+    "html": "https://github.com/devbythebook/meetings/blob/master/README.md"
+  }
+}

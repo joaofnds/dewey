@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b5965371c5a058cb1ad94b2f3af693d2432ad9a4",
+  "size": 807,
+  "url": "https://api.github.com/repos/athena-framework/athena/contents/README.md?ref=master",
+  "html_url": "https://github.com/athena-framework/athena/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/athena-framework/athena/git/blobs/b5965371c5a058cb1ad94b2f3af693d2432ad9a4",
+  "download_url": "https://raw.githubusercontent.com/athena-framework/athena/master/README.md",
+  "type": "file",
+  "content": "IyBBdGhlbmEKClshW0NJXShodHRwczovL2dpdGh1Yi5jb20vYXRoZW5hLWZy\nYW1ld29yay9hdGhlbmEvd29ya2Zsb3dzL0NJL2JhZGdlLnN2ZyldKGh0dHBz\nOi8vZ2l0aHViLmNvbS9hdGhlbmEtZnJhbWV3b3JrL2F0aGVuYS9hY3Rpb25z\nL3dvcmtmbG93cy9jaS55bWwpClshW0xhdGVzdCByZWxlYXNlXShodHRwczov\nL2ltZy5zaGllbGRzLmlvL2dpdGh1Yi9yZWxlYXNlL2F0aGVuYS1mcmFtZXdv\ncmsvZnJhbWV3b3JrLnN2ZyldKGh0dHBzOi8vZ2l0aHViLmNvbS9hdGhlbmEt\nZnJhbWV3b3JrL2ZyYW1ld29yay9yZWxlYXNlcykKCkEgbW9ub3JlcG8gcmVw\ncmVzZW50aW5nIHRoZSBlY29zeXN0ZW0gb2YgcmV1c2FibGUsIGluZGVwZW5k\nZW50IGNvbXBvbmVudHMgcHJvdmlkZWQgYnkgQXRoZW5hLgpTZWUgW0F0aGVu\nYSBGcmFtZXdvcmtdKGh0dHBzOi8vZ2l0aHViLmNvbS9hdGhlbmEtZnJhbWV3\nb3JrL2ZyYW1ld29yaykgZm9yIHRoZSB3ZWIgZnJhbWV3b3JrIGNyZWF0ZWQg\ndXNpbmcgdGhlc2UgY29tcG9uZW50cy4KCiMjIERvY3VtZW50YXRpb24KCkNo\nZWNrb3V0IHRoZSBbRXh0ZXJuYWwgRG9jc10oaHR0cHM6Ly9hdGhlbmFmcmFt\nZXdvcmsub3JnKS4KCiMjIENvbnRyaWJ1dGluZwoKUmVhZCB0aGUgZ2VuZXJh\nbCBbQ29udHJpYnV0aW5nIEd1aWRlXSguL0NPTlRSSUJVVElORy5tZCkgZm9y\nIGluZm9ybWF0aW9uIG9uIGhvdyB0byBnZXQgc3RhcnRlZC4KCiMjIENvbnRy\naWJ1dG9ycwoKLSBbR2VvcmdlIERpZXRyaWNoXShodHRwczovL2dpdGh1Yi5j\nb20vYmxhY2tzbW9rZTE2KSAtIGNyZWF0b3IgYW5kIG1haW50YWluZXIK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/athena-framework/athena/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/athena-framework/athena/git/blobs/b5965371c5a058cb1ad94b2f3af693d2432ad9a4",
+    "html": "https://github.com/athena-framework/athena/blob/master/README.md"
+  }
+}

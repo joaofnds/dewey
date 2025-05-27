@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "403c624360f00366eb57a907f52bd707f1c426e1",
+  "size": 1169,
+  "url": "https://api.github.com/repos/paralogical/glish/contents/README.md?ref=main",
+  "html_url": "https://github.com/paralogical/glish/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/paralogical/glish/git/blobs/403c624360f00366eb57a907f52bd707f1c426e1",
+  "download_url": "https://raw.githubusercontent.com/paralogical/glish/main/README.md",
+  "type": "file",
+  "content": "IyBHbGlzaAoKV2F0Y2ggdGhlIHZpZGVvIGFib3V0IHRoaXMgcHJvamVjdDog\naHR0cHM6Ly95b3V0dS5iZS9zUmJjdzJzR2tKdwoKSW50ZXJhY3RpdmUgRGVt\nbyBUcmFuc2xhdG9yIHRvb2wgaGVyZTogaHR0cHM6Ly9wYXJhbG9naWNhbC5k\nZXYvZ2xpc2gvCgoqKkdvYWw6IE1ha2UgYSB2ZXJzaW9uIG9mIEVuZ2xpc2gg\nd2hlcmUgZXZlcnkgd29yZCBpcyBvbmx5IG9uZSBzeWxsYWJsZSoqCgpJbnB1\ndHM6CgotIHdvcmRzIGJ5IGZyZXF1ZW5jeSAob3B0aW1pemUgbW9ub3N5bGxh\nYmlmaWNhdGlvbiBmb3IgbW9yZSBjb21tb24gd29yZHMpCiAgaW5wdXRzL3dv\ncmRfZnJlcXVlbmN5LnR4dAotIHdvcmRzIHdpdGggcHJvbnVuY2lhdGlvbnMg\nYW5kIHNwbGl0IGJ5IHN5bGxhYmxlcyAoQ01VIERpY3Qgc3lsbGFibGl6ZWQp\nCiAgTm90ZTogbXVsdGlwbGUgdmFsaWQgcHJvbnVuY2lhdGlvbnMgZm9yIGFu\neSBnaXZlbiB3b3JkLAogIGJ1dCBhbGwgQW1lcmljYW4gZW5nbGlzaAoKU3Rh\nZ2VzOgoKLSBgc3lsbGFibGl6ZS50c2AgJnJhcnI7IGNvbnZlcnQgQ01VIGRp\nY3QgdG8gSlNPTiBtYXBwaW5nIG9mIHdvcmQgJnJhcnI7IElQQSBzcGxpdCBi\neSBzeWxsYWJsZXMKLSBgbWFpbi50c2AgJnJhcnI7IGxvYWQgSVBBIHN5bGxh\nYmxlcyBhbmQgZ2VuZXJhdGUgbmV3IG1vbm9zeWxsYWJpYyB2ZXJzaW9uIG9m\nIGFsbCB3b3JkcwotIGBzb25vcml0eUdyYXBoLnRzYCAmcmFycjsgZGF0YSBz\ndHJ1Y3R1cmUgdGhhdCBoZWxwcyBnZW5lcmF0ZSBuZXcgc3lsbGFibGVzIGZv\nbGxvd2luZyBzb25vcml0eSBzZXF1ZW5jaW5nLgotIGByZXNwZWxsSVBBLnRz\nYCAmcmFycjsgY29udmVydCBJUEEgYmFjayBpbnRvICJyZWFkYWJsZSIgbGF0\naW4gYWxwaGFiZXQuCgpUbyBydW4gY29kZSB0byBnZW5lcmF0ZSBHbGlzaCBs\nYW5ndWFnZSBtYXBwaW5nLAoKLSBgdHMtbm9kZSBzeWxsYWJsaXplLnRzYCB0\nbyBnZW5lcmF0ZSBvdXRwdXRzL3N5bGxhYmxpemVkSVBBLmpzb24gKyBzeWxs\nYWJsZUdyYXBoICsgYmlnIGxpc3Qgb2YgcmFuZG9tbHkgZ2VuZXJhdGVkIHN5\nbGxhYmxlcwotIGB0cy1ub2RlIG1haW4udHNgIHRvIGdlbmVyYXRlIG91dHB1\ndHMvbW9ub3N5bGxhYmljLmpzb24gJiBvdGhlciBtb25vc3lsbGFiaWMgcmVz\ndWx0cwoKVG8gcnVuIFVJLAoKLSBgY2QgdWlgCi0gYG5wbSBydW4gZGV2YAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/paralogical/glish/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/paralogical/glish/git/blobs/403c624360f00366eb57a907f52bd707f1c426e1",
+    "html": "https://github.com/paralogical/glish/blob/main/README.md"
+  }
+}

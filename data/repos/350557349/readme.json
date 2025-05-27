@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "476c29b550b13080ef3ef61b39173197d2042cbf",
+  "size": 1465,
+  "url": "https://api.github.com/repos/PlummersSoftwareLLC/Primes/contents/README.md?ref=drag-race",
+  "html_url": "https://github.com/PlummersSoftwareLLC/Primes/blob/drag-race/README.md",
+  "git_url": "https://api.github.com/repos/PlummersSoftwareLLC/Primes/git/blobs/476c29b550b13080ef3ef61b39173197d2042cbf",
+  "download_url": "https://raw.githubusercontent.com/PlummersSoftwareLLC/Primes/drag-race/README.md",
+  "type": "file",
+  "content": "IyBQcmltZXMgfCBBIFNvZnR3YXJlIERyYWcgUmFjZQoKKipOb3RlOioqIFlv\ndSdyZSBjdXJyZW50bHkgbG9va2luZyBhdCB0aGUgY29tbXVuaXR5IGNvbnRy\naWJ1dGlvbiBicmFuY2ggb2YgdGhpcyByZXBvLCB3aGljaCBpcyBub3cgdGhl\nIGRlZmF1bHQuIFRoZSBvcmlnaW5hbCBicmFuY2ggY2FuIGJlIGZvdW5kIFto\nZXJlXShodHRwczovL2dpdGh1Yi5jb20vcGx1bW1lcnNzb2Z0d2FyZWxsYy9Q\ncmltZXMvdHJlZS9vcmlnaW5hbCkuIAo8YnIvPgo8YnIvPgpTb3VyY2UgY29k\nZSB0byBbRGF2ZSdzIEdhcmFnZV0oaHR0cHM6Ly93d3cueW91dHViZS5jb20v\nYy9EYXZlc0dhcmFnZS9mZWF0dXJlZCkgdmlkZW8KYmVuY2htYXJraW5nIHRo\nZSBzYW1lIHByaW1lIG51bWJlciBzaWV2ZSBpbiBQeXRob24sIEMjLCBhbmQg\nQysrLgoKWyFbU29mdHdhcmUgRHJhZyBSYWNpbmcgfCBEYXZlJ3MgR2FyYWdl\nXShodHRwczovL2ltZy55b3V0dWJlLmNvbS92aS9EM2g2MnJnZXdaTS8wLmpw\nZyldKGh0dHBzOi8veW91dHUuYmUvRDNoNjJyZ2V3Wk0pCgojIyBCdWlsZCBz\ndGF0dXMKCiFbZXhhbXBsZSB3b3JrZmxvd10oaHR0cHM6Ly9naXRodWIuY29t\nL1BsdW1tZXJzU29mdHdhcmVMTEMvUHJpbWVzL2FjdGlvbnMvd29ya2Zsb3dz\nL0NJLnltbC9iYWRnZS5zdmc/YnJhbmNoPWRyYWctcmFjZSkKCiMjIENvbW11\nbml0eSBjb250cmlidXRpb25zCgpDb21tdW5pdHkgY29udHJpYnV0aW9ucywg\nZml4ZXMgYW5kIGltcHJvdmVtZW50cyBhcmUgYWNjZXB0ZWQgb24gdGhpcyBi\ncmFuY2guIElmIHlvdSB3YW50IHRvIGFkZCB5b3VyIG93biBzb2x1dGlvbiwg\ncGxlYXNlIHJlYWQgW0NPTlRSSUJVVElORy5tZF0oQ09OVFJJQlVUSU5HLm1k\nKS4KCiMjIFJ1bm5pbmcgdGhlIGJlbmNobWFya3MKClRoZSB2YXN0IG1ham9y\naXR5IG9mIGJlbmNobWFya3MgKHNvbHV0aW9ucykgaW4gdGhpcyByZXBvc2l0\nb3J5IGNhbiBiZSBidWlsdCBhbmQgcnVuIHdpdGggb25lIE1ha2VmaWxlLiBU\naGlzIGlzIGRlc2NyaWJlZCBpbiBbQkVOQ0hNQVJLLm1kXShCRU5DSE1BUksu\nbWQpLgoKIyMgVmlld2luZyByZXN1bHRzCgpUaGUgW1ByaW1lVmlldyB3ZWIg\nYXBwbGljYXRpb25dKGh0dHBzOi8vcGx1bW1lcnNzb2Z0d2FyZWxsYy5naXRo\ndWIuaW8vUHJpbWVWaWV3LykgY2FuIGJlIHVzZWQgdG8gdmlldywgZmlsdGVy\nIGFuZCBzb3J0IHJlc3VsdHMgZ2VuZXJhdGVkIGJ5IERhdmUncyBiZW5jaG1h\ncmsgbWFjaGluZS4gSXQgaXMgb3VyIGludGVudGlvbiB0byBhZGQgcmVzdWx0\ncyBvZiBvdGhlciBzeXN0ZW1zIGluIHRoZSBmdXR1cmUuICoqTm90ZSoqIHRo\nYXQgYW55IGZlZWRiYWNrLCBzdWdnZXN0aW9ucywgUFJzIGNvbmNlcm5pbmcg\nUHJpbWVWaWV3IG5lZWQgdG8gYmUgbWFkZSBvbiBbdGhlIGFwcGxpY2F0aW9u\nJ3Mgb3duIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0aHViLmNvbS9QbHVtbWVy\nc1NvZnR3YXJlTExDL1ByaW1lVmlldykuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/PlummersSoftwareLLC/Primes/contents/README.md?ref=drag-race",
+    "git": "https://api.github.com/repos/PlummersSoftwareLLC/Primes/git/blobs/476c29b550b13080ef3ef61b39173197d2042cbf",
+    "html": "https://github.com/PlummersSoftwareLLC/Primes/blob/drag-race/README.md"
+  }
+}

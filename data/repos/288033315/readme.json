@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "198a229e3e297beaaa00fe68241cbdddf50a5b99",
+  "size": 784,
+  "url": "https://api.github.com/repos/mateusfdl/dotfiles/contents/README.md?ref=main",
+  "html_url": "https://github.com/mateusfdl/dotfiles/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/mateusfdl/dotfiles/git/blobs/198a229e3e297beaaa00fe68241cbdddf50a5b99",
+  "download_url": "https://raw.githubusercontent.com/mateusfdl/dotfiles/main/README.md",
+  "type": "file",
+  "content": "IyMgS2V5Ym9hcmQKCkkgdXNlIHRoZSBbU3dlZXBdKGdpdGh1Yi5jb20vZGF2\naWRwaGlsaXBiYXJyL1N3ZWVwKSBrZXlib2FyZCBwcm9qZWN0IG1vZAoKIyMj\nIExheW91dAoKRGVmYXVsdCBsYXllcjoKCiFbZGVmYXVsdC1sYXllcl0oaHR0\ncHM6Ly9naXRodWIuY29tL3VzZXItYXR0YWNobWVudHMvYXNzZXRzLzFlOTVm\nYzZjLWMyYzYtNDhiZC05MzhlLWIwNGU5NTdlYmE3YykKClN5bSBsYXllcjoK\nCiFbc3ltLWxheWVyXShodHRwczovL2dpdGh1Yi5jb20vdXNlci1hdHRhY2ht\nZW50cy9hc3NldHMvMDBkZmRkMWYtZjJlOC00ZDEzLWE5MzEtMjc1ZjUwMDMw\nZjJhKQoKTnVtIGxheWVyOgoKIVtudW0tbGF5ZXJdKGh0dHBzOi8vZ2l0aHVi\nLmNvbS91c2VyLWF0dGFjaG1lbnRzL2Fzc2V0cy85NDVhODFmNC04NjAzLTRj\nNjMtYWI1Ny03ZmFhYTJhN2RkZDgpCgojIyMgQ29tYm9zCgpQYXJlbnRoZXNp\ncyAoCgohW3BhcmVudGhlc2lzLWNvbWJvXShodHRwczovL2dpdGh1Yi5jb20v\ndXNlci1hdHRhY2htZW50cy9hc3NldHMvN2JhMmQ1MTctNTcwZC00OWM4LWIw\nYWYtZDI1OTQ2NGQzM2VjKSAgIAoKVEFCIHRhYgoKIVt0YWItY29tYm9dKGh0\ndHBzOi8vZ2l0aHViLmNvbS91c2VyLWF0dGFjaG1lbnRzL2Fzc2V0cy9kN2I0\nNDQ1Yy02MGI5LTQwZTctOWZhOS04YzM2ODI0ZmJmYTEpCgpTaW5nbGUgcXVv\ndGUgJwoKIVtzaW5nbGUtcXVvdGUtY29tYm9dKGh0dHBzOi8vZ2l0aHViLmNv\nbS91c2VyLWF0dGFjaG1lbnRzL2Fzc2V0cy80MGQxNDk1Zi1iMTliLTQyNDMt\nOGJiOC0xNWFhYTI0NzA5NjgpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mateusfdl/dotfiles/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/mateusfdl/dotfiles/git/blobs/198a229e3e297beaaa00fe68241cbdddf50a5b99",
+    "html": "https://github.com/mateusfdl/dotfiles/blob/main/README.md"
+  }
+}

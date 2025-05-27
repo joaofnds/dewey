@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0a323cfbd784ce29542958d35d7e2ce8f8bcea47",
+  "size": 1498,
+  "url": "https://api.github.com/repos/FirebaseExtended/functions-cron/contents/README.md?ref=master",
+  "html_url": "https://github.com/FirebaseExtended/functions-cron/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/FirebaseExtended/functions-cron/git/blobs/0a323cfbd784ce29542958d35d7e2ce8f8bcea47",
+  "download_url": "https://raw.githubusercontent.com/FirebaseExtended/functions-cron/master/README.md",
+  "type": "file",
+  "content": "IyBBcHAgRW5naW5lIENyb24gd2l0aCBHb29nbGUgQ2xvdWQgRnVuY3Rpb25z\nIGZvciBGaXJlYmFzZQoKIyMgU3RhdHVzCgohW1N0YXR1czogQXJjaGl2ZWRd\nKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvU3RhdHVzLUFyY2hpdmVk\nLXJlZCkKClRoaXMgbGlicmFyeSBpcyBubyBsb25nZXIgYWN0aXZlbHkgbWFp\nbnRhaW5lZC4gV2UgKipkbyBub3QgcmVjb21tZW5kKiogdXNpbmcgdGhpcyBs\naWJyYXJ5IGluIHByb2R1Y3Rpb24uCgpJZiB5b3UgbWFpbnRhaW4gYSBmb3Jr\nIG9mIHRoaXMgbGlicmFyeSB0aGF0IHlvdSBiZWxpZXZlIGlzIGhlYWx0aGll\nciB0aGFuIHRoZSBvZmZpY2lhbCB2ZXJzaW9uLCB3ZSBtYXkgY29uc2lkZXIg\ncmVjb21tZW5kaW5nIHlvdXIgZm9yay4gIFBsZWFzZSBvcGVuIGEgUHVsbCBS\nZXF1ZXN0IGlmIHlvdSBiZWxpZXZlIHRoYXQgaXMgdGhlIGNhc2UuCgojIyBJ\nbnRyb2R1Y3Rpb24KClRoaXMgcmVwbyBpcyBub3cgKipERVBSRUNBVEVEKiog\nYmVjYXVzZSBpdCBpcyBubyBsb25nZXIgbmVjZXNzYXJ5LiBBcyBvZiAKQXBy\naWwgMjAxOSBDbG91ZCBGdW5jdGlvbnMgZm9yIEZpcmViYXNlIG5vdyBoYXMg\nZmlyc3QgY2xhc3Mgc3VwcG9ydCBmb3IKc2NoZWR1bGVkIGZ1bmN0aW9ucy4K\nCkRvY3VtZW50YXRpb246Cmh0dHBzOi8vZmlyZWJhc2UuZ29vZ2xlLmNvbS9k\nb2NzL2Z1bmN0aW9ucy9zY2hlZHVsZS1mdW5jdGlvbnMKCkNvZGUgU2FtcGxl\nOgpodHRwczovL2dpdGh1Yi5jb20vZmlyZWJhc2UvZnVuY3Rpb25zLXNhbXBs\nZXMvdHJlZS9tYXN0ZXIvZGVsZXRlLXVudXNlZC1hY2NvdW50cy1jcm9uCgpP\ncmlnaW5hbCBBbm5vdW5jZW1lbnQ6Cmh0dHBzOi8vZmlyZWJhc2UuZ29vZ2xl\nYmxvZy5jb20vMjAxOS8wNC9zY2hlZHVsZS1jbG91ZC1mdW5jdGlvbnMtZmly\nZWJhc2UtY3Jvbi5odG1sCgojIyBMaWNlbnNlCgpDb3B5cmlnaHQgMjAxOCBH\nb29nbGUgSW5jLiBBbGwgUmlnaHRzIFJlc2VydmVkLgoKTGljZW5zZWQgdW5k\nZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNl\nbnNlIik7CnlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNv\nbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KWW91IG1heSBvYnRhaW4gYSBj\nb3B5IG9mIHRoZSBMaWNlbnNlIGF0CgpodHRwOi8vd3d3LmFwYWNoZS5vcmcv\nbGljZW5zZXMvTElDRU5TRS0yLjAKClVubGVzcyByZXF1aXJlZCBieSBhcHBs\naWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUK\nZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQg\nb24gYW4gIkFTIElTIiBCQVNJUywKV0lUSE9VVCBXQVJSQU5USUVTIE9SIENP\nTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxp\nZWQuClNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdl\nIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKbGltaXRhdGlvbnMgdW5kZXIg\ndGhlIExpY2Vuc2UuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/FirebaseExtended/functions-cron/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/FirebaseExtended/functions-cron/git/blobs/0a323cfbd784ce29542958d35d7e2ce8f8bcea47",
+    "html": "https://github.com/FirebaseExtended/functions-cron/blob/master/README.md"
+  }
+}

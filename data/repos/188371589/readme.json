@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "d423318ccdd3a9f675e11f8cc7494a48836b2d92",
+  "size": 810,
+  "url": "https://api.github.com/repos/wblut/isogrid/contents/README.md?ref=master",
+  "html_url": "https://github.com/wblut/isogrid/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/wblut/isogrid/git/blobs/d423318ccdd3a9f675e11f8cc7494a48836b2d92",
+  "download_url": "https://raw.githubusercontent.com/wblut/isogrid/master/README.md",
+  "type": "file",
+  "content": "IyBpc29ncmlkDQoNClByb2Nlc3NpbmcgbGlicmFyeSwgZXhhbXBsZXMgYW5k\nIGlzbyBjb2RlOiBodHRwczovL3dibHV0LmNvbS9jb2RlL2lzbzE5MDcyOC56\naXANCg0KIVtpc29ncmlkIFByb2Nlc3NpbmcgY29kZSBzY3JlZW5zaG90XSho\ndHRwczovL3dpbnRlcmJsb2VkLmJlL2ltZy9pc29ncmlkMDAxLnBuZyAiaXNv\nZ3JpZCBQcm9jZXNzaW5nIGNvZGUgc2NyZWVuc2hvdCIpDQohW2lzb2dyaWQg\nUHJvY2Vzc2luZyBjb2RlIHNjcmVlbnNob3RdKGh0dHBzOi8vd2ludGVyYmxv\nZWQuYmUvaW1nL2lzb2dyaWQwMDMucG5nICJpc29ncmlkIFByb2Nlc3Npbmcg\nY29kZSBzY3JlZW5zaG90IikNCiFbaXNvZ3JpZCBQcm9jZXNzaW5nIGNvZGUg\nc2NyZWVuc2hvdF0oaHR0cHM6Ly93aW50ZXJibG9lZC5iZS9pbWcvaXNvZ3Jp\nZDAwNC5wbmcgImlzb2dyaWQgUHJvY2Vzc2luZyBjb2RlIHNjcmVlbnNob3Qi\nKQ0KIVtpc29ncmlkIFByb2Nlc3NpbmcgY29kZSBzY3JlZW5zaG90XShodHRw\nczovL3dpbnRlcmJsb2VkLmJlL2ltZy9pc29ncmlkMDA1LnBuZyAiaXNvZ3Jp\nZCBQcm9jZXNzaW5nIGNvZGUgc2NyZWVuc2hvdCIpDQohW2lzb2dyaWQgUHJv\nY2Vzc2luZyBjb2RlIHNjcmVlbnNob3RdKGh0dHBzOi8vd2ludGVyYmxvZWQu\nYmUvaW1nL2lzb2dyaWQwMDYucG5nICJpc29ncmlkIFByb2Nlc3NpbmcgY29k\nZSBzY3JlZW5zaG90IikNCiFbaXNvZ3JpZCBQcm9jZXNzaW5nIGNvZGUgc2Ny\nZWVuc2hvdF0oaHR0cHM6Ly93aW50ZXJibG9lZC5iZS9pbWcvaXNvZ3JpZDAw\nNy5wbmcgImlzb2dyaWQgUHJvY2Vzc2luZyBjb2RlIHNjcmVlbnNob3QiKQ0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/wblut/isogrid/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/wblut/isogrid/git/blobs/d423318ccdd3a9f675e11f8cc7494a48836b2d92",
+    "html": "https://github.com/wblut/isogrid/blob/master/README.md"
+  }
+}

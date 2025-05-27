@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "bd00b9b85ae5f6542b6f8ef37446ea6d60392aac",
+  "size": 1073,
+  "url": "https://api.github.com/repos/tamasfe/taplo/contents/README.md?ref=master",
+  "html_url": "https://github.com/tamasfe/taplo/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/tamasfe/taplo/git/blobs/bd00b9b85ae5f6542b6f8ef37446ea6d60392aac",
+  "download_url": "https://raw.githubusercontent.com/tamasfe/taplo/master/README.md",
+  "type": "file",
+  "content": "PGRpdiBzdHlsZT0idGV4dC1hbGlnbjpsZWZ0Ij48aW1nIHNyYz0idGFwbG8t\naWNvbi5wbmciIHdpZHRoPSIxMjgiPjwvZGl2PgoKWyFbQ29udGludW91cyBp\nbnRlZ3JhdGlvbl0oaHR0cHM6Ly9naXRodWIuY29tL3RhbWFzZmUvdGFwbG8v\nd29ya2Zsb3dzL0NvbnRpbnVvdXMlMjBpbnRlZ3JhdGlvbi9iYWRnZS5zdmcp\nXShodHRwczovL2dpdGh1Yi5jb20vdGFtYXNmZS90YXBsby9hY3Rpb25zP3F1\nZXJ5PXdvcmtmbG93JTNBJTIyQ29udGludW91cytpbnRlZ3JhdGlvbiUyMikK\nWyFbTGF0ZXN0IFZlcnNpb25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vY3Jh\ndGVzL3YvdGFwbG8uc3ZnKV0oaHR0cHM6Ly9jcmF0ZXMuaW8vY3JhdGVzL3Rh\ncGxvKQpbIVtEb2N1bWVudGF0aW9uXShodHRwczovL2RvY3MucnMvdGFwbG8v\nYmFkZ2Uuc3ZnKV0oaHR0cHM6Ly9kb2NzLnJzL3RhcGxvKQoKWyoqV2Vic2l0\nZSoqXShodHRwczovL3RhcGxvLnRhbWFzZmUuZGV2KQoKIyBUYXBsbwoKVGhp\ncyBpcyB0aGUgcmVwb3NpdG9yeSBmb3IgVGFwbG8sIGEgVE9NTCB2MS4wLjAg\ndG9vbGtpdCwgbW9yZSBkZXRhaWxzIG9uIHRoZSBbd2Vic2l0ZV0oaHR0cHM6\nLy90YXBsby50YW1hc2ZlLmRldikuCgoKLSBbVGFwbG9dKCN0YXBsbykKICAt\nIFtTdGF0dXNdKCNzdGF0dXMpCiAgLSBbQ29udHJpYnV0aW5nXSgjY29udHJp\nYnV0aW5nKQoKIyMgU3RhdHVzCgpUaGUgcHJvamVjdCBpcyB2ZXJ5IHlvdW5n\nLCBzbyBidWdzIGFuZCBpbmNvbXBsZXRlIGZlYXR1cmVzIGFyZSBleHBlY3Rl\nZCwgc28gW2FueSBoZWxwIGlzIHdlbGNvbWVdKENPTlRSSUJVVElORy5tZCkh\nCgpUaGUgY29ycmVjdG5lc3Mgb2YgdGhlIFRPTUwgcGFyc2luZyBhbmQgZGVj\nb2RpbmcgaXMgbm90IHlldCBlbnRpcmVseSBndWFyYW50ZWVkIChhcyB0aGVy\nZSBpcyBubyBvZmZpY2lhbCAxLjAuMCBjb21wbGlhbmNlIHRlc3Qgc3VpdGUg\neWV0KS4KCiMjIENvbnRyaWJ1dGluZwoKQWxsIGtpbmRzIG9mIGNvbnRyaWJ1\ndGlvbnMgYXJlIHdlbGNvbWUuIE1ha2Ugc3VyZSB0byByZWFkIHRoZSBbQ09O\nVFJJQlVUSU5HLm1kXShDT05UUklCVVRJTkcubWQpIGZpcnN0IQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tamasfe/taplo/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/tamasfe/taplo/git/blobs/bd00b9b85ae5f6542b6f8ef37446ea6d60392aac",
+    "html": "https://github.com/tamasfe/taplo/blob/master/README.md"
+  }
+}

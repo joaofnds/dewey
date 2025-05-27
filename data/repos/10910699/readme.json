@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "18050735dd56c2968b39f678df207d302a732a45",
+  "size": 557,
+  "url": "https://api.github.com/repos/jonase/learndatalogtoday/contents/README.md?ref=master",
+  "html_url": "https://github.com/jonase/learndatalogtoday/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/jonase/learndatalogtoday/git/blobs/18050735dd56c2968b39f678df207d302a732a45",
+  "download_url": "https://raw.githubusercontent.com/jonase/learndatalogtoday/master/README.md",
+  "type": "file",
+  "content": "IyBbbGVhcm5kYXRhbG9ndG9kYXldKGh0dHBzOi8vd3d3LmxlYXJuZGF0YWxv\nZ3RvZGF5Lm9yZykKCkFuIGludGVyYWN0aXZlIFtEYXRhbG9nIHR1dG9yaWFs\nXShodHRwczovL3d3dy5sZWFybmRhdGFsb2d0b2RheS5vcmcpLgoKIyMgUHJl\ncmVxdWlzaXRlcwoKWW91IHdpbGwgbmVlZCBbTGVpbmluZ2VuXShodHRwczov\nL2dpdGh1Yi5jb20vdGVjaG5vbWFuY3kvbGVpbmluZ2VuKSBhbmQgamF2YSBp\nbnN0YWxsZWQuCgojIyBSdW4gbG9jYWxseQoKICAgICQgbGVpbiB1YmVyamFy\nCiAgICAkIGphdmEgLWNwIHRhcmdldC9sZWFybmRhdGFsb2d0b2RheS1zdGFu\nZGFsb25lLmphciBjbG9qdXJlLm1haW4gLW0gbGVhcm5kYXRhbG9ndG9kYXku\naGFuZGxlcgoKU2VydmVyIGlzIG5vdyBydW5uaW5nIG9uIGAkUE9SVGAgKGBo\ndHRwOi8vbG9jYWxob3N0OjgwODBgIGJ5IGRlZmF1bHQpLgoKIyMgTGljZW5z\nZQoKQ29weXJpZ2h0IMKpIDIwMTMtMjAyMyBKb25hcyBFbmx1bmQKCkRpc3Ry\naWJ1dGVkIHVuZGVyIHRoZSBFY2xpcHNlIFB1YmxpYyBMaWNlbnNlLCB0aGUg\nc2FtZSBhcyBDbG9qdXJlLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jonase/learndatalogtoday/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/jonase/learndatalogtoday/git/blobs/18050735dd56c2968b39f678df207d302a732a45",
+    "html": "https://github.com/jonase/learndatalogtoday/blob/master/README.md"
+  }
+}

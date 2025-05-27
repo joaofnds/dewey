@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "c6840126e19757d8725a62abecf4f667f062c33f",
+  "size": 547,
+  "url": "https://api.github.com/repos/twpayne/chezmoi/contents/README.md?ref=master",
+  "html_url": "https://github.com/twpayne/chezmoi/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/twpayne/chezmoi/git/blobs/c6840126e19757d8725a62abecf4f667f062c33f",
+  "download_url": "https://raw.githubusercontent.com/twpayne/chezmoi/master/README.md",
+  "type": "file",
+  "content": "IyAhW2NoZXptb2kgbG9nb10oYXNzZXRzL2ltYWdlcy9sb2dvLTE0NHB4LnN2\nZykgY2hlem1vaQoKWyFbR2l0SHViIFJlbGVhc2VdKGh0dHBzOi8vaW1nLnNo\naWVsZHMuaW8vZ2l0aHViL3JlbGVhc2UvdHdwYXluZS9jaGV6bW9pLnN2Zyld\nKGh0dHBzOi8vZ2l0aHViLmNvbS90d3BheW5lL2NoZXptb2kvcmVsZWFzZXMp\nCgpNYW5hZ2UgeW91ciBkb3RmaWxlcyBhY3Jvc3MgbXVsdGlwbGUgZGl2ZXJz\nZSBtYWNoaW5lcywgc2VjdXJlbHkuCgpjaGV6bW9pJ3MgZG9jdW1lbnRhdGlv\nbiBpcyBhdCBbY2hlem1vaS5pb10oaHR0cHM6Ly9jaGV6bW9pLmlvLykuCgpJ\nZiB5b3UncmUgY29udHJpYnV0aW5nIHRvIGNoZXptb2ksIHRoZW4gcGxlYXNl\nIHJlYWQgdGhlIFtkZXZlbG9wZXIgZ3VpZGVdKGh0dHBzOi8vd3d3LmNoZXpt\nb2kuaW8vZGV2ZWxvcGVyLWd1aWRlLykuCgojIyBDb250cmlidXRvcnMKCiFb\nQ29udHJpYnV0b3IgYXZhdGFyc10oaHR0cHM6Ly9jb250cmliLnJvY2tzL2lt\nYWdlP3JlcG89dHdwYXluZS9jaGV6bW9pJm1heD0xMDI0KQoKIyMgTGljZW5z\nZQoKTUlUCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/twpayne/chezmoi/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/twpayne/chezmoi/git/blobs/c6840126e19757d8725a62abecf4f667f062c33f",
+    "html": "https://github.com/twpayne/chezmoi/blob/master/README.md"
+  }
+}

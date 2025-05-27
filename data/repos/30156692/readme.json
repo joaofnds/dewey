@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "874057b5bcf69a18282de5b916fb528c1651ba7a",
+  "size": 590,
+  "url": "https://api.github.com/repos/jmacdonald/amp/contents/README.md?ref=main",
+  "html_url": "https://github.com/jmacdonald/amp/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/jmacdonald/amp/git/blobs/874057b5bcf69a18282de5b916fb528c1651ba7a",
+  "download_url": "https://raw.githubusercontent.com/jmacdonald/amp/main/README.md",
+  "type": "file",
+  "content": "IyBBbXA6IEEgdGV4dCBlZGl0b3IgZm9yIHlvdXIgdGVybWluYWwuCgpIZWF2\naWx5IGluc3BpcmVkIGJ5IFZpL1ZpbS4gQW1wIGFpbXMgdG8gdGFrZSB0aGUg\nY29yZSBpbnRlcmFjdGlvbiBtb2RlbCBvZiBWaW0sCnNpbXBsaWZ5IGl0LCBh\nbmQgYnVuZGxlIGluIHRoZSBlc3NlbnRpYWwgZmVhdHVyZXMgcmVxdWlyZWQg\nZm9yIGEgbW9kZXJuIHRleHQKZWRpdG9yLgoKIVtBbXAgc2NyZWVuc2hvdF0o\nc2NyZWVuc2hvdC5wbmc/cmF3PXRydWUgIkFtcCIpCgpXcml0dGVuIHdpdGgg\nOmhlYXJ0OiBpbiBbUnVzdF0oaHR0cDovL3J1c3QtbGFuZy5vcmcpLgoKQW1w\nJ3MgaW50ZXJuYWxzIChkYXRhIHN0cnVjdHVyZXMsIHN5bnRheCBoaWdobGln\naHRpbmcsIHdvcmtzcGFjZSBtYW5hZ2VtZW50LCBldGMuKQpoYXZlIGJlZW4g\nYnVpbHQgYXMgYSBzZXBhcmF0ZSBjcmF0ZTogW3NjcmliZV0oaHR0cHM6Ly9n\naXRodWIuY29tL2ptYWNkb25hbGQvc2NyaWJlKS4KCkZvciBhIGZ1bGwgb3Zl\ncnZpZXcsIGFsb25nIHdpdGggZG9jdW1lbnRhdGlvbiBhbmQgaW5zdGFsbGF0\naW9uIGluc3RydWN0aW9ucywgdmlzaXQgW2FtcC5yc10oaHR0cHM6Ly9hbXAu\ncnMpLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jmacdonald/amp/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/jmacdonald/amp/git/blobs/874057b5bcf69a18282de5b916fb528c1651ba7a",
+    "html": "https://github.com/jmacdonald/amp/blob/main/README.md"
+  }
+}

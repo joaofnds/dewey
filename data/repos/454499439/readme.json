@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "ef9cfe41dc98b1c10bf1b971d1ee4b512089d6c1",
+  "size": 622,
+  "url": "https://api.github.com/repos/jvns/tiny-resolver/contents/README.md?ref=main",
+  "html_url": "https://github.com/jvns/tiny-resolver/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/jvns/tiny-resolver/git/blobs/ef9cfe41dc98b1c10bf1b971d1ee4b512089d6c1",
+  "download_url": "https://raw.githubusercontent.com/jvns/tiny-resolver/main/README.md",
+  "type": "file",
+  "content": "IyMjIHRpbnkgRE5TIHJlc29sdmVyCgpUaGlzIGlzIGEgY29tbWFuZCBsaW5l\nIHByb2dyYW0gdGhhdCBtYWtlcyBETlMgcXVlcmllcy4gVGhlcmUncyBhIHZl\ncnNpb24gaW4gYmFzaCBhbmQgYSB2ZXJzaW9uIGluIEdvLgoKCiMjIyBob3cg\ndG8gcnVuIGl0CgpUaGUgYmFzaCB2ZXJzaW9uOgoKYGBgCmJhc2ggcmVzb2x2\nZS5zaCBleGFtcGxlLmNvbS4KYGBgCgpUaGUgZ28gdmVyc2lvbjoKCmBgYApn\nbyBydW4gcmVzb2x2ZS5nbyBleGFtcGxlLmNvbS4KYGBgCgpUaGUgUHl0aG9u\nIHZlcnNpb24KCmBgYApwaXAgaW5zdGFsbCBkbnNweXRob24KcHl0aG9uMyBy\nZXNvbHZlLnB5IGV4YW1wbGUuY29tCmBgYAoKIyMjIG90aGVyIHZlcnNpb25z\nCgoqIFJ1c3Q6IGh0dHBzOi8vZ2l0aHViLmNvbS9rbWthcGxhbi90aW55LXJl\nc29sdmVyLXJzCiogRWxpeGlyOiBodHRwczovL3d3dy5ib3J0em1leWVyLm9y\nZy9maWxlcy90aW55LXJlc29sdmVyLnRhcgoKIyMjIGJsb2cgcG9zdAoKWW91\nIGNhbiByZWFkIG1vcmUgYWJvdXQgaG93IHRoaXMgd29ya3MgaW4gW0EgdG95\nIEROUyByZXNvbHZlcl0oaHR0cHM6Ly9qdm5zLmNhL2Jsb2cvMjAyMi8wMi8w\nMS9hLWRucy1yZXNvbHZlci1pbi04MC1saW5lcy1vZi1nby8pCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jvns/tiny-resolver/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/jvns/tiny-resolver/git/blobs/ef9cfe41dc98b1c10bf1b971d1ee4b512089d6c1",
+    "html": "https://github.com/jvns/tiny-resolver/blob/main/README.md"
+  }
+}

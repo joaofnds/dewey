@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "126ee5d35d186f7727987e512d80bdc7796ed485",
+  "size": 1254,
+  "url": "https://api.github.com/repos/lib/pq/contents/README.md?ref=master",
+  "html_url": "https://github.com/lib/pq/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/lib/pq/git/blobs/126ee5d35d186f7727987e512d80bdc7796ed485",
+  "download_url": "https://raw.githubusercontent.com/lib/pq/master/README.md",
+  "type": "file",
+  "content": "IyBwcSAtIEEgcHVyZSBHbyBwb3N0Z3JlcyBkcml2ZXIgZm9yIEdvJ3MgZGF0\nYWJhc2Uvc3FsIHBhY2thZ2UKClshW0dvRG9jXShodHRwczovL2dvZG9jLm9y\nZy9naXRodWIuY29tL2xpYi9wcT9zdGF0dXMuc3ZnKV0oaHR0cHM6Ly9wa2cu\nZ28uZGV2L2dpdGh1Yi5jb20vbGliL3BxP3RhYj1kb2MpCgojIyBJbnN0YWxs\nCgoJZ28gZ2V0IGdpdGh1Yi5jb20vbGliL3BxCgojIyBGZWF0dXJlcwoKKiBT\nU0wKKiBIYW5kbGVzIGJhZCBjb25uZWN0aW9ucyBmb3IgYGRhdGFiYXNlL3Nx\nbGAKKiBTY2FuIGB0aW1lLlRpbWVgIGNvcnJlY3RseSAoaS5lLiBgdGltZXN0\nYW1wW3R6XWAsIGB0aW1lW3R6XWAsIGBkYXRlYCkKKiBTY2FuIGJpbmFyeSBi\nbG9icyBjb3JyZWN0bHkgKGkuZS4gYGJ5dGVhYCkKKiBQYWNrYWdlIGZvciBg\naHN0b3JlYCBzdXBwb3J0CiogQ09QWSBGUk9NIHN1cHBvcnQKKiBwcS5QYXJz\nZVVSTCBmb3IgY29udmVydGluZyB1cmxzIHRvIGNvbm5lY3Rpb24gc3RyaW5n\ncyBmb3Igc3FsLk9wZW4uCiogTWFueSBsaWJwcSBjb21wYXRpYmxlIGVudmly\nb25tZW50IHZhcmlhYmxlcwoqIFVuaXggc29ja2V0IHN1cHBvcnQKKiBOb3Rp\nZmljYXRpb25zOiBgTElTVEVOYC9gTk9USUZZYAoqIHBncGFzcyBzdXBwb3J0\nCiogR1NTIChLZXJiZXJvcykgYXV0aAoKIyMgVGVzdHMKCmBnbyB0ZXN0YCBp\ncyB1c2VkIGZvciB0ZXN0aW5nLiAgU2VlIFtURVNUUy5tZF0oVEVTVFMubWQp\nIGZvciBtb3JlIGRldGFpbHMuCgojIyBTdGF0dXMKClRoaXMgcGFja2FnZSBp\ncyBjdXJyZW50bHkgaW4gbWFpbnRlbmFuY2UgbW9kZSwgd2hpY2ggbWVhbnM6\nCjEuICAgSXQgZ2VuZXJhbGx5IGRvZXMgbm90IGFjY2VwdCBuZXcgZmVhdHVy\nZXMuCjIuICAgSXQgZG9lcyBhY2NlcHQgYnVnIGZpeGVzIGFuZCB2ZXJzaW9u\nIGNvbXBhdGFiaWxpdHkgY2hhbmdlcyBwcm92aWRlZCBieSB0aGUgY29tbXVu\naXR5LgozLiAgIE1haW50YWluZXJzIHVzdWFsbHkgZG8gbm90IHJlc29sdmUg\ncmVwb3J0ZWQgaXNzdWVzLgo0LiAgIENvbW11bml0eSBtZW1iZXJzIGFyZSBl\nbmNvdXJhZ2VkIHRvIGhlbHAgZWFjaCBvdGhlciB3aXRoIHJlcG9ydGVkIGlz\nc3Vlcy4KCkZvciB1c2VycyB0aGF0IHJlcXVpcmUgbmV3IGZlYXR1cmVzIG9y\nIHJlbGlhYmxlIHJlc29sdXRpb24gb2YgcmVwb3J0ZWQgYnVncywgd2UgcmVj\nb21tZW5kIHVzaW5nIFtwZ3hdKGh0dHBzOi8vZ2l0aHViLmNvbS9qYWNrYy9w\nZ3gpIHdoaWNoIGlzIHVuZGVyIGFjdGl2ZSBkZXZlbG9wbWVudC4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/lib/pq/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/lib/pq/git/blobs/126ee5d35d186f7727987e512d80bdc7796ed485",
+    "html": "https://github.com/lib/pq/blob/master/README.md"
+  }
+}

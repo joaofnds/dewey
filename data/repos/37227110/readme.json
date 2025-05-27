@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "2e1334b1a271163f5e136224c78a14f8ecef92af",
+  "size": 170,
+  "url": "https://api.github.com/repos/AppleDesignResources/SanFranciscoFont/contents/README.md?ref=master",
+  "html_url": "https://github.com/AppleDesignResources/SanFranciscoFont/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/AppleDesignResources/SanFranciscoFont/git/blobs/2e1334b1a271163f5e136224c78a14f8ecef92af",
+  "download_url": "https://raw.githubusercontent.com/AppleDesignResources/SanFranciscoFont/master/README.md",
+  "type": "file",
+  "content": "IyBTYW5GcmFuY2lzY29Gb250ClRoZSBTYW4gRnJhbmNpc2NvIGZvbnQgYnkg\nQXBwbGUgdXNlZCBpbiB0aGUgQXBwbGUgV2F0Y2gsIGlPUyA5LCBhbmQgT1Mg\nWCBFbCBDYXBpdGFuLiBPcmlnaW5hbGx5IGZvdW5kIGF0IGh0dHBzOi8vZGV2\nZWxvcGVyLmFwcGxlLmNvbS93YXRjaG9zL2Rvd25sb2FkLwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/AppleDesignResources/SanFranciscoFont/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/AppleDesignResources/SanFranciscoFont/git/blobs/2e1334b1a271163f5e136224c78a14f8ecef92af",
+    "html": "https://github.com/AppleDesignResources/SanFranciscoFont/blob/master/README.md"
+  }
+}

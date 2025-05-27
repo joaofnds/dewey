@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "80f89213af1371b5aa3b1668640f995b675b1c67",
+  "size": 1517,
+  "url": "https://api.github.com/repos/Shopify/graphql-design-tutorial/contents/README.md?ref=master",
+  "html_url": "https://github.com/Shopify/graphql-design-tutorial/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/Shopify/graphql-design-tutorial/git/blobs/80f89213af1371b5aa3b1668640f995b675b1c67",
+  "download_url": "https://raw.githubusercontent.com/Shopify/graphql-design-tutorial/master/README.md",
+  "type": "file",
+  "content": "IyBbU2hvcGlmeV0oaHR0cHM6Ly93d3cuc2hvcGlmeS5jb20pIEdyYXBoUUwg\nRGVzaWduIFR1dG9yaWFsCgpUaGlzIHR1dG9yaWFsIHdhcyBvcmlnaW5hbGx5\nIGNyZWF0ZWQgYnkgW1Nob3BpZnldKGh0dHBzOi8vd3d3LnNob3BpZnkuY2Ev\nKSBmb3IgaW50ZXJuYWwKcHVycG9zZXMuIFdlJ3ZlIGNyZWF0ZWQgYSBwdWJs\naWMgdmVyc2lvbiBvZiBpdCBzaW5jZSB3ZSB0aGluayBpdCdzIHVzZWZ1bCB0\nbwphbnlvbmUgY3JlYXRpbmcgYSBHcmFwaFFMIEFQSS4KCkl0J3MgYmFzZWQg\nb24gbGVzc29ucyBsZWFybmVkIGZyb20gY3JlYXRpbmcgYW5kIGV2b2x2aW5n\nIHByb2R1Y3Rpb24gc2NoZW1hcyBhdApTaG9waWZ5IG92ZXIgYWxtb3N0IDMg\neWVhcnMuIFRoZSB0dXRvcmlhbCBoYXMgZXZvbHZlZCBhbmQgd2lsbCBjb250\naW51ZSB0bwpjaGFuZ2UgaW4gdGhlIGZ1dHVyZSBzbyBub3RoaW5nIGlzIHNl\ndCBpbiBzdG9uZS4KCldlIGJlbGlldmUgdGhlc2UgZGVzaWduIGd1aWRlbGlu\nZXMgd29yayBpbiBtb3N0IGNhc2VzLiBUaGV5IG1heSBub3QgYWxsIHdvcmsK\nZm9yIHlvdS4gRXZlbiB3aXRoaW4gdGhlIGNvbXBhbnkgd2Ugc3RpbGwgcXVl\nc3Rpb24gdGhlbSBhbmQgaGF2ZSBleGNlcHRpb25zCnNpbmNlIG1vc3QgcnVs\nZXMgY2FuJ3QgYXBwbHkgMTAwJSBvZiB0aGUgdGltZS4gU28gZG9uJ3QganVz\ndCBibGluZGx5IGNvcHkgYW5kCmltcGxlbWVudCBhbGwgb2YgdGhlbS4gUGlj\nayBhbmQgY2hvb3NlIHdoaWNoIG9uZXMgbWFrZSBzZW5zZSBmb3IgeW91IGFu\nZCB5b3VyCnVzZSBjYXNlcy4KClJlYWQgdGhlIFtmdWxsIHR1dG9yaWFsIGhl\ncmVdKFRVVE9SSUFMLm1kKS4gSXQncyBhbHNvIGJlZW4gdHJhbnNsYXRlZCBi\neSB0aGUgY29tbXVuaXR5IGludG8gW2EgZmV3IG90aGVyIGxhbmd1YWdlc10o\nbGFuZykuCgojIyBDb250cmlidXRpbmcKQ29udHJpYnV0aW9ucyBhcmUgd2Vs\nY29tZTsgaG93ZXZlciwgdGhpcyB0dXRvcmlhbCByZWZsZWN0cyBydWxlcyBz\ncGVjaWZpYyB0byBTaG9waWZ5IGFuZAphbnkgc3Vic3RhbnRpYWwgY2hhbmdl\ncyB0byB0aG9zZSB3aWxsIHByaW1hcmlseSBoYXBwZW4gaW50ZXJuYWxseSBh\nbmQgbm90IHRocm91Z2ggZXh0ZXJuYWwgY29udHJpYnV0aW9ucy4KCkNvcnJl\nY3Rpb25zIGFuZCBhZGRpdGlvbmFsIHRyYW5zbGF0aW9ucyBhcmUgd2VsY29t\nZSBpbiB0aGUgW2BsYW5nYCBmb2xkZXJdKGxhbmcpLiAKCiMjIENvZGUgb2Yg\nQ29uZHVjdApBbnlvbmUgd2hvIHdpc2hlcyB0byBjb250cmlidXRlIHRocm91\nZ2ggY29kZSBvciBpc3N1ZXMsIHRha2UgYSBsb29rIGF0IHRoZQpbQ09ERV9P\nRl9DT05EVUNULm1kXShDT0RFX09GX0NPTkRVQ1QubWQpLgoKIyMgTGljZW5z\nZQoKTUlULCBzZWUgW0xJQ0VOU0VdKExJQ0VOU0UudHh0KSBmb3IgZGV0YWls\ncy4KCjxpbWcgc3JjPSJodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zaG9waWZ5\nLW1hcmtldGluZ19hc3NldHMvYnVpbGRzLzE5LjAuMC9zaG9waWZ5LWZ1bGwt\nY29sb3ItYmxhY2suc3ZnIiB3aWR0aD0iMjAwIiAvPgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Shopify/graphql-design-tutorial/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/Shopify/graphql-design-tutorial/git/blobs/80f89213af1371b5aa3b1668640f995b675b1c67",
+    "html": "https://github.com/Shopify/graphql-design-tutorial/blob/master/README.md"
+  }
+}

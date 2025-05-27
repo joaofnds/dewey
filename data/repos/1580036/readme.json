@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "2e899a4a4bf1b3b2f6c1165d5020645c590a079a",
+  "size": 833,
+  "url": "https://api.github.com/repos/gnachman/iTerm2/contents/README.md?ref=master",
+  "html_url": "https://github.com/gnachman/iTerm2/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/gnachman/iTerm2/git/blobs/2e899a4a4bf1b3b2f6c1165d5020645c590a079a",
+  "download_url": "https://raw.githubusercontent.com/gnachman/iTerm2/master/README.md",
+  "type": "file",
+  "content": "VGhpcyBzaXRlIGhvc3RzIGNvZGUgZm9yIDxhIGhyZWY9Imh0dHBzOi8vaXRl\ncm0yLmNvbSI+aVRlcm0yPC9hPi4KClshW0J1aWxkIFN0YXR1c10oaHR0cHM6\nLy90cmF2aXMtY2kub3JnL2duYWNobWFuL2lUZXJtMi5zdmc/YnJhbmNoPW1h\nc3RlcildKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy9nbmFjaG1hbi9pVGVybTIp\nClshW0NvdmVyYWdlIFN0YXR1c10oaHR0cHM6Ly9jb3ZlcmFsbHMuaW8vcmVw\nb3MvZ2l0aHViL2duYWNobWFuL2lUZXJtMi9iYWRnZS5zdmc/YnJhbmNoPW1h\nc3RlcildKGh0dHBzOi8vY292ZXJhbGxzLmlvL2dpdGh1Yi9nbmFjaG1hbi9p\nVGVybTI/YnJhbmNoPW1hc3RlcikKCjx1bD4KPGxpPjxhIGhyZWY9Imh0dHBz\nOi8vaXRlcm0yLmNvbS9idWdzIj5GaWxlIGEgYnVnIHJlcG9ydCBoZXJlITwv\nYT48L2xpPgo8bGk+SXNzdWVzIGFyZSBvbiA8YSBocmVmPSJodHRwczovL2dp\ndGxhYi5jb20vZ25hY2htYW4vaXRlcm0yL2lzc3VlcyI+R2l0bGFiPC9hPiBi\nZWNhdXNlIEdpdGh1YiBiYXJlbHkgc3VwcG9ydHMgaXNzdWUgYXR0YWNobWVu\ndHMuPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0bGFiLmNvbS9nbmFj\naG1hbi9pdGVybTIvd2lraXMvSG93VG9CdWlsZCI+SG93IGRvIEkgYnVpbGQg\ndGhpcyB0aGluZz88L2E+PC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0\nbGFiLmNvbS9nbmFjaG1hbi9pdGVybTIvLS93aWtpcy9Ib3ctdG8tQ29udHJp\nYnV0ZSI+SG93IGRvIEkgY29udHJpYnV0ZSBjaGFuZ2VzPzwvYT48L2xpPgo8\nbGk+PGEgaHJlZj0iaHR0cHM6Ly9pdGVybTIuY29tL2Rvd25sb2Fkcy5odG1s\nIj5Eb3dubG9hZHM8L2E+CjwvdWw+Cgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gnachman/iTerm2/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/gnachman/iTerm2/git/blobs/2e899a4a4bf1b3b2f6c1165d5020645c590a079a",
+    "html": "https://github.com/gnachman/iTerm2/blob/master/README.md"
+  }
+}

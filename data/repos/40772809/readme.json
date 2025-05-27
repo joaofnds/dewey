@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "e5829b7ca15e041160baa1eee8650d593029ec29",
+  "size": 1660,
+  "url": "https://api.github.com/repos/adonisjs/core/contents/README.md?ref=6.x",
+  "html_url": "https://github.com/adonisjs/core/blob/6.x/README.md",
+  "git_url": "https://api.github.com/repos/adonisjs/core/git/blobs/e5829b7ca15e041160baa1eee8650d593029ec29",
+  "download_url": "https://raw.githubusercontent.com/adonisjs/core/6.x/README.md",
+  "type": "file",
+  "content": "IyBAYWRvbmlzanMvY29yZQoKIVtdKGh0dHBzOi8vZ2l0aHViLmNvbS90aGV0\ndXRsYWdlL3N0YXRpYy9ibG9iL21haW4vc3BvbnNvcmtpdC9zcG9uc29ycy5w\nbmc/cmF3PXRydWUpCgo8aHI+CjxiciAvPgoKPGRpdiBhbGlnbj0iY2VudGVy\nIj4KICA8aDM+RnVsbHN0YWNrIE1WQyBmcmFtZXdvcmsgZm9yIE5vZGUuanM8\nL2gzPgogIDxwPkFkb25pc0pzIGlzIGEgZnVsbHN0YWNrIFdlYiBmcmFtZXdv\ncmsgd2l0aCBmb2N1cyBvbiA8c3Ryb25nPiBlcmdvbm9taWNzIGFuZCBzcGVl\nZCA8L3N0cm9uZz4uIEl0IHRha2VzIGNhcmUgb2YgbXVjaCBvZiB0aGUgV2Vi\nIGRldmVsb3BtZW50IGhhc3NsZXMsIG9mZmVyaW5nIHlvdSBhIGNsZWFuIGFu\nZCBzdGFibGUgQVBJIHRvIGJ1aWxkIFdlYiBhcHBzIGFuZCBtaWNybyBzZXJ2\naWNlcy48L3A+CjwvZGl2PgoKPGJyIC8+Cgo8ZGl2IGFsaWduPSJjZW50ZXIi\nPgoKWyFbZ2gtd29ya2Zsb3ctaW1hZ2VdXVtnaC13b3JrZmxvdy11cmxdIFsh\nW25wbS1pbWFnZV1dW25wbS11cmxdICFbXVt0eXBlc2NyaXB0LWltYWdlXSBb\nIVtsaWNlbnNlLWltYWdlXV1bbGljZW5zZS11cmxdCgo8L2Rpdj4KCjxkaXYg\nYWxpZ249ImNlbnRlciI+CiAgPGgzPgogICAgPGEgaHJlZj0iaHR0cHM6Ly9h\nZG9uaXNqcy5jb20iPgogICAgICBXZWJzaXRlCiAgICA8L2E+CiAgICA8c3Bh\nbj4gfCA8L3NwYW4+CiAgICA8YSBocmVmPSJodHRwczovL2RvY3MuYWRvbmlz\nanMuY29tIj4KICAgICAgR3VpZGVzCiAgICA8L2E+CiAgICA8c3Bhbj4gfCA8\nL3NwYW4+CiAgICA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vYWRvbmlz\nanMvLmdpdGh1Yi9ibG9iL21haW4vZG9jcy9DT05UUklCVVRJTkcubWQiPgog\nICAgICBDb250cmlidXRpbmcKICAgIDwvYT4KICA8L2gzPgo8L2Rpdj4KCjxk\naXYgYWxpZ249ImNlbnRlciI+CiAgPHN1Yj5CdWlsdCB3aXRoIOKdpO+4jiBi\neSA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdGhldHV0bGFnZSI+SGFy\nbWluZGVyIFZpcms8L2E+CjwvZGl2PgoKW2doLXdvcmtmbG93LWltYWdlXTog\naHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9naXRodWIvYWN0aW9ucy93b3JrZmxv\ndy9zdGF0dXMvYWRvbmlzanMvY29yZS9jaGVja3MueW1sP2JyYW5jaD1kZXZl\nbG9wJmxhYmVsPVRlc3RzJnN0eWxlPWZvci10aGUtYmFkZ2UKW2doLXdvcmtm\nbG93LXVybF06IGh0dHBzOi8vZ2l0aHViLmNvbS9hZG9uaXNqcy9jb3JlL2Fj\ndGlvbnMvd29ya2Zsb3dzL2NoZWNrcy55bWwgJ0dpdGh1YiBhY3Rpb24nCltu\ncG0taW1hZ2VdOiBodHRwczovL2ltZy5zaGllbGRzLmlvL25wbS92L0BhZG9u\naXNqcy9jb3JlL2xhdGVzdC5zdmc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dv\nPW5wbQpbbnBtLXVybF06IGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdl\nL0BhZG9uaXNqcy9jb3JlL3YvbGF0ZXN0ICducG0nClt0eXBlc2NyaXB0LWlt\nYWdlXTogaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UeXBlc2NyaXB0\nLTI5NEU4MC5zdmc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXR5cGVzY3Jp\ncHQKW2xpY2Vuc2UtdXJsXTogTElDRU5TRS5tZApbbGljZW5zZS1pbWFnZV06\nIGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2xpY2Vuc2UvYWRvbmlz\nanMvYWRvbmlzLWZyYW1ld29yaz9zdHlsZT1mb3ItdGhlLWJhZGdlCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/adonisjs/core/contents/README.md?ref=6.x",
+    "git": "https://api.github.com/repos/adonisjs/core/git/blobs/e5829b7ca15e041160baa1eee8650d593029ec29",
+    "html": "https://github.com/adonisjs/core/blob/6.x/README.md"
+  }
+}

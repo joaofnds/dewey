@@ -1,0 +1,8 @@
+.ruff_cache
+.venv
+*.egg-info
+__pycache__
+ids.txt
+*.npy
+*.pkl
+*.html

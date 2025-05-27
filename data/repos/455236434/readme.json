@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "2946db3a46e833528d4a9f793ea4192eadfd3c4f",
+  "size": 675,
+  "url": "https://api.github.com/repos/dmarman/sha256algorithm/contents/README.md?ref=main",
+  "html_url": "https://github.com/dmarman/sha256algorithm/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/dmarman/sha256algorithm/git/blobs/2946db3a46e833528d4a9f793ea4192eadfd3c4f",
+  "download_url": "https://raw.githubusercontent.com/dmarman/sha256algorithm/main/README.md",
+  "type": "file",
+  "content": "CiFbVGhpcyBpcyBhbiBpbWFnZV0oLi9wdWJsaWMvc2hhMjU2LnBuZykKCiMg\nU2hhMjU2YWxnb3JpdGhtCgpTaGEyNTYgYWxnb3JpdGhtIGV4cGxhaW5lZCBv\nbmxpbmUgc3RlcCBieSBzdGVwIHZpc3VhbGx5IFtzaGEyNTZhbGdvcml0aG0u\nY29tXShodHRwczovL3NoYTI1NmFsZ29yaXRobS5jb20vKQpUaGlzIHdlYnNp\ndGUgd2lsbCBoZWxwIHlvdSB1bmRlcnN0YW5kIGhvdyBhIHNoYTI1NiBoYXNo\nIGlzIGNhbGN1bGF0ZWQgZnJvbSBzdGFydCB0byBmaW5pc2guCgpJIGhvcGUg\ndGhpcyB3aWxsIGJlIGhlbHBmdWwgZm9yIHN0dWRlbnRzIGxlYXJuaW5nIGFi\nb3V0IGhhc2ggZnVuY3Rpb25zIGFuZCBzaGEyNTYuCgpUaGUgY29kZSBpdCdz\nIHF1aXRlIG1lc3N5IGFuZCBwcm9iYWJseSB0aGVyZSBhcmUgc29tZSBwYXJ0\ncyB0aGF0IGRvbid0IGZvbGxvdyB0aGUgcmVhY3Qgd2F5LgoKQXNrIG1lIGFu\neXRoaW5nIGF0IFtAbWFuY2VyYWlvXShodHRwczovL3R3aXR0ZXIuY29tL21h\nbmNlcmFpbykKCiMjIEluc3RhbGwgCgpJIGJ1aWx0IHRoaXMgdXNpbmcgY3Jl\nYXRlLXJlYWN0LWFwcC4gSWYgeW91IHdhbnQgdG8gcGxheSB3aXRoIGl0LCBq\ndXN0IGluc3RhbGwgamF2YXNjcmlwdCBkZXBlbmRlbmNpZXM6CgpgbnBtIGlu\nc3RhbGxgCgphbmQgc3RhcnQgbG9jYWwgc2VydmVyOgoKYG5wbSBzdGFydGAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/dmarman/sha256algorithm/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/dmarman/sha256algorithm/git/blobs/2946db3a46e833528d4a9f793ea4192eadfd3c4f",
+    "html": "https://github.com/dmarman/sha256algorithm/blob/main/README.md"
+  }
+}

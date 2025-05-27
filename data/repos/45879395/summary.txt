@@ -1,0 +1,1 @@
+This repository provides an unofficial mirror of Richard C. Waters' SERIES package, originally hosted on SourceForge. The project, written in Common Lisp, functions as a utility for processing data, likely involving the manipulation and analysis of sequences. As a package, it is designed to be integrated and used as a library within Common Lisp development environments.

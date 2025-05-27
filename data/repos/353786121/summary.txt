@@ -1,0 +1,1 @@
+`vertico.el` is an Emacs Lisp package providing an interactive, vertical completion system. Its primary function is to enhance the completion experience within the Emacs text editor. This plugin-like project streamlines code and text completion through a vertically-oriented user interface. Its functionality centers on improving developer productivity within the Emacs environment.

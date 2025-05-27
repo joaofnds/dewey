@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "87c3dbbd1d7389702a0494ffbfa147114fc08d44",
+  "size": 1237,
+  "url": "https://api.github.com/repos/rougier/elegant-emacs/contents/README.md?ref=master",
+  "html_url": "https://github.com/rougier/elegant-emacs/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/rougier/elegant-emacs/git/blobs/87c3dbbd1d7389702a0494ffbfa147114fc08d44",
+  "download_url": "https://raw.githubusercontent.com/rougier/elegant-emacs/master/README.md",
+  "type": "file",
+  "content": "CiMgQSB2ZXJ5IG1pbmltYWwgYnV0IGVsZWdhbnQgZW1hY3MgKEkgdGhpbmsp\nCgpUaGUgZ29hbCBpcyB0byBoYXZlIGEgbWluaW1hbCBjb25zaXN0ZW50IHZh\nbmlsbGEgZW1hY3MgKGkuZS4gbm8KcGFja2FnZSkgYW5kIHlldCBlbGVnYW50\nLiAgClRoZSBkZWZhdWwgZm9udCBpcyBbUm9ib3RvIE1vbm9dKGh0dHBzOi8v\nZm9udHMuZ29vZ2xlLmNvbS9zcGVjaW1lbi9Sb2JvdG8rTW9ubykKYW5kIG9w\ndGlvbmFsbHksIHlvdSdsbCBhbHNvIG5lZWQgdGhlIFtGaXJhIENvZGVdKGh0\ndHBzOi8vZm9udHMuZ29vZ2xlLmNvbS9zcGVjaW1lbi9GaXJhK0NvZGUpIGZv\nbnQuCgpFbGVnYW50IEVtYWNzIGlzIG1vc3RseSBhIHByb3RvdHlwZSBvciBw\ncm9vZiBvZiBjb25jZXB0LiBXaGlsZSBpdCBpcwpwZXJmZWN0bHkgdXNhYmxl\nLCB5b3UgbWlnaHQgd2FudCB0byBoYXZlIGEgbG9vayBhIFtHTlUgRW1hY3Mg\nLyBOIM6bIE4KT10oaHR0cHM6Ly9naXRodWIuY29tL3JvdWdpZXIvbmFuby1l\nbWFjcykgd2hpY2ggaXMgbW9yZSBtYXR1cmUgYW5kCm1haW50YWluZWQuCgoK\nKipVc2FnZSoqOiBgZW1hY3MgLXEgLWwgc2FuaXR5LmVsIC1sIGVsZWdhbmNl\nLmVsIFNwbGFzaC5vcmcgJmAKCjxpbWcgc3JjPSJzY3JlZW5zaG90cy9zY3Jl\nZW5zaG90LTAucG5nIiB3aWR0aD0iNDUlIj48aW1nIHNyYz0ic2NyZWVuc2hv\ndHMvc2NyZWVuc2hvdC0xLnBuZyIgd2lkdGg9IjQ1JSI+PGltZyBzcmM9InNj\ncmVlbnNob3RzL3NjcmVlbnNob3QtMi5wbmciIHdpZHRoPSI0NSUiPjxpbWcg\nc3JjPSJzY3JlZW5zaG90cy9zY3JlZW5zaG90LTMucG5nIiB3aWR0aD0iNDUl\nIj48aW1nIHNyYz0ic2NyZWVuc2hvdHMvc2NyZWVuc2hvdC00LnBuZyIgd2lk\ndGg9IjQ1JSI+PGltZyBzcmM9InNjcmVlbnNob3RzL3NjcmVlbnNob3QtNS5w\nbmciIHdpZHRoPSI0NSUiPjxpbWcgc3JjPSJzY3JlZW5zaG90cy9zY3JlZW5z\naG90LTYucG5nIiB3aWR0aD0iNDUlIj48aW1nIHNyYz0ic2NyZWVuc2hvdHMv\nc2NyZWVuc2hvdC03LnBuZyIgd2lkdGg9IjQ1JSI+PGltZyBzcmM9InNjcmVl\nbnNob3RzL3NjcmVlbnNob3QtOC5wbmciIHdpZHRoPSI0NSUiPjxpbWcgc3Jj\nPSJzY3JlZW5zaG90cy9zY3JlZW5zaG90LTkucG5nIzAiIHdpZHRoPSI0NSUi\nPjxpbWcgc3JjPSJzY3JlZW5zaG90cy9zY3JlZW5zaG90LTEwLnBuZyMwIiB3\naWR0aD0iNDUlIj48aW1nIHNyYz0ic2NyZWVuc2hvdHMvc2NyZWVuc2hvdC0x\nMS5wbmcjMCIgd2lkdGg9IjQ1JSI+Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rougier/elegant-emacs/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/rougier/elegant-emacs/git/blobs/87c3dbbd1d7389702a0494ffbfa147114fc08d44",
+    "html": "https://github.com/rougier/elegant-emacs/blob/master/README.md"
+  }
+}

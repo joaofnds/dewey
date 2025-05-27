@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a4254302b5959f006aa87225c4fa4a24cd392930",
+  "size": 167,
+  "url": "https://api.github.com/repos/backstage/techdocs-cli/contents/README.md?ref=main",
+  "html_url": "https://github.com/backstage/techdocs-cli/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/backstage/techdocs-cli/git/blobs/a4254302b5959f006aa87225c4fa4a24cd392930",
+  "download_url": "https://raw.githubusercontent.com/backstage/techdocs-cli/main/README.md",
+  "type": "file",
+  "content": "IyB0ZWNoZG9jcy1jbGkKCkRldmVsb3BtZW50IG9mIHRoZSBUZWNoRG9jcyBD\nTEkgaGFzIG1vdmVkIGJhY2sgdG8gdGhlIFtiYWNrc3RhZ2UvYmFja3N0YWdl\nXShodHRwczovL2dpdGh1Yi5jb20vYmFja3N0YWdlL2JhY2tzdGFnZSkgbW9u\nb3JlcG8uCgpTZWUgeW91IHRoZXJlLCBmcmllbmRzIQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/backstage/techdocs-cli/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/backstage/techdocs-cli/git/blobs/a4254302b5959f006aa87225c4fa4a24cd392930",
+    "html": "https://github.com/backstage/techdocs-cli/blob/main/README.md"
+  }
+}

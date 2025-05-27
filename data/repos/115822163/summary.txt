@@ -1,0 +1,1 @@
+This JavaScript-based project provides a web-based demonstration of public and private key pair concepts, specifically within a blockchain context. It visualizes key pair generation and signing processes. The application is a standalone web application. Users can interact with the demonstration through a web browser.

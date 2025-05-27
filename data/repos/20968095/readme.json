@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "6197e2dfd0a4734c6f05554149b19adb68bb0389",
+  "size": 1223,
+  "url": "https://api.github.com/repos/ribot/android-guidelines/contents/README.md?ref=master",
+  "html_url": "https://github.com/ribot/android-guidelines/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/ribot/android-guidelines/git/blobs/6197e2dfd0a4734c6f05554149b19adb68bb0389",
+  "download_url": "https://raw.githubusercontent.com/ribot/android-guidelines/master/README.md",
+  "type": "file",
+  "content": "VGhhbmsgeW91IGZvciB5b3VyIGludGVyZXN0IGluIHJpYm904oCZcyBkZXZl\nbG9wbWVudCB3b3JrLiBVbmZvcnR1bmF0ZWx5IHRoZXJlIGFyZSBubyBjdXJy\nZW50IHBsYW5zIHRvIG1ha2UgYW55IGNoYW5nZXMgdG8gdGhpcyBwcm9qZWN0\nIGluIHRoZSBuZWFyIGZ1dHVyZSwgYW5kIGl0IGlzIG5vdCBiZWluZyBtYWlu\ndGFpbmVkIG9yIHVwZGF0ZWQuIFdlIGhvcGUgeW91IHN0aWxsIGZpbmQgdGhp\ncyBhIHVzZWZ1bCByZXNvdXJjZSBhbmQgeW91IGNhbiBjaGVjayBvdXQgdGhl\nIG5ld2VzdCByZWNvbW1lbmRhdGlvbnMgaW4gW0FuZHJvaWQgSmV0cGFja10o\naHR0cHM6Ly9kZXZlbG9wZXIuYW5kcm9pZC5jb20vamV0cGFjay8pIGZvciBt\nb3JlIGlkZWFzIQoKIyBBbmRyb2lkIEd1aWRlbGluZXMKCkxpc3Qgb2YgZ3Vp\nZGVsaW5lcyB0aGF0IHdlIHVzZSBhdCBbcmlib3RdKGh0dHA6Ly9yaWJvdC5j\nby51aykgd2hlbiBkZXZlbG9waW5nIGZvciB0aGUgX19BbmRyb2lkX18gcGxh\ndGZvcm0uIAoKKiBbUHJvamVjdCBhbmQgY29kZSBzdHlsZSBndWlkZWxpbmVz\nXShwcm9qZWN0X2FuZF9jb2RlX2d1aWRlbGluZXMubWQpCiogW0FyY2hpdGVj\ndHVyZSBHdWlkZWxpbmVzXShhcmNoaXRlY3R1cmVfZ3VpZGVsaW5lcy9hbmRy\nb2lkX2FyY2hpdGVjdHVyZS5tZCkKCiMjIyBMaWNlbnNlCgpgYGAKQ29weXJp\nZ2h0IDIwMTUgUmlib3QgTHRkLgoKTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNo\nZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CnlvdSBt\nYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0\naCB0aGUgTGljZW5zZS4KWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBM\naWNlbnNlIGF0CgogICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2Vz\nL0xJQ0VOU0UtMi4wCgpVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBs\nYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCmRpc3RyaWJ1\ndGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJB\nUyBJUyIgQkFTSVMsCldJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05T\nIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgpTZWUg\ndGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5p\nbmcgcGVybWlzc2lvbnMgYW5kCmxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNl\nbnNlLgpgYGA=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ribot/android-guidelines/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/ribot/android-guidelines/git/blobs/6197e2dfd0a4734c6f05554149b19adb68bb0389",
+    "html": "https://github.com/ribot/android-guidelines/blob/master/README.md"
+  }
+}

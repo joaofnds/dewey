@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "49ed92627c1586e7fa4e7c1ca00c0b6bdb8fa39b",
+  "size": 961,
+  "url": "https://api.github.com/repos/luarocks/luarocks/contents/README.md?ref=main",
+  "html_url": "https://github.com/luarocks/luarocks/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/luarocks/luarocks/git/blobs/49ed92627c1586e7fa4e7c1ca00c0b6bdb8fa39b",
+  "download_url": "https://raw.githubusercontent.com/luarocks/luarocks/main/README.md",
+  "type": "file",
+  "content": "PHAgYWxpZ249ImNlbnRlciI+PGEgaHJlZj0iaHR0cHM6Ly9sdWFyb2Nrcy5v\ncmciPjxpbWcgYm9yZGVyPSIwIiBzcmM9Imh0dHBzOi8vbHVhcm9ja3MuZ2l0\naHViLmlvL2x1YXJvY2tzL2x1YXJvY2tzLnBuZyIgYWx0PSJMdWFSb2NrcyIg\nd2lkdGg9IjUwMHB4Ij48L2E+PC9wPgoKQSBwYWNrYWdlIG1hbmFnZXIgZm9y\nIEx1YSBtb2R1bGVzLgoKWyFbQnVpbGQgU3RhdHVzXShodHRwczovL2dpdGh1\nYi5jb20vbHVhcm9ja3MvbHVhcm9ja3MvYWN0aW9ucy93b3JrZmxvd3MvdGVz\ndC55bWwvYmFkZ2Uuc3ZnKV0oaHR0cHM6Ly9naXRodWIuY29tL2x1YXJvY2tz\nL2x1YXJvY2tzL2FjdGlvbnMpClshW0NvdmVyYWdlIFN0YXR1c10oaHR0cHM6\nLy9jb2RlY292LmlvL2doL2x1YXJvY2tzL2x1YXJvY2tzL2JyYW5jaC9tYWlu\nL2dyYXBoL2JhZGdlLnN2ZyldKGh0dHBzOi8vYXBwLmNvZGVjb3YuaW8vZ2gv\nbHVhcm9ja3MvbHVhcm9ja3MvdHJlZS9tYWluKQpbIVtKb2luIHRoZSBjaGF0\nIGF0IGh0dHBzOi8vZ2l0dGVyLmltL2x1YXJvY2tzL2x1YXJvY2tzXShodHRw\nczovL2JhZGdlcy5naXR0ZXIuaW0vbHVhcm9ja3MvbHVhcm9ja3Muc3ZnKV0o\naHR0cHM6Ly9naXR0ZXIuaW0vbHVhcm9ja3MvbHVhcm9ja3MpCgpNYWluIHdl\nYnNpdGU6IFtsdWFyb2Nrcy5vcmddKGh0dHBzOi8vbHVhcm9ja3Mub3JnKQoK\nSXQgYWxsb3dzIHlvdSB0byBpbnN0YWxsIEx1YSBtb2R1bGVzIGFzIHNlbGYt\nY29udGFpbmVkIHBhY2thZ2VzIGNhbGxlZAoqcm9ja3MqLiBMdWFSb2NrcyBz\ndXBwb3J0cyBib3RoIGxvY2FsIGFuZCByZW1vdGUgcmVwb3NpdG9yaWVzLCBh\nbmQKbXVsdGlwbGUgbG9jYWwgcm9ja3MgdHJlZXMuCgojIyBMaWNlbnNlCgpM\ndWFSb2NrcyBpcyBmcmVlIHNvZnR3YXJlIGFuZCB1c2VzIHRoZSBbTUlUIGxp\nY2Vuc2VdKGh0dHA6Ly9sdWFyb2Nrcy5vcmcvZW4vTGljZW5zZSksIHRoZSBz\nYW1lIGFzIEx1YSA1LnguCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/luarocks/luarocks/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/luarocks/luarocks/git/blobs/49ed92627c1586e7fa4e7c1ca00c0b6bdb8fa39b",
+    "html": "https://github.com/luarocks/luarocks/blob/main/README.md"
+  }
+}

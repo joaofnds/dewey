@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "37eb237678635ef9ba5b31fa38989da3dd25f0eb",
+  "size": 1361,
+  "url": "https://api.github.com/repos/stellar/stellar-core/contents/README.md?ref=master",
+  "html_url": "https://github.com/stellar/stellar-core/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/stellar/stellar-core/git/blobs/37eb237678635ef9ba5b31fa38989da3dd25f0eb",
+  "download_url": "https://raw.githubusercontent.com/stellar/stellar-core/master/README.md",
+  "type": "file",
+  "content": "PGRpdiBhbGlnbj0iY2VudGVyIj4KPGEgaHJlZj0iaHR0cHM6Ly9zdGVsbGFy\nLm9yZyI+PGltZyBhbHQ9IlN0ZWxsYXIiIHNyYz0iaHR0cHM6Ly9naXRodWIu\nY29tL3N0ZWxsYXIvLmdpdGh1Yi9yYXcvbWFzdGVyL3N0ZWxsYXItbG9nby5w\nbmciIHdpZHRoPSI1NTgiIC8+PC9hPgo8YnIvPgo8c3Ryb25nPkNyZWF0aW5n\nIGVxdWl0YWJsZSBhY2Nlc3MgdG8gdGhlIGdsb2JhbCBmaW5hbmNpYWwgc3lz\ndGVtPC9zdHJvbmc+CjxoMT5TdGVsbGFyIENvcmU8L2gxPgo8L2Rpdj4KPHAg\nYWxpZ249ImNlbnRlciI+CjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9z\ndGVsbGFyL3N0ZWxsYXItY29yZS9hY3Rpb25zIj48aW1nIGFsdD0iQnVpbGQg\nU3RhdHVzIiBzcmM9Imh0dHBzOi8vZ2l0aHViLmNvbS9zdGVsbGFyL3N0ZWxs\nYXItY29yZS93b3JrZmxvd3MvLmdpdGh1Yi93b3JrZmxvd3MvYnVpbGQueW1s\nL2JhZGdlLnN2Zz9icmFuY2g9YXV0byIgLz48L2E+CjwvcD4KClN0ZWxsYXIt\nY29yZSBpcyBhIHJlcGxpY2F0ZWQgc3RhdGUgbWFjaGluZSB0aGF0IG1haW50\nYWlucyBhIGxvY2FsIGNvcHkgb2YgYSBjcnlwdG9ncmFwaGljIGxlZGdlciBh\nbmQgcHJvY2Vzc2VzIHRyYW5zYWN0aW9ucyBhZ2FpbnN0IGl0LCBpbiBjb25z\nZW5zdXMgd2l0aCBhIHNldCBvZiBwZWVycy4KSXQgaW1wbGVtZW50cyB0aGUg\nW1N0ZWxsYXIgQ29uc2Vuc3VzIFByb3RvY29sXShodHRwczovL2dpdGh1Yi5j\nb20vc3RlbGxhci9zdGVsbGFyLWNvcmUvYmxvYi9tYXN0ZXIvc3JjL3NjcC9y\nZWFkbWUubWQpLCBhIF9mZWRlcmF0ZWRfIGNvbnNlbnN1cyBwcm90b2NvbC4K\nSXQgaXMgd3JpdHRlbiBpbiBDKysxNyBhbmQgcnVucyBvbiBMaW51eCwgT1NY\nIGFuZCBXaW5kb3dzLgpMZWFybiBtb3JlIGJ5IHJlYWRpbmcgdGhlIFtvdmVy\ndmlldyBkb2N1bWVudF0oaHR0cHM6Ly9naXRodWIuY29tL3N0ZWxsYXIvc3Rl\nbGxhci1jb3JlL2Jsb2IvbWFzdGVyL2RvY3MvcmVhZG1lLm1kKS4KCiMgRG9j\ndW1lbnRhdGlvbgoKRG9jdW1lbnRhdGlvbiBvZiB0aGUgY29kZSdzIGxheW91\ndCBhbmQgYWJzdHJhY3Rpb25zLCBhcyB3ZWxsIGFzIGZvciB0aGUKZnVuY3Rp\nb25hbGl0eSBhdmFpbGFibGUsIGNhbiBiZSBmb3VuZCBpbgpbYC4vZG9jc2Bd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9zdGVsbGFyL3N0ZWxsYXItY29yZS90cmVl\nL21hc3Rlci9kb2NzKS4KCiMgSW5zdGFsbGF0aW9uCgpTZWUgW0luc3RhbGxh\ndGlvbl0oLi9JTlNUQUxMLm1kKQoKIyBDb250cmlidXRpbmcKClNlZSBbQ29u\ndHJpYnV0aW5nXSguL0NPTlRSSUJVVElORy5tZCkKCiMgUnVubmluZyB0ZXN0\ncwoKU2VlIFtydW5uaW5nIHRlc3RzXSguL0NPTlRSSUJVVElORy5tZCNydW5u\naW5nLXRlc3RzKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/stellar/stellar-core/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/stellar/stellar-core/git/blobs/37eb237678635ef9ba5b31fa38989da3dd25f0eb",
+    "html": "https://github.com/stellar/stellar-core/blob/master/README.md"
+  }
+}

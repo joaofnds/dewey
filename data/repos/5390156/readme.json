@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "dfef1575fed88416ede61f599a4900afa9087e86",
+  "size": 1466,
+  "url": "https://api.github.com/repos/fontforge/fontforge/contents/README.md?ref=master",
+  "html_url": "https://github.com/fontforge/fontforge/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/fontforge/fontforge/git/blobs/dfef1575fed88416ede61f599a4900afa9087e86",
+  "download_url": "https://raw.githubusercontent.com/fontforge/fontforge/master/README.md",
+  "type": "file",
+  "content": "IyBGb250Rm9yZ2UgWyFbQ0ldKGh0dHBzOi8vZ2l0aHViLmNvbS9mb250Zm9y\nZ2UvZm9udGZvcmdlL3dvcmtmbG93cy9DSS9iYWRnZS5zdmcpXShodHRwczov\nL2dpdGh1Yi5jb20vZm9udGZvcmdlL2ZvbnRmb3JnZS9hY3Rpb25zL3dvcmtm\nbG93cy9tYWluLnltbCkgWyFbQnVpbGQgc3RhdHVzXShodHRwczovL2NpLmFw\ncHZleW9yLmNvbS9hcGkvcHJvamVjdHMvc3RhdHVzL3k1eDBmZDF4ajIzbjls\nMm8/c3ZnPXRydWUpXShodHRwczovL2NpLmFwcHZleW9yLmNvbS9wcm9qZWN0\nL2ZvbnRmb3JnZS9mb250Zm9yZ2UpIFshW0NvdmVyaXR5IFNjYW4gQnVpbGQg\nU3RhdHVzXShodHRwczovL3NjYW4uY292ZXJpdHkuY29tL3Byb2plY3RzLzc5\nMi9iYWRnZS5zdmc/ZmxhdD0xKV0oaHR0cHM6Ly9zY2FuLmNvdmVyaXR5LmNv\nbS9wcm9qZWN0cy83OTIpCgohW0ZvbnRGb3JnZSBMb2dvXShodHRwOi8vZm9u\ndGZvcmdlLmdpdGh1Yi5pby9hc3NldHMvaW1nL2xvZ28tdHJhbnNwYXJlbnQu\ncG5nKQoKRm9udEZvcmdlIGlzIGEgZnJlZSAobGlicmUpIGZvbnQgZWRpdG9y\nIGZvciBXaW5kb3dzLCBNYWMgT1MgWCBhbmQgR05VK0xpbnV4LiAKVXNlIGl0\nIHRvIGNyZWF0ZSwgZWRpdCBhbmQgY29udmVydCBmb250cyBpbiBPcGVuVHlw\nZSwgVHJ1ZVR5cGUsIFVGTywgQ0lELWtleWVkLCBNdWx0aXBsZSBNYXN0ZXIs\nIGFuZCBtYW55IG90aGVyIGZvcm1hdHMuCgpbZm9udGZvcmdlLm9yZ10oaHR0\ncDovL2ZvbnRmb3JnZS5vcmcpICZtZGFzaDsgaG9tZXBhZ2UKCltkZXNpZ253\naXRoZm9udGZvcmdlLmNvbV0oaHR0cDovL2Rlc2lnbndpdGhmb250Zm9yZ2Uu\nY29tKSAmbWRhc2g7IGZvbnQgY3JlYXRpb24gbWFudWFsCgojIEdldHRpbmcg\naGVscAoKVGhlIGJ1ZyB0cmFja2VyIGlzIGZvciBfcmVwb3J0aW5nIGJ1Z3Nf\nLCBub3QgZm9yIGFza2luZyBxdWVzdGlvbnMuIFBsZWFzZSBkaXJlY3QgcXVl\nc3Rpb25zIHRvIG9uZSBvZiB0aGUgZm9sbG93aW5nOgoKKiBbTWFpbGluZyBs\naXN0XShodHRwczovL3NvdXJjZWZvcmdlLm5ldC9wL2ZvbnRmb3JnZS9tYWls\nbWFuL2ZvbnRmb3JnZS11c2Vycy8pCiogW0xpdmUgY2hhdF0oaHR0cHM6Ly93\nZWIubGliZXJhLmNoYXQvP2NoYW5uZWw9I2ZvbnRmb3JnZSkgJm1kYXNoOyAj\nZm9udGZvcmdlIG9uIFtMaWJlcmFdKGh0dHBzOi8vbGliZXJhLmNoYXQvKQoK\nIyBJbnN0YWxsYXRpb24gJiBjb250cmlidXRpbmcKCltgSU5TVEFMTC5tZGBd\nKElOU1RBTEwubWQpICZtZGFzaDsgZGV2ZWxvcGVyIGluc3RydWN0aW9ucyB0\nbyBidWlsZCBmcm9tIHNvdXJjZQoKW2BzZXR1cF9saW51eF9kZXBzLnNoYF0o\nLmdpdGh1Yi93b3JrZmxvd3Mvc2NyaXB0cy9zZXR1cF9saW51eF9kZXBzLnNo\nKSAmbWRhc2g7IGEgbGlzdCBvZiBpbnN0YWxsYXRpb24gZGVwZW5kZW5jaWVz\nCgpbYENPTlRSSUJVVElORy5tZGBdKENPTlRSSUJVVElORy5tZCkgJm1kYXNo\nOyBjb250cmlidXRpbmcgZ3VpZGVsaW5lcwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/fontforge/fontforge/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/fontforge/fontforge/git/blobs/dfef1575fed88416ede61f599a4900afa9087e86",
+    "html": "https://github.com/fontforge/fontforge/blob/master/README.md"
+  }
+}

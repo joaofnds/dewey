@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "4b71bfa77fce8d03c48a1eaa65e8ffec7b7a6f47",
+  "size": 610,
+  "url": "https://api.github.com/repos/semver/semver/contents/README.md?ref=master",
+  "html_url": "https://github.com/semver/semver/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/semver/semver/git/blobs/4b71bfa77fce8d03c48a1eaa65e8ffec7b7a6f47",
+  "download_url": "https://raw.githubusercontent.com/semver/semver/master/README.md",
+  "type": "file",
+  "content": "IyBTZW1hbnRpYyBWZXJzaW9uaW5nIFNwZWNpZmljYXRpb24KCiJTZW1hbnRp\nYyBWZXJzaW9uaW5nIiBvciAiU2VtVmVyIiBjb250YWlucyBhIHNldCBvZiBy\ndWxlcyBhbmQgcmVxdWlyZW1lbnRzIHRoYXQgZGljdGF0ZSBob3cgdmVyc2lv\nbiBudW1iZXJzIGFyZSBhc3NpZ25lZCBhbmQgaW5jcmVtZW50ZWQuIFlvdSBj\nYW4gZmluZCB0aGUgZnVsbCBkb2N1bWVudCBpbiBbc2VtdmVyLm1kXSguL3Nl\nbXZlci5tZCkgb3IgdmlzaXQgb3VyIG9mZmljaWFsIHdlYnNpdGUgW3NlbXZl\nci5vcmddKGh0dHBzOi8vc2VtdmVyLm9yZykgdG8gZmluZCBwcmV2aW91cyB2\nZXJzaW9ucyBhbmQgbG9jYWxpemVkIHNwZWNpZmljYXRpb25zLgoKQ2hhbmdl\ncyB0byB0aGUgZG9jdW1lbnQgYXJlIHB1Ymxpc2hlZCB0byB0aGUgd2Vic2l0\nZSBieSBhIFtHaXRIdWIgQWN0aW9ucyB3b3JrZmxvd10oaHR0cHM6Ly9naXRo\ndWIuY29tL3NlbXZlci9zZW12ZXIub3JnL2Jsb2IvZ2gtcGFnZXMvLmdpdGh1\nYi93b3JrZmxvd3Mvc3luYy55bWwpIHdoaWNoIHJ1bnMgb25jZSBlYWNoIGRh\neS4KCiMjIENvbnRyaWJ1dGluZwoKU2VlIHRoZSBbY29udHJpYnV0aW9uIGd1\naWRlXSguL0NPTlRSSUJVVElORy5tZCkuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/semver/semver/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/semver/semver/git/blobs/4b71bfa77fce8d03c48a1eaa65e8ffec7b7a6f47",
+    "html": "https://github.com/semver/semver/blob/master/README.md"
+  }
+}

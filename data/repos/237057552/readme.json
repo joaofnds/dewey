@@ -1,0 +1,18 @@
+{
+  "name": "README.org",
+  "path": "README.org",
+  "sha": "8e12b256fbefb2706d9270eb46d41a727ae2181c",
+  "size": 1163,
+  "url": "https://api.github.com/repos/io12/org-fragtog/contents/README.org?ref=master",
+  "html_url": "https://github.com/io12/org-fragtog/blob/master/README.org",
+  "git_url": "https://api.github.com/repos/io12/org-fragtog/git/blobs/8e12b256fbefb2706d9270eb46d41a727ae2181c",
+  "download_url": "https://raw.githubusercontent.com/io12/org-fragtog/master/README.org",
+  "type": "file",
+  "content": "W1todHRwczovL21lbHBhLm9yZy8jL29yZy1mcmFndG9nXVtmaWxlOmh0dHBz\nOi8vbWVscGEub3JnL3BhY2thZ2VzL29yZy1mcmFndG9nLWJhZGdlLnN2Z11d\nCltbaHR0cHM6Ly9naXRodWIuY29tL2lvMTIvb3JnLWZyYWd0b2cvYWN0aW9u\ncy93b3JrZmxvd3MvY2hlY2sueW1sXVtmaWxlOmh0dHBzOi8vZ2l0aHViLmNv\nbS9pbzEyL29yZy1mcmFndG9nL2FjdGlvbnMvd29ya2Zsb3dzL2NoZWNrLnlt\nbC9iYWRnZS5zdmddXQoKKiB+b3JnLWZyYWd0b2d+CkF1dG9tYXRpY2FsbHkg\ndG9nZ2xlIE9yZyBtb2RlIExhVGVYIGZyYWdtZW50IHByZXZpZXdzIGFzIHRo\nZSBjdXJzb3IgZW50ZXJzIGFuZCBleGl0cyB0aGVtCioqIEFib3V0CltbaHR0\ncHM6Ly9vcmdtb2RlLm9yZy9dW09yZyBtb2RlXV0Kc3VwcG9ydHMKW1todHRw\nczovL29yZ21vZGUub3JnL21hbnVhbC9QcmV2aWV3aW5nLUxhVGVYLWZyYWdt\nZW50cy5odG1sI1ByZXZpZXdpbmctTGFUZVgtZnJhZ21lbnRzXVtpbmxpbmUg\naW1hZ2UgcHJldmlld3NdXQpvZgpbW2h0dHBzOi8vb3JnbW9kZS5vcmcvbWFu\ndWFsL0xhVGVYLWZyYWdtZW50cy5odG1sXVtMYVRlWCBmcmFnbWVudHNdXS4K\nVGhlc2UgY2FuIGJlIHRvZ2dsZWQgd2l0aCBAQGh0bWw6PGtiZD5AQCBDLWMg\nQy14IEMtbCBAQGh0bWw6PC9rYmQ+QEAuIH5vcmctZnJhZ3RvZ34gYXV0b21h\ndGVzIHRoaXMsIHNvIGZyYWdtZW50IHByZXZpZXdzIGFyZSBkaXNhYmxlZCBm\nb3IgZWRpdGluZyB3aGVuIHlvdXIgY3Vyc29yIHN0ZXBzIG9udG8gdGhlbSwg\nYW5kIHJlLWVuYWJsZWQgd2hlbiB0aGUgY3Vyc29yIGxlYXZlcy4KCltbLi9k\nZW1vLmdpZl1dCioqIFNldHVwCkluc3RhbGwgYW5kIGxvYWQgdGhlIHBhY2th\nZ2UsIHRoZW4gYWRkIHRoZSBzbmlwcGV0IGJlbG93IHRvIHlvdXIgY29uZmln\nLgoKIytiZWdpbl9zcmMgZW1hY3MtbGlzcAooYWRkLWhvb2sgJ29yZy1tb2Rl\nLWhvb2sgJ29yZy1mcmFndG9nLW1vZGUpCiMrZW5kX3NyYwoKQWx0aG91Z2gg\ndGhpcyBwYWNrYWdlIHVzZXMgT3JnIG1vZGUncyBmcmFnbWVudCBwcmV2aWV3\nIGZlYXR1cmUsCml0IHNob3VsZCB3b3JrIHdpdGggYW55dGhpbmcgdGhhdCB1\nc2VzIHRoZSBzYW1lIGZyYWdtZW50IHN5bnRheCwKc3VjaCBhcyBNYXJrZG93\nbiBmaWxlcyBvciBmb3JtdWxhcyBpbiBjb2RlIGNvbW1lbnRzLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/io12/org-fragtog/contents/README.org?ref=master",
+    "git": "https://api.github.com/repos/io12/org-fragtog/git/blobs/8e12b256fbefb2706d9270eb46d41a727ae2181c",
+    "html": "https://github.com/io12/org-fragtog/blob/master/README.org"
+  }
+}

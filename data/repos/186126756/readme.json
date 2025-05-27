@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0d1b986c0935a6eb4fe2e038c1e5de2596b309c9",
+  "size": 943,
+  "url": "https://api.github.com/repos/vinceliuice/McMojave-kde/contents/README.md?ref=master",
+  "html_url": "https://github.com/vinceliuice/McMojave-kde/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/vinceliuice/McMojave-kde/git/blobs/0d1b986c0935a6eb4fe2e038c1e5de2596b309c9",
+  "download_url": "https://raw.githubusercontent.com/vinceliuice/McMojave-kde/master/README.md",
+  "type": "file",
+  "content": "PGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLmNvbS92aW5jZWxpdWljZS9TaWVy\ncmEtZ3RrLXRoZW1lL2Jsb2IvaW1ncy9sb2dvLnBuZyIgYWx0PSJMb2dvIiBh\nbGlnbj0icmlnaHQiIC8+IE1jTW9qYXZlIEtERSBUaGVtZQo9PT09PT0KCk1j\nTW9qYXZlIGtkZSBpcyBhIE1hY09TWCBNb2phdmUgbGlrZSB0aGVtZSBmb3Ig\nS0RFIFBsYXNtYSBkZXNrdG9wLgoKSW4gdGhpcyByZXBvc2l0b3J5IHlvdSds\nbCBmaW5kOgoKLSBBdXJvcmFlIFRoZW1lcwotIEt2YW50dW0gVGhlbWVzCi0g\nUGxhc21hIENvbG9yIFNjaGVtZXMKLSBQbGFzbWEgRGVza3RvcCBUaGVtZXMK\nLSBQbGFzbWEgTG9vay1hbmQtRmVlbCBTZXR0aW5ncwoKIyMgSW5zdGFsbGF0\naW9uCgpgYGBzaAouL2luc3RhbGwuc2gKYGBgCgojIyBEb25hdGUKCklmIHlv\ndSBsaWtlIG15IHByb2plY3QsIHlvdSBjYW4gZG9uYXRlIGF0OgoKPHNwYW4g\nY2xhc3M9InBheXBhbCI+PGEgaHJlZj0iaHR0cHM6Ly93d3cucGF5cGFsLm1l\nL3ZpbmNlbGl1aWNlIiB0aXRsZT0iRG9uYXRlIHRvIHRoaXMgcHJvamVjdCB1\nc2luZyBQYXlwYWwiPjxpbWcgc3JjPSJodHRwczovL3d3dy5wYXlwYWxvYmpl\nY3RzLmNvbS93ZWJzdGF0aWMvbWt0Zy9Mb2dvL3BwLWxvZ28tMTAwcHgucG5n\nIiBhbHQ9IlBheVBhbCBkb25hdGUgYnV0dG9uIiAvPjwvYT48L3NwYW4+Cgoj\nIyBMaWNlbnNlCgpHTlUgR1BMIHYzCgojIyBwcmV2aWV3CgohW2RhcmtdKC4u\nL21hc3Rlci9wbGFzbWEvbG9vay1hbmQtZmVlbC9jb20uZ2l0aHViLnZpbmNl\nbGl1aWNlLk1jTW9qYXZlL2NvbnRlbnRzL3ByZXZpZXdzL2Z1bGxzY3JlZW5w\ncmV2aWV3LmpwZykKIVtsaWdodF0oLi4vbWFzdGVyL3BsYXNtYS9sb29rLWFu\nZC1mZWVsL2NvbS5naXRodWIudmluY2VsaXVpY2UuTWNNb2phdmUtbGlnaHQv\nY29udGVudHMvcHJldmlld3MvZnVsbHNjcmVlbnByZXZpZXcuanBnKQoKCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/vinceliuice/McMojave-kde/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/vinceliuice/McMojave-kde/git/blobs/0d1b986c0935a6eb4fe2e038c1e5de2596b309c9",
+    "html": "https://github.com/vinceliuice/McMojave-kde/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "52a8c3cde1ffb15d64b20108bf7f4f976ed27c46",
+  "size": 1410,
+  "url": "https://api.github.com/repos/FredKSchott/snowpack/contents/README.md?ref=main",
+  "html_url": "https://github.com/FredKSchott/snowpack/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/FredKSchott/snowpack/git/blobs/52a8c3cde1ffb15d64b20108bf7f4f976ed27c46",
+  "download_url": "https://raw.githubusercontent.com/FredKSchott/snowpack/main/README.md",
+  "type": "file",
+  "content": "PiAqKlVwZGF0ZSAoQXByaWwgMjAsIDIwMjIpOioqIFNub3dwYWNrIGlzIG5v\nIGxvbmdlciBhY3RpdmVseSBtYWludGFpbmVkIGFuZCBpcyBub3QgcmVjb21t\nZW5kZWQgZm9yIG5ldyBwcm9qZWN0cy4KPiAKPiBDaGVjayBvdXQgW1ZpdGVd\nKGh0dHBzOi8vdml0ZWpzLmRldi8pIGZvciBhIHdlbGwtbWFpbnRhaW5lZCBT\nbm93cGFjayBhbHRlcm5hdGl2ZS4gIAo+IFNlZSBhbHNvOiBbZXNidWlsZF0o\naHR0cHM6Ly9lc2J1aWxkLmdpdGh1Yi5pby8pLCBbcGFyY2VsXShodHRwczov\nL3BhcmNlbGpzLm9yZy8pCgo8aDE+U25vd3BhY2s8L2gxPgoKU25vd3BhY2sg\naXMgYSBsaWdodG5pbmctZmFzdCBmcm9udGVuZCBidWlsZCB0b29sLCBkZXNp\nZ25lZCB0byBsZXZlcmFnZSBKYXZhU2NyaXB0J3MgbmF0aXZlIG1vZHVsZSBz\neXN0ZW0gKDxhIGhyZWY9Imh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3Jn\nL2VuLVVTL2RvY3MvV2ViL0phdmFTY3JpcHQvUmVmZXJlbmNlL1N0YXRlbWVu\ndHMvaW1wb3J0Ij5rbm93biBhcyBFU008L2E+KS4gSXQgaXMgYW4gYWx0ZXJu\nYXRpdmUgdG8gaGVhdmllciwgbW9yZSBjb21wbGV4IGJ1bmRsZXJzIGxpa2Ug\nd2VicGFjayBvciBQYXJjZWwgaW4geW91ciBkZXZlbG9wbWVudCB3b3JrZmxv\ndy4KCiMjIyBLZXkgRmVhdHVyZXMKCi0gRGV2ZWxvcCBmYXN0ZXIsIHdpdGgg\nYSBkZXYgc2VydmVyIHRoYXQgc3RhcnRzIHVwIGluICoqNTBtcyBvciBsZXNz\nLioqCi0gU2VlIGNoYW5nZXMgcmVmbGVjdGVkIFtpbnN0YW50bHkgaW4gdGhl\nIGJyb3dzZXIuXShodHRwczovL3d3dy5zbm93cGFjay5kZXYvY29uY2VwdHMv\naG90LW1vZHVsZS1yZXBsYWNlbWVudCkKLSBJbnRlZ3JhdGUgeW91ciBmYXZv\ncml0ZSBidW5kbGVyIGZvciBhIFtwcm9kdWN0aW9uLW9wdGltaXplZCBidWls\nZC5dKGh0dHBzOi8vd3d3LnNub3dwYWNrLmRldi9jb25jZXB0cy9idWlsZC1w\naXBlbGluZSkKLSBFbmpveSBvdXQtb2YtdGhlLWJveCBzdXBwb3J0IGZvciBb\nVHlwZVNjcmlwdCwgSlNYLCBDU1MgTW9kdWxlcyBhbmQgbW9yZS5dKGh0dHBz\nOi8vd3d3LnNub3dwYWNrLmRldi9yZWZlcmVuY2Uvc3VwcG9ydGVkLWZpbGVz\nKQotIENvbm5lY3QgeW91ciBmYXZvcml0ZSB0b29scyB3aXRoIFt0aGlyZC1w\nYXJ0eSBwbHVnaW5zLl0oaHR0cHM6Ly93d3cuc25vd3BhY2suZGV2L3BsdWdp\nbnMpCgoqKvCfkoEgTW9yZSBpbmZvIGF0IHRoZSBvZmZpY2lhbCBbU25vd3Bh\nY2sgd2Vic2l0ZSDinp5dKGh0dHBzOi8vc25vd3BhY2suZGV2KSoqCgo8YnIv\nPgoKPiAqKkNvbnRyaWJ1dG9yIEd1aWRlbGluZXM6KiogW0NPTlRSSUJVVElO\nRy5tZF0oLi9DT05UUklCVVRJTkcubWQpICAKPiAqKkxpY2Vuc2U6KiogW01J\nVF0oaHR0cHM6Ly9naXRodWIuY29tL3dpdGhhc3Ryby9zbm93cGFjay9ibG9i\nL21haW4vTElDRU5TRSkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/FredKSchott/snowpack/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/FredKSchott/snowpack/git/blobs/52a8c3cde1ffb15d64b20108bf7f4f976ed27c46",
+    "html": "https://github.com/FredKSchott/snowpack/blob/main/README.md"
+  }
+}

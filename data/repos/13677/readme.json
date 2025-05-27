@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "cd66d5062062f4c64ceb899e6782ec7e17c39c91",
+  "size": 1216,
+  "url": "https://api.github.com/repos/weavejester/compojure/contents/README.md?ref=master",
+  "html_url": "https://github.com/weavejester/compojure/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/weavejester/compojure/git/blobs/cd66d5062062f4c64ceb899e6782ec7e17c39c91",
+  "download_url": "https://raw.githubusercontent.com/weavejester/compojure/master/README.md",
+  "type": "file",
+  "content": "IyBDb21wb2p1cmUKClshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly90cmF2aXMt\nY2kub3JnL3dlYXZlamVzdGVyL2NvbXBvanVyZS5zdmc/YnJhbmNoPW1hc3Rl\ncildKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy93ZWF2ZWplc3Rlci9jb21wb2p1\ncmUpCgpDb21wb2p1cmUgaXMgYSBzbWFsbCByb3V0aW5nIGxpYnJhcnkgZm9y\nIFtSaW5nXVsxXSB0aGF0IGFsbG93cyB3ZWIKYXBwbGljYXRpb25zIHRvIGJl\nIGNvbXBvc2VkIG9mIHNtYWxsLCBpbmRlcGVuZGVudCBwYXJ0cy4KCiMjIElu\nc3RhbGxhdGlvbgoKQWRkIHRoZSBmb2xsb3dpbmcgZGVwZW5kZW5jeSB0byB5\nb3VyIGBwcm9qZWN0LmNsamAgZmlsZToKCiAgICBbY29tcG9qdXJlICIxLjcu\nMSJdCgojIyBEb2N1bWVudGF0aW9uCgoqIFtXaWtpXShodHRwczovL2dpdGh1\nYi5jb20vd2VhdmVqZXN0ZXIvY29tcG9qdXJlL3dpa2kpCiogW0FQSSBEb2Nz\nXShodHRwOi8vd2VhdmVqZXN0ZXIuZ2l0aHViLmlvL2NvbXBvanVyZSkKCiMj\nIENvbW11bml0eQoKKiBbR29vZ2xlIEdyb3VwXShodHRwOi8vZ3JvdXBzLmdv\nb2dsZS5jb20vZ3JvdXAvY29tcG9qdXJlKQoqICNjb21wb2p1cmUgb24gW0Zy\nZWVub2RlXShodHRwOi8vZnJlZW5vZGUubmV0LykgSVJDCgojIyBVc2FnZQoK\nVGhpcyBzbWFsbCBDb21wb2p1cmUgYXBwbGljYXRpb24gZGVtb25zdHJhdGVz\nIGNyZWF0aW5nIGEgUmluZyBoYW5kbGVyCmZyb20gdHdvIHJvdXRlczoKCmBg\nYGNsb2p1cmUKKG5zIGhlbGxvLXdvcmxkLmNvcmUKICAoOnJlcXVpcmUgW2Nv\nbXBvanVyZS5jb3JlIDpyZWZlciA6YWxsXQogICAgICAgICAgICBbY29tcG9q\ndXJlLnJvdXRlIDphcyByb3V0ZV0pKQoKKGRlZnJvdXRlcyBhcHAKICAoR0VU\nICIvIiBbXSAiPGgxPkhlbGxvIFdvcmxkPC9oMT4iKQogIChyb3V0ZS9ub3Qt\nZm91bmQgIjxoMT5QYWdlIG5vdCBmb3VuZDwvaDE+IikpCmBgYAoKQWxzbyBy\nZWZlciB0byB0aGUgW0dldHRpbmcgU3RhcnRlZF1bMl0gcGFnZSBvbiB0aGUg\nd2lraS4KClsxXTpodHRwczovL2dpdGh1Yi5jb20vcmluZy1jbG9qdXJlL3Jp\nbmcKWzJdOmh0dHBzOi8vZ2l0aHViLmNvbS93ZWF2ZWplc3Rlci9jb21wb2p1\ncmUvd2lraS9HZXR0aW5nLVN0YXJ0ZWQKCiMjIExpY2Vuc2UKCkNvcHlyaWdo\ndCDCqSAyMDI0IEphbWVzIFJlZXZlcwoKRGlzdHJpYnV0ZWQgdW5kZXIgdGhl\nIEVjbGlwc2UgUHVibGljIExpY2Vuc2UsIHRoZSBzYW1lIGFzIENsb2p1cmUu\nCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/weavejester/compojure/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/weavejester/compojure/git/blobs/cd66d5062062f4c64ceb899e6782ec7e17c39c91",
+    "html": "https://github.com/weavejester/compojure/blob/master/README.md"
+  }
+}

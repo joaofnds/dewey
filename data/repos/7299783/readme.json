@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0c2a138b066bc44ff1e3343504a5edf2deab7fc0",
+  "size": 347,
+  "url": "https://api.github.com/repos/luminus-framework/luminus/contents/README.md?ref=master",
+  "html_url": "https://github.com/luminus-framework/luminus/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/luminus-framework/luminus/git/blobs/0c2a138b066bc44ff1e3343504a5edf2deab7fc0",
+  "download_url": "https://raw.githubusercontent.com/luminus-framework/luminus/master/README.md",
+  "type": "file",
+  "content": "CjxpbWcgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20v\nbHVtaW51cy1mcmFtZXdvcmsvbHVtaW51cy9tYXN0ZXIvbHVtaW51cy5wbmci\nCiBoc3BhY2U9IjIwIiBhbGlnbj0ibGVmdCIgaGVpZ2h0PSIyMDAiLz4KIAoK\nc291cmNlcyBvZiB0aGUgZG9jdW1lbnRhdGlvbiBzaXRlIGZvciB0aGUgW0x1\nbWludXMgZnJhbWV3b3JrXShodHRwOi8vd3d3Lmx1bWludXN3ZWIubmV0KSAK\nCioqTGljZW5zZSoqCgpDb3B5cmlnaHQgwqkgMjAxNSBEbWl0cmkgU290bmlr\nb3YKCkRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBbTUlUIExpY2Vuc2VdKGh0dHA6\nLy9vcGVuc291cmNlLm9yZy9saWNlbnNlcy9NSVQpLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/luminus-framework/luminus/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/luminus-framework/luminus/git/blobs/0c2a138b066bc44ff1e3343504a5edf2deab7fc0",
+    "html": "https://github.com/luminus-framework/luminus/blob/master/README.md"
+  }
+}

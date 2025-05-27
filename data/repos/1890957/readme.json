@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "ef4271a077953ac664d0a37cf0f00428653f0f89",
+  "size": 1313,
+  "url": "https://api.github.com/repos/sbcl/sbcl/contents/README?ref=master",
+  "html_url": "https://github.com/sbcl/sbcl/blob/master/README",
+  "git_url": "https://api.github.com/repos/sbcl/sbcl/git/blobs/ef4271a077953ac664d0a37cf0f00428653f0f89",
+  "download_url": "https://raw.githubusercontent.com/sbcl/sbcl/master/README",
+  "type": "file",
+  "content": "R0VORVJBTCBJTkZPUk1BVElPTgoKV2VsY29tZSB0byBTQkNMLgoKSWYgeW91\nJ2QgbGlrZSB0byBpbnN0YWxsIG9yIGJ1aWxkIHRoZSBzeXN0ZW0sIHNlZSB0\naGUgIklOU1RBTEwiIGZpbGUuCgpUbyBmaW5kIG91dCBtb3JlIGFib3V0IHdo\nbyBjcmVhdGVkIHRoZSBzeXN0ZW0sIHNlZSB0aGUgIkNSRURJVFMiIGZpbGUu\nCgpJZiB5b3UnZCBsaWtlIGluZm9ybWF0aW9uIGFib3V0IHRoZSBsZWdhbGl0\naWVzIG9mIGNvcHlpbmcgdGhlIHN5c3RlbSwKc2VlIHRoZSAiQ09QWUlORyIg\nZmlsZS4KCklmIHlvdSdkIGxpa2UgbW9yZSBpbmZvcm1hdGlvbiBhYm91dCB1\nc2luZyB0aGUgc3lzdGVtLCBzZWUgdGhlIG1hbgpwYWdlLCAic2JjbC4xIiwg\nb3IgdGhlIHVzZXIgbWFudWFsIGluIHRoZSAiZG9jL21hbnVhbCIgc3ViZGly\nZWN0b3J5IG9mCnRoZSBkaXN0cmlidXRpb24uIChUaGUgdXNlciBtYW51YWwg\naXMgbWFpbnRhaW5lZCBhcyBUZXhpbmZvIGluIHRoZQpzb3VyY2UgZGlzdHJp\nYnV0aW9uOyBIVE1MIHZlcnNpb24gaXMgYXZhaWxhYmxlIGZvciBkb3dubG9h\nZCwgYW5kCiJJTlNUQUxMIiBkZXNjcmliZXMgaG93IHRvIGJ1aWxkIHRoZSBU\nZXhpbmZvIHZlcnNpb24gaW4gSFRNTCBhbmQgUERGLikKClRoZSBzeXN0ZW0g\naXMgYSB3b3JrIGluIHByb2dyZXNzLiBTZWUgdGhlICJUT0RPIiBmaWxlIGlu\nIHRoZSBzb3VyY2UKZGlzdHJpYnV0aW9uIGZvciBzb21lIGhpZ2hsaWdodHMu\nCgpUaGUgIkJVR1MiIGZpbGUgbGlzdHMgY3VycmVudCBrbm93biBidWdzLgoK\nSWYgeW91J2QgbGlrZSB0byBtYWtlIHN1Z2dlc3Rpb25zLCByZXBvcnQgYSBi\ndWcsIG9yIGhlbHAgdG8gaW1wcm92ZSB0aGUKc3lzdGVtLCBwbGVhc2Ugc2Vu\nZCBtYWlsIHRvIG9uZSBvZiB0aGUgbWFpbGluZyBsaXN0czoKICBzYmNsLWhl\nbHBAbGlzdHMuc291cmNlZm9yZ2UubmV0CiAgc2JjbC1kZXZlbEBsaXN0cy5z\nb3VyY2Vmb3JnZS5uZXQKTm90ZSB0aGF0IGFzIGEgc3BhbSByZWR1Y3Rpb24g\nbWVhc3VyZSB5b3UgbXVzdCBzdWJzY3JpYmUgdG8gdGhlIGxpc3RzCmJlZm9y\nZSB5b3UgY2FuIHBvc3QuCgpUaGUgIkhBQ0tJTkciIGZpbGUgaGFzIG1vcmUg\nZGV0YWlscyByZWdhcmRpbmcgaGFja2luZyBvbiBhbmQKY29udHJpYnV0aW5n\nIHRvIFNCQ0wuCgpTWVNURU0tU1BFQ0lGSUMgSElOVFMKCmZvciBPcGVuQlNE\nIDYuMCBhbmQgbmV3ZXI6CiAgU0JDTCBtdXN0IGJlIGJ1aWx0IGFuZCBydW4g\nZnJvbSBhIGZpbGVzeXN0ZW0gd2l0aCB0aGUgInd4YWxsb3dlZCIKICBtb3Vu\ndCBvcHRpb24sIHN1Y2ggYXMgL3Vzci9sb2NhbCBpbiB0aGUgZGVmYXVsdCBp\nbnN0YWxsLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sbcl/sbcl/contents/README?ref=master",
+    "git": "https://api.github.com/repos/sbcl/sbcl/git/blobs/ef4271a077953ac664d0a37cf0f00428653f0f89",
+    "html": "https://github.com/sbcl/sbcl/blob/master/README"
+  }
+}

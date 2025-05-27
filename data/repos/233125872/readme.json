@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "d24543bb6a4a4da2ccb5ad35c0370b3b272279b9",
+  "size": 516,
+  "url": "https://api.github.com/repos/james-work-account/is-ten-thousand/contents/README.md?ref=main",
+  "html_url": "https://github.com/james-work-account/is-ten-thousand/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/james-work-account/is-ten-thousand/git/blobs/d24543bb6a4a4da2ccb5ad35c0370b3b272279b9",
+  "download_url": "https://raw.githubusercontent.com/james-work-account/is-ten-thousand/main/README.md",
+  "type": "file",
+  "content": "IyBpcy10ZW4tdGhvdXNhbmQKCklmIHlvdSBuZWVkIHRvIGtub3cgaWYgYSBu\ndW1iZXIgaXMgdGVuIHRob3VzYW5kLgoKWyFbTlBNIGxpbmtdKGh0dHBzOi8v\nbm9kZWkuY28vbnBtL2lzLXRlbi10aG91c2FuZC5wbmc/ZG93bmxvYWRzPXRy\ndWUmZG93bmxvYWRSYW5rPXRydWUmc3RhcnM9dHJ1ZSldKGh0dHBzOi8vbm9k\nZWkuY28vbnBtL2lzLXRlbi10aG91c2FuZC8pCgpQcm91ZCB0byBiZSBmZWF0\ndXJlZCBieSBbRW5naW5lZXIgTWFuXShodHRwczovL3lvdXR1LmJlL1BJNXd6\nMnB3WElnP3Q9NTEpOgoKWyFbVGh1bWJuYWlsIGZyb20gRW5naW5lZXIgTWFu\nJ3MgdmlkZW8gb24gIlJpZGljdWxvdXMgTlBNIChOb2RlLmpzKSBQYWNrYWdl\ncyB0aGF0IEkgd2lzaCBkaWRuJ3QgZXhpc3QiXShodHRwczovL2kzLnl0aW1n\nLmNvbS92aS9QSTV3ejJwd1hJZy9tYXhyZXNkZWZhdWx0LmpwZyldKGh0dHBz\nOi8veW91dHUuYmUvUEk1d3oycHdYSWc/dD01MSkKCiMjIFVzYWdlCgpEb24n\ndC4gWW91J3JlIG5vdCByZWFkeS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/james-work-account/is-ten-thousand/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/james-work-account/is-ten-thousand/git/blobs/d24543bb6a4a4da2ccb5ad35c0370b3b272279b9",
+    "html": "https://github.com/james-work-account/is-ten-thousand/blob/main/README.md"
+  }
+}

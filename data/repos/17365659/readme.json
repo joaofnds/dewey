@@ -1,0 +1,18 @@
+{
+  "name": "README.rst",
+  "path": "README.rst",
+  "sha": "c1323fe36a33f9ceeca6de7f2c4f20cd30d29f07",
+  "size": 43,
+  "url": "https://api.github.com/repos/wasamasa/eyebrowse/contents/README.rst?ref=master",
+  "html_url": "https://github.com/wasamasa/eyebrowse/blob/master/README.rst",
+  "git_url": "https://api.github.com/repos/wasamasa/eyebrowse/git/blobs/c1323fe36a33f9ceeca6de7f2c4f20cd30d29f07",
+  "download_url": "https://raw.githubusercontent.com/wasamasa/eyebrowse/master/README.rst",
+  "type": "file",
+  "content": "TW92ZWQgdG8gaHR0cHM6Ly9kZXBwLmJyYXVzZS5jYy9leWVicm93c2UvCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/wasamasa/eyebrowse/contents/README.rst?ref=master",
+    "git": "https://api.github.com/repos/wasamasa/eyebrowse/git/blobs/c1323fe36a33f9ceeca6de7f2c4f20cd30d29f07",
+    "html": "https://github.com/wasamasa/eyebrowse/blob/master/README.rst"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f3a068c9c148cc51874073fe1f5a3c5b6620d9c6",
+  "size": 152,
+  "url": "https://api.github.com/repos/rsc/rf/contents/README.md?ref=main",
+  "html_url": "https://github.com/rsc/rf/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/rsc/rf/git/blobs/f3a068c9c148cc51874073fe1f5a3c5b6620d9c6",
+  "download_url": "https://raw.githubusercontent.com/rsc/rf/main/README.md",
+  "type": "file",
+  "content": "cmYgaXMgYW4gZXhwZXJpbWVudGFsIHJlZmFjdG9yaW5nIHRvb2wuIEl0IGlz\nIHZlcnkgbXVjaCBhIHdvcmsgaW4gcHJvZ3Jlc3MuCgoqKnJmIGlzIGluY3Jl\nZGlibHkgcm91Z2ggYW5kIGxpa2VseSB0byBiZSBidWdneSBhbmQgY2hhbmdl\nIGluY29tcGF0aWJseS4qKgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rsc/rf/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/rsc/rf/git/blobs/f3a068c9c148cc51874073fe1f5a3c5b6620d9c6",
+    "html": "https://github.com/rsc/rf/blob/main/README.md"
+  }
+}

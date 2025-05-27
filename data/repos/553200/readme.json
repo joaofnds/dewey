@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0934f862cce42ef3b3b205ca250c3a53277756cf",
+  "size": 1255,
+  "url": "https://api.github.com/repos/wincent/command-t/contents/README.md?ref=main",
+  "html_url": "https://github.com/wincent/command-t/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/wincent/command-t/git/blobs/0934f862cce42ef3b3b205ca250c3a53277756cf",
+  "download_url": "https://raw.githubusercontent.com/wincent/command-t/main/README.md",
+  "type": "file",
+  "content": "PHAgYWxpZ249ImNlbnRlciI+CjxpbWcgc3JjPSJodHRwczovL3Jhdy5naXRo\ndWJ1c2VyY29udGVudC5jb20vd2luY2VudC9jb21tYW5kLXQvbWVkaWEvY29t\nbWFuZC10LXNtYWxsLmpwZyIgLz4KPGltZyBzcmM9Imh0dHBzOi8vcmF3Lmdp\ndGh1YnVzZXJjb250ZW50LmNvbS93aW5jZW50L2NvbW1hbmQtdC9tZWRpYS9j\nb21tYW5kLXQtdjYuZ2lmIiAvPgo8L3A+CgojIENvbW1hbmQtVAoKQ29tbWFu\nZC1UIGlzIGEgTmVvdmltIGFuZCBWaW0gcGx1Zy1pbiB0aGF0IHByb3ZpZGVz\nIGFuIGV4dHJlbWVseSBmYXN0ICJmdXp6eSIgbWVjaGFuaXNtIGZvcjoKCi0g\nT3BlbmluZyBmaWxlcyBhbmQgYnVmZmVycwotIEp1bXBpbmcgdG8gdGFncyBh\nbmQgaGVscAotIFJ1bm5pbmcgY29tbWFuZHMsIG9yIHByZXZpb3VzIHNlYXJj\naGVzIGFuZCBjb21tYW5kcwoKd2l0aCBhIG1pbmltdW0gb2Yga2V5c3Ryb2tl\ncy4KCkZpbGVzIGFyZSBzZWxlY3RlZCBieSB0eXBpbmcgY2hhcmFjdGVycyB0\naGF0IGFwcGVhciBpbiB0aGVpciBwYXRocywgYW5kIGFyZSByYW5rZWQgYnkg\nYW4gYWxnb3JpdGhtIHdoaWNoIGtub3dzIHRoYXQgY2hhcmFjdGVycyB0aGF0\nIGFwcGVhciBpbiBjZXJ0YWluIGxvY2F0aW9ucyAoZm9yIGV4YW1wbGUsIGlt\nbWVkaWF0ZWx5IGFmdGVyIGEgcGF0aCBzZXBhcmF0b3IpIHNob3VsZCBiZSBn\naXZlbiBtb3JlIHdlaWdodC4KCkZpbGVzIGNhbiBiZSBvcGVuZWQgaW4gdGhl\nIGN1cnJlbnQgd2luZG93LCBvciBpbiBzcGxpdHMgb3IgdGFicy4gTWFueSBj\nb25maWd1cmF0aW9uIG9wdGlvbnMgYXJlIHByb3ZpZGVkLgoKU3BlZWQgaXMg\ndGhlIHByaW1hcnkgZGVzaWduIGdvYWwsIGFsb25nIHdpdGggcHJvdmlkaW5n\nIGhpZ2gtcXVhbGl0eSwgaW50dWl0aXZlIG1hdGNoIG9yZGVyaW5nLiBUaGUg\naGFuZC1jcmFmdGVkIG1hdGNoaW5nIGFsZ29yaXRobSwgaW1wbGVtZW50ZWQg\naW4gbG93LWxldmVsIEMgYW5kIGNvbWJpbmVkIHdpdGggcGFyYWxsZWxpemVk\nIHNlYXJjaCwgaW5wdXQgZGVib3VuY2luZywgaW50ZWdyYXRpb24gd2l0aCBX\nYXRjaG1hbiBhbmQgbWFueSBvdGhlciBvcHRpbWl6YXRpb25zLCBtZWFuIHRo\nYXQgQ29tbWFuZC1UIGlzIHRoZSBmYXN0ZXN0IGZ1enp5IGZpbGUgZmluZGVy\nIGJhciBub25lLgoKLS0tCgpGb3IgbW9yZSBpbmZvcm1hdGlvbiwgc2VlIFt0\naGUgZG9jdW1lbnRhdGlvbl0oaHR0cHM6Ly9naXRodWIuY29tL3dpbmNlbnQv\nY29tbWFuZC10L2Jsb2IvbWFpbi9kb2MvY29tbWFuZC10LnR4dCkuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/wincent/command-t/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/wincent/command-t/git/blobs/0934f862cce42ef3b3b205ca250c3a53277756cf",
+    "html": "https://github.com/wincent/command-t/blob/main/README.md"
+  }
+}

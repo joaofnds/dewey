@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b34e052869255bdf48dc3840ca27cfdf8037619f",
+  "size": 863,
+  "url": "https://api.github.com/repos/lettier/ntpclient/contents/README.md?ref=master",
+  "html_url": "https://github.com/lettier/ntpclient/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/lettier/ntpclient/git/blobs/b34e052869255bdf48dc3840ca27cfdf8037619f",
+  "download_url": "https://raw.githubusercontent.com/lettier/ntpclient/master/README.md",
+  "type": "file",
+  "content": "IVtBbHQgdGV4dF0oc2NyZWVuc2hvdC5qcGcpCgojIE5UUCBDbGllbnQKClRo\naXMgTlRQIGNsaWVudCBpcyBzaW1pbGFyIGluIG5hdHVyZSB0byBgbnRwZGF0\nZWAgYnV0IGRvZXMgbm90IGFjY2VwdCBhbnkgY29tbWFuZCBsaW5lIGFyZ3Vt\nZW50cwpub3IgZG9lcyBpdCB1cGRhdGUgdGhlIHN5c3RlbSBjbG9jay4gTm90\nZSB0aGF0IHRoaXMgTlRQIGNsaWVudCBkb2VzIG5vdCB1c2UgYW55IE5UUCBs\naWJyYXJpZXMKYnV0IHJhdGhlciB3b3JrcyBkaXJlY3RseSBhdCB0aGUgW05U\nUCBwcm90b2NvbCBsZXZlbF0oaHR0cDovL3Rvb2xzLmlldGYub3JnL2h0bWwv\ncmZjOTU4KS4gIAoKV2l0aGluIGAuL3NvdXJjZWAgdGhlcmUgYXJlIHR3byB2\nZXJzaW9ucyBvZiB0aGUgTlRQIGNsaWVudC4gT25lIGlzIHdyaXR0ZW4gaW4g\nQyB3aGlsZSB0aGUgb3RoZXIKb25lIGlzIHdyaXR0ZW4gaW4gUHl0aG9uLiBU\naGV5IGJvdGggaGF2ZSB0aGUgc2FtZSBmdW5jdGlvbmFsaXR5IGFuZCBhcmUg\naW5kZXBlbmRlbnQgb2Ygb25lIGFub3RoZXIuClRoZSBDIHZlcnNpb24gdXNl\ncyBgdXMucG9vbC5udHAub3JnYCBhcyB0aGUgTlRQIHNlcnZlciB3aGlsZSB0\naGUgUHl0aG9uIHZlcnNpb24gdXNlcyBgcG9vbC5udHAub3JnYC4gIAoKRm9y\nIG1vcmUgaW5mb3JtYXRpb24gYmUgc3VyZSB0byByZWFkCltMZXQncyBtYWtl\nIGEgTlRQIENsaWVudCBpbiBDXShodHRwczovL2xldHRpZXIuZ2l0aHViLmlv\nL3Bvc3RzLzIwMTYtMDQtMjYtbGV0cy1tYWtlLWEtbnRwLWNsaWVudC1pbi1j\nLmh0bWwpLgoKXyhDKSAyMDE0IERhdmlkIExldHRpZXIuXyAgCmh0dHA6Ly93\nd3cubGV0dGllci5jb20vCgojIyBMaWNlbnNlCgpTZWUgW0xJQ0VOU0VdKExJ\nQ0VOU0UpLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/lettier/ntpclient/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/lettier/ntpclient/git/blobs/b34e052869255bdf48dc3840ca27cfdf8037619f",
+    "html": "https://github.com/lettier/ntpclient/blob/master/README.md"
+  }
+}

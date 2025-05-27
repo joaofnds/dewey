@@ -1,0 +1,1 @@
+FontForge is a free and open-source font editor application for Windows, macOS, and Linux. It allows users to create, edit, and convert fonts in various formats, including OpenType, TrueType, UFO, and CID-keyed. The project, written in C, provides a graphical user interface for font manipulation and serves as a standalone application targeted toward font designers and developers.

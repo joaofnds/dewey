@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "2487762ca33e85150d5193b2d41dee4a55a379e7",
+  "size": 328,
+  "url": "https://api.github.com/repos/grafana/phlare/contents/README.md?ref=main",
+  "html_url": "https://github.com/grafana/phlare/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/grafana/phlare/git/blobs/2487762ca33e85150d5193b2d41dee4a55a379e7",
+  "download_url": "https://raw.githubusercontent.com/grafana/phlare/main/README.md",
+  "type": "file",
+  "content": "IyBHcmFmYW5hIFBobGFyZSBpcyBhcmNoaXZlZAoKT24gMjAyMy0wMy0xNSwg\nW0dyYWZhbmEgTGFicyBhY3F1aXJlZCBQeXJvc2NvcGVdKGh0dHBzOi8vZ3Jh\nZmFuYS5jb20vYmxvZy8yMDIzLzAzLzE1L3B5cm9zY29wZS1ncmFmYW5hLXBo\nbGFyZS1qb2luLWZvci1vc3MtY29udGludW91cy1wcm9maWxpbmcvKS4KCkFz\nIGEgcmVzdWx0LCBHcmFmYW5hIExhYnMgUGhsYXJlIGhhcyBiZWVuIGFyY2hp\ndmVkLgoKQWxsIGZ1dHVyZSBkZXZlbG9wbWVudCB3aWxsIGhhcHBlbiBpbiBb\nR3JhZmFuYSBQeXJvc2NvcGVdKGh0dHBzOi8vZ2l0aHViLmNvbS9ncmFmYW5h\nL3B5cm9zY29wZSkuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/grafana/phlare/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/grafana/phlare/git/blobs/2487762ca33e85150d5193b2d41dee4a55a379e7",
+    "html": "https://github.com/grafana/phlare/blob/main/README.md"
+  }
+}

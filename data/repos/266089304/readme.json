@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "03357f817431969a0fa6837cf7ed0f06b4c3719b",
+  "size": 382,
+  "url": "https://api.github.com/repos/cormullion/juliamono/contents/README.md?ref=master",
+  "html_url": "https://github.com/cormullion/juliamono/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/cormullion/juliamono/git/blobs/03357f817431969a0fa6837cf7ed0f06b4c3719b",
+  "download_url": "https://raw.githubusercontent.com/cormullion/juliamono/master/README.md",
+  "type": "file",
+  "content": "IyMjIyBKdWxpYU1vbm8sIGEgZm9udCBmb3IgcHJvZ3JhbW1pbmcKCkp1bGlh\nTW9ubyBpcyBhIG1vbm9zcGFjZWQgdHlwZWZhY2UgZGVzaWduZWQgZm9yIHBy\nb2dyYW1taW5nIGluIHRleHQgZWRpdGluZyBlbnZpcm9ubWVudHMgdGhhdCBy\nZXF1aXJlIGEgd2lkZSByYW5nZSBvZiBzcGVjaWFsaXN0IGFuZCB0ZWNobmlj\nYWwgVW5pY29kZSBjaGFyYWN0ZXJzLgoKIVtpbWFnZV0oaHR0cHM6Ly9naXRo\ndWIuY29tL2Nvcm11bGxpb24vanVsaWFtb25vbWFzdGVyL2Jsb2IvbWFzdGVy\nL2ltYWdlcy9zcGVjaW1lbl8xLnBuZykKClZpc2l0IFtodHRwczovL2p1bGlh\nbW9uby5uZXRsaWZ5LmFwcF0oaHR0cHM6Ly9qdWxpYW1vbm8ubmV0bGlmeS5h\ncHApIHRvIGZpbmQgb3V0IG1vcmUuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/cormullion/juliamono/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/cormullion/juliamono/git/blobs/03357f817431969a0fa6837cf7ed0f06b4c3719b",
+    "html": "https://github.com/cormullion/juliamono/blob/master/README.md"
+  }
+}

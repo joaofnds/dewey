@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b3f30676b3cf67627e90988ae722584e10c038c1",
+  "size": 424,
+  "url": "https://api.github.com/repos/openjdk/jdk/contents/README.md?ref=master",
+  "html_url": "https://github.com/openjdk/jdk/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/openjdk/jdk/git/blobs/b3f30676b3cf67627e90988ae722584e10c038c1",
+  "download_url": "https://raw.githubusercontent.com/openjdk/jdk/master/README.md",
+  "type": "file",
+  "content": "IyBXZWxjb21lIHRvIHRoZSBKREshCgpGb3IgYnVpbGQgaW5zdHJ1Y3Rpb25z\nIHBsZWFzZSBzZWUgdGhlCltvbmxpbmUgZG9jdW1lbnRhdGlvbl0oaHR0cHM6\nLy9vcGVuamRrLm9yZy9ncm91cHMvYnVpbGQvZG9jL2J1aWxkaW5nLmh0bWwp\nLApvciBlaXRoZXIgb2YgdGhlc2UgZmlsZXM6CgotIFtkb2MvYnVpbGRpbmcu\naHRtbF0oZG9jL2J1aWxkaW5nLmh0bWwpIChodG1sIHZlcnNpb24pCi0gW2Rv\nYy9idWlsZGluZy5tZF0oZG9jL2J1aWxkaW5nLm1kKSAobWFya2Rvd24gdmVy\nc2lvbikKClNlZSA8aHR0cHM6Ly9vcGVuamRrLm9yZy8+IGZvciBtb3JlIGlu\nZm9ybWF0aW9uIGFib3V0IHRoZSBPcGVuSkRLCkNvbW11bml0eSBhbmQgdGhl\nIEpESyBhbmQgc2VlIDxodHRwczovL2J1Z3Mub3Blbmpkay5vcmc+IGZvciBK\nREsgaXNzdWUKdHJhY2tpbmcuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/openjdk/jdk/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/openjdk/jdk/git/blobs/b3f30676b3cf67627e90988ae722584e10c038c1",
+    "html": "https://github.com/openjdk/jdk/blob/master/README.md"
+  }
+}

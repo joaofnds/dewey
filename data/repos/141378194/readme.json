@@ -1,0 +1,18 @@
+{
+  "name": "README.org",
+  "path": "README.org",
+  "sha": "60e67e7167082b39cfa094fc9ab14cd8a4576fcd",
+  "size": 1021,
+  "url": "https://api.github.com/repos/magit/forge/contents/README.org?ref=main",
+  "html_url": "https://github.com/magit/forge/blob/main/README.org",
+  "git_url": "https://api.github.com/repos/magit/forge/git/blobs/60e67e7167082b39cfa094fc9ab14cd8a4576fcd",
+  "download_url": "https://raw.githubusercontent.com/magit/forge/main/README.org",
+  "type": "file",
+  "content": "KiogV29yayB3aXRoIEdpdCBmb3JnZXMgZnJvbSB0aGUgY29tZm9ydCBvZiBN\nYWdpdAoKV29yayB3aXRoIEdpdCBmb3JnZXMsIHN1Y2ggYXMgR2l0aHViIGFu\nZCBHaXRsYWIsIGZyb20gdGhlIGNvbWZvcnQKb2YgTWFnaXQgYW5kIHRoZSBy\nZXN0IG9mIEVtYWNzLgoKW1todHRwOi8vcmVhZG1lLmVtYWNzYWlyLm1lL2Zv\ncmdlLXN0YXR1cy5wbmddXQoKW1todHRwOi8vcmVhZG1lLmVtYWNzYWlyLm1l\nL2ZvcmdlLXRvcGljLnBuZ11dCgpQbGVhc2Ugc2VlIHRoZSBbW2h0dHBzOi8v\nbWFnaXQudmMvbWFudWFsL2ZvcmdlXVttYW51YWxdXSBhbmQgdGhlIFtbaHR0\ncHM6Ly9lbWFjc2Fpci5tZS8yMDE4LzEyLzE5L2ZvcmdlLTAuMV1bYW5ub3Vu\nY2VtZW50XV0gZm9yIG1vcmUgaW5mb3JtYXRpb24uCgojK2h0bWw6IDxicj48\nYnI+CiMraHRtbDogPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21hZ2l0\nL2ZvcmdlL2FjdGlvbnMvd29ya2Zsb3dzL2NvbXBpbGUueW1sIj48aW1nIGFs\ndD0iQ29tcGlsZSIgc3JjPSJodHRwczovL2dpdGh1Yi5jb20vbWFnaXQvZm9y\nZ2UvYWN0aW9ucy93b3JrZmxvd3MvY29tcGlsZS55bWwvYmFkZ2Uuc3ZnIi8+\nPC9hPgojK2h0bWw6IDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWdp\ndC9mb3JnZS9hY3Rpb25zL3dvcmtmbG93cy9tYW51YWwueW1sIj48aW1nIGFs\ndD0iTWFudWFsIiBzcmM9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWdpdC9mb3Jn\nZS9hY3Rpb25zL3dvcmtmbG93cy9tYW51YWwueW1sL2JhZGdlLnN2ZyIvPjwv\nYT4KIytodG1sOiA8YSBocmVmPSJodHRwczovL3N0YWJsZS5tZWxwYS5vcmcv\nIy9mb3JnZSI+PGltZyBhbHQ9Ik1FTFBBIFN0YWJsZSIgc3JjPSJodHRwczov\nL3N0YWJsZS5tZWxwYS5vcmcvcGFja2FnZXMvZm9yZ2UtYmFkZ2Uuc3ZnIi8+\nPC9hPgojK2h0bWw6IDxhIGhyZWY9Imh0dHBzOi8vbWVscGEub3JnLyMvZm9y\nZ2UiPjxpbWcgYWx0PSJNRUxQQSIgc3JjPSJodHRwczovL21lbHBhLm9yZy9w\nYWNrYWdlcy9mb3JnZS1iYWRnZS5zdmciLz48L2E+Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/magit/forge/contents/README.org?ref=main",
+    "git": "https://api.github.com/repos/magit/forge/git/blobs/60e67e7167082b39cfa094fc9ab14cd8a4576fcd",
+    "html": "https://github.com/magit/forge/blob/main/README.org"
+  }
+}

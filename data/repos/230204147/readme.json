@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9dd9835bf2de18e3f6beeec9b92595f8d449530a",
+  "size": 1015,
+  "url": "https://api.github.com/repos/camspiers/dotfiles/contents/README.md?ref=master",
+  "html_url": "https://github.com/camspiers/dotfiles/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/camspiers/dotfiles/git/blobs/9dd9835bf2de18e3f6beeec9b92595f8d449530a",
+  "download_url": "https://raw.githubusercontent.com/camspiers/dotfiles/master/README.md",
+  "type": "file",
+  "content": "IyBEb3RmaWxlcyAtIENhbSBTcGllcnMKCm1hY09TIGVudmlyb25tZW50IG1h\nbmFnZWQgYnkgZ2l0IGFuZCBHTlUgU3Rvdy4KCiMjIE92ZXJ2aWV3CgpUaGUg\nZm9sbG93aW5nIGFyZSB0aGUgbWFqb3IgY29tcG9uZW50cyBvZiB0aGUgZG90\nZmlsZXMgcHJvamVjdC4KCi0gW0hvbWVicmV3IERlZmF1bHRzXShleHRyYS9o\nb21lYnJldy9CcmV3ZmlsZSkKLSBbTmVvdmltIENvbmZpZ10oZmlsZXMvLmNv\nbmZpZy9udmltL2luaXQubHVhKQotIFtUbXV4IENvbmZpZ10oZmlsZXMvLnRt\ndXguY29uZikKLSBbS2l0dHkuYXBwIENvbmZpZ10oZmlsZXMvLmNvbmZpZy9r\naXR0eS9raXR0eS5jb25mKQotIFtCYXNoIFJ1bmNvbV0oZmlsZXMvLmJhc2hy\nYykKLSBbQmFzaCBQcm9maWxlXShmaWxlcy8uYmFzaF9wcm9maWxlKQotIFt5\nYWJhaSBDb25maWddKGZpbGVzLy5jb25maWcveWFiYWkveWFiYWlyYykKLSBb\nc2toZCBDb25maWddKGZpbGVzLy5jb25maWcvc2toZC9za2hkcmMpCi0gW21h\nY09TIERlZmF1bHRzXShzY3JpcHRzL21hY29zKQoKIyMgVXNhZ2UKCkkgZG9u\nJ3QgcmVhbGx5IHJlY29tbWVuZCBvdGhlcnMgdXNlIHRoZSBmb2xsb3dpbmcg\naW5zdGFsbGF0aW9uIG1ldGhvZCwgaW5zdGVhZApJIGVuY291cmFnZSB5b3Ug\ndG8gY29weSB3aGF0IHlvdSBsaWtlIG1hbnVhbGx5IGFuZCBjdXJhdGUgeW91\nciBvd24gZG90ZmlsZXMsCnByb2plY3QsIGJ1dCBmb3IgdGhvc2Ugbm90IG9m\nIHRoZSBmYWludCBvZiBoZWFydDoKCiMjIyBJbnN0YWxsIEhvbWVicmV3Cgpg\nYGAKL3Vzci9iaW4vcnVieSAtZSAiJChjdXJsIC1mc1NMIGh0dHBzOi8vcmF3\nLmdpdGh1YnVzZXJjb250ZW50LmNvbS9Ib21lYnJldy9pbnN0YWxsL21hc3Rl\nci9pbnN0YWxsKSIKYGBgCgojIyMgQ2xvbmUgcmVwbwoKYGBgCmdpdCBjbG9u\nZSBnaXRAZ2l0aHViLmNvbTpjYW1zcGllcnMvZG90ZmlsZXMuZ2l0IH4vLmRv\ndGZpbGVzCmBgYAoKIyMjIEluc3RhbGwKCmBgYApjZCB+Ly5kb3RmaWxlcwpt\nYWtlIGFsbAptYWtlIGluc3RhbGwKYGBgCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/camspiers/dotfiles/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/camspiers/dotfiles/git/blobs/9dd9835bf2de18e3f6beeec9b92595f8d449530a",
+    "html": "https://github.com/camspiers/dotfiles/blob/master/README.md"
+  }
+}

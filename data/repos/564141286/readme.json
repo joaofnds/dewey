@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "51351874d3f6e72bd2cc2ef6cebfb966ad4120dc",
+  "size": 1263,
+  "url": "https://api.github.com/repos/wseagar/eight-dollars/contents/README.md?ref=main",
+  "html_url": "https://github.com/wseagar/eight-dollars/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/wseagar/eight-dollars/git/blobs/51351874d3f6e72bd2cc2ef6cebfb966ad4120dc",
+  "download_url": "https://raw.githubusercontent.com/wseagar/eight-dollars/main/README.md",
+  "type": "file",
+  "content": "77u/IyBlaWdodC1kb2xsYXJzDQoNCmVpZ2h0LWRvbGxhcnMgY2FuIGhlbHAg\neW91IHRlbGwgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBhY3R1YWwgdmVyaWZp\nZWQgYWNjb3VudHMgYW5kIHR3aXR0ZXIgYmx1ZSB1c2Vycy4gSnVzdCBpbnN0\nYWxsIHRoZSBleHRlbnNpb24gYW5kIHNlZSB0aGUgZGlmZmVyZW5jZS4NCg0K\nTWFpbnRhaW5lZCBieSBbV2lsbCBTZWFnYXJdKGh0dHBzOi8vdHdpdHRlci5j\nb20vd2lsbHNlYWdhciksIFtXYWx0ZXIgTGltXShodHRwczovL3R3aXR0ZXIu\nY29tL2lXYWx0ekFyb3VuZCksIGFuZCBbSWxpYSBTaWRvcmVua29dKGh0dHBz\nOi8vdHdpdHRlci5jb20vbm93YXk0MjEpLiANCg0KRm91bmQgdGhpcyB1c2Vm\ndWw/IFtCdXkgdXMgYSAkOCBjb2ZmZWUgaGVyZV0oaHR0cHM6Ly93d3cuYnV5\nbWVhY29mZmVlLmNvbS9laWdodGRvbGxhcnMpLg0KDQohW1NvbWUgdHdlZXRz\nXSguL2Fzc2V0cy9leGFtcGxlLnBuZykNCg0KDQojIyBJbnN0YWxsYXRpb24g\nSW5zdHJ1Y3Rpb25zDQoNCiMjIyBIb3cgdG8gaW5zdGFsbCBvbiBDaHJvbWUv\nQnJhdmUNCg0KW0Rvd25sb2FkIGl0IG9uIHRoZSBDaHJvbWUgV2ViIFN0b3Jl\nXShodHRwczovL2Nocm9tZS5nb29nbGUuY29tL3dlYnN0b3JlL2RldGFpbC9l\naWdodC1kb2xsYXJzL2ZqYnBvbmZib2dubmVmbm1iZmZjZmxsa2liYmJvYmtp\nKQ0KDQojIyMgSG93IHRvIGluc3RhbGwgb24gRmlyZWZveA0KDQpbRG93bmxv\nYWQgaXQgb24gdGhlIEZpcmVmb3ggQnJvd3NlciBFeHRlbnNpb25zIHBhZ2Vd\nKGh0dHBzOi8vYWRkb25zLm1vemlsbGEub3JnL2VuLVVTL2ZpcmVmb3gvYWRk\nb24vZWlnaHRkb2xsYXJzLykgDQoNCiMjIyBIb3cgdG8gaW5zdGFsbCBvbiBF\nZGdlDQoNCltEb3dubG9hZCBpdCBvbiB0aGUgTWljcm9zb2Z0IEVkZ2UgQWRk\nLW9ucyBwYWdlXShodHRwczovL21pY3Jvc29mdGVkZ2UubWljcm9zb2Z0LmNv\nbS9hZGRvbnMvZGV0YWlsL2VpZ2h0LWRvbGxhcnMvZWhmYWNnYmNramxlZ25s\nbGVkZ3BrbWtmYmVtaGtrbmgpIA0KDQojIyMgSG93IHRvIGluc3RhbGwgb24g\nT3BlcmENCg0KMS4gW1Zpc3QgdGhlIENocm9tZSBXZWIgU3RvcmUgcGFnZV0o\naHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvZWln\naHQtZG9sbGFycy9mamJwb25mYm9nbm5lZm5tYmZmY2ZsbGtpYmJib2JraSkN\nCjIuIENsaWNrICJBZGQgdG8gT3BlcmEiDQozLiBDbGljayAiSW5zdGFsbCIN\nCg0KIyMjIEhvdyB0byBpbnN0YWxsIG9uIFNhZmFyaQ0KDQpDb21pbmcgc29v\nbg0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/wseagar/eight-dollars/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/wseagar/eight-dollars/git/blobs/51351874d3f6e72bd2cc2ef6cebfb966ad4120dc",
+    "html": "https://github.com/wseagar/eight-dollars/blob/main/README.md"
+  }
+}

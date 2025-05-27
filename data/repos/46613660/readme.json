@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a6e6ce54e46d6d5c52c04ec680521b85a9226c39",
+  "size": 1569,
+  "url": "https://api.github.com/repos/photopea/photopea/contents/README.md?ref=master",
+  "html_url": "https://github.com/photopea/photopea/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/photopea/photopea/git/blobs/a6e6ce54e46d6d5c52c04ec680521b85a9226c39",
+  "download_url": "https://raw.githubusercontent.com/photopea/photopea/master/README.md",
+  "type": "file",
+  "content": "IVtwaG90b3BlYS1sb2dvXShodHRwczovL3VzZXItaW1hZ2VzLmdpdGh1YnVz\nZXJjb250ZW50LmNvbS83OTEyMTM2MC8xMTI3NDEwOTYtM2Q1NmJkMDAtOGYz\nNy0xMWViLTk4MmQtMTg2Njc2NGU2NDJjLnBuZykKCgpbUGhvdG9wZWEuY29t\nXSgvL3d3dy5QaG90b3BlYS5jb20pIGlzIGEgZnJlZSBvbmxpbmUgdG9vbCBm\nb3IgZWRpdGluZyByYXN0ZXIgYW5kIHZlY3RvciBncmFwaGljcyB3aXRoIHN1\ncHBvcnQgZm9yICoqUFNELCBBSSwgYW5kIFNrZXRjaCoqIGZpbGVzLgoKU2lu\nY2UgUGhvdG9wZWEgaXMgbm90IGZ1bGx5IG9wZW4tc291cmNlLCB0aGlzIHJl\ncG9zaXRvcnkgc2VydmVzIGFzIGEgcGxhY2UgZm9yIGJ1ZyByZXBvcnRzLCBm\nZWF0dXJlIHJlcXVlc3RzLCBhbmQgZ2VuZXJhbCBkaXNjdXNzaW9uLgoKLS0t\nCgojIyMgU3VwcG9ydGVkIEZvcm1hdHMKLSBDb21wbGV4OiBQU0QsIEFJLCBJ\nTkRELCBYQ0YsIFNrZXRjaCwgWEQsIEZJRywgS1JJLCBDTElQLCBTQUksIFBY\nRCwgUFhaLCBDRFIsIFVGTywgRmlyZXdvcmtzIFBORywgQUZQSE9UTywgU1ZH\nLCBFUFMsIFBERiwgUEROLCBXTUYsIEVNRi4KLSBSYXN0ZXI6IFBORyAoQVBO\nRyksIEpQRywgR0lGLCBXZWJQLCBJQ08sIElDTlMsIEJNUCwgQVZJRiwgSEVJ\nQywgSlhMLCBQUE0vUEdNL1BCTSwgVElGRiwgRERTLCBJRkYsIEVYUiwgSERS\nLCBBTklNLCBUR0EuCi0gUmF3OiBETkcsIE5FRiwgQ1IyLCBDUjMsIEFSVywg\nUlcyLCBSQUYsIE9SRiwgR1BSLCAzRlIsIEZGRi4KLSBBbmltYXRlZDogR0lG\nLCBBUE5HLCBNUDQsIFdFQk0sIE1LViAoZWFjaCBmcmFtZSBiZWNvbWVzIGEg\nbGF5ZXIsIGNhbiBiZSBleHBvcnRlZCBiYWNrIHRvIEdJRiBvciBNUDQpLgoK\nPCEtLSBSaWdodCBub3csIFBob3RvcGVhIGlzOgotIHRoZSBiZXN0IGZyZWUg\naW1hZ2UgZWRpdG9yCi0gdGhlIGJlc3QgUGhvdG9zaG9wIGFsdGVybmF0aXZl\nCi0gdGhlIG9ubHkgd2F5IHRvIG9wZW4gU2tldGNoIGZpbGVzIG91dHNpZWQg\nTWFjIE9TCi0gdGhlIGJlc3QgaW1hZ2UgZWRpdG9yIGZvciBDaHJvbWVib29r\ncyBhbmQgb3RoZXIgbG93IHBvd2VyIGRldmljZXMgLS0+CgojIyMgV2hlcmUg\nWW91IENhbiBGaW5kIFVzCi0gOmVudmVsb3BlOiBzdXBwb3J0QHBob3RvcGVh\nLmNvbQotIDp0aHVtYnN1cDogW2ZhY2Vib29rLmNvbS9waG90b3BlYV0oaHR0\ncHM6Ly9mYWNlYm9vay5jb20vcGhvdG9wZWEpCi0gOmJpcmQ6IFt0d2l0dGVy\nLmNvbS9waG90b3BlYWNvbV0oaHR0cHM6Ly90d2l0dGVyLmNvbS9waG90b3Bl\nYWNvbSkKLSA6b3JhbmdlX2Jvb2s6IFtyZWRkaXQuY29tL3IvcGhvdG9wZWFd\nKGh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9waG90b3BlYSkKLSA6dGFkYTog\nW3Bob3RvcGVhLmNvbV0oaHR0cHM6Ly93d3cucGhvdG9wZWEuY29tKQoKIyMj\nIE90aGVyIAotIFtBUEldKGh0dHBzOi8vd3d3LnBob3RvcGVhLmNvbS9hcGkp\nLCBbQmxvZ10oaHR0cHM6Ly9ibG9nLnBob3RvcGVhLmNvbSksIFtMZWFybl0o\naHR0cHM6Ly93d3cucGhvdG9wZWEuY29tL2xlYXJuKSwgW1RyYW5zbGF0aW9u\nc10oaHR0cHM6Ly93d3cucGhvdG9wZWEuY29tL3RyYW5zbGF0ZSkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/photopea/photopea/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/photopea/photopea/git/blobs/a6e6ce54e46d6d5c52c04ec680521b85a9226c39",
+    "html": "https://github.com/photopea/photopea/blob/master/README.md"
+  }
+}

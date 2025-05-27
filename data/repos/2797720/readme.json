@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "f3061e9eebe3a4cdb36da5608ccafa46fde32863",
+  "size": 409,
+  "url": "https://api.github.com/repos/gigamonkey/manifest/contents/README?ref=master",
+  "html_url": "https://github.com/gigamonkey/manifest/blob/master/README",
+  "git_url": "https://api.github.com/repos/gigamonkey/manifest/git/blobs/f3061e9eebe3a4cdb36da5608ccafa46fde32863",
+  "download_url": "https://raw.githubusercontent.com/gigamonkey/manifest/master/README",
+  "type": "file",
+  "content": "TWFuaWZlc3QgaXMgYSBzeXN0ZW0gZm9yIHNlbWktYXV0b21hdGljYWxseSBk\nb2N1bWVudGluZyBDb21tb24gTGlzcApwYWNrYWdlcy4gKEEgbWFuaWZlc3Qg\ndGVsbHMgeW91IHdoYXQncyBpbiBhIHBhY2thZ2UuIEFsc28gdGhpcyBzeXN0\nZW0KbWFrZXMgbWFuaWZlc3QgYSBidW5jaCBvZiBpbmZvcm1hdGlvbiB0aGF0\nIGlzIGFjdHVhbGx5IHByZXNlbnQgaW4gYQpMaXNwIHN5c3RlbS4pIFRoZSBi\nYXNpYyBwcmVtaXNlIGlzIHRoYXQgZXZlcnkgZXhwb3J0ZWQgc3ltYm9sIGlu\nIGEKcGFja2FnZSBzaG91bGQgYmUgZG9jdW1lbnRlZC4KClRvIGNoZWNrIGl0\nIG91dCwgYWZ0ZXIgbG9hZGluZyB0aGUgc3lzdGVtLCBldmFsdWF0ZSAoc3Rh\ncnQpIGFuZCBwb2ludAp5b3VyIGJyb3dzZXIgYXQgdGhlIFVSTCBpdCByZXR1\ncm5zLg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gigamonkey/manifest/contents/README?ref=master",
+    "git": "https://api.github.com/repos/gigamonkey/manifest/git/blobs/f3061e9eebe3a4cdb36da5608ccafa46fde32863",
+    "html": "https://github.com/gigamonkey/manifest/blob/master/README"
+  }
+}

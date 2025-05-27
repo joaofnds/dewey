@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "e59a5e7377029fe9c66127408e7a46acdba136d1",
+  "size": 1008,
+  "url": "https://api.github.com/repos/GoogleChromeLabs/squoosh/contents/README.md?ref=dev",
+  "html_url": "https://github.com/GoogleChromeLabs/squoosh/blob/dev/README.md",
+  "git_url": "https://api.github.com/repos/GoogleChromeLabs/squoosh/git/blobs/e59a5e7377029fe9c66127408e7a46acdba136d1",
+  "download_url": "https://raw.githubusercontent.com/GoogleChromeLabs/squoosh/dev/README.md",
+  "type": "file",
+  "content": "IyBbU3F1b29zaF0hCgpbU3F1b29zaF0gaXMgYW4gaW1hZ2UgY29tcHJlc3Np\nb24gd2ViIGFwcCB0aGF0IHJlZHVjZXMgaW1hZ2Ugc2l6ZXMgdGhyb3VnaCBu\ndW1lcm91cyBmb3JtYXRzLgoKIyBQcml2YWN5CgpTcXVvb3NoIGRvZXMgbm90\nIHNlbmQgeW91ciBpbWFnZSB0byBhIHNlcnZlci4gQWxsIGltYWdlIGNvbXBy\nZXNzaW9uIHByb2Nlc3NlcyBsb2NhbGx5LgoKSG93ZXZlciwgU3F1b29zaCB1\ndGlsaXplcyBHb29nbGUgQW5hbHl0aWNzIHRvIGNvbGxlY3QgdGhlIGZvbGxv\nd2luZzoKCi0gW0Jhc2ljIHZpc2l0b3IgZGF0YV0oaHR0cHM6Ly9zdXBwb3J0\nLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Fuc3dlci82MDA0MjQ1P3JlZl90b3Bp\nYz0yOTE5NjMxKS4KLSBUaGUgYmVmb3JlIGFuZCBhZnRlciBpbWFnZSBzaXpl\nIHZhbHVlLgotIElmIFNxdW9vc2ggUFdBLCB0aGUgdHlwZSBvZiBTcXVvb3No\nIGluc3RhbGxhdGlvbi4KLSBJZiBTcXVvb3NoIFBXQSwgdGhlIGluc3RhbGxh\ndGlvbiB0aW1lIGFuZCBkYXRlLgoKIyBEZXZlbG9waW5nCgpUbyBkZXZlbG9w\nIGZvciBTcXVvb3NoOgoKMS4gQ2xvbmUgdGhlIHJlcG9zaXRvcnkKMS4gVG8g\naW5zdGFsbCBub2RlIHBhY2thZ2VzLCBydW46CiAgIGBgYHNoCiAgIG5wbSBp\nbnN0YWxsCiAgIGBgYAoxLiBUaGVuIGJ1aWxkIHRoZSBhcHAgYnkgcnVubmlu\nZzoKICAgYGBgc2gKICAgbnBtIHJ1biBidWlsZAogICBgYGAKMS4gQWZ0ZXIg\nYnVpbGRpbmcsIHN0YXJ0IHRoZSBkZXZlbG9wbWVudCBzZXJ2ZXIgYnkgcnVu\nbmluZzoKICAgYGBgc2gKICAgbnBtIHJ1biBkZXYKICAgYGBgCgojIENvbnRy\naWJ1dGluZwoKU3F1b29zaCBpcyBhbiBvcGVuLXNvdXJjZSBwcm9qZWN0IHRo\nYXQgYXBwcmVjaWF0ZXMgYWxsIGNvbW11bml0eSBpbnZvbHZlbWVudC4gVG8g\nY29udHJpYnV0ZSB0byB0aGUgcHJvamVjdCwgZm9sbG93IHRoZSBbY29udHJp\nYnV0ZSBndWlkZV0oL0NPTlRSSUJVVElORy5tZCkuCgpbc3F1b29zaF06IGh0\ndHBzOi8vc3F1b29zaC5hcHAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/GoogleChromeLabs/squoosh/contents/README.md?ref=dev",
+    "git": "https://api.github.com/repos/GoogleChromeLabs/squoosh/git/blobs/e59a5e7377029fe9c66127408e7a46acdba136d1",
+    "html": "https://github.com/GoogleChromeLabs/squoosh/blob/dev/README.md"
+  }
+}

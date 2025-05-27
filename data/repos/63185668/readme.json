@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b7e473d62a4b5f76e45b825512be84d54a44b22f",
+  "size": 1021,
+  "url": "https://api.github.com/repos/birl-language/birl-language.github.io/contents/README.md?ref=master",
+  "html_url": "https://github.com/birl-language/birl-language.github.io/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/birl-language/birl-language.github.io/git/blobs/b7e473d62a4b5f76e45b825512be84d54a44b22f",
+  "download_url": "https://raw.githubusercontent.com/birl-language/birl-language.github.io/master/README.md",
+  "type": "file",
+  "content": "IyBCSVJMICooQmFtYmFtJ3MgIkl0J3Mgc2hvdyB0aW1lIiBSZWN1cnNpdmUg\nTGFuZ3VhZ2UpKgoKU2FpIGRlIGNhc2EgY29kZWkgcHJhIGNhcmFsaG8hwq4K\nCkJJUkwgw6kgYSBwcmltZWlyYSBsaW5ndWFnZW0gdG90YWxtZW50ZSBtdXRh\nbnRlIGRvIG11bmRvISBFbGEgw6kgYmFzZWFkYSBlbSBDIGUgY29tcGlsYWRh\nIHBvciB1bWEgZmVycmFtZW50YSBtYWwtZmVpdGEgbnVtIHNlcnZpZG9yIGZy\nYW5nby4KClRhbnRvIGEgbGluZ3VhZ2VtIHF1YW50byBvIHNpdGUgc8OjbyBj\nw7NkaWdvIGFiZXJ0byEgUXVlcmVtb3MgZmF6ZXIgbyBhbWJpZW50ZSBkZSBw\ncm9ncmFtYcOnw6NvIG1haXMgdHJlemUgcG9zc8OtdmVsISBTZWd1cmEgYSBn\nZW50ZSEKCioqQUdPUkEgQ09NIFRJUE9TIERFIERBRE9TIE1PTlNUUk9TLCBQ\nT1JSQSEqKgoKIyMgU2ludGF4ZQpBIHNpbnRheGUgcG9kZSBzZXIgZW5jb250\ncmFkYSBkaXJldG8gbm8gc2l0ZSEgUHV0YSByb2zDqiBlc2NyZXZlciBhcXVp\nIHRhbWLDqW0hICAKV2Vic2l0ZTogaHR0cHM6Ly9iaXJsLWxhbmd1YWdlLmdp\ndGh1Yi5pby8gIApTZXJ2aWRvcjogaHR0cHM6Ly9naXRodWIuY29tL2Jpcmwt\nbGFuZ3VhZ2UvYmlybC1zZXJ2ZXIgIAoKIyMgVE8tRE8KLSBbIF0gTWVsaG9y\nYXIgbyB0dXRvcmlhbCBwYXJhIHF1ZW0gbnVuY2EgcHJvZ3JhbW91Ci0gWyBd\nIEF1bWVudGFyIGEgc2ludGF4ZSBwcmEgZmljYXIgbyBtYWlzIGxvbmdlIHBv\nc3PDrXZlbCBkZXNzYSBsaW5ndWFnZW0gZGUgcXVlbSBzb2JlIGVtIMOhcnZv\ncmUgKEMpLgoKICAKIyMgQ29sYWJvcmFkb3JlcyAgCiAgCi0gKipSQ3plcmEg\nKEBha2FmdHMpKioKLSAqKlBhZGlsaGEgTW9uc3RlciAoQGxjZnBhZGlsaGEp\nKioKLSBFIHRvZGEgYSBjb211bmlkYWRlIGNvZGVidWlsZGVyIGRvIEJyYXNp\nbAoKKkluc3BpcmFkbyBwZWxhIGxpbmd1YWdlbSBBcm5vbGRDOiBodHRwczov\nL2dpdGh1Yi5jb20vbGhhcnRpa2svQXJub2xkQy93aWtpL0Fybm9sZEMqLiAq\nKkJJUkwhKioKCipWZXJzw6NvIGF0dWFsOiogMS4zCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/birl-language/birl-language.github.io/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/birl-language/birl-language.github.io/git/blobs/b7e473d62a4b5f76e45b825512be84d54a44b22f",
+    "html": "https://github.com/birl-language/birl-language.github.io/blob/master/README.md"
+  }
+}

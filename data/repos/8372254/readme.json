@@ -1,0 +1,18 @@
+{
+  "name": "README.markdown",
+  "path": "README.markdown",
+  "sha": "a7bd1d015be414c8c3558849995aa96211c8cf3b",
+  "size": 1299,
+  "url": "https://api.github.com/repos/quickdocs/quickdocs/contents/README.markdown?ref=rewrote",
+  "html_url": "https://github.com/quickdocs/quickdocs/blob/rewrote/README.markdown",
+  "git_url": "https://api.github.com/repos/quickdocs/quickdocs/git/blobs/a7bd1d015be414c8c3558849995aa96211c8cf3b",
+  "download_url": "https://raw.githubusercontent.com/quickdocs/quickdocs/rewrote/README.markdown",
+  "type": "file",
+  "content": "IyBRdWlja2RvY3MKCi0gaHR0cDovL3F1aWNrZG9jcy5vcmcvCgojIyBVbWJy\nZWxsYSBQcm9qZWN0cwoKIyMjIFF1aWNrZG9jcy1FeHRyYWN0ZXIKCiJFeHRy\nYWN0ZXIiIGV4dHJhY3RzIGxpYnJhcnkgaW5mb3JtYXRpb25zIHdoaWNoIHdp\nbGwgYmUgdXNlZCBmb3IgQVBJIHJlZmVyZW5jZXMuIFRoaXMgYXBwbGljYXRp\nb24gaXMgaW52b2tlZCBieSAiVXBkYXRlciIuCgotIFtxdWlja2RvY3MtZXh0\ncmFjdGVyXShodHRwczovL2dpdGh1Yi5jb20vcXVpY2tkb2NzL3F1aWNrZG9j\ncy1leHRyYWN0ZXIpCi0gW3F1aWNrZG9jcy1wYXJzZXJdKGh0dHBzOi8vZ2l0\naHViLmNvbS9xdWlja2RvY3MvcXVpY2tkb2NzLXBhcnNlcikKLSBbcXVpY2tk\nb2NzLXNlcmlhbGl6ZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9xdWlja2RvY3Mv\ncXVpY2tkb2NzLXNlcmlhbGl6ZXIpCgojIyMgUXVpY2tkb2NzLVVwZGF0ZXIK\nCiJVcGRhdGVyIiBpcyBhIGNvbGxlY3Rpb24gb2YgdXBkYXRlIHNjcmlwdHMg\nZm9yIFF1aWNrZG9jcy4KCi0gW3F1aWNrZG9jcy11cGRhdGVyXShodHRwczov\nL2dpdGh1Yi5jb20vcXVpY2tkb2NzL3F1aWNrZG9jcy11cGRhdGVyKQoKIyMj\nIFF1aWNrZG9jcy1TZXJ2ZXIKCiJTZXJ2ZXIiIGlzIGEgd2ViIGFwcGxpY2F0\naW9uIHJ1bm5pbmcgYXQgaHR0cDovL3F1aWNrZG9jcy5vcmcuCgotIFtxdWlj\na2RvY3Mtc2VydmVyXShodHRwczovL2dpdGh1Yi5jb20vcXVpY2tkb2NzL3F1\naWNrZG9jcy1zZXJ2ZXIpCgojIyMgUXVpY2tkb2NzLURhdGFiYXNlCgoiRGF0\nYWJhc2UiIHByb3ZpZGVzIGEgREIgc2NoZW1hIGFuZCB1dGlsaXRpZXMgdG8g\nbWFuYWdlIGl0LiBUaGlzIHByb2plY3QgaXMgdXNlZCBmcm9tIGJvdGggb2Yg\nIlVwZGF0ZXIiIGFuZCAiU2VydmVyIgoKLSBbcXVpY2tkb2NzLWRhdGFiYXNl\nXShodHRwczovL2dpdGh1Yi5jb20vcXVpY2tkb2NzL3F1aWNrZG9jcy1kYXRh\nYmFzZSkKCiMjIyBRdWlja2RvY3MtUGxheWJvb2tzCgoiUGxheWJvb2tzIiBp\ncyBbQW5zaWJsZV0oaHR0cDovL3d3dy5hbnNpYmxlLmNvbS8pIHBsYXlib29r\ncyBmb3Igc2V0dGluZyB1cCAiVXBkYXRlciIsICJTZXJ2ZXIiIGFuZCAiRGF0\nYWJhc2UiIGhvc3RzLgoKLSBbcXVpY2tkb2NzLXBsYXlib29rc10oaHR0cHM6\nLy9naXRodWIuY29tL3F1aWNrZG9jcy9xdWlja2RvY3MtcGxheWJvb2tzKQoK\nIyMgQXV0aG9yCgoqIEVpdGFybyBGdWthbWFjaGkgKGUuYXJyb3dzQGdtYWls\nLmNvbSkKCiMjIENvcHlyaWdodAoKQ29weXJpZ2h0IChjKSAyMDEzLTIwMTUg\nRWl0YXJvdyBGdWthbWFjaGkgKGUuYXJyb3dzQGdtYWlsLmNvbSkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/quickdocs/quickdocs/contents/README.markdown?ref=rewrote",
+    "git": "https://api.github.com/repos/quickdocs/quickdocs/git/blobs/a7bd1d015be414c8c3558849995aa96211c8cf3b",
+    "html": "https://github.com/quickdocs/quickdocs/blob/rewrote/README.markdown"
+  }
+}

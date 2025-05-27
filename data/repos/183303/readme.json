@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "513cda884cd2b507185fe9acf4d8399121358be4",
+  "size": 548,
+  "url": "https://api.github.com/repos/wardencommunity/warden/contents/README.md?ref=master",
+  "html_url": "https://github.com/wardencommunity/warden/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/wardencommunity/warden/git/blobs/513cda884cd2b507185fe9acf4d8399121358be4",
+  "download_url": "https://raw.githubusercontent.com/wardencommunity/warden/master/README.md",
+  "type": "file",
+  "content": "IyBXYXJkZW4KClshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly9naXRodWIuY29t\nL3dhcmRlbmNvbW11bml0eS93YXJkZW4vd29ya2Zsb3dzL1Rlc3RzL2JhZGdl\nLnN2Zz9icmFuY2g9bWFzdGVyKV0oaHR0cHM6Ly9naXRodWIuY29tL3dhcmRl\nbmNvbW11bml0eS93YXJkZW4vYWN0aW9ucykKCiMjIEdldHRpbmcgU3RhcnRl\nZAoKUGxlYXNlIHNlZSB0aGUgW1dhcmRlbiBXaWtpXShodHRwczovL2dpdGh1\nYi5jb20vd2FyZGVuY29tbXVuaXR5L3dhcmRlbi93aWtpKSBmb3Igb3ZlcnZp\nZXcgZG9jdW1lbnRhdGlvbi4KCiMjIE1haW50YWluZXJzCgoqIERhbmllbCBO\nZWlnaG1hbiAoaGFzc294KQoqIEpvc8OpIFZhbGltIChqb3NldmFsaW0pCiog\nSnVzdGluIFNtZXN0YWQgKGpzbWVzdGFkKQoqIFdoaXRuZXkgU21lc3RhZCAo\nd2hpdGh1YikKCltBIGxpc3Qgb2YgYWxsIGNvbnRyaWJ1dG9ycyBpcyBhdmFp\nbGFibGUgb24gR2l0aHViLl0oaHR0cHM6Ly9naXRodWIuY29tL2hhc3NveC93\nYXJkZW4vY29udHJpYnV0b3JzKQoKIyMgTElDRU5TRQoKU2VlIGBMSUNFTlNF\nYCBmaWxlLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/wardencommunity/warden/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/wardencommunity/warden/git/blobs/513cda884cd2b507185fe9acf4d8399121358be4",
+    "html": "https://github.com/wardencommunity/warden/blob/master/README.md"
+  }
+}

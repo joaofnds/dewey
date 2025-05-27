@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "21cee921586cec796f2d563dbc7ea20eea6b9f76",
+  "size": 1394,
+  "url": "https://api.github.com/repos/mholt/curl-to-go/contents/README.md?ref=gh-pages",
+  "html_url": "https://github.com/mholt/curl-to-go/blob/gh-pages/README.md",
+  "git_url": "https://api.github.com/repos/mholt/curl-to-go/git/blobs/21cee921586cec796f2d563dbc7ea20eea6b9f76",
+  "download_url": "https://raw.githubusercontent.com/mholt/curl-to-go/gh-pages/README.md",
+  "type": "file",
+  "content": "Y3VybC10by1Hbwo9PT09PT09PT09PQoKY3VybC10by1HbyBpcyBhIHRvb2wg\ndG8gaW5zdGFudGx5IGNvbnZlcnQgW2N1cmxdKGh0dHA6Ly9jdXJsLmhheHgu\nc2UpIGNvbW1hbmRzIHRvIEdvIGNvZGUgaW4gdGhlIGJyb3dzZXIuIEl0IGRv\nZXMgKm5vdCogZ3VhcmFudGVlIGhpZ2gtZmlkZWxpdHkgY29udmVyc2lvbnMs\nIGJ1dCBpdCdzIGdvb2QgZW5vdWdoIGZvciBtb3N0IEFQSSBkb2NzIHRoYXQg\naGF2ZSBjdXJsIHNhbXBsZXMuCgpUaGlzIGlzIGEgc2lzdGVyIHRvb2wgdG8g\nW0pTT04tdG8tR29dKGh0dHBzOi8vbWhvbHQuZ2l0aHViLmlvL2pzb24tdG8t\nZ28pLCB3aGljaCBjb252ZXJ0cyBKU09OIHRvIGEgR28gc3RydWN0IHR5cGUg\nZGVmaW5pdGlvbi4gVG8gZG8gdGhlIHJldmVyc2UsIGNoZWNrIG91dCBbbW91\nbC9odHRwMmN1cmxdKGh0dHBzOi8vZ2l0aHViLmNvbS9tb3VsL2h0dHAyY3Vy\nbCkuCgojIyMgVHJ5IGl0CgoqKltDaGVjayBpdCBvdXQhXShodHRwczovL21o\nb2x0LmdpdGh1Yi5pby9jdXJsLXRvLWdvKSoqIEl0IHdvcmtzIGluc2lkZSB5\nb3VyIGJyb3dzZXIuIEp1c3QgZ2l2ZSB0aGUgY29kZSBhIG9uY2Utb3ZlciBz\naW5jZSBpdCB3aWxsIG5lZWQgeW91IHRvIGZsZXNoIG91dCBzb21lIHBhcnRz\nIGxpa2UgZXJyb3IgaGFuZGxpbmcuCgoKIyMjIEZBUQoKIyMjIyBEb2VzIGFu\neSBjdXJsIGNvbW1hbmQgd29yaz8KCkFueSBjdXJsIGNvbW1hbmQgc2hvdWxk\nIHdvcmssIGJ1dCBvbmx5IGNlcnRhaW4gZmxhZ3MgYXJlIHVuZGVyc3Rvb2Qg\nYW5kIGNvbnZlcnRlZCBpbnRvIEdvIGNvZGUuIFRoZSByZXN0IG9mIHRoZSBm\nbGFncyB3aWxsIGJlIGlnbm9yZWQuCgojIyMjIFdoaWNoIGtpbmRzIG9mIGN1\ncmwgY29tbWFuZHMgYXJlIHVuZGVyc3Rvb2Q/CgpNb3N0bHkgc2ltcGxlIEhU\nVFAgY29tbWFuZHMgKGhlYWRlcnMsIGJhc2ljIGF1dGgsIGJvZHksIGV0Yyku\nCgojIyMjIFdpbGwgeW91IGNvbnNpZGVyIHN1cHBvcnRpbmcgKnRoaXMtb3It\ndGhhdCogZmxhZz8KCmN1cmwgaGFzIGxpa2UgYSBiYWppbGxpb24gb3B0aW9u\ncywgc28gZG9uJ3QgZXhwZWN0IGFsbCBvZiB0aGVtIHRvIGJlIGltcGxlbWVu\ndGVkOyBqdXN0IHRoZSBtb3N0IGNvbW1vbi9pbXBvcnRhbnQgb25lcyB0byBz\ndHViIG91dCBjb2RlIGZyb20gQVBJIHNhbXBsZXMgYW5kIGRvY3MsIGV0Yy4g\nQnV0IGZlZWwgZnJlZSB0byBvcGVuIGFuIGlzc3VlIG9yIHN1Ym1pdCBhIHB1\nbGwgcmVxdWVzdCEgVG8gcmVxdWVzdCBhIG5ldyBmbGFnLCBwbGVhc2UgcHJv\ndmlkZSB0aGUgZXF1aXZhbGVudCBHbyBjb2RlLgoKCgojIyMgQ3JlZGl0cwoK\nY3VybC10by1HbyBpcyBicm91Z2h0IHRvIHlvdSBieSBNYXR0IEhvbHQgKFtt\naG9sdDZdKGh0dHBzOi8vdHdpdHRlci5jb20vbWhvbHQ2KSkuIEVuam95IQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mholt/curl-to-go/contents/README.md?ref=gh-pages",
+    "git": "https://api.github.com/repos/mholt/curl-to-go/git/blobs/21cee921586cec796f2d563dbc7ea20eea6b9f76",
+    "html": "https://github.com/mholt/curl-to-go/blob/gh-pages/README.md"
+  }
+}

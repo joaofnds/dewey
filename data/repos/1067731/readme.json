@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "44ddfe792e1520a5b2ee2e690ee4175f369b106a",
+  "size": 578,
+  "url": "https://api.github.com/repos/kirel/detexify-hs-backend/contents/README.md?ref=master",
+  "html_url": "https://github.com/kirel/detexify-hs-backend/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/kirel/detexify-hs-backend/git/blobs/44ddfe792e1520a5b2ee2e690ee4175f369b106a",
+  "download_url": "https://raw.githubusercontent.com/kirel/detexify-hs-backend/master/README.md",
+  "type": "file",
+  "content": "IyBEZXRleGlmeSBCYWNrZW5kIFNlcnZlciBpbXBsZW1lbnRlZCBpbiBIYXNr\nZWxsCgojIyBSZXF1aXJlbWVudHMKCi0gSGFza2VsbCBQbGF0Zm9ybQotIGAk\nIGNhYmFsIGluc3RhbGwgLS1vbmx5LWRlcGVuZGVuY2llc2AKCiMjIENvbXBp\nbGUKCiAgICAkIGNhYmFsIGJ1aWxkCgojIyBSdW4KCiAgICAkIGRpc3QvYnVp\nbGQvZGV0ZXhpZnktaHMtYmFja2VuZC9kZXRleGlmeS1ocy1iYWNrZW5kCgp3\naWxsIHJ1biB0aGUgd2Vic2VydmVyIG9uIHBvcnQgMzAwMC4gSXQgd2lsbCBs\nb2FkIHRyYWluaW5nIGRhdGEgZnJvbSBzbmFwc2hvdC5qc29uLgoKIyMgRG9j\na2VyCgogICAgZG9ja2VyIGJ1aWxkIC10IGtpcmVsL2RldGV4aWZ5LWhzLWJh\nY2tlbmQgLgogICAgZG9ja2VyIHB1c2gga2lyZWwvZGV0ZXhpZnktaHMtYmFj\na2VuZAoKIyMgRGVwbG95CgogICAgYW5zaWJsZS1wbGF5Ym9vayBhbnNpYmxl\nL2RlcGxveS55bWwgLWkgYW5zaWJsZS9pbnZlbnRvcnkKCiMjIExpY2Vuc2UK\nCkNvcHlyaWdodCAoYykgMjAwOSBEYW5pZWwgS2lyc2NoLCByZWxlYXNlZCB1\nbmRlciB0aGUgTUlUIGxpY2Vuc2UsIHNlZSBNSVQtTElDRU5TRQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/kirel/detexify-hs-backend/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/kirel/detexify-hs-backend/git/blobs/44ddfe792e1520a5b2ee2e690ee4175f369b106a",
+    "html": "https://github.com/kirel/detexify-hs-backend/blob/master/README.md"
+  }
+}

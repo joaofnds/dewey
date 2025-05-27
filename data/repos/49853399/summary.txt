@@ -1,0 +1,1 @@
+This repository hosts a personal webpage dedicated to showcasing HTML5 demos. The live version, accessible at the provided URL, indicates a web-based application. Primarily utilizes JavaScript, this project serves as a demonstration platform. As an example/template project, the repository is likely targeted at developers interested in HTML5 and web development.

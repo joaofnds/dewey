@@ -1,0 +1,1 @@
+This repository provides Colemak-DH keyboard layout key mappings specifically tailored for the Vim text editor. Its core functionality allows users to leverage the efficiency benefits of the Colemak-DH layout within the Vim environment, a developer productivity tool. It is a plugin/configuration primarily for Vim users who prefer or are learning the Colemak-DH key layout.

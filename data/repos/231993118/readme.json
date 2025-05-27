@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "8c2b55e374e250fafc6553fe5675dd70c563396b",
+  "size": 392,
+  "url": "https://api.github.com/repos/epk/SF-Mono-Nerd-Font/contents/README.md?ref=master",
+  "html_url": "https://github.com/epk/SF-Mono-Nerd-Font/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/epk/SF-Mono-Nerd-Font/git/blobs/8c2b55e374e250fafc6553fe5675dd70c563396b",
+  "download_url": "https://raw.githubusercontent.com/epk/SF-Mono-Nerd-Font/master/README.md",
+  "type": "file",
+  "content": "IyBTRi1Nb25vLU5lcmQtRm9udAoKIVtTRiBNb25vIE5lcmQgRm9udF0oUHJv\nbXB0LnBuZykKCkFwcGxlJ3MgU0YgTW9ubyBmb250IHBhdGNoZWQgd2l0aCBb\ndGhlIE5lcmQgRm9udHMgcGF0Y2hlcl0oaHR0cHM6Ly9naXRodWIuY29tL3J5\nYW5vYXNpcy9uZXJkLWZvbnRzI2ZvbnQtcGF0Y2hlcikKCiMjIEluc3RhbGwg\naW5zdHJ1Y3Rpb25zIChNYWMpCgpgYGBzaGVsbApicmV3IHRhcCBlcGsvZXBr\nCgojIEhvbWVicmV3IDwgMi42LjAKYnJldyBjYXNrIGluc3RhbGwgZm9udC1z\nZi1tb25vLW5lcmQtZm9udAoKIyBIb21lYnJldyA+PSAyLjYuMApicmV3IGlu\nc3RhbGwgZm9udC1zZi1tb25vLW5lcmQtZm9udApgYGAKClRoaXMgaXMgaW50\nZW5kZWQgZm9yIG15IHBlcnNvbmFsIHVzZSBvbmx5Lgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/epk/SF-Mono-Nerd-Font/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/epk/SF-Mono-Nerd-Font/git/blobs/8c2b55e374e250fafc6553fe5675dd70c563396b",
+    "html": "https://github.com/epk/SF-Mono-Nerd-Font/blob/master/README.md"
+  }
+}

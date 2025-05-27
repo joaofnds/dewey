@@ -1,0 +1,11 @@
+`usql` is a universal command-line interface for various SQL databases, including PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and numerous other databases. It provides a simple way to work with SQL and NoSQL databases via a command-line inspired by PostgreSQL's `psql`. The tool supports most core `psql` features such as variables, backticks, backslash commands, and has additional features like multiple database support, copying between databases, syntax highlighting, context-based completion, and terminal graphics.
+
+This Go-based project offers a unified experience for database administrators and developers who prefer working with a tool similar to `psql` but for non-PostgreSQL databases. It simplifies the process of interacting with various SQL databases, making it intuitive, easy-to-use, and an excellent replacement for command-line clients/tools for other databases.
+
+Key features include:
+1. Support for multiple databases, including both relational and non-relational databases.
+2. Compatibility with core `psql` features such as variables, backticks, and backslash commands.
+3. Additional features like copying between databases, syntax highlighting, context-based completion, and terminal graphics.
+4. Integration with Go for efficient performance and scalability.
+
+Target users include database administrators, developers, and data scientists who work with various SQL databases and prefer a command-line interface for interacting with their databases.

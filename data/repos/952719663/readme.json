@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "c6ba30e1a7ad061ae0c1484a8da2a54399de1dba",
+  "size": 1295,
+  "url": "https://api.github.com/repos/microsoft/edit/contents/README.md?ref=main",
+  "html_url": "https://github.com/microsoft/edit/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/microsoft/edit/git/blobs/c6ba30e1a7ad061ae0c1484a8da2a54399de1dba",
+  "download_url": "https://raw.githubusercontent.com/microsoft/edit/main/README.md",
+  "type": "file",
+  "content": "IyAhW0FwcGxpY2F0aW9uIEljb24gZm9yIEVkaXRdKC4vYXNzZXRzL2VkaXQu\nc3ZnKSBFZGl0CgpBIHNpbXBsZSBlZGl0b3IgZm9yIHNpbXBsZSBuZWVkcy4K\nClRoaXMgZWRpdG9yIHBheXMgaG9tYWdlIHRvIHRoZSBjbGFzc2ljIFtNUy1E\nT1MgRWRpdG9yXShodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9NUy1E\nT1NfRWRpdG9yKSwgYnV0IHdpdGggYSBtb2Rlcm4gaW50ZXJmYWNlIGFuZCBp\nbnB1dCBjb250cm9scyBzaW1pbGFyIHRvIFZTIENvZGUuIFRoZSBnb2FsIGlz\nIHRvIHByb3ZpZGUgYW4gYWNjZXNzaWJsZSBlZGl0b3IgdGhhdCBldmVuIHVz\nZXJzIGxhcmdlbHkgdW5mYW1pbGlhciB3aXRoIHRlcm1pbmFscyBjYW4gZWFz\naWx5IHVzZS4KCiFbU2NyZWVuc2hvdCBvZiBFZGl0IHdpdGggdGhlIEFib3V0\nIGRpYWxvZyBpbiB0aGUgZm9yZWdyb3VuZF0oLi9hc3NldHMvZWRpdF9oZXJv\nX2ltYWdlLnBuZykKCiMjIEluc3RhbGxhdGlvbgoKKiBEb3dubG9hZCB0aGUg\nbGF0ZXN0IHJlbGVhc2UgZnJvbSBvdXIgW3JlbGVhc2VzIHBhZ2VdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9taWNyb3NvZnQvZWRpdC9yZWxlYXNlcy9sYXRlc3Qp\nCiogRXh0cmFjdCB0aGUgYXJjaGl2ZQoqIENvcHkgdGhlIGBlZGl0YCBiaW5h\ncnkgdG8gYSBkaXJlY3RvcnkgaW4geW91ciBgUEFUSGAKKiBZb3UgbWF5IGRl\nbGV0ZSBhbnkgb3RoZXIgZmlsZXMgaW4gdGhlIGFyY2hpdmUgaWYgeW91IGRv\nbid0IG5lZWQgdGhlbQoKIyMjIFdpbkdldCAoV2luZG93cykKCiogT3BlbiB1\ncCBhIHRlcm1pbmFsIG9mIHlvdXIgY2hvaWNlIGFuZCBydW4gdGhlIGZvbGxv\nd2luZyBjb21tYW5kOgogIGBgYHBvd2Vyc2hlbGwKICB3aW5nZXQgaW5zdGFs\nbCBNaWNyb3NvZnQuRWRpdAogIGBgYAoqIGBlZGl0YCB3aWxsIGJlIGF1dG9t\nYXRpY2FsbHkgYWRkZWQgdG8geW91ciBgUEFUSGAuIElmIHR5cGluZyBgZWRp\ndGAgZG9lc24ndCB3b3JrLCBvcGVuIGEgbmV3IHRlcm1pbmFsLgoKIyMgQnVp\nbGQgSW5zdHJ1Y3Rpb25zCgoqIFtJbnN0YWxsIFJ1c3RdKGh0dHBzOi8vd3d3\nLnJ1c3QtbGFuZy5vcmcvdG9vbHMvaW5zdGFsbCkKKiBJbnN0YWxsIHRoZSBu\naWdodGx5IHRvb2xjaGFpbjogYHJ1c3R1cCBpbnN0YWxsIG5pZ2h0bHlgCiAg\nKiBBbHRlcm5hdGl2ZWx5LCBzZXQgdGhlIGVudmlyb25tZW50IHZhcmlhYmxl\nIGBSVVNUQ19CT09UU1RSQVA9MWAKKiBDbG9uZSB0aGUgcmVwb3NpdG9yeQoq\nIEZvciBhIHJlbGVhc2UgYnVpbGQsIHJ1bjogYGNhcmdvIGJ1aWxkIC0tY29u\nZmlnIC5jYXJnby9yZWxlYXNlLnRvbWwgLS1yZWxlYXNlYAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/microsoft/edit/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/microsoft/edit/git/blobs/c6ba30e1a7ad061ae0c1484a8da2a54399de1dba",
+    "html": "https://github.com/microsoft/edit/blob/main/README.md"
+  }
+}

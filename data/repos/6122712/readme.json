@@ -1,0 +1,18 @@
+{
+  "name": "README.org",
+  "path": "README.org",
+  "sha": "2a6b41c3d5c0993fe968c6b991e4a60079760d22",
+  "size": 1706,
+  "url": "https://api.github.com/repos/magit/git-modes/contents/README.org?ref=main",
+  "html_url": "https://github.com/magit/git-modes/blob/main/README.org",
+  "git_url": "https://api.github.com/repos/magit/git-modes/git/blobs/2a6b41c3d5c0993fe968c6b991e4a60079760d22",
+  "download_url": "https://raw.githubusercontent.com/magit/git-modes/main/README.org",
+  "type": "file",
+  "content": "KiBHaXQgQ29uZmlnIE1vZGVzCgpFbWFjcyBtYWpvciBtb2RlcyBmb3IgdmFy\naW91cyBHaXQgY29uZmlndXJhdGlvbiBmaWxlcy4KClRoZSBsaXN0IG9mIGNv\nbnRyaWJ1dG9ycyBjYW4gYmUgZm91bmQgW1todHRwczovL2dpdGh1Yi5jb20v\nbWFnaXQvZ2l0LW1vZGVzL2dyYXBocy9jb250cmlidXRvcnNdW2hlcmVdXS4K\nClRoZSBmb2xsb3dpbmcgbGlicmFyaWVzIGFyZSBwYXJ0IG9mIHRoZSB+Z2l0\nLW1vZGVzfiBwYWNrYWdlLCB3aGljaAppcyBhdmFpbGFibGUgZnJvbSBOb25H\nTlUgRUxQQSBhcyB3ZWxsIGFzIGZyb20gTWVscGEuCgoqKiB+Z2l0YXR0cmli\ndXRlcy1tb2RlfgoKQXV0by0vbG9hZGluZyB0aGUgbGlicmFyeSB+Z2l0YXR0\ncmlidXRlcy1tb2RlfiBlbmFibGVkIHRoZSBtb2RlIGZvcgp+LmdpdGF0dHJp\nYnV0ZXN+LCB+LmdpdC9pbmZvL2F0dHJpYnV0ZXN+LCBhbmQgfmdpdC9hdHRy\naWJ1dGVzfiBmaWxlcy4KCioqIH5naXRjb25maWctbW9kZX4KCkF1dG8tL2xv\nYWRpbmcgdGhlIGxpYnJhcnkgfmdpdGNvbmZpZy1tb2RlfiBlbmFibGVzIHRo\nZSBtb2RlIGZvcgp+LmdpdGNvbmZpZ34sIH4uZ2l0L2NvbmZpZ34sIH5naXQv\nY29uZmlnfiwgYW5kIH4uZ2l0bW9kdWxlc34gZmlsZXMuCgp+Z2l0Y29uZmln\nLW1vZGV+IGRlcml2ZXMgZnJvbSB+Y29uZi11bml4LW1vZGV+LgoKKiogfmdp\ndGlnbm9yZS1tb2RlfgoKQXV0by0vbG9hZGluZyB0aGUgbGlicmFyeSB+Z2l0\naWdub3JlLW1vZGV+IGVuYWJsZXMgdGhlIG1vZGUgZm9yCn4uZ2l0aWdub3Jl\nfiwgfi5naXQvaW5mby9leGNsdWRlfiwgYW5kIH5naXQvaWdub3JlfiBmaWxl\ncy4KCn5naXRpZ25vcmUtbW9kZX4gZGVyaXZlcyBmcm9tIH5jb25mLXVuaXgt\nbW9kZX4uCgpUaGlzIG1vZGUgbWF5IGJlIG9mIHVzZSBpbiBvdGhlciBmaWxl\ncyB0aGF0IGRvbid0IGhhdmUgYW55dGhpbmcKdG8gZG8gd2l0aCBHaXQsIGZv\nciBleGFtcGxlOgoKIytiZWdpbl9zcmMgZW1hY3MtbGlzcAogIChhZGQtdG8t\nbGlzdCAnYXV0by1tb2RlLWFsaXN0CiAgICAgICAgICAgICAgIChjb25zICIv\nLmRvY2tlcmlnbm9yZVxcJyIgJ2dpdGlnbm9yZS1tb2RlKSkKIytlbmRfc3Jj\nCgojK2h0bWw6IDxicj48YnI+CiMraHRtbDogPGEgaHJlZj0iaHR0cHM6Ly9n\naXRodWIuY29tL21hZ2l0L2dpdC1tb2Rlcy9hY3Rpb25zL3dvcmtmbG93cy9j\nb21waWxlLnltbCI+PGltZyBhbHQ9IkNvbXBpbGUiIHNyYz0iaHR0cHM6Ly9n\naXRodWIuY29tL21hZ2l0L2dpdC1tb2Rlcy9hY3Rpb25zL3dvcmtmbG93cy9j\nb21waWxlLnltbC9iYWRnZS5zdmciLz48L2E+CiMraHRtbDogPGEgaHJlZj0i\naHR0cHM6Ly9lbHBhLm5vbmdudS5vcmcvbm9uZ251L2dpdC1tb2Rlcy5odG1s\nIj48aW1nIGFsdD0iTm9uR05VIEVMUEEiIHNyYz0iaHR0cHM6Ly9lbWFjc2Fp\nci5tZS9hc3NldHMvYmFkZ2VzL25vbmdudS1lbHBhLnN2ZyIvPjwvYT4KIyto\ndG1sOiA8YSBocmVmPSJodHRwczovL3N0YWJsZS5tZWxwYS5vcmcvIy9naXQt\nbW9kZXMiPjxpbWcgYWx0PSJNRUxQQSBTdGFibGUiIHNyYz0iaHR0cHM6Ly9z\ndGFibGUubWVscGEub3JnL3BhY2thZ2VzL2dpdC1tb2Rlcy1iYWRnZS5zdmci\nLz48L2E+CiMraHRtbDogPGEgaHJlZj0iaHR0cHM6Ly9tZWxwYS5vcmcvIy9n\naXQtbW9kZXMiPjxpbWcgYWx0PSJNRUxQQSIgc3JjPSJodHRwczovL21lbHBh\nLm9yZy9wYWNrYWdlcy9naXQtbW9kZXMtYmFkZ2Uuc3ZnIi8+PC9hPgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/magit/git-modes/contents/README.org?ref=main",
+    "git": "https://api.github.com/repos/magit/git-modes/git/blobs/2a6b41c3d5c0993fe968c6b991e4a60079760d22",
+    "html": "https://github.com/magit/git-modes/blob/main/README.org"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0eee7f6d8129aa709ece91819df9e062535af1f4",
+  "size": 678,
+  "url": "https://api.github.com/repos/gitops-working-group/gitops-working-group/contents/README.md?ref=main",
+  "html_url": "https://github.com/gitops-working-group/gitops-working-group/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/gitops-working-group/gitops-working-group/git/blobs/0eee7f6d8129aa709ece91819df9e062535af1f4",
+  "download_url": "https://raw.githubusercontent.com/gitops-working-group/gitops-working-group/main/README.md",
+  "type": "file",
+  "content": "IyDimqDvuI8gVGhpcyByZXBvIGlzIHN1cGVyc2VkZWQKCi0gQ05DRiBHaXRP\ncHMgV29ya2luZyBHcm91cCBpcyBhIFdHIHVuZGVyIHRoZSBDTkNGIEFwcCBE\nZWxpdmVyeSBUQUcuCiAgQXMgc3VjaCBpdCdzIGZpbGVzIGhhdmUgYmVlbiBt\nb3ZlZCB0byB0aGUgW2dpdG9wcy13ZyBkaXJlY3RvcnkgaW4gdGhlIGNuY2Yv\ndGFnLWFwcC1kZWxpdmVyeSByZXBvXShodHRwczovL2dpdGh1Yi5jb20vY25j\nZi90YWctYXBwLWRlbGl2ZXJ5L3RyZWUvbWFpbi9naXRvcHMtd2cpLgotIFRo\nZSBDTkNGIE9wZW5HaXRPcHMgcHJvamVjdCBpcyB0aGUgaG9tZSBmb3IgbGFz\ndGluZyBwcm9ncmFtcywgZG9jdW1lbnRzLCBhbmQgY29kZSBmcm9tIHRoZSBX\nb3JraW5nIEdyb3VwLgogIEFzIHN1Y2gsIHRob3NlIGZpbGVzIGZvcm1lcmx5\nIGluIHRoaXMgcmVwbyBoYXZlIGJlZW4gbW92ZWQgdG8gdGhlIFt0aGUgT3Bl\nbkdpdE9wcyByZXBvc10oaHR0cHM6Ly9naXRodWIuY29tL29wZW4tZ2l0b3Bz\nL3Byb2plY3QjcmVwb3NpdG9yaWVzKS4KLSBJbiB0aGUgc3Bpcml0IG9mIHNl\nZWluZyBHaXQgYXMgdGhlIHNvdXJjZSBvZiB0cnV0aCwgYWxsIGZpbGVzIGhh\ndmUgYmVlbiBtb3ZlZCB0byB0aGUgbmV3IGxvY2F0aW9ucyDigJMgYWxvbmcg\nd2l0aCB0aGVpciBmdWxsIEdpdCBoaXN0b3J5IOKAkyBmcm9tIHRoaXMgcmVw\nby4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gitops-working-group/gitops-working-group/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/gitops-working-group/gitops-working-group/git/blobs/0eee7f6d8129aa709ece91819df9e062535af1f4",
+    "html": "https://github.com/gitops-working-group/gitops-working-group/blob/main/README.md"
+  }
+}

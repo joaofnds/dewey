@@ -1,0 +1,8 @@
+**Repository Data:**
+- **Name:** paintparty/bling
+- **Description:** A Clojure library for rich text console printing, supporting both terminal emulators and browser consoles. It offers an 11-color palette with reasonable contrast on light and dark backgrounds, simple hiccup-like markup syntax, and sensible templates for warning and error callouts.
+- **Primary function and domain:** Solves the problem of enhancing console output with rich text formatting, improving readability and design in various technical domains such as web development, machine learning, and systems.
+- **Core features and capabilities:** Supports bold, italic, colored text, and text decoration; works seamlessly across Clojure, ClojureScript, and Babashka environments.
+- **Technology stack:** Written in Clojure, with a focus on accessibility, design, typography, color, styling, and terminal emulators.
+- **Project type:** Library
+- **Target users:** Developers looking to improve the aesthetics and readability of their console output in various technical domains.

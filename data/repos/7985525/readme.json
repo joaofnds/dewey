@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "661e3939d23233a6861722fb85e9375dd78a7c91",
+  "size": 944,
+  "url": "https://api.github.com/repos/ImageOptim/ImageOptim/contents/README.md?ref=main",
+  "html_url": "https://github.com/ImageOptim/ImageOptim/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/ImageOptim/ImageOptim/git/blobs/661e3939d23233a6861722fb85e9375dd78a7c91",
+  "download_url": "https://raw.githubusercontent.com/ImageOptim/ImageOptim/main/README.md",
+  "type": "file",
+  "content": "IyBJbWFnZU9wdGltCgpbSW1hZ2VPcHRpbV0oaHR0cHM6Ly9pbWFnZW9wdGlt\nLmNvbSkgaXMgYSBHVUkgZm9yIGxvc3NsZXNzIGltYWdlIG9wdGltaXphdGlv\nbiB0b29sczogWm9wZmxpLCBQTkdPVVQsIFtPeGlQTkddKGh0dHBzOi8vbGli\nLnJzL2NyYXRlcy9veGlwbmcpLCBBZHZQTkcsIFBOR0NydXNoLCBbSlBFR09w\ndGltXShodHRwczovL2dpdGh1Yi5jb20vdGprby9qcGVnb3B0aW0pLCBKcGVn\ndHJhbiwgW0d1ZXR6bGldKGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGUvZ3Vl\ndHpsaSksIFtHaWZzaWNsZV0oaHR0cHM6Ly9rb3JuZWwuc2tpL2xvc3N5Z2lm\nKSwgW1NWR09dKGh0dHBzOi8vZ2l0aHViLmNvbS9zdmcvc3ZnbyksIFtzdmdj\nbGVhbmVyXShodHRwczovL2dpdGh1Yi5jb20vUmF6ckZhbGNvbi9zdmdjbGVh\nbmVyKSBhbmQgW01vekpQRUddKGh0dHBzOi8vZ2l0aHViLmNvbS9tb3ppbGxh\nL21vempwZWcpLgoKIyMgQnVpbGRpbmcKClJlcXVpcmVzOgoKKiBYY29kZQoq\nIFtSdXN0XShodHRwczovL3J1c3QtbGFuZy5vcmcvKSBpbnN0YWxsZWQgdmlh\nIFtydXN0dXBdKGh0dHBzOi8vd3d3LnJ1c3R1cC5ycy8pIChub3QgSG9tZWJy\nZXcpLgoKYGBgc2gKZ2l0IGNsb25lIC0tcmVjdXJzaXZlIGh0dHBzOi8vaW1h\nZ2VvcHRpbS5jb20gSW1hZ2VPcHRpbQpjZCBJbWFnZU9wdGltCmBgYAoKVG8g\nZ2V0IHN0YXJ0ZWQsIG9wZW4gYGltYWdlb3B0aW0vSW1hZ2VPcHRpbS54Y29k\nZXByb2pgLiBJdCB3aWxsIGF1dG9tYXRpY2FsbHkgZG93bmxvYWQgYW5kIGJ1\naWxkIGFsbCBzdWJwcm9qZWN0cyB3aGVuIHJ1biBpbiBYY29kZS4KCkluIGNh\nc2Ugb2YgYnVpbGQgZXJyb3JzLCB0aGVzZSBzb21ldGltZXMgaGVscDoKCmBg\nYHNoCmdpdCBzdWJtb2R1bGUgdXBkYXRlIC0taW5pdApgYGAKCmBgYHNoCmNk\nIGdpZnNpY2xlICMgb3IgcG5ncXVhbnQKbWFrZSBjbGVhbgptYWtlCmBgYAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ImageOptim/ImageOptim/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/ImageOptim/ImageOptim/git/blobs/661e3939d23233a6861722fb85e9375dd78a7c91",
+    "html": "https://github.com/ImageOptim/ImageOptim/blob/main/README.md"
+  }
+}

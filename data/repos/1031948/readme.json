@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0affc335a9f4f4374b3e6a6e434875849de2fa13",
+  "size": 321,
+  "url": "https://api.github.com/repos/sionescu/bordeaux-threads/contents/README.md?ref=master",
+  "html_url": "https://github.com/sionescu/bordeaux-threads/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/sionescu/bordeaux-threads/git/blobs/0affc335a9f4f4374b3e6a6e434875849de2fa13",
+  "download_url": "https://raw.githubusercontent.com/sionescu/bordeaux-threads/master/README.md",
+  "type": "file",
+  "content": "Qm9yZGVhdXgtVGhyZWFkcyBpcyBhIENvbW1vbiBMaXNwIHRocmVhZGluZyBs\naWJyYXJ5LgoKSXQgZXhwb3NlcyBnZW5lcmljIHByaW1pdGl2ZXMgcmVxdWly\nZWQgZm9yIHN5bmNocm9uaXphdGlvbiBpbgptdWx0aS10aHJlYWRpbmcgcHJv\nZ3JhbW1pbmcsIHN1Y2ggYXMgdGhyZWFkcywgbXV0ZXhlcywgc2VtYXBob3Jl\ncyBhbmQKY29uZGl0aW9uIHZhcmlhYmxlcywgYXMgd2VsbCBhcyBzb21lIGF0\nb21pYyBvcGVyYXRpb25zLgoKWW91IGNhbiByZWFkIGl0cyBtYW51YWwKW2hl\ncmVdKGh0dHBzOi8vc2lvbmVzY3UuZ2l0aHViLmlvL2JvcmRlYXV4LXRocmVh\nZHMvKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sionescu/bordeaux-threads/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/sionescu/bordeaux-threads/git/blobs/0affc335a9f4f4374b3e6a6e434875849de2fa13",
+    "html": "https://github.com/sionescu/bordeaux-threads/blob/master/README.md"
+  }
+}

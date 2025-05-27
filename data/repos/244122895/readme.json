@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "957e01817043dd9da54dafb07df31c3bd4230d48",
+  "size": 1006,
+  "url": "https://api.github.com/repos/Stanley00/anne-pro2-layout-configurator/contents/README.md?ref=master",
+  "html_url": "https://github.com/Stanley00/anne-pro2-layout-configurator/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/Stanley00/anne-pro2-layout-configurator/git/blobs/957e01817043dd9da54dafb07df31c3bd4230d48",
+  "download_url": "https://raw.githubusercontent.com/Stanley00/anne-pro2-layout-configurator/master/README.md",
+  "type": "file",
+  "content": "QW5uZSBQcm8gMiBMYXlvdXQgQ29uZmlndXJhdG9yCj09CgpJbnRyb2R1Y3Rp\nb24KPT0KCkhvbWUtbWFkZSBBbm5lIFBybyAyIExheW91dCBDb25maWd1cmF0\nb3IgZm9yIG9yaWdpbmFsIE9iaW5zS2l0IGZpcm13YXJlIGJ1dCB3aXRoIG1v\ncmUga2V5cyBhbmQgbW9yZSBmbGV4aWJsZSB0aGFuIE9iaW5zS2l0IGFwcGxp\nY2F0aW9uLgoKW09ubGluZSBEZW1vXShodHRwczovL3N0YW5sZXkwMC5naXRo\ndWIuaW8vYW5uZS1wcm8yLWxheW91dC1jb25maWd1cmF0b3IvKQoKSG93IHRv\nIHVzZQo9PQoKMSkgU2VsZWN0IExheWVyIG9uIHRoZSBsZWZ0CjIpIENsaWNr\nIHRoZSBrZXkgbmVlZGVkIHRvIGJlIGNoYW5nZWQKMykgQ2xpY2sgdGhlIGtl\neSBjb2RlIGF0IHRoZSBib3R0b20KNCkgU2F2ZSB0aGUgZmlsZSBhbmQgaW1w\nb3J0IGludG8gT2JpbnNLaXQgYXBwbGljYXRpb24KNSkgPz8/CjYpIFByb2Zp\ndAoKTGltaXRhdGlvbgo9PQoKLSBTdXBwb3J0IG9ubHkgQW5uZSBQcm8gMiBr\nZXlib2FyZAotIE9ubHkgdGVzdGVkIHdpdGggbmV3IGZpcm13YXJlICgxLjE0\nLjItYWxwaGEpLCBidXQgaXQgc2hvdWxkIHdvcmsgd2l0aCBvbGRlciB2ZXJz\naW9uCi0gU3VwcG9ydCBvbmx5IHBhcnQgb2YgSElEIFVTQiBjb2RlIGZyb20g\na2V5Ym9hcmQgdXNhZ2UgKEFubmUgcHJvMiBmaXJtd2FyZSBpZ25vcmUgc29t\nZSBvZiB0aGVtKQotIE5vIG1vdXNlIGtleSBzdXBwb3J0ZWQgKExpbWl0ZWQg\nYnkgQW5uZSBQcm8gMiBmaXJtd2FyZSkKCk5vdGVzCj09CgotIEFsbCBjb2Rl\nIHJlbGVhc2VkIHVuZGVyIFB1YmxpYyBkb21haW4gb3IgVW5saWNlbmNlCi0g\nVGhpcyBpcyBteSBgaGVsbHdvcmxkYCBwcm9qZWN0IGZvciBgaHRtbCtjc3Ng\nIHNvIHBsZWFzZSBleHBlY3RlZCBidWdzLgotIFB1bGwgcmVxdWVzdHMgYXJl\nIHdlbGNvbWUKClVwZGF0ZQo9PQoKVGhlcmUncyBxbWsgcG9ydCBmb3IgQW5u\nZSBQcm8gMiB3aXRoIG1vcmUgZmVhdHVyZXMgYXQgaHR0cHM6Ly9naXRodWIu\nY29tL09wZW5Bbm5lUHJvCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Stanley00/anne-pro2-layout-configurator/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/Stanley00/anne-pro2-layout-configurator/git/blobs/957e01817043dd9da54dafb07df31c3bd4230d48",
+    "html": "https://github.com/Stanley00/anne-pro2-layout-configurator/blob/master/README.md"
+  }
+}

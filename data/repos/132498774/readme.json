@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "1a6efe6101d1c76680da3fde42e6ca3661c132f0",
+  "size": 720,
+  "url": "https://api.github.com/repos/vmware-archive/tgik/contents/README.md?ref=master",
+  "html_url": "https://github.com/vmware-archive/tgik/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/vmware-archive/tgik/git/blobs/1a6efe6101d1c76680da3fde42e6ca3661c132f0",
+  "download_url": "https://raw.githubusercontent.com/vmware-archive/tgik/master/README.md",
+  "type": "file",
+  "content": "PHAgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9InRnaWstcmVwby5wbmciIHdp\nZHRoPSI3NTAiPjwvcD4KCgpPZmZpY2lhbCByZXBvc2l0b3J5IGZvciBUR0lL\nIQoKVEdJSyBpcyBhIG1vbnRobHkgbGl2ZSB2aWRlbyBzdHJlYW0gYWxsIGFi\nb3V0IEt1YmVybmV0ZXMgdGhhdCB3ZSBicm9hZGNhc3QgZnJvbSB2YXJpb3Vz\nIGxvY2F0aW9ucyBhcm91bmQgdGhlIHdvcmxkLiBPdXIgc3RhbmRhcmQgc3Rh\ncnQgdGltZSBpcyAxUE0gUFNULCB3aXRoIG9jY2FzaW9uYWwgQVBBQy9FTUVB\nLWZyaWVuZGx5IGVwaXNvZGVzLgoKVGhlIFtpbmRleF0ocGxheWxpc3QubWQp\nIGNvbnRhaW5zIGEgbGlzdCBvZiBhbGwgZXBpc29kZXMuCgpUaGUgW29mZmlj\naWFsIFlvdVR1YmUgY2hhbm5lbCBjYW4gYmUgZm91bmQgaGVyZV0oaHR0cHM6\nLy90Z2lrLmlvKS4KCiMjIFN1Z2dlc3QgYW4gZXBpc29kZQoKSWYgeW91IGhh\ndmUgYW4gaWRlYSBmb3IgVEdJSywgcGxlYXNlIFtvcGVuIGFuIGlzc3VlIGlu\nIHRoZSBUR0lLIGlzc3VlIHRyYWNrZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS92\nbXdhcmUtdGFuenUvdGdpay9pc3N1ZXMvbmV3KS4KV2UgcGljayB0aGUgZXBp\nc29kZXMgYXMgd2Ugc2VlIGZpdCB3aXRoIHdoYXQncyBoYXBwZW5pbmcgaW4g\ndGhlIGNvbW11bml0eS4KSWYgd2Ugc2VsZWN0IHlvdXIgc3VnZ2VzdGlvbiB3\nZSB3aWxsIGxpbmsgYmFjayB0byB5b3VyIG9yaWdpbmFsIHdvcmsgaGVyZSEK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/vmware-archive/tgik/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/vmware-archive/tgik/git/blobs/1a6efe6101d1c76680da3fde42e6ca3661c132f0",
+    "html": "https://github.com/vmware-archive/tgik/blob/master/README.md"
+  }
+}

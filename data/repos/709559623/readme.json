@@ -1,0 +1,18 @@
+{
+  "name": "README.rst",
+  "path": "README.rst",
+  "sha": "8ca60f86b418c0cd5ba87052066dbe09de91d1c4",
+  "size": 1534,
+  "url": "https://api.github.com/repos/FredeHoey/tardis.nvim/contents/README.rst?ref=main",
+  "html_url": "https://github.com/FredeHoey/tardis.nvim/blob/main/README.rst",
+  "git_url": "https://api.github.com/repos/FredeHoey/tardis.nvim/git/blobs/8ca60f86b418c0cd5ba87052066dbe09de91d1c4",
+  "download_url": "https://raw.githubusercontent.com/FredeHoey/tardis.nvim/main/README.rst",
+  "type": "file",
+  "content": "Li4gaW1hZ2U6OiAuL2Fzc2V0cy90YXJkaXMud2VicAoKVGFyZGlzIGFsbG93\ncyB5b3UgdG8gdHJhdmVsIGluIHRpbWUgKGdpdCBoaXN0b3J5KSBzY3JvbGxp\nbmcgdGhyb3VnaCBlYWNoCnJldmlzaW9uIG9mIHlvdXIgY3VycmVudCBmaWxl\nLgoKSW5zcGlyZWQgYnkKYGdpdC10aW1lbWFjaGluZSA8aHR0cHM6Ly9naXRo\ndWIuY29tL2VtYWNzbWlycm9yL2dpdC10aW1lbWFjaGluZT5gX18Kd2hpY2gg\nSSB1c2VkIGV4dGVuc2l2ZWx5IHdoZW4gSSB3YXMgdXNpbmcgZW1hY3MuCgpJ\nbnN0YWxsYXRpb24KPT09PT09PT09PT09CgpMaWtlIHdpdGggYW55IG90aGVy\nCgouLiBjb2RlOjogbHVhCgogICB7CiAgICAgICAnZnJlZGVlYi90YXJkaXMu\nbnZpbScsCiAgICAgICBkZXBlbmRlbmNpZXMgPSB7ICdudmltLWx1YS9wbGVu\nYXJ5Lm52aW0nIH0sCiAgICAgICBjb25maWcgPSB0cnVlLAogICB9CgpUaGUg\nZGVmYXVsdCBvcHRpb25zIGFyZQoKLi4gY29kZTo6IGx1YQoKICAgIHJlcXVp\ncmUoJ3RhcmRpcy1udmltJykuc2V0dXAgewogICAgICAgIGtleW1hcCA9IHsK\nICAgICAgICAgICAgWyJuZXh0Il0gPSAnPEMtaj4nLCAgICAgICAgICAgICAt\nLSBuZXh0IGVudHJ5IGluIGxvZyAob2xkZXIpCiAgICAgICAgICAgIFsicHJl\ndiJdID0gJzxDLWs+JywgICAgICAgICAgICAgLS0gcHJldmlvdXMgZW50cnkg\naW4gbG9nIChuZXdlcikKICAgICAgICAgICAgWyJxdWl0Il0gPSAncScsICAg\nICAgICAgICAgICAgICAtLSBxdWl0IGFsbAogICAgICAgICAgICBbInJldmlz\naW9uX21lc3NhZ2UiXSA9ICc8Qy1tPicsIC0tIHNob3cgcmV2aXNpb24gbWVz\nc2FnZSBmb3IgY3VycmVudCByZXZpc2lvbgogICAgICAgICAgICBbImNvbW1p\ndCJdID0gJzxDLWc+JywgICAgICAgICAgIC0tIHJlcGxhY2UgY29udGVudHMg\nb2Ygb3JpZ2luIGJ1ZmZlciB3aXRoIGNvbnRlbnRzIG9mIHRhcmRpcyBidWZm\nZXIKICAgICAgICB9LAogICAgICAgIGluaXRpYWxfcmV2aXNpb25zID0gMTAs\nICAgICAgICAgICAgIC0tIGluaXRpYWwgcmV2aXNpb25zIHRvIGNyZWF0ZSBi\ndWZmZXJzIGZvcgogICAgICAgIG1heF9yZXZpc2lvbnMgPSAyNTYsICAgICAg\nICAgICAgICAgIC0tIG1heCBudW1iZXIgb2YgcmV2aXNpb25zIHRvIGxvYWQK\nICAgIH0KClVzYWdlCj09PT09CgpVc2luZyB0YXJkaXMgaXMgcHJldHR5IHNp\nbXBsZQoKOjoKCiAgIDpUYXJkaXMgPGFkYXB0ZXI+CgpUaGlzIHB1dHMgeW91\nIGludG8gYSBuZXcgYnVmZmVyIHdoZXJlIHlvdSBjYW4gdXNlIHRoZSBrZXlt\nYXBzLCBsaWtlCmRlc2NyaWJlZCBhYm92ZSwgdG8gbmF2aWdhdGUgdGhlIHJl\ndmlzaW9ucyBvZiB0aGUgY3VycmVudGx5IG9wZW4gZmlsZQoKTGlzdCBvZiBj\ndXJyZW50bHkgc3VwcG9ydGVkIGFkYXB0ZXJzOgoKKiBnaXQKCktub3duIGlz\nc3Vlcwo9PT09PT09PT09PT0KClNlZSB8aXNzdWVzfAoKQ29udHJpYnV0aW5n\nCj09PT09PT09PT09PQoKR28gYWhlYWQgOikKCi4uIHxpc3N1ZXN8IGltYWdl\nOjogaHR0cHM6Ly9naXRodWIuY29tL0ZyZWRlRUIvdGFyZGlzLm52aW0vaXNz\ndWVzCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/FredeHoey/tardis.nvim/contents/README.rst?ref=main",
+    "git": "https://api.github.com/repos/FredeHoey/tardis.nvim/git/blobs/8ca60f86b418c0cd5ba87052066dbe09de91d1c4",
+    "html": "https://github.com/FredeHoey/tardis.nvim/blob/main/README.rst"
+  }
+}

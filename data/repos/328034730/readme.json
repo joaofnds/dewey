@@ -1,0 +1,18 @@
+{
+  "name": "readme.org",
+  "path": "readme.org",
+  "sha": "4783c1b5218fc1889df8728d3af9dfb4dd9f055f",
+  "size": 1044,
+  "url": "https://api.github.com/repos/sheijk/org-menu/contents/readme.org?ref=main",
+  "html_url": "https://github.com/sheijk/org-menu/blob/main/readme.org",
+  "git_url": "https://api.github.com/repos/sheijk/org-menu/git/blobs/4783c1b5218fc1889df8728d3af9dfb4dd9f055f",
+  "download_url": "https://raw.githubusercontent.com/sheijk/org-menu/main/readme.org",
+  "type": "file",
+  "content": "IytUSVRMRTogT3JnLW1lbnUKCiMrU1RBUlRVUDogaW5kZW50CgpBIG1lbnUg\nZm9yIGVkaXRpbmcgb3JnLW1vZGUgZG9jdW1lbnRzIGFuZCBleHBsb3Jpbmcg\naXQncyBmZWF0dXJlcyBpbiBhIGRpc2NvdmVyYWJsZSB3YXkuCgpJdCBpcyB1\nc2luZyA9dHJhbnNpZW50PSwgdGhlIHBhY2thZ2UgdG8gY3JlYXRlIGludGVy\nYWN0aXZlIG1lbnVzID1tYWdpdD0gdXNlcy4KCkVkaXRpbmcgYSBoZWFkbGlu\nZQpbW2ZpbGU6b3JnLW1lbnUtaGVhZGxpbmUucG5nXV0KCkVkaXRpbmcgYSB0\nYWJsZQpbW2ZpbGU6b3JnLW1lbnUtdGFibGUucG5nXV0KCiogSG93IHRvIHVz\nZSBpdAoKQWRkIHRoaXMgdG8geW91ciBFbWFjcyBpbml0IGZpbGU6CgojK2Jl\nZ2luX3NyYyBlbWFjcy1saXNwCih3aXRoLWV2YWwtYWZ0ZXItbG9hZCAnb3Jn\nCiAgKHJlcXVpcmUgJ29yZy1tZW51KQogIChkZWZpbmUta2V5IG9yZy1tb2Rl\nLW1hcCAoa2JkICJDLWMgbSIpICdvcmctbWVudSkpCiMrZW5kX3NyYwoKKiBS\nZWxlYXNlcwoqKiBtYWluCgotIGZpeGVkIGtleSBhbGlnbm1lbnQKLSBjbGVh\nbnVwcywgZml4ZXMKCioqIDAuNQotIENvbXBsZXRlIHN1cHBvcnQgZm9yIH5v\ncmctY29sdW1uc34KLSBTbmlwcGV0IHN5c3RlbSBjYW4gYmUgY29uZmlndXJl\nZAotIE5vIG1vcmUgeWFzbmlwcGV0IChzb2Z0KSBkZXBlbmRlbmN5IGJ1dCB1\nc2UgaXQgaWYgaXQncyBsb2FkZWQKLSBOZXcgbWVudSBpdGVtcwogIC0gRWFz\naWVyIHJlbW92YWwgb2YgaGlnaGxpZ2h0cwogIC0gVGFuZ2xpbmcgc291cmNl\nIGFuZCBleHBvcnRpbmcKICAtIG9yZy1jbG9uZS1zdWJ0cmVlLXdpdGgtdGlt\nZS1zaGlmdAogIC0gQWRkIG5vdGVzCiAgLSBtYXJrIGNoZWNrYm94IHBhcnRp\nYWxseSBkb25lCiAgLSBUb2dnbGUgbm9uLWJyZWFraW5nIHNwYWNlCiAgLSBS\nZXBhaXJpbmcgdGltZSBzdGFtcHMKICAtIEluc2VydCBob3Jpem9udGFsIHJ1\nbGUKICAtIEluc2VydGluZyBzdGFydHVwIGFuZCBidWZmZXIgb3B0aW9ucyB3\naXRoIGNvbXBsZXRpb24KLSBDbGVhbnVwcyBhbmQgYnVnZml4ZXMgKHNlZSBj\nb21taXRzKQoK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sheijk/org-menu/contents/readme.org?ref=main",
+    "git": "https://api.github.com/repos/sheijk/org-menu/git/blobs/4783c1b5218fc1889df8728d3af9dfb4dd9f055f",
+    "html": "https://github.com/sheijk/org-menu/blob/main/readme.org"
+  }
+}

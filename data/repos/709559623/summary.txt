@@ -1,0 +1,1 @@
+`tardis.nvim` is a Neovim plugin facilitating "timetravel," likely enabling users to navigate and revert code changes within a Neovim environment. Developed using Lua, the plugin extends Neovim's functionality, allowing users to manage and traverse their editing history. It provides a developer productivity tool specifically for Neovim users, categorized as a plugin.

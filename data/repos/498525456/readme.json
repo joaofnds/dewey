@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a7ea13da525833a0c7e436032d5f4accfd6465b1",
+  "size": 1513,
+  "url": "https://api.github.com/repos/divarvel/haskle/contents/README.md?ref=main",
+  "html_url": "https://github.com/divarvel/haskle/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/divarvel/haskle/git/blobs/a7ea13da525833a0c7e436032d5f4accfd6465b1",
+  "download_url": "https://raw.githubusercontent.com/divarvel/haskle/main/README.md",
+  "type": "file",
+  "content": "IyBIYXNrbGUKCkhhc2tsZSBpcyBhIGxpdHRsZSBbd29yZGxlXShodHRwczov\nL3d3dy5ueXRpbWVzLmNvbS9nYW1lcy93b3JkbGUvaW5kZXguaHRtbCktbGlr\nZSBnYW1lLAp3aGVyZSB0aGUgZ29hbCBpcyB0byBndWVzcyBhIGZ1bmN0aW9u\nIGZyb20gaXRzIChvYmZ1c2NhdGVkKSB0eXBlLiBBZnRlciBlYWNoIHRyeSwg\ndGhlCnR5cGUgaXMgcGFydGlhbGx5IHJldmVhbGVkLCBhbmQgd2hlbiB0aGUg\ndHlwZSBpcyByZXZlYWxlZCwgdGhlIG5hbWUgb2YgdGhlIGZ1bmN0aW9uIHN0\nYXJ0cwp0byByZXZlYWwgaXRzZWxmIGFzIHdlbGwuCgpCeSBkZWZhdWx0LCB0\naGUgc2V0IG9mIHBvc3NpYmxlIGFuc3dlciBpcyB0aGUgW2hhc2tlbGwgcHJl\nbHVkZV0oaHR0cHM6Ly9oYWNrYWdlLmhhc2tlbGwub3JnL3BhY2thZ2UvYmFz\nZS00LjE2LjEuMC9kb2NzL1ByZWx1ZGUuaHRtbCksCmJ1dCB5b3UgY2FuIGNo\nb29zZSBmcm9tIG90aGVyIHNldHMgKGZvciBub3csIGxlbnMgb3BlcmF0b3Jz\nLCBhbmQganVzdCB0cmF2ZXJzZSkuIEFzIGEgbWF0dGVyCm9mIGZhY3QsIGFk\nZGluZyBhIG5ldyBzZXQgaXMgYSBncmVhdCB3YXkgdG8gY29udHJpYnV0ZSB0\nbyBoYXNrbGUhCgojIyBDb250cmlidXRpbmcKCkhhc2tsZSBpcyBhbiBbZWxt\nXShodHRwczovL2VsbS1sYW5nLm9yZy8pIGFwcGxpY2F0aW9uLiBJ4oCZdmUg\ndHJpZWQgdG8ga2VlcCBpdCBhcyBzaW1wbGUgYXMKcG9zc2libGUsIGFuZCBJ\nIG1vc3RseSB3b3JrIG9uIGl0IGR1cmluZyBteSBicmVha3MsIHNvIGNvZGUg\ncXVhbGl0eSBpc+KApiB3aGF0IGl0IGlzLgpUaGUgbmljZSB0aGluZyBhYm91\ndCBoYXNrbGUgaXMgdGhhdCBpdCBpcyB3b3JraW5nIHB1cmVseSBjbGllbnQt\nc2lkZSwgc28gaXQgaXMgcmVsYXRpdmVseQplYXN5IHRvIGhhY2sgb24gaXQg\nbG9jYWxseS4KCiMjIyBSdW5uaW5nIGxvY2FsbHkKClRoZSBvbmx5IGRlcGVu\nZGVuY3kgaXMgYGVsbS0wLjE5YCwgeW91IHNob3VsZCBiZSBhYmxlIHRvIGdl\ndCBpdCB3aXRoIGBuaXgtc2hlbGxgIChhIGBzaGVsbC5uaXhgCmZpbGUgaXMg\ncHJlc2VudCkuCgpgYGAKbWFrZSAmJiB4ZGctb3BlbiBwdWJsaWMvaW5kZXgu\naHRtbApgYGAKCiMjIyBBZGRpbmcgYSBuZXcgZnVuY3Rpb24gc2V0CgpUaGUg\nY29yZSBwYXJ0IG9mIGEgZnVuY3Rpb24gc2V0IGlzIGEgbGlzdCBvZiBzaWdu\nYXR1cmVzLCByZXByZXNlbnRlZCBhcyBzdHJpbmdzLiBUaGUgbmFtZQptdXN0\nIGJlIHNlcGFyYXRlZCBmcm9tIHRoZSB0eXBlIHdpdGggYCA6OiBgLiBJbiBv\ncmRlciB0byBtYWtlIHRoZSBnYW1lIG1vcmUgaW50ZXJlc3RpbmcsCnR5cGVz\nIGxpa2UgYFthXWAsIGAoYSxiKWAsIGFuZCBgKClgIGhhdmUgdG8gYmUgcmVw\nbGFjZWQgYnkgYExpc3QgYWAsIGBUdXBsZSBhIGJgIGFuZCBgVW5pdGAuCgpB\nZGRpdGlvbmFsbHksIHlvdeKAmWxsIGhhdmUgdG8gcHJvdmlkZSBhIGJpdCBv\nZiBleHRyYSBpbmZvcm1hdGlvbiAobGlrZSBob3cgdG8gZ2VuZXJhdGUgbGlu\na3MKdG8gZG9jdW1lbnRhdGlvbiBwYWdlcykuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/divarvel/haskle/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/divarvel/haskle/git/blobs/a7ea13da525833a0c7e436032d5f4accfd6465b1",
+    "html": "https://github.com/divarvel/haskle/blob/main/README.md"
+  }
+}

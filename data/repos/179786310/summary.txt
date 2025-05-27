@@ -1,0 +1,1 @@
+`cssfx` is a Vue.js-based project providing a collection of click-to-copy CSS effects for web design. The repository offers reusable animation and design elements, leveraging SVG and CSS for visual enhancements. Users can readily integrate these effects into their web projects. This is a library primarily intended for frontend developers.

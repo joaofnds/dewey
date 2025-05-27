@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "08540f63c17e06cdba24c8ce6c447e6950d89c6e",
+  "size": 1212,
+  "url": "https://api.github.com/repos/protesilaos/denote/contents/README.md?ref=main",
+  "html_url": "https://github.com/protesilaos/denote/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/protesilaos/denote/git/blobs/08540f63c17e06cdba24c8ce6c447e6950d89c6e",
+  "download_url": "https://raw.githubusercontent.com/protesilaos/denote/main/README.md",
+  "type": "file",
+  "content": "IyBkZW5vdGU6IFNpbXBsZSBub3RlcyB3aXRoIGFuIGVmZmljaWVudCBmaWxl\nLW5hbWluZyBzY2hlbWUKCkRlbm90ZSBpcyBhIHNpbXBsZSBub3RlLXRha2lu\nZyB0b29sIGZvciBFbWFjcy4gIEl0IGlzIGJhc2VkIG9uIHRoZSBpZGVhCnRo\nYXQgbm90ZXMgc2hvdWxkIGZvbGxvdyBhIHByZWRpY3RhYmxlIGFuZCBkZXNj\ncmlwdGl2ZSBmaWxlLW5hbWluZwpzY2hlbWUuICBUaGUgZmlsZSBuYW1lIG11\nc3Qgb2ZmZXIgYSBjbGVhciBpbmRpY2F0aW9uIG9mIHdoYXQgdGhlIG5vdGUg\naXMKYWJvdXQsIHdpdGhvdXQgcmVmZXJlbmNlIHRvIGFueSBvdGhlciBtZXRh\nZGF0YS4gIERlbm90ZSBiYXNpY2FsbHkKc3RyZWFtbGluZXMgdGhlIGNyZWF0\naW9uIG9mIHN1Y2ggZmlsZXMgd2hpbGUgcHJvdmlkaW5nIGZhY2lsaXRpZXMg\ndG8KbGluayBiZXR3ZWVuIHRoZW0uCgpEZW5vdGUncyBmaWxlLW5hbWluZyBz\nY2hlbWUgaXMgbm90IGxpbWl0ZWQgdG8gIm5vdGVzIi4gIEl0IGNhbiBiZSB1\nc2VkCmZvciBhbGwgdHlwZXMgb2YgZmlsZSwgaW5jbHVkaW5nIHRob3NlIHRo\nYXQgYXJlIG5vdCBlZGl0YWJsZSBpbiBFbWFjcywKc3VjaCBhcyB2aWRlb3Mu\nICBOYW1pbmcgZmlsZXMgaW4gYSBjb25zaXN0ZW50IHdheSBtYWtlcyB0aGVp\ncgpmaWx0ZXJpbmcgYW5kIHJldHJpZXZhbCBjb25zaWRlcmFibHkgZWFzaWVy\nLiAgRGVub3RlIHByb3ZpZGVzIHJlbGV2YW50CmZhY2lsaXRpZXMgdG8gcmVu\nYW1lIGZpbGVzLCByZWdhcmRsZXNzIG9mIGZpbGUgdHlwZS4KCisgUGFja2Fn\nZSBuYW1lIChHTlUgRUxQQSk6IGBkZW5vdGVgCisgT2ZmaWNpYWwgbWFudWFs\nOiA8aHR0cHM6Ly9wcm90ZXNpbGFvcy5jb20vZW1hY3MvZGVub3RlPgorIENo\nYW5nZSBsb2c6IDxodHRwczovL3Byb3Rlc2lsYW9zLmNvbS9lbWFjcy9kZW5v\ndGUtY2hhbmdlbG9nPgorIEdpdCByZXBvc2l0b3JpZXM6CiAgKyBHaXRIdWI6\nIDxodHRwczovL2dpdGh1Yi5jb20vcHJvdGVzaWxhb3MvZGVub3RlPgogICsg\nR2l0TGFiOiA8aHR0cHM6Ly9naXRsYWIuY29tL3Byb3Rlc2lsYW9zL2Rlbm90\nZT4KKyBWaWRlbyBkZW1vOiA8aHR0cHM6Ly9wcm90ZXNpbGFvcy5jb20vY29k\nZWxvZy8yMDIyLTA2LTE4LWRlbm90ZS1kZW1vLz4KKyBCYWNrcm9ueW1zOiBE\nZW5vdGUgRXZlcnl0aGluZyBOZWF0bHk7IE9taXQgVGhlIEV4Y2Vzc2VzLiAg\nRG9uJ3QgRXZlcgogIE5vdGUgT25seSBUaGUgRXBpcGhlbm9tZW5hbC4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/protesilaos/denote/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/protesilaos/denote/git/blobs/08540f63c17e06cdba24c8ce6c447e6950d89c6e",
+    "html": "https://github.com/protesilaos/denote/blob/main/README.md"
+  }
+}

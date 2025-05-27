@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "cc50cce4fc592ccb2962ecd207e52c5913aafa57",
+  "size": 1459,
+  "url": "https://api.github.com/repos/irevenko/what-anime-cli/contents/README.md?ref=main",
+  "html_url": "https://github.com/irevenko/what-anime-cli/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/irevenko/what-anime-cli/git/blobs/cc50cce4fc592ccb2962ecd207e52c5913aafa57",
+  "download_url": "https://raw.githubusercontent.com/irevenko/what-anime-cli/main/README.md",
+  "type": "file",
+  "content": "IyBXaGF0IEFuaW1lIENMSSDinZPwn5a8Cgo8cCBhbGlnbj0iY2VudGVyIj4+\nIFRoaXMgYXBwbGljYXRpb24gaXMgYmFzaWNhbGx5IGEg8J+NrCB3cmFwcGVy\nIGFyb3VuZAo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vc29ydWx5L3Ry\nYWNlLm1vZSI+dHJhY2UubW9lIDwvYT48L3A+CjxwIGFsaWduPSJjZW50ZXIi\nPlBSRVZJRVc8L3A+CjxwIGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSIuL2Fu\naW1lX2ltYWdlcy9yZWNvcmQvZGVtby5naWYiIHdpZHRoPSI3MDAiPjwvcD4K\nCiMgSW5zdGFsbGF0aW9uIPCflKgKCmBgYGJhc2gKZ28gaW5zdGFsbCBnaXRo\ndWIuY29tL2lyZXZlbmtvL3doYXQtYW5pbWUtY2xpQGxhdGVzdApgYGAKCmBg\nYGJhc2gKd2hhdC1hbmltZS1jbGkgZmlsZSBhbmkucG5nCmBgYAoKW0FVUiBw\nYWNrYWdlXShodHRwczovL2F1ci5hcmNobGludXgub3JnL3BhY2thZ2VzL3do\nYXQtYW5pbWUtY2xpLWdpdCkKCiMgVXNhZ2Ug8J+WpQoKIyMjIEdldCBBbmlt\nZSBCeSBJbWFnZSBGaWxlIPCfl4MKCmB3aGF0LWFuaW1lIGZpbGUgYW5pbWUu\nanBnYAoKIyMjIEdldCBBbmltZSBCeSBJbWFnZSBMaW5rIPCflJcKCmB3aGF0\nLWFuaW1lIGxpbmsgaHR0cHM6Ly9hbmltZS5jb20vaW1hZ2UucG5nYCA8YnI+\nCgojIyMgUG90ZW50aWFsIHRyb3VibGVzCgpKdXN0IGVzY3BhcGUgdGhlIGxp\nbmsgd2l0aCBxdW90ZXMKPGI+IjwvYj5odHRwczovL2FuaW1lLmNvbS5hbmlt\nZS5wbmcmLi4uPGI+IjwvYj4KCiMjIyBTdXBwb3J0ZWQgaW1hZ2UgZXh0ZW5z\naW9ucyDwn5a8CgpJJ3ZlIHRlc3RlZCB0aGVzZToKCi0ganBnCi0gcG5nCi0g\namZpZgotIHdlYnAKLSBnaWYKCklmIHlvdSBoYXZlIGZvdW5kIG90aGVyJ3Mg\nd29ya2luZyBmb3JtYXRzIHBsZWFzZSBjcmVhdGUgYW4gaXNzdWUKCiMgQ29u\ndHJpYnV0aW5nIPCfpJ0KCkNvbnRyaWJ1dGlvbnMsIGlzc3VlcyBhbmQgZmVh\ndHVyZSByZXF1ZXN0cyBhcmUgd2VsY29tZSEg8J+RjSA8YnI+IEZlZWwgZnJl\nZSB0bwpjaGVjayBbb3BlbiBpc3N1ZXNdKGh0dHBzOi8vZ2l0aHViLmNvbS9p\ncmV2ZW5rby93aGF0LWFuaW1lLWNsaS9pc3N1ZXMpLgoKIyBRdWljayBTdGFy\ndCDwn5qACgpgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9pcmV2ZW5r\nby93aGF0LWFuaW1lLWNsaS5naXRgIDxicj4KYGNkIHdoYXQtYW5pbWUtY2xp\nYCA8YnI+IGBnbyBnZXQgLWQgLi8uLi5gIDxicj4gYGdvIHJ1biBtYWluLmdv\nYCA8YnI+CgojIFdoYXQgSSBMZWFybmVkIPCfp6AKCi0gSG93IHRvIGJ1aWxk\nIENMSSB1c2luZyBHbwotIEdvIHByb2plY3Qgc3RydWN0dXJlCi0gR28gYmFz\naWNzIChtb2R1bGVzLCB3b3JraW5nIHdpdGggaW1hZ2VzLCBtYWtpbmcgSFRU\nUCByZXF1ZXN0cykKCiMgTGljZW5zZSDwn5ORCgooYykgMjAyMSBJbHlhIFJl\ndmVua28uIFtNSVQgTGljZW5zZV0oaHR0cHM6Ly90bGRybGVnYWwuY29tL2xp\nY2Vuc2UvbWl0LWxpY2Vuc2UpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/irevenko/what-anime-cli/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/irevenko/what-anime-cli/git/blobs/cc50cce4fc592ccb2962ecd207e52c5913aafa57",
+    "html": "https://github.com/irevenko/what-anime-cli/blob/main/README.md"
+  }
+}

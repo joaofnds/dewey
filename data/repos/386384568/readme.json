@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "949d233887e8e9adfeabd3445ca258b2687168dd",
+  "size": 1684,
+  "url": "https://api.github.com/repos/sniptt-official/ots/contents/README.md?ref=main",
+  "html_url": "https://github.com/sniptt-official/ots/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/sniptt-official/ots/git/blobs/949d233887e8e9adfeabd3445ca258b2687168dd",
+  "download_url": "https://raw.githubusercontent.com/sniptt-official/ots/main/README.md",
+  "type": "file",
+  "content": "PHAgYWxpZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly9zbmlwdHQu\nY29tIj4KICAgIDxpbWcgc3JjPSIuZ2l0aHViL2Fzc2V0cy9vdHMtc29jaWFs\nLWNvdmVyLnN2ZyIgYWx0PSJPVFMgTG9nbyIgLz4KICA8L2E+CjwvcD4KCjxw\nIGFsaWduPSJyaWdodCI+CiAgPGk+SWYgeW91IHVzZSB0aGlzIHJlcG8sIHBs\nZWFzZSBzdGFyIGl0IOKcqDwvaT4KPC9wPgoKKioqCgo8cCBhbGlnbj0iY2Vu\ndGVyIj7wn5SQIDxiPlNoYXJlIGVuZC10by1lbmQgZW5jcnlwdGVkIHNlY3Jl\ndHMgd2l0aCBvdGhlcnMgdmlhIGEgb25lLXRpbWUgVVJMPC9iPjwvcD4KCjxw\nIGFsaWduPSJjZW50ZXIiPlVzZSB0byBzZWN1cmVseSBzaGFyZSBBUEkgS2V5\ncywgU2lnbmluZyBzZWNyZXRzLCBQYXNzd29yZHMsIGV0Yy4gd2l0aCAzcmQg\ncGFydGllcyBvciB3aXRoIHlvdXIgdGVhbTwvcD4KCjxwIGFsaWduPSJjZW50\nZXIiPlNlY3JldHMgYXJlIGRlc3RydWN0ZWQg8J+SpSBvbmNlIHZpZXdlZCwg\nb3IgYWZ0ZXIgc3BlY2lmaWVkIGV4cGlyeTwvcD4KCioqKgoKPHAgYWxpZ249\nImNlbnRlciI+PGI+TG9va2luZyBmb3IgdGhlIHdlYiB2ZXJzaW9uPzwvYj48\nL3A+Cgo8cCBhbGlnbj0iY2VudGVyIj5odHRwczovL290cy5zbmlwdHQuY29t\nPC9wPgoKKioqCgojIyBJbnN0YWxsCgojIyMgSG9tZWJyZXcKClRoZSByZWNv\nbW1lbmRlZCB3YXkgdG8gaW5zdGFsbCBgb3RzYCBvbiBtYWNPUyBpcyB2aWEg\nSG9tZWJyZXcuCgpgYGAKYnJldyBpbnN0YWxsIG90cwpgYGAKCiMjIyBHbwoK\nYGBgCmdvIGdldCAtdSBnaXRodWIuY29tL3NuaXB0dC1vZmZpY2lhbC9vdHMK\nYGBgCgojIyBVc2FnZQoKIVtyZW5kZXIxNjI4NjI4MTIzMTcwXShodHRwczov\nL3VzZXItaW1hZ2VzLmdpdGh1YnVzZXJjb250ZW50LmNvbS83NzgxMDkvMTI4\nOTMyMzAxLTE5MDM4OGIzLTE3MWMtNGU0MS1iZTVjLTg4ZWNmMzE1YmVkYS5n\naWYpCgojIyMgUHJvbXB0CgpgYGAKPiBvdHMgbmV3IC14IDJoCkVudGVyIHlv\ndXIgc2VjcmV0OiAKYGBgCgpUaGUgZGVmYXVsdCBleHBpcnkgaXMgMjQgaG91\ncnMuCgojIyMgUGlwZWxpbmUKCllvdSBjYW4gYWxzbyB1c2UgcGlwZXMsIGZv\nciBleGFtcGxlCgpgYGAKcGJwYXN0ZSB8IG90cyBuZXcKYGBgCgpvcgoKYGBg\nCmNhdCAuZW52IHwgb3RzIG5ldwpgYGAKCiMjIyBEYXRhIHJlc2lkZW5jeQoK\nVXNlIGAtLXJlZ2lvbmAgdG8gY2hvb3NlIHdoZXJlIHRoZSBzZWNyZXRzIHJl\nc2lkZS4KClRoZSBkZWZhdWx0IHJlZ2lvbiBpcyBgdXMtZWFzdC0xYC4KCmBg\nYApvdHMgbmV3IC14IDI0aCAtLXJlZ2lvbiBldS1jZW50cmFsLTEKYGBgCgoj\nIyBGQVFzCgpQbGVhc2UgcmVmZXIgdG8gb3VyIFEmQSBkaXNjdXNzaW9ucy4K\nCiogICBbV2h5IHNob3VsZCBJIHRydXN0IHlvdSB3aXRoIG15IHNlY3JldHM/\nXShodHRwczovL2dpdGh1Yi5jb20vc25pcHR0LW9mZmljaWFsL290cy9kaXNj\ndXNzaW9ucy8xMykKKiAgIFtDYW4gSSBwZXJzaXN0IG15IHNlY3JldHMgZm9y\nIGxhdGVyIHVzZT9dKGh0dHBzOi8vZ2l0aHViLmNvbS9zbmlwdHQtb2ZmaWNp\nYWwvb3RzL2Rpc2N1c3Npb25zLzE1KQoqICAgW1doYXQga2luZCBvZiBsaW1p\ndHMgYXJlIGluIHBsYWNlP10oaHR0cHM6Ly9naXRodWIuY29tL3NuaXB0dC1v\nZmZpY2lhbC9vdHMvZGlzY3Vzc2lvbnMvMTgpCgojIyBMaWNlbnNlCgpTZWUg\nW0xJQ0VOU0VdKExJQ0VOU0UpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sniptt-official/ots/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/sniptt-official/ots/git/blobs/949d233887e8e9adfeabd3445ca258b2687168dd",
+    "html": "https://github.com/sniptt-official/ots/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.adoc",
+  "path": "README.adoc",
+  "sha": "0bef6070cb6a516732a7e5a2d4f71be99791fa38",
+  "size": 907,
+  "url": "https://api.github.com/repos/shirok/Gauche/contents/README.adoc?ref=master",
+  "html_url": "https://github.com/shirok/Gauche/blob/master/README.adoc",
+  "git_url": "https://api.github.com/repos/shirok/Gauche/git/blobs/0bef6070cb6a516732a7e5a2d4f71be99791fa38",
+  "download_url": "https://raw.githubusercontent.com/shirok/Gauche/master/README.adoc",
+  "type": "file",
+  "content": "PSBHYXVjaGUtIFNjaGVtZSBTY3JpcHRpbmcgRW5naW5lCgpHYXVjaGUgaXMg\nYW4gUjdSUyBTY2hlbWUgc2NyaXB0aW5nIGVuZ2luZSBhaW1pbmcgYXQgYmVp\nbmcgYSBoYW5keSB0b29sCnRoYXQgaGVscHMgcHJvZ3JhbW1lcnMgYW5kIHN5\nc3RlbSBhZG1pbmlzdHJhdG9ycyB0byB3cml0ZSBzbWFsbCB0byBsYXJnZQpz\nY3JpcHRzIHF1aWNrbHkuCgpWaXNpdCBsaW5rOmh0dHBzOi8vcHJhY3RpY2Fs\nLXNjaGVtZS5uZXQvZ2F1Y2hlL1t0aGUgcHJvamVjdCB3ZWJwYWdlXSBmb3Ig\nbW9yZSBkZXRhaWxzLgoKUmVmZXJlbmNlIG1hbnVhbHMgYXJlIGF2YWlsYWJs\nZSBvbmxpbmU6IGh0dHBzOi8vcHJhY3RpY2FsLXNjaGVtZS5uZXQvZ2F1Y2hl\nL21hbi9nYXVjaGUtcmVmZS9pbmRleC5odG1sCgpJZiB5b3UncmUgbmV3IHRv\nIHRoaXMgcHJvamVjdCBhbmQgd2FudCB0byB0cnkgY29tcGlsaW5nIGZyb20g\nZ2l0IHJlcG8sCmNoZWNrIGxpbms6SEFDS0lORy5hZG9jW10gZmlyc3QuICBJ\nZiBpdCBpcyB5b3VyIGZpcnN0IHRpbWUgdG8gYnVpbGQgR2F1Y2hlLAp5b3Ug\nc2hvdWxkIHN0YXJ0IGZyb20gdGhlIHJlbGVhc2UgdGFyYmFsbCBpbnN0ZWFk\nIG9mIGdpdCBjbG9uZTsgc2VlCmh0dHBzOi8vcHJhY3RpY2FsLXNjaGVtZS5u\nZXQvZ2F1Y2hlL2Rvd25sb2FkLmh0bWwgb24gaG93IHRvIGdldCB0aGUgdGFy\nYmFsbC4KT25jZSB5b3UgZ2V0IGFuZCB1bnRhciB0aGUgcmVsZWFzZSB0YXJi\nYWxsLCBzZWUgbGluazpJTlNUQUxMLmFkb2NbXQpmb3IgdGhlIGluc3RydWN0\naW9ucy4gIChJZiB5b3UncmUgcmVhZGluZyB0aGlzIGluIHRleHQgZWRpdG9y\nLApJTlNUQUxMLmVuLmFkb2Mgb3IgSU5TVEFMTC5qYS5hZG9jIGFyZSBFbmds\naXNoLW9ubHkgYW5kIEphcGFuZXNlLW9ubHkKdmVyc2lvbiBlYXNpZXIgdG8g\ncmVhZC4pCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/shirok/Gauche/contents/README.adoc?ref=master",
+    "git": "https://api.github.com/repos/shirok/Gauche/git/blobs/0bef6070cb6a516732a7e5a2d4f71be99791fa38",
+    "html": "https://github.com/shirok/Gauche/blob/master/README.adoc"
+  }
+}

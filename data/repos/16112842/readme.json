@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "35e85c97faee685225c3ed15f56cac701a9605a7",
+  "size": 1127,
+  "url": "https://api.github.com/repos/mholt/json-to-go/contents/README.md?ref=master",
+  "html_url": "https://github.com/mholt/json-to-go/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/mholt/json-to-go/git/blobs/35e85c97faee685225c3ed15f56cac701a9605a7",
+  "download_url": "https://raw.githubusercontent.com/mholt/json-to-go/master/README.md",
+  "type": "file",
+  "content": "WzxpbWcgc3JjPSJodHRwczovL21ob2x0LmdpdGh1Yi5pby9qc29uLXRvLWdv\nL3Jlc291cmNlcy9pbWFnZXMvanNvbi10by1nby5wbmciIGFsdD0iSlNPTi10\nby1HbyBjb252ZXJ0cyBKU09OIHRvIGEgR28gc3RydWN0Ij48L2E+XShodHRw\nczovL21ob2x0LmdpdGh1Yi5pby9qc29uLXRvLWdvKQoKVHJhbnNsYXRlcyBK\nU09OIGludG8gYSBHbyB0eXBlIGRlZmluaXRpb24uIFtDaGVjayBpdCBvdXQh\nXShodHRwOi8vbWhvbHQuZ2l0aHViLmlvL2pzb24tdG8tZ28pCgpUaGlzIGlz\nIGEgc2lzdGVyIHRvb2wgdG8gW2N1cmwtdG8tR29dKGh0dHBzOi8vbWhvbHQu\nZ2l0aHViLmlvL2N1cmwtdG8tZ28pLCB3aGljaCBjb252ZXJ0cyBjdXJsIGNv\nbW1hbmRzIHRvIEdvIGNvZGUuCgpUaGluZ3MgdG8gbm90ZToKCi0gVGhlIHNj\ncmlwdCBzb21ldGltZXMgaGFzIHRvIG1ha2Ugc29tZSBhc3N1bXB0aW9ucywg\nc28gZ2l2ZSB0aGUgb3V0cHV0IGEgb25jZS1vdmVyLgotIEluIGFuIGFycmF5\nIG9mIG9iamVjdHMsIGl0IGlzIGFzc3VtZWQgdGhhdCB0aGUgZmlyc3Qgb2Jq\nZWN0IGlzIHJlcHJlc2VudGF0aXZlIG9mIHRoZSByZXN0IG9mIHRoZW0uCi0g\nVGhlIG91dHB1dCBpcyBpbmRlbnRlZCwgYnV0IG5vdCBmb3JtYXR0ZWQuIFVz\nZSBgZ28gZm10YCEKCkNvbnRyaWJ1dGlvbnMgYXJlIHdlbGNvbWUhIE9wZW4g\nYSBwdWxsIHJlcXVlc3QgdG8gZml4IGEgYnVnLCBvciBvcGVuIGFuIGlzc3Vl\nIHRvIGRpc2N1c3MgYSBuZXcgZmVhdHVyZSBvciBjaGFuZ2UuCgojIyMgVXNh\nZ2UKCi0gUmVhZCBKU09OIGZpbGU6CgogIGBgYHNoCiAgbm9kZSBqc29uLXRv\nLWdvLmpzIHNhbXBsZS5qc29uCiAgYGBgCgotIFJlYWQgSlNPTiBmaWxlIGZy\nb20gc3RkaW46CgogIGBgYHNoCiAgbm9kZSBqc29uLXRvLWdvLmpzIDwgc2Ft\ncGxlLmpzb24KICBjYXQgc2FtcGxlLmpzb24gfCBub2RlIGpzb24tdG8tZ28u\nanMKICBgYGAKCiMjIyBDcmVkaXRzCgpKU09OLXRvLUdvIGlzIGJyb3VnaHQg\ndG8geW91IGJ5IE1hdHQgSG9sdCAoW21ob2x0Nl0oaHR0cHM6Ly90d2l0dGVy\nLmNvbS9taG9sdDYpKS4KClRoZSBHbyBHb3BoZXIgaXMgb3JpZ2luYWxseSBi\neSBSZW5lZSBGcmVuY2guIFRoaXMgYXJ0d29yayBpcyBhbiBhZGFwdGF0aW9u\nLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mholt/json-to-go/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/mholt/json-to-go/git/blobs/35e85c97faee685225c3ed15f56cac701a9605a7",
+    "html": "https://github.com/mholt/json-to-go/blob/master/README.md"
+  }
+}

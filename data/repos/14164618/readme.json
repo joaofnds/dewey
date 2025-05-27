@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "d378215eb0e0615fd4c341387110dfe8c8b56cb9",
+  "size": 1146,
+  "url": "https://api.github.com/repos/tree-sitter/tree-sitter/contents/README.md?ref=master",
+  "html_url": "https://github.com/tree-sitter/tree-sitter/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/tree-sitter/tree-sitter/git/blobs/d378215eb0e0615fd4c341387110dfe8c8b56cb9",
+  "download_url": "https://raw.githubusercontent.com/tree-sitter/tree-sitter/master/README.md",
+  "type": "file",
+  "content": "IyB0cmVlLXNpdHRlcgoKWyFbRE9JXShodHRwczovL3plbm9kby5vcmcvYmFk\nZ2UvMTQxNjQ2MTguc3ZnKV0oaHR0cHM6Ly96ZW5vZG8ub3JnL2JhZGdlL2xh\ndGVzdGRvaS8xNDE2NDYxOCkKWyFbZGlzY29yZF1bZGlzY29yZF1dKGh0dHBz\nOi8vZGlzY29yZC5nZy93N25UdnNWSmhtKQpbIVttYXRyaXhdW21hdHJpeF1d\nKGh0dHBzOi8vbWF0cml4LnRvLyMvI3RyZWUtc2l0dGVyLWNoYXQ6bWF0cml4\nLm9yZykKClRyZWUtc2l0dGVyIGlzIGEgcGFyc2VyIGdlbmVyYXRvciB0b29s\nIGFuZCBhbiBpbmNyZW1lbnRhbCBwYXJzaW5nIGxpYnJhcnkuIEl0IGNhbiBi\ndWlsZCBhIGNvbmNyZXRlIHN5bnRheCB0cmVlIGZvciBhIHNvdXJjZSBmaWxl\nIGFuZCBlZmZpY2llbnRseSB1cGRhdGUgdGhlIHN5bnRheCB0cmVlIGFzIHRo\nZSBzb3VyY2UgZmlsZSBpcyBlZGl0ZWQuIFRyZWUtc2l0dGVyIGFpbXMgdG8g\nYmU6CgotICoqR2VuZXJhbCoqIGVub3VnaCB0byBwYXJzZSBhbnkgcHJvZ3Jh\nbW1pbmcgbGFuZ3VhZ2UKLSAqKkZhc3QqKiBlbm91Z2ggdG8gcGFyc2Ugb24g\nZXZlcnkga2V5c3Ryb2tlIGluIGEgdGV4dCBlZGl0b3IKLSAqKlJvYnVzdCoq\nIGVub3VnaCB0byBwcm92aWRlIHVzZWZ1bCByZXN1bHRzIGV2ZW4gaW4gdGhl\nIHByZXNlbmNlIG9mIHN5bnRheCBlcnJvcnMKLSAqKkRlcGVuZGVuY3ktZnJl\nZSoqIHNvIHRoYXQgdGhlIHJ1bnRpbWUgbGlicmFyeSAod2hpY2ggaXMgd3Jp\ndHRlbiBpbiBwdXJlIEMpIGNhbiBiZSBlbWJlZGRlZCBpbiBhbnkgYXBwbGlj\nYXRpb24KCiMjIExpbmtzCi0gW0RvY3VtZW50YXRpb25dKGh0dHBzOi8vdHJl\nZS1zaXR0ZXIuZ2l0aHViLmlvKQotIFtSdXN0IGJpbmRpbmddKGxpYi9iaW5k\naW5nX3J1c3QvUkVBRE1FLm1kKQotIFtXQVNNIGJpbmRpbmddKGxpYi9iaW5k\naW5nX3dlYi9SRUFETUUubWQpCi0gW0NvbW1hbmQtbGluZSBpbnRlcmZhY2Vd\nKGNsaS9SRUFETUUubWQpCgpbZGlzY29yZF06IGh0dHBzOi8vaW1nLnNoaWVs\nZHMuaW8vZGlzY29yZC8xMDYzMDk3MzIwNzcxNjk4Njk5P2xvZ289ZGlzY29y\nZCZsYWJlbD1kaXNjb3JkClttYXRyaXhdOiBodHRwczovL2ltZy5zaGllbGRz\nLmlvL21hdHJpeC90cmVlLXNpdHRlci1jaGF0JTNBbWF0cml4Lm9yZz9sb2dv\nPW1hdHJpeCZsYWJlbD1tYXRyaXgK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tree-sitter/tree-sitter/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/tree-sitter/tree-sitter/git/blobs/d378215eb0e0615fd4c341387110dfe8c8b56cb9",
+    "html": "https://github.com/tree-sitter/tree-sitter/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "503d8e6ba03f780d4a2a0f3eda394bfe45841ff9",
+  "size": 522,
+  "url": "https://api.github.com/repos/diego3g/electron-typescript-react/contents/README.md?ref=master",
+  "html_url": "https://github.com/diego3g/electron-typescript-react/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/diego3g/electron-typescript-react/git/blobs/503d8e6ba03f780d4a2a0f3eda394bfe45841ff9",
+  "download_url": "https://raw.githubusercontent.com/diego3g/electron-typescript-react/master/README.md",
+  "type": "file",
+  "content": "IyMgRWxlY3Ryb24gKyBUeXBlU2NyaXB0ICsgUmVhY3QKCkJvaWxlcnBsYXRl\nIGZvciBhIHByb2plY3QgdXNpbmcgRWxlY3Ryb24sIFJlYWN0IGFuZCBUeXBl\nc2NyaXB0LgoKIyMgSW5zdGFsbGF0aW9uCgpVc2UgYSBwYWNrYWdlIG1hbmFn\nZXIgb2YgeW91ciBjaG9pY2UgKG5wbSwgeWFybiwgZXRjLikgaW4gb3JkZXIg\ndG8gaW5zdGFsbCBhbGwgZGVwZW5kZW5jaWVzCgpgYGBiYXNoCnlhcm4KYGBg\nCgojIyBVc2FnZQoKSnVzdCBydW4gYHN0YXJ0YCBzY3JpcHQuCgpgYGBiYXNo\nCnlhcm4gc3RhcnQKYGBgCgojIyBQYWNrYWdpbmcKClRvIGdlbmVyYXRlIHRo\nZSBwcm9qZWN0IHBhY2thZ2UgYmFzZWQgb24gdGhlIE9TIHlvdSdyZSBydW5u\naW5nIG9uLCBqdXN0IHJ1bjoKCmBgYGJhc2gKeWFybiBwYWNrYWdlCmBgYAoK\nIyMgQ29udHJpYnV0aW5nCgpQdWxsIHJlcXVlc3RzIGFyZSBhbHdheXMgd2Vs\nY29tZSDwn5iDLgoKIyMgTGljZW5zZQoKW01JVF0oaHR0cHM6Ly9jaG9vc2Vh\nbGljZW5zZS5jb20vbGljZW5zZXMvbWl0LykK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/diego3g/electron-typescript-react/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/diego3g/electron-typescript-react/git/blobs/503d8e6ba03f780d4a2a0f3eda394bfe45841ff9",
+    "html": "https://github.com/diego3g/electron-typescript-react/blob/master/README.md"
+  }
+}

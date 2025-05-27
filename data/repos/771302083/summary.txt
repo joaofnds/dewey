@@ -1,0 +1,7 @@
+**OpenHands** is a Python-based platform for software development agents powered by AI. The primary function of OpenHands lies in automating code modifications, command execution, web browsing, API calls, and even StackOverflow code snippet retrieval. This tool is designed for the domain of software development and artificial intelligence.
+
+Key features include a user-friendly interface, local and cloud deployment options, and integration with various APIs and services. OpenHands can run on your local system using Docker or through OpenHands Cloud, which offers $50 in free credits for new users.
+
+The technology stack includes Python, Docker, and web technologies. The platform is built as a software development agent that leverages AI to perform tasks typically done by human developers.
+
+OpenHands can be categorized as an application, serving as both a standalone tool and a cloud service for software development automation. Its target users range from individual developers to organizations seeking to streamline their development processes.

@@ -1,0 +1,1 @@
+`microfts` is a Go library providing a small and fast full-text search (FTS) implementation. Its core functionality centers on enabling efficient text indexing and querying capabilities within Go applications. The library allows developers to integrate search features, likely targeting applications requiring text-based information retrieval. This project is a library.

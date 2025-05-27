@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0910330f37babc810f9dcbddcae89d4f41ca521b",
+  "size": 270,
+  "url": "https://api.github.com/repos/shamblesides/turfwar/contents/README.md?ref=main",
+  "html_url": "https://github.com/shamblesides/turfwar/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/shamblesides/turfwar/git/blobs/0910330f37babc810f9dcbddcae89d4f41ca521b",
+  "download_url": "https://raw.githubusercontent.com/shamblesides/turfwar/main/README.md",
+  "type": "file",
+  "content": "IyBJUHY0IFR1cmYgV2FyCgpJdCdzIGEgZ2FtZS4gVGhlcmUncyBhIGxpdHRs\nZSB3ZWJzZXJ2ZXIuIFRoZSBnb2FsIGlzIHRvIGFjY2VzcyBpdCBmcm9tCmFz\nIG1hbnkgSVAgYWRkcmVzc2VzIGFzIHlvdSBjYW4uCgpHZXQgY3JlYXRpdmUh\nCgpDYW5vbmljYWwgaW5zdGFuY2UgaXMgaGVyZTogaHR0cHM6Ly9pcHY0Lmdh\nbWVzCgojIyMgSG93IGl0IHdvcmtzCgpJdCdzIGEgW3JlZGJlYW4gc2VydmVy\nXShodHRwczovL3JlZGJlYW4uZGV2LykuCgpgYGBzaAptYWtlIGRldgpgYGAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/shamblesides/turfwar/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/shamblesides/turfwar/git/blobs/0910330f37babc810f9dcbddcae89d4f41ca521b",
+    "html": "https://github.com/shamblesides/turfwar/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b3d061c28973490c93f68d323ad1267a13eb9455",
+  "size": 1188,
+  "url": "https://api.github.com/repos/gleam-lang/cowboy/contents/README.md?ref=main",
+  "html_url": "https://github.com/gleam-lang/cowboy/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/gleam-lang/cowboy/git/blobs/b3d061c28973490c93f68d323ad1267a13eb9455",
+  "download_url": "https://raw.githubusercontent.com/gleam-lang/cowboy/main/README.md",
+  "type": "file",
+  "content": "IyBHbGVhbSBDb3dib3khIPCfpKAKCkEgR2xlYW0gSFRUUCBzZXJ2aWNlIGFk\nYXB0ZXIgZm9yIHRoZSBbQ293Ym95XVtjb3dib3ldIHdlYiBzZXJ2ZXIuCgpZ\nb3UgbWF5IHdhbnQgdG8gY29uc2lkZXIgdXNpbmcgdGhlIFtNaXN0XVttaXN0\nXSB3ZWIgc2VydmVyIGluc3RlYWQgYXMgaXQgaGFzCmJldHRlciBwZXJmb3Jt\nYW5jZSwgZmVhdHVyZXMgdHlwZSBzYWZlIHdlYnNvY2tldHMsIGFuZCBpcyB3\ncml0dGVuIGVudGlyZWx5IGluCkdsZWFtLiBJdCBpcyBhbHNvIHN1cHBvcnRl\nZCBieSB0aGUgW1dpc3BdW3dpc3BdIHdlYiBmcmFtZXdvcmsuCgojIyBJbnN0\nYWxsYXRpb24KCmBgYHNoCmdsZWFtIGFkZCBnbGVhbV9jb3dib3kKYGBgCgpg\nYGBnbGVhbQppbXBvcnQgZ2xlYW0vZXJsYW5nL3Byb2Nlc3MKaW1wb3J0IGds\nZWFtL2h0dHAvY293Ym95CmltcG9ydCBnbGVhbS9odHRwL3Jlc3BvbnNlLnt0\neXBlIFJlc3BvbnNlfQppbXBvcnQgZ2xlYW0vaHR0cC9yZXF1ZXN0Lnt0eXBl\nIFJlcXVlc3R9CmltcG9ydCBnbGVhbS9ieXRlc190cmVlLnt0eXBlIEJ5dGVz\nVHJlZX0KCi8vIERlZmluZSBhIEhUVFAgc2VydmljZQovLwpwdWIgZm4gbXlf\nc2VydmljZShyZXF1ZXN0OiBSZXF1ZXN0KHQpKSAtPiBSZXNwb25zZShCeXRl\nc1RyZWUpIHsKICBsZXQgYm9keSA9IGJ5dGVzX3RyZWUuZnJvbV9zdHJpbmco\nIkhlbGxvLCB3b3JsZCEiKQoKICByZXNwb25zZS5uZXcoMjAwKQogIHw+IHJl\nc3BvbnNlLnByZXBlbmRfaGVhZGVyKCJtYWRlLXdpdGgiLCAiR2xlYW0iKQog\nIHw+IHJlc3BvbnNlLnNldF9ib2R5KGJvZHkpCn0KCi8vIFN0YXJ0IGl0IG9u\nIHBvcnQgMzAwMCEKLy8KcHViIGZuIG1haW4oKSB7CiAgY293Ym95LnN0YXJ0\nKG15X3NlcnZpY2UsIG9uX3BvcnQ6IDMwMDApCiAgcHJvY2Vzcy5zbGVlcF9m\nb3JldmVyKCkKfQpgYGAKCiMjIExpbWl0YXRpb25zCgpDb3dib3kgZG9lcyBu\nb3Qgc3VwcG9ydCBkdXBsaWNhdGUgSFRUUCBoZWFkZXJzIHNvIGFueSBkdXBs\naWNhdGVzIHNwZWNpZmllZCBieQp0aGUgR2xlYW0gSFRUUCBzZXJ2aWNlIHdp\nbGwgbm90IGJlIHNlbnQgdG8gdGhlIGNsaWVudC4KCltjb3dib3ldOiBodHRw\nczovL2dpdGh1Yi5jb20vbmluZW5pbmVzL2Nvd2JveQpbbWlzdF06IGh0dHBz\nOi8vZ2l0aHViLmNvbS9yYXdoYXQvbWlzdApbd2lzcF06IGh0dHBzOi8vZ2l0\naHViLmNvbS9scGlsL3dpc3AK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gleam-lang/cowboy/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/gleam-lang/cowboy/git/blobs/b3d061c28973490c93f68d323ad1267a13eb9455",
+    "html": "https://github.com/gleam-lang/cowboy/blob/main/README.md"
+  }
+}

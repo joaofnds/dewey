@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f0f3d9dd24b4cb97c8a37abb1e2497ad0a4e4866",
+  "size": 642,
+  "url": "https://api.github.com/repos/MystPi/pprint/contents/README.md?ref=master",
+  "html_url": "https://github.com/MystPi/pprint/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/MystPi/pprint/git/blobs/f0f3d9dd24b4cb97c8a37abb1e2497ad0a4e4866",
+  "download_url": "https://raw.githubusercontent.com/MystPi/pprint/master/README.md",
+  "type": "file",
+  "content": "IyBwcHJpbnQKClshW1BhY2thZ2UgVmVyc2lvbl0oaHR0cHM6Ly9pbWcuc2hp\nZWxkcy5pby9oZXhwbS92L3BwcmludCldKGh0dHBzOi8vaGV4LnBtL3BhY2th\nZ2VzL3BwcmludCkKWyFbSGV4IERvY3NdKGh0dHBzOi8vaW1nLnNoaWVsZHMu\naW8vYmFkZ2UvaGV4LWRvY3MtZmZhZmYzKV0oaHR0cHM6Ly9oZXhkb2NzLnBt\nL3BwcmludC8pCgrwn5KEIFByZXR0eSBwcmludCB2YWx1ZXMgd2l0aCBzdHls\nZSEKCmBgYHNoCmdsZWFtIGFkZCBwcHJpbnQgLS1kZXYKYGBgCgpgYGBnbGVh\nbQppbXBvcnQgcHByaW50CgpwdWIgZm4gbWFpbigpIHsKICBPayhbIm15Iiwg\nInN1cGVyIiwgImF3ZXNvbWUiLCAidXNlbGVzcyIsICJsaXN0Il0pCiAgfD4g\ncHByaW50LmRlYnVnCn0KCi8vIFByaW50cyAod2l0aCBjb2xvciEpOgovLyBP\nayhbCi8vICAgIm15IiwKLy8gICAic3VwZXIiLAovLyAgICJhd2Vzb21lIiwK\nLy8gICAidXNlbGVzcyIsCi8vICAgImxpc3QiLAovLyBdKQpgYGAKCkZ1cnRo\nZXIgZG9jdW1lbnRhdGlvbiBjYW4gYmUgZm91bmQgYXQgPGh0dHBzOi8vaGV4\nZG9jcy5wbS9wcHJpbnQ+LgoKIyMgRGV2ZWxvcG1lbnQKCmBgYHNoCmdsZWFt\nIHJ1biAgICMgUnVuIHRoZSBwcm9qZWN0CmdsZWFtIHRlc3QgICMgUnVuIHRo\nZSB0ZXN0cwpgYGAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/MystPi/pprint/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/MystPi/pprint/git/blobs/f0f3d9dd24b4cb97c8a37abb1e2497ad0a4e4866",
+    "html": "https://github.com/MystPi/pprint/blob/master/README.md"
+  }
+}

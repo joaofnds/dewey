@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "367969f197b48d09666dad317ada7c14a3b6b3c5",
+  "size": 558,
+  "url": "https://api.github.com/repos/gaearon/whatthefuck.is/contents/README.md?ref=main",
+  "html_url": "https://github.com/gaearon/whatthefuck.is/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/gaearon/whatthefuck.is/git/blobs/367969f197b48d09666dad317ada7c14a3b6b3c5",
+  "download_url": "https://raw.githubusercontent.com/gaearon/whatthefuck.is/main/README.md",
+  "type": "file",
+  "content": "IyBbd2hhdHRoZWZ1Y2suaXNdKGh0dHBzOi8vd2hhdHRoZWZ1Y2suaXMvKQoK\nQW4gb3BpbmlvbmF0ZWQgZ2xvc3Nhcnkgb2YgY29tcHV0ZXIgc2NpZW5jZSB0\nZXJtcyBmb3IgZnJvbnQtZW5kIGRldmVsb3BlcnMuIFdyaXR0ZW4gYnkgRGFu\nIEFicmFtb3YuCgojIyBDb250cmlidXRpbmcKClR5cG8gZml4ZXMgYW5kIHdl\nYnNpdGUgaW1wcm92ZW1lbnRzIGFyZSB3ZWxjb21lIGFzIHB1bGwgcmVxdWVz\ndHMuCgpXZSAqKmRvIG5vdCoqIGFjY2VwdCBkZWZpbml0aW9ucywgYnV0IHlv\ndeKAmXJlIHdlbGNvbWUgdG8gdm90ZSBvbiAoYW5kIHJlcXVlc3QpIGRlZmlu\naXRpb25zIGluIHRoZSBbaXNzdWUgdHJhY2tlcl0oaHR0cHM6Ly9naXRodWIu\nY29tL2dhZWFyb24vd2hhdHRoZWZ1Y2suaXMvaXNzdWVzKS4gWW91IGNhbiBz\nb3J0IHBvcHVsYXIgaXNzdWVzIGJ5IFtzb3J0aW5nIGJ5IHJlYWN0aW9uc10o\naHR0cHM6Ly9naXRodWIuY29tL2dhZWFyb24vd2hhdHRoZWZ1Y2suaXMvaXNz\ndWVzP3BhZ2U9MSZxPWlzJTNBaXNzdWUraXMlM0FvcGVuK3NvcnQlM0FyZWFj\ndGlvbnMtJTJCMS1kZXNjKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gaearon/whatthefuck.is/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/gaearon/whatthefuck.is/git/blobs/367969f197b48d09666dad317ada7c14a3b6b3c5",
+    "html": "https://github.com/gaearon/whatthefuck.is/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "fed04b7ad1de4507261d82c9e0893e18cdc0bc0b",
+  "size": 1410,
+  "url": "https://api.github.com/repos/rails/thor/contents/README.md?ref=main",
+  "html_url": "https://github.com/rails/thor/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/rails/thor/git/blobs/fed04b7ad1de4507261d82c9e0893e18cdc0bc0b",
+  "download_url": "https://raw.githubusercontent.com/rails/thor/main/README.md",
+  "type": "file",
+  "content": "VGhvcgo9PT09CgpbIVtHZW0gVmVyc2lvbl0oaHR0cDovL2ltZy5zaGllbGRz\nLmlvL2dlbS92L3Rob3Iuc3ZnKV1bZ2VtXQoKW2dlbV06IGh0dHBzOi8vcnVi\neWdlbXMub3JnL2dlbXMvdGhvcgoKRGVzY3JpcHRpb24KLS0tLS0tLS0tLS0K\nVGhvciBpcyBhIHNpbXBsZSBhbmQgZWZmaWNpZW50IHRvb2wgZm9yIGJ1aWxk\naW5nIHNlbGYtZG9jdW1lbnRpbmcgY29tbWFuZCBsaW5lCnV0aWxpdGllcy4g\nIEl0IHJlbW92ZXMgdGhlIHBhaW4gb2YgcGFyc2luZyBjb21tYW5kIGxpbmUg\nb3B0aW9ucywgd3JpdGluZwoiVVNBR0U6IiBiYW5uZXJzLCBhbmQgY2FuIGFs\nc28gYmUgdXNlZCBhcyBhbiBhbHRlcm5hdGl2ZSB0byB0aGUgW1Jha2VdW3Jh\na2VdCmJ1aWxkIHRvb2wuICBUaGUgc3ludGF4IGlzIFJha2UtbGlrZSwgc28g\naXQgc2hvdWxkIGJlIGZhbWlsaWFyIHRvIG1vc3QgUmFrZQp1c2Vycy4KClBs\nZWFzZSBub3RlOiBUaG9yLCBieSBkZXNpZ24sIGlzIGEgc3lzdGVtIHRvb2wg\nY3JlYXRlZCB0byBhbGxvdyBzZWFtbGVzcyBmaWxlIGFuZCB1cmwKYWNjZXNz\nLCB3aGljaCBzaG91bGQgbm90IHJlY2VpdmUgYXBwbGljYXRpb24gdXNlciBp\nbnB1dC4gSXQgcmVsaWVzIG9uIFtvcGVuLXVyaV1bb3Blbi11cmldLAp3aGlj\naCwgY29tYmluZWQgd2l0aCBhcHBsaWNhdGlvbiB1c2VyIGlucHV0LCB3b3Vs\nZCBwcm92aWRlIGEgY29tbWFuZCBpbmplY3Rpb24gYXR0YWNrCnZlY3Rvci4K\nCltyYWtlXTogaHR0cHM6Ly9naXRodWIuY29tL3J1YnkvcmFrZQpbb3Blbi11\ncmldOiBodHRwczovL3J1YnktZG9jLm9yZy9zdGRsaWItMi41LjEvbGliZG9j\nL29wZW4tdXJpL3Jkb2MvaW5kZXguaHRtbAoKSW5zdGFsbGF0aW9uCi0tLS0t\nLS0tLS0tLQogICAgZ2VtIGluc3RhbGwgdGhvcgoKVXNhZ2UgYW5kIGRvY3Vt\nZW50YXRpb24KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KUGxlYXNlIHNlZSB0\naGUgW3dpa2ldW10gZm9yIGJhc2ljIHVzYWdlIGFuZCBvdGhlciBkb2N1bWVu\ndGF0aW9uIG9uIHVzaW5nIFRob3IuIFlvdSBjYW4gYWxzbyBjaGVjayBvdXQg\ndGhlIFtvZmZpY2lhbCBob21lcGFnZV1baG9tZXBhZ2VdLgoKW3dpa2ldOiBo\ndHRwczovL2dpdGh1Yi5jb20vcmFpbHMvdGhvci93aWtpCltob21lcGFnZV06\nIGh0dHA6Ly93aGF0aXN0aG9yLmNvbS8KCkNvbnRyaWJ1dGluZwotLS0tLS0t\nLS0tLS0KSWYgeW91IHdvdWxkIGxpa2UgdG8gaGVscCwgcGxlYXNlIHJlYWQg\ndGhlIFtDT05UUklCVVRJTkddW10gZmlsZSBmb3Igc3VnZ2VzdGlvbnMuCgpb\nY29udHJpYnV0aW5nXTogQ09OVFJJQlVUSU5HLm1kCgpMaWNlbnNlCi0tLS0t\nLS0KUmVsZWFzZWQgdW5kZXIgdGhlIE1JVCBMaWNlbnNlLiAgU2VlIHRoZSBb\nTElDRU5TRV1bXSBmaWxlIGZvciBmdXJ0aGVyIGRldGFpbHMuCgpbbGljZW5z\nZV06IExJQ0VOU0UubWQK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rails/thor/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/rails/thor/git/blobs/fed04b7ad1de4507261d82c9e0893e18cdc0bc0b",
+    "html": "https://github.com/rails/thor/blob/main/README.md"
+  }
+}

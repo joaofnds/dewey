@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "252adc0ed6a9cf68ac0ef483c4532c6712f8ca77",
+  "size": 1196,
+  "url": "https://api.github.com/repos/M-68/macterial/contents/README.md?ref=master",
+  "html_url": "https://github.com/M-68/macterial/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/M-68/macterial/git/blobs/252adc0ed6a9cf68ac0ef483c4532c6712f8ca77",
+  "download_url": "https://raw.githubusercontent.com/M-68/macterial/master/README.md",
+  "type": "file",
+  "content": "YGBgCiAgICAgICAgICAgICAgICAgICAgICAgICBfXyAgICAgICAgICAgIF8g\nICAgICAgX18KICAgX19fXyBfX18gIF9fX18gX19fX19fLyAvX19fXyAgX19f\nX18oXylfX18gXy8gLwogIC8gX18gYF9fIFwvIF9fIGAvIF9fXy8gX18vIF8g\nXC8gX19fLyAvIF9fIGAvIC8gCiAvIC8gLyAvIC8gLyAvXy8gLyAvX18vIC9f\nLyAgX18vIC8gIC8gLyAvXy8gLyAvICAKL18vIC9fLyAvXy9cX18sXy9cX19f\nL1xfXy9cX19fL18vICAvXy9cX18sXy9fLyAgIApgYGAKCiFbTUFDVEVSSUFM\nXShodHRwczovL2NuLm9wZW5kZXNrdG9wLm9yZy9jYWNoZS84NXg4NS1jcm9w\nL2ltZy81LzAvZi82Lzg0MmFmYzg0ODVjY2U3ZGVhMWE1NDNjZGI2NmM5ZTg1\nYzRiNC5qcGcpCgoKClshW0dpdEh1YiBzdGFyc10oaHR0cHM6Ly9pbWcuc2hp\nZWxkcy5pby9naXRodWIvc3RhcnMvVVJPUC1YL21hY3RlcmlhbCldKGh0dHBz\nOi8vZ2l0aHViLmNvbS9VUk9QLVgvbWFjdGVyaWFsL3N0YXJnYXplcnMpClsh\nW0dpdEh1YiBmb3Jrc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9naXRodWIv\nZm9ya3MvVVJPUC1YL21hY3RlcmlhbCldKGh0dHBzOi8vZ2l0aHViLmNvbS9V\nUk9QLVgvbWFjdGVyaWFsL25ldHdvcmspClshW0dpdEh1YiBpc3N1ZXNdKGh0\ndHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2lzc3Vlcy9VUk9QLVgvbWFj\ndGVyaWFsKV0oaHR0cHM6Ly9naXRodWIuY29tL1VST1AtWC9tYWN0ZXJpYWwv\naXNzdWVzKQoKCkEgbWFjIGluc3BpcmVkIEd0aysgdGhlbWUgYmFzZWQgb24g\nTWF0ZXJpYWwgZGVzaWduCgpWaXNpdCB0byBkb3dubG9hZCEKaHR0cHM6Ly9n\nbm9tZS1sb29rLm9yZy9wLzEyNDgyNTUvCgohW1RoZW1lXShodHRwczovL2Nu\nLm9wZW5kZXNrdG9wLm9yZy9pbWcvZC8yLzIvMS9jODM5MTgzNjE0NGYyMDg5\nYmY1Y2Q4MDJmYjVmMTY5MTU2OGEucG5nKQohW1RoZW1lXShodHRwczovL2Nu\nLm9wZW5kZXNrdG9wLm9yZy9pbWcvMi81LzMvZC9kY2FiYzA4MDNmNmZjNWZl\nMzgwYzEyOTVmYTIzNjkwYWQyNzEucG5nKQohW1RoZW1lXShodHRwczovL2Nu\nLm9wZW5kZXNrdG9wLm9yZy9pbWcvOS83L2QvMi81Y2QyYTIxM2UzNzdlMmRi\nMDJiOTdkZWVkOGVjYzVkM2U1MTQucG5nKQohW1RoZW1lXShodHRwczovL2Nu\nLm9wZW5kZXNrdG9wLm9yZy9pbWcvMi9kLzgvNS9mZWUxNDliZjA5MjVlMGVm\nYzQ1ZDQ2OWM3Yzk4NzI5OTk3YjYucG5nKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/M-68/macterial/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/M-68/macterial/git/blobs/252adc0ed6a9cf68ac0ef483c4532c6712f8ca77",
+    "html": "https://github.com/M-68/macterial/blob/master/README.md"
+  }
+}

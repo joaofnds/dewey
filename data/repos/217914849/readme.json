@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "5e1ed4cdc10a33125bee6aa7e976f46191a6bc69",
+  "size": 1002,
+  "url": "https://api.github.com/repos/gleam-lang/stdlib/contents/README.md?ref=main",
+  "html_url": "https://github.com/gleam-lang/stdlib/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/gleam-lang/stdlib/git/blobs/5e1ed4cdc10a33125bee6aa7e976f46191a6bc69",
+  "download_url": "https://raw.githubusercontent.com/gleam-lang/stdlib/main/README.md",
+  "type": "file",
+  "content": "IyBzdGRsaWIKClshW1BhY2thZ2UgVmVyc2lvbl0oaHR0cHM6Ly9pbWcuc2hp\nZWxkcy5pby9oZXhwbS92L2dsZWFtX3N0ZGxpYildKGh0dHBzOi8vaGV4LnBt\nL3BhY2thZ2VzL2dsZWFtX3N0ZGxpYikKWyFbSGV4IERvY3NdKGh0dHBzOi8v\naW1nLnNoaWVsZHMuaW8vYmFkZ2UvaGV4LWRvY3MtZmZhZmYzKV0oaHR0cHM6\nLy9oZXhkb2NzLnBtL2dsZWFtX3N0ZGxpYi8pClshW0Rpc2NvcmQgY2hhdF0o\naHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9kaXNjb3JkLzc2ODU5NDUyNDE1ODQy\nNzE2Nz9jb2xvcj1ibHVlKV0oaHR0cHM6Ly9kaXNjb3JkLmdnL0ZtOFB3bXkp\nCgpHbGVhbSdzIHN0YW5kYXJkIGxpYnJhcnkhCkRvY3VtZW50YXRpb24gYXZh\naWxhYmxlIG9uIFtIZXhEb2NzXShodHRwczovL2hleGRvY3MucG0vZ2xlYW1f\nc3RkbGliLykuCgojIyBJbnN0YWxsYXRpb24KCkFkZCBgZ2xlYW1fc3RkbGli\nYCB0byB5b3VyIEdsZWFtIHByb2plY3QuCgpgYGBzaApnbGVhbSBhZGQgZ2xl\nYW1fc3RkbGliCmBgYApgYGBnbGVhbQppbXBvcnQgZ2xlYW0vaW8KCnB1YiBm\nbiBncmVldChuYW1lOiBTdHJpbmcpIC0+IE5pbCB7CiAgaW8ucHJpbnRsbigi\nSGVsbG8gIiA8PiBuYW1lIDw+ICIhIikKfQpgYGAKCiMjIFRhcmdldHMKCkds\nZWFtJ3Mgc3RhbmRhcmQgbGlicmFyeSBzdXBwb3J0cyBib3RoIHRhcmdldHM6\nIEVybGFuZyBhbmQgSmF2YVNjcmlwdC4KCiMjIyBDb21wYXRpYmlsaXR5CgpU\naGlzIGxpYnJhcnkgaXMgY29tcGF0aWJsZSB3aXRoIGFsbCB2ZXJzaW9ucyBv\nZiBFcmxhbmcvT1RQIDI2IGFuZCBoaWdoZXIsIAphcyB3ZWxsIGFzIGFsbCBO\nb2RlSlMsIERlbm8sIEJ1biwgYW5kIG1ham9yIGJyb3dzZXJzIHRoYXQgYXJl\nIGN1cnJlbnRseQpzdXBwb3J0ZWQgYnkgdGhlaXIgbWFpbnRhaW5lcnMuIElm\nIHlvdSBoYXZlIGEgY29tcGF0aWJpbGl0eSBpc3N1ZSB3aXRoCmFueSBwbGF0\nZm9ybSBvcGVuIGFuIGlzc3VlIGFuZCB3ZSdsbCBzZWUgd2hhdCB3ZSBjYW4g\nZG8gdG8gaGVscC4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gleam-lang/stdlib/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/gleam-lang/stdlib/git/blobs/5e1ed4cdc10a33125bee6aa7e976f46191a6bc69",
+    "html": "https://github.com/gleam-lang/stdlib/blob/main/README.md"
+  }
+}

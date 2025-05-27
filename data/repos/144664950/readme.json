@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9084b5cca79dd851d40dc98442ee13713807fecd",
+  "size": 403,
+  "url": "https://api.github.com/repos/HackerPoet/NonEuclidean/contents/README.md?ref=master",
+  "html_url": "https://github.com/HackerPoet/NonEuclidean/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/HackerPoet/NonEuclidean/git/blobs/9084b5cca79dd851d40dc98442ee13713807fecd",
+  "download_url": "https://raw.githubusercontent.com/HackerPoet/NonEuclidean/master/README.md",
+  "type": "file",
+  "content": "IyBOb25FdWNsaWRlYW4KQSBOb25FdWNsaWRlYW4gcmVuZGVyaW5nIGVuZ2lu\nZSBmb3IgV2luZG93cywgd3JpdHRlbiBpbiBDKysgT3BlbkdMLgpUbyBzZWUg\nd2hhdCB0aGlzIGNvZGUgaXMgYWJvdXQsIGNoZWNrIG91dCB0aGlzIHZpZGVv\nOgpodHRwczovL3lvdXR1LmJlL2tFQjExUFE5RW84CgojIyBTb3VyY2UgQ29k\nZSBEZXBlbmRlbmNpZXMKQWRkIGdsZXctMi4xLjAgdG8gdGhlIG1haW4gZGly\nZWN0b3J5CgojIyBDb250cm9scwoqICoqTW91c2UqKiAtIExvb2sgYXJvdW5k\nCiogKipBV1NEKiogLSBNb3ZlbWVudAoqICoqMSAtIDcqKiAtIFN3aXRjaCBi\nZXR3ZWVuIGRpZmZlcmVudCBkZW1vIHJvb21zCiogKipBbHQgKyBFbnRlcioq\nIC0gVG9nZ2xlIEZ1bGxzY3JlZW4KKiAqKkVzYyoqIC0gRXhpdCBkZW1vCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/HackerPoet/NonEuclidean/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/HackerPoet/NonEuclidean/git/blobs/9084b5cca79dd851d40dc98442ee13713807fecd",
+    "html": "https://github.com/HackerPoet/NonEuclidean/blob/master/README.md"
+  }
+}

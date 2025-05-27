@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "81be8ffcaf9d783b99d953ba9e144729d376cbda",
+  "size": 298,
+  "url": "https://api.github.com/repos/hashicorp/http-echo/contents/README.md?ref=main",
+  "html_url": "https://github.com/hashicorp/http-echo/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/hashicorp/http-echo/git/blobs/81be8ffcaf9d783b99d953ba9e144729d376cbda",
+  "download_url": "https://raw.githubusercontent.com/hashicorp/http-echo/main/README.md",
+  "type": "file",
+  "content": "aHR0cC1lY2hvCj09PT09PT09PQpIVFRQIEVjaG8gaXMgYSBzbWFsbCBnbyB3\nZWIgc2VydmVyIHRoYXQgc2VydmVzIHRoZSBjb250ZW50cyBpdCB3YXMgc3Rh\ncnRlZCB3aXRoCmFzIGFuIEhUTUwgcGFnZS4KClRoZSBkZWZhdWx0IHBvcnQg\naXMgNTY3OCwgYnV0IHRoaXMgaXMgY29uZmlndXJhYmxlIHZpYSB0aGUgYC1s\naXN0ZW5gIGZsYWc6CgpgYGAKaHR0cC1lY2hvIC1saXN0ZW49OjgwODAgLXRl\neHQ9ImhlbGxvIHdvcmxkIgpgYGAKClRoZW4gdmlzaXQgaHR0cDovL2xvY2Fs\naG9zdDo4MDgwLyBpbiB5b3VyIGJyb3dzZXIuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/hashicorp/http-echo/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/hashicorp/http-echo/git/blobs/81be8ffcaf9d783b99d953ba9e144729d376cbda",
+    "html": "https://github.com/hashicorp/http-echo/blob/main/README.md"
+  }
+}

@@ -1,0 +1,13 @@
+**Repository Data:**
+
+**Name:** dockur/macos
+
+**Description:** A Docker container solution for running macOS (macOS Virtual Machine), providing KVM acceleration, web-based viewer, and automatic download.
+
+**Core Features & Capabilities:** Allows users to run a full instance of macOS inside a Docker container, with the ability to select different versions, adjust storage location, disk size, CPU cores, and RAM.
+
+**Technology Stack:** Shell scripting, KVM acceleration, web-based viewer.
+
+**Project Type:** Docker Container Solution
+
+**Target Users:** Developers, researchers, or anyone requiring a macOS environment for their projects within a Docker setup.

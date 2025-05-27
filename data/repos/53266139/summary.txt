@@ -1,0 +1,1 @@
+BoostNote-Legacy is an outdated, open-source, Electron-based note-taking application for Linux, macOS, and Windows. This standalone application enables users to create and manage notes using a React-based frontend, styled with Stylus. Leveraging Electron, it allows for cross-platform desktop functionality with a focus on developer-friendly note-taking and organization.

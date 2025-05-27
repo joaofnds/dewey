@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "2a543be7ad8b7cd56f6321f1b1778812e6377e65",
+  "size": 1392,
+  "url": "https://api.github.com/repos/adobe-fonts/source-serif/contents/README.md?ref=release",
+  "html_url": "https://github.com/adobe-fonts/source-serif/blob/release/README.md",
+  "git_url": "https://api.github.com/repos/adobe-fonts/source-serif/git/blobs/2a543be7ad8b7cd56f6321f1b1778812e6377e65",
+  "download_url": "https://raw.githubusercontent.com/adobe-fonts/source-serif/release/README.md",
+  "type": "file",
+  "content": "IyBTb3VyY2UgU2VyaWYKCltTb3VyY2UgU2VyaWZdKGh0dHBzOi8vYWRvYmUt\nZm9udHMuZ2l0aHViLmlvL3NvdXJjZS1zZXJpZi8pIGlzIGFuIG9wZW4tc291\ncmNlIHR5cGVmYWNlIHRvIGNvbXBsZW1lbnQgdGhlIFtTb3VyY2UgU2Fuc10o\naHR0cHM6Ly9naXRodWIuY29tL2Fkb2JlLWZvbnRzL3NvdXJjZS1zYW5zLXBy\nbykgZmFtaWx5LgoKIyMgU291cmNlIGZpbGVzCgpUaGUgZm9udHPigJkgc291\ncmNlIGZpbGVzIGFuZCBidWlsZCBpbnN0cnVjdGlvbnMgYXJlIGF2YWlsYWJs\nZSBpbiB0aGUgW3JlcG9zaXRvcnnigJlzIGBtYWluYCBicmFuY2hdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9hZG9iZS1mb250cy9zb3VyY2Utc2VyaWYvdHJlZS9t\nYWluKS4KCgojIyBHZXR0aW5nIGludm9sdmVkCgpQbGVhc2UgW29wZW4gYW4g\naXNzdWVdKGh0dHBzOi8vZ2l0aHViLmNvbS9hZG9iZS1mb250cy9zb3VyY2Ut\nc2VyaWYvaXNzdWVzKSB0byBzdGFydCB0aGUgZGlzY3Vzc2lvbi4KCgojIyBS\nZWxlYXNlcwoKKiBbTGF0ZXN0IHJlbGVhc2VdKC4uLy4uL3JlbGVhc2VzL2xh\ndGVzdCkKKiBbQWxsIHJlbGVhc2VzXSguLi8uLi9yZWxlYXNlcykKCgojIyBE\nZXNpZ24gaW5mb3JtYXRpb24KCiogW0Jsb2cgcG9zdCBvbiB0aGUgaW50cm9k\ndWN0b3J5IHJlbGVhc2Ugb2YgU291cmNlIFNlcmlmXShodHRwczovL2Jsb2cu\ndHlwZWtpdC5jb20vMjAxNC8wNS8yMC9zb3VyY2Utc2VyaWYtcHJvLykgKDIw\nMTQpICAKKiBbQmxvZyBwb3N0IG9uIHRoZSBzaXgtd2VpZ2h0IGV4dGVuc2lv\nbl0oaHR0cHM6Ly9ibG9nLnR5cGVraXQuY29tLzIwMTQvMTIvMTEvc291cmNl\nLXNlcmlmLXVwZGF0ZS10aHJlZS1uZXctd2VpZ2h0cy8pICgyMDE0KSAgCiog\nW1NvdXJjZSBTZXJpZiAyLjBdKGh0dHBzOi8vYmxvZy50eXBla2l0LmNvbS8y\nMDE3LzAxLzEwL2ludHJvZHVjaW5nLXNvdXJjZS1zZXJpZi0yLTAvKSAoMjAx\nNykgIAoqIFtTb3VyY2UgU2VyaWYgSXRhbGljc10oaHR0cHM6Ly9ibG9nLnR5\ncGVraXQuY29tLzIwMTgvMDgvMTYvc291cmNlLXNlcmlmLWl0YWxpY3MvKSAo\nMjAxOCkgIAoqIFtTb3VyY2UgU2VyaWYgNF0oaHR0cHM6Ly9ibG9nLmFkb2Jl\nLmNvbS9lbi9wdWJsaXNoLzIwMjEvMDMvMDQvc291cmNlLXNlcmlmLWdldHMt\nb3B0aWNhbC1zaXplcy5odG1sI2dzLjZkZTFmZikgKDIwMjEpICAKCkZvciBn\nZW5lcmFsIGluZm9ybWF0aW9uIGFib3V0IHRoZSBkZXNpZ24gYW5kIGJhY2tn\ncm91bmQgb2YgU291cmNlIFNlcmlmLCBwbHVzIHNvbWUgdGVjaG5pY2FsIGlu\nZm9ybWF0aW9uLCBwbGVhc2UgcmVmZXIgdG8gdGhlIFtvZmZpY2lhbCBmb250\nIHJlYWRtZSBmaWxlXShodHRwczovL2dpdGh1Yi5jb20vYWRvYmUtZm9udHMv\nc291cmNlLXNlcmlmL3dpa2kvU291cmNlLVNlcmlmLVJlYWRtZSkuICAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/adobe-fonts/source-serif/contents/README.md?ref=release",
+    "git": "https://api.github.com/repos/adobe-fonts/source-serif/git/blobs/2a543be7ad8b7cd56f6321f1b1778812e6377e65",
+    "html": "https://github.com/adobe-fonts/source-serif/blob/release/README.md"
+  }
+}

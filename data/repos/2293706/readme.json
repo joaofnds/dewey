@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f20b767e5ec299c823b42055a55ca1f75c892857",
+  "size": 1172,
+  "url": "https://api.github.com/repos/edicl/cl-ppcre/contents/README.md?ref=master",
+  "html_url": "https://github.com/edicl/cl-ppcre/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/edicl/cl-ppcre/git/blobs/f20b767e5ec299c823b42055a55ca1f75c892857",
+  "download_url": "https://raw.githubusercontent.com/edicl/cl-ppcre/master/README.md",
+  "type": "file",
+  "content": "IyBDTC1QUENSRSAtIFBvcnRhYmxlIFBlcmwtY29tcGF0aWJsZSByZWd1bGFy\nIGV4cHJlc3Npb25zIGZvciBDb21tb24gTGlzcAoKIyMgQWJzdHJhY3QKCkNM\nLVBQQ1JFIGlzIGEgcG9ydGFibGUgcmVndWxhciBleHByZXNzaW9uIGxpYnJh\ncnkgZm9yIENvbW1vbiBMaXNwCndoaWNoIGhhcyB0aGUgZm9sbG93aW5nIGZl\nYXR1cmVzOgoKKiBJdCBpcyAqKmNvbXBhdGlibGUgd2l0aCBQZXJsKiogKGVz\ncGVjaWFsbHkgd2hlbiB1c2VkIGluIGNvbmp1bmN0aW9uCiAgd2l0aCBbY2wt\naW50ZXJwb2xdKGh0dHA6Ly93ZWl0ei5kZS9jbC1pbnRlcnBvbC8pLCB0byBh\nbGxvdwogIGNvbXBhdGlibGUgcGFyc2luZyBvZiByZWdleHAgc3RyaW5ncyku\nCiogSXQgaXMgcHJldHR5ICoqZmFzdCoqLgoqIEl0IGlzICoqcG9ydGFibGUq\nKiBiZXR3ZWVuIEFOU0ktY29tcGxpYW50IENvbW1vbiBMaXNwCiAgaW1wbGVt\nZW50YXRpb25zLgoqIEl0IGlzICoqdGhyZWFkLXNhZmUqKi4KKiBJbiBhZGRp\ndGlvbiB0byBzcGVjaWZ5aW5nIHJlZ3VsYXIgZXhwcmVzc2lvbnMgYXMgc3Ry\naW5ncyBsaWtlIGluCiAgUGVybCB5b3UgY2FuIGFsc28gdXNlICoqUy1leHBy\nZXNzaW9ucyoqLgoqIEl0IGNvbWVzIHdpdGggYQogICoqW0JTRC1zdHlsZSBs\naWNlbnNlXShodHRwOi8vd3d3Lm9wZW5zb3VyY2Uub3JnL2xpY2Vuc2VzL2Jz\nZC1saWNlbnNlLnBocCkqKgogIHNvIHlvdSBjYW4gYmFzaWNhbGx5IGRvIHdp\ndGggaXQgd2hhdGV2ZXIgeW91IHdhbnQuCgpDTC1QUENSRSBoYXMgYmVlbiB1\nc2VkIHN1Y2Nlc3NmdWxseSBpbiB2YXJpb3VzIGFwcGxpY2F0aW9ucyBsaWtl\nCltCaW9CaWtlXShodHRwOi8vbm9zdG9jLnN0YW5mb3JkLmVkdS9Eb2NzLyks\nCltjbHV0dV0oaHR0cDovL2NsdXR1LmNvbS8pLApbTG9HU10oaHR0cDovL3d3\ndy5ocGMudW5tLmVkdS9+ZG93bmxvYWQvTG9HUy8pLApbQ2FmZVNwb3RdKGh0\ndHA6Ly9jYWZlc3BvdC5uZXQvKSwKW0Vib3ldKGh0dHA6Ly93d3cuZWJveS5j\nb20vKSwgb3IKW1RoZSBSZWdleCBDb2FjaF0oaHR0cDovL3dlaXR6LmRlL3Jl\nZ2V4LWNvYWNoLykuCgpGdXJ0aGVyIGRvY3VtZW50YXRpb24gY2FuIGJlIGZv\ndW5kIGluIGBkb2NzL2luZGV4Lmh0bWxgLCBvciBvbgpbdGhlIGNsLXBwY3Jl\nIGhvbWVwYWdlXShodHRwczovL2VkaWNsLmdpdGh1Yi5pby9jbC1wcGNyZS8p\nLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/edicl/cl-ppcre/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/edicl/cl-ppcre/git/blobs/f20b767e5ec299c823b42055a55ca1f75c892857",
+    "html": "https://github.com/edicl/cl-ppcre/blob/master/README.md"
+  }
+}

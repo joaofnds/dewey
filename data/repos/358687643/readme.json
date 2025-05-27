@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "30d87ed52044e781fea5c5ffa1e1f5f39b5b7a3b",
+  "size": 963,
+  "url": "https://api.github.com/repos/nubank/clj-github-mock/contents/README.md?ref=main",
+  "html_url": "https://github.com/nubank/clj-github-mock/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/nubank/clj-github-mock/git/blobs/30d87ed52044e781fea5c5ffa1e1f5f39b5b7a3b",
+  "download_url": "https://raw.githubusercontent.com/nubank/clj-github-mock/main/README.md",
+  "type": "file",
+  "content": "IyBjbGotZ2l0aHViLW1vY2sKCl9jdXJyZW50IHZlcnNpb246XwoKWyFbQ3Vy\ncmVudCBWZXJzaW9uXShodHRwczovL2ltZy5zaGllbGRzLmlvL2Nsb2phcnMv\ndi9kZXYubnViYW5rL2Nsai1naXRodWItbW9jay5zdmcpXShodHRwczovL2Ns\nb2phcnMub3JnL2Rldi5udWJhbmsvY2xqLWdpdGh1Yi1tb2NrKQoKX2RvY3M6\nXwpbRm91bmQgb24gY2xqZG9jXShodHRwczovL2NsamRvYy54eXovZC9udWJh\nbmsvY2xqLWdpdGh1Yi1tb2NrLykKCmBjbGotZ2l0aHViLW1vY2tgIHByb3Zp\nZGVzIGEgYHJpbmdgIGxpa2UgaGFuZGxlciB0aGF0IGVtdWxhdGVzIHRoZSBn\naXRodWIgYXBpLgpTaW5jZSBtb3N0IGNsb2p1cmUgaHR0cCBzZXJ2ZXJzIGFy\nZSBjb21wYXRpYmxlIHdpdGggdGhlIGByaW5nYCBwcm90b2NvbCwKeW91IGNh\nbiB1c2UgdGhlIGhhbmRsZXIgd2l0aCBlaXRoZXIgYHJpbmdgIGl0c2VsZiBv\nciBgaHR0cC1raXRgIG9yIGBwZWRlc3RhbGAgZm9yIGV4YW1wbGUuCk1vc3Qg\nY29tbW9ubHkgdGhvdWdoIHlvdSB3aWxsIHVzZSB0aGUgaGFuZGxlciBjb21i\naW5lZCB3aXRoIGEgbGlicmFyeSB0aGF0IGZha2VzIGh0dHAgcmVxdWVzdHMK\nbGlrZSBgY2xqLWh0dHAtZmFrZWAgb3IgYGh0dHAta2l0LWZha2VgLiBUaGF0\nIHdheSB5b3UgY2FuIHRlc3QgdGhhdCB5b3VyIGNvZGUgdGhhdCBpbnRlcmFj\ndHMKd2l0aCB0aGUgZ2l0aHViIGFwaSBpcyB3b3JraW5nIGJ5IHVzaW5nIGBj\nbGotZ2l0aHViLW1vY2tgIGJlaGluZCB0aGUgc2NlbmVzLgoKKipJbXBvcnRh\nbnQqKjogYGNsai1naXRodWItbW9ja2AgZG9lcyBub3QgY292ZXIgdGhlIGVu\ndGlyZSBnaXRodWIgYXBpIGFuZCBzaG91bGQgbm90CmJlIHVzZWQgYXMgdGhl\nIG9ubHkgd2F5IHRvIHRlc3QgeW91ciBnaXRodWIgYXBwbGljYXRpb24uIE1h\na2Ugc3VyZSB5b3UgdGVzdCB5b3VyIGNvZGUKYWdhaW5zdCB0aGUgcmVhbCBn\naXRodWIgYXBpIGl0c2VsZi4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/nubank/clj-github-mock/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/nubank/clj-github-mock/git/blobs/30d87ed52044e781fea5c5ffa1e1f5f39b5b7a3b",
+    "html": "https://github.com/nubank/clj-github-mock/blob/main/README.md"
+  }
+}

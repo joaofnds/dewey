@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "896d7ada3addd0c472f81311bd1c4ebe7219b3e9",
+  "size": 1234,
+  "url": "https://api.github.com/repos/d3/d3/contents/README.md?ref=main",
+  "html_url": "https://github.com/d3/d3/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/d3/d3/git/blobs/896d7ada3addd0c472f81311bd1c4ebe7219b3e9",
+  "download_url": "https://raw.githubusercontent.com/d3/d3/main/README.md",
+  "type": "file",
+  "content": "IyBEMzogRGF0YS1Ecml2ZW4gRG9jdW1lbnRzCgo8YSBocmVmPSJodHRwczov\nL2QzanMub3JnIj48aW1nIHNyYz0iLi9kb2NzL3B1YmxpYy9sb2dvLnN2ZyIg\nd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiPjwvYT4KCioqRDMqKiAob3IgKipE\nMy5qcyoqKSBpcyBhIGZyZWUsIG9wZW4tc291cmNlIEphdmFTY3JpcHQgbGli\ncmFyeSBmb3IgdmlzdWFsaXppbmcgZGF0YS4gSXRzIGxvdy1sZXZlbCBhcHBy\nb2FjaCBidWlsdCBvbiB3ZWIgc3RhbmRhcmRzIG9mZmVycyB1bnBhcmFsbGVs\nZWQgZmxleGliaWxpdHkgaW4gYXV0aG9yaW5nIGR5bmFtaWMsIGRhdGEtZHJp\ndmVuIGdyYXBoaWNzLiBGb3IgbW9yZSB0aGFuIGEgZGVjYWRlIEQzIGhhcyBw\nb3dlcmVkIGdyb3VuZGJyZWFraW5nIGFuZCBhd2FyZC13aW5uaW5nIHZpc3Vh\nbGl6YXRpb25zLCBiZWNvbWUgYSBmb3VuZGF0aW9uYWwgYnVpbGRpbmcgYmxv\nY2sgb2YgaGlnaGVyLWxldmVsIGNoYXJ0IGxpYnJhcmllcywgYW5kIGZvc3Rl\ncmVkIGEgdmlicmFudCBjb21tdW5pdHkgb2YgZGF0YSBwcmFjdGl0aW9uZXJz\nIGFyb3VuZCB0aGUgd29ybGQuCgo8YSBocmVmPSJodHRwczovL29ic2VydmFi\nbGVocS5vYnNlcnZhYmxlaHEuY2xvdWQvb3NzLWFuYWx5dGljcy9AZDMvZDMi\nPgogIDxwaWN0dXJlPgogICAgPHNvdXJjZSBtZWRpYT0iKHByZWZlcnMtY29s\nb3Itc2NoZW1lOiBkYXJrKSIgc3Jjc2V0PSJodHRwczovL29ic2VydmFibGVo\ncS5vYnNlcnZhYmxlaHEuY2xvdWQvb3NzLWFuYWx5dGljcy9kMy9kb3dubG9h\nZHMtZGFyay5zdmciPgogICAgPGltZyBhbHQ9IkRhaWx5IGRvd25sb2FkcyBv\nZiBPYnNlcnZhYmxlIEZyYW1ld29yayIgc3JjPSJodHRwczovL29ic2VydmFi\nbGVocS5vYnNlcnZhYmxlaHEuY2xvdWQvb3NzLWFuYWx5dGljcy9kMy9kb3du\nbG9hZHMuc3ZnIj4KICA8L3BpY3R1cmU+CjwvYT4KCjxzdWI+RGFpbHkgZG93\nbmxvYWRzIG9mIEQzIMK3IFtvc3MtYW5hbHl0aWNzXShodHRwczovL29ic2Vy\ndmFibGVocS5vYnNlcnZhYmxlaHEuY2xvdWQvb3NzLWFuYWx5dGljcy8pPC9z\ndWI+CgojIyBSZXNvdXJjZXMKCiogW0RvY3VtZW50YXRpb25dKGh0dHBzOi8v\nZDNqcy5vcmcpCiogW0V4YW1wbGVzXShodHRwczovL29ic2VydmFibGVocS5j\nb20vQGQzL2dhbGxlcnkpCiogW1JlbGVhc2VzXShodHRwczovL2dpdGh1Yi5j\nb20vZDMvZDMvcmVsZWFzZXMpCiogW0dldHRpbmcgaGVscF0oaHR0cHM6Ly9k\nM2pzLm9yZy9jb21tdW5pdHkpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/d3/d3/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/d3/d3/git/blobs/896d7ada3addd0c472f81311bd1c4ebe7219b3e9",
+    "html": "https://github.com/d3/d3/blob/main/README.md"
+  }
+}

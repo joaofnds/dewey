@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "dc62f89992a71cfc9b2f8a4a83ab7e32965318b7",
+  "size": 770,
+  "url": "https://api.github.com/repos/nvimdev/lspsaga.nvim/contents/README.md?ref=main",
+  "html_url": "https://github.com/nvimdev/lspsaga.nvim/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/nvimdev/lspsaga.nvim/git/blobs/dc62f89992a71cfc9b2f8a4a83ab7e32965318b7",
+  "download_url": "https://raw.githubusercontent.com/nvimdev/lspsaga.nvim/main/README.md",
+  "type": "file",
+  "content": "PGRpdiBhbGlnbj0iY2VudGVyIj4KPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHVi\nLmNvbS9udmltZGV2L2xzcHNhZ2EubnZpbS9hc3NldHMvNDE2NzE2MzEvNjgy\nYTE4OWUtNjU3MS00OGY4LWFmMWMtMWU1MjE0MmM3MDcxIiB3aWR0aD0iMjAl\nIiBoZWlnaHQ9IjIwJSIvPgo8L2Rpdj4KCkltcHJvdmUgbHNwIGV4cGVyaWVu\nY2VzIGluIG5lb3ZpbQoKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2Jh\nZGdlL0VsZW1lbnQtMERCRDhCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1l\nbGVtZW50JmxvZ29Db2xvcj13aGl0ZSldKGh0dHBzOi8vbWF0cml4LnRvLyMv\nI2xzcHNhZ2EtbnZpbTptYXRyaXgub3JnKQoKW1VzYWdlIHNlZSB0aGUgZG9j\nIHdlYnNpdGVdKGh0dHBzOi8vbnZpbWRldi5naXRodWIuaW8vbHNwc2FnYS8p\nCgojIERvbmF0ZQoKQ3VycmVudGx5LCBJIGFtIGluIG5lZWQgb2Ygc29tZSBk\nb25hdGlvbnMuIElmIHlvdSdkIGxpa2UgdG8gc3VwcG9ydCBteSB3b3JrIGZp\nbmFuY2lhbGx5LCBwbGVhc2UgZG9uYXRlIHRocm91Z2ggR2l0aHViIFNwb25z\nb3IgYnV0dG9uIG9yCltQYXlQYWxdKGh0dHBzOi8vcGF5cGFsLm1lL2JvYmJ5\naHViKSBbd2VjaGF0IG9yIEFsaXBheV0oaHR0cHM6Ly91c2VyLWltYWdlcy5n\naXRodWJ1c2VyY29udGVudC5jb20vNDE2NzE2MzEvMjE5ODI4MjI0LTg4MzRm\nNDhhLTA3NjktNDVkMC1hNmI5LTFlN2YzODY0MmZjZi5wbmcpCgoKIyBMaWNl\nbnNlCgpMaWNlbnNlZCB1bmRlciB0aGUgW01JVF0oLi9MSUNFTlNFKSBsaWNl\nbnNlLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/nvimdev/lspsaga.nvim/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/nvimdev/lspsaga.nvim/git/blobs/dc62f89992a71cfc9b2f8a4a83ab7e32965318b7",
+    "html": "https://github.com/nvimdev/lspsaga.nvim/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "813866cd4eed666fe8a3052e10ba4cbbceaf157a",
+  "size": 214,
+  "url": "https://api.github.com/repos/VitoVan/cl-dino/contents/README.md?ref=master",
+  "html_url": "https://github.com/VitoVan/cl-dino/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/VitoVan/cl-dino/git/blobs/813866cd4eed666fe8a3052e10ba4cbbceaf157a",
+  "download_url": "https://raw.githubusercontent.com/VitoVan/cl-dino/master/README.md",
+  "type": "file",
+  "content": "IyBjbC1kaW5vCkEgQ2hyb21lIERpbm9zYXVyIFJvYm90IHdyaXR0ZW4gaW4g\nQ29tbW9uIExpc3AKCkZvciB0aGUgZXhwbGFuYXRpb246IGh0dHA6Ly92aXRv\nLnNkZi5vcmcvZGluby5odG1sCgpGb3IgdGhlIHZpZGVvOiBodHRwczovL3lv\ndXR1LmJlL1BremxKY0tSNFRJCgohW1dPVyEgU1VDSCBESU5PIV0oaHR0cDov\nL2kuZ2lwaHkuY29tL0tmdGQ0VFhwc2ZNYksuZ2lmKQoKCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/VitoVan/cl-dino/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/VitoVan/cl-dino/git/blobs/813866cd4eed666fe8a3052e10ba4cbbceaf157a",
+    "html": "https://github.com/VitoVan/cl-dino/blob/master/README.md"
+  }
+}

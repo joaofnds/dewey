@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0962eaf2fa7b8501a0fa9978dda3690750dcaf30",
+  "size": 1376,
+  "url": "https://api.github.com/repos/vuejs/vue-cli/contents/README.md?ref=dev",
+  "html_url": "https://github.com/vuejs/vue-cli/blob/dev/README.md",
+  "git_url": "https://api.github.com/repos/vuejs/vue-cli/git/blobs/0962eaf2fa7b8501a0fa9978dda3690750dcaf30",
+  "download_url": "https://raw.githubusercontent.com/vuejs/vue-cli/dev/README.md",
+  "type": "file",
+  "content": "IyBWdWUgQ0xJIFshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly9jaXJjbGVjaS5j\nb20vZ2gvdnVlanMvdnVlLWNsaS90cmVlL2Rldi5zdmc/c3R5bGU9c2hpZWxk\nKV0oaHR0cHM6Ly9jaXJjbGVjaS5jb20vZ2gvdnVlanMvdnVlLWNsaS90cmVl\nL2RldikgWyFbV2luZG93cyBCdWlsZCBzdGF0dXNdKGh0dHBzOi8vY2kuYXBw\ndmV5b3IuY29tL2FwaS9wcm9qZWN0cy9zdGF0dXMvcmtwYWZkcGR3aWU5bHF4\nMC9icmFuY2gvZGV2P3N2Zz10cnVlKV0oaHR0cHM6Ly9jaS5hcHB2ZXlvci5j\nb20vcHJvamVjdC95eXg5OTA4MDMvdnVlLWNsaS9icmFuY2gvZGV2KSBbIVts\nZXJuYV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9tYWludGFpbmVk\nJTIwd2l0aC1sZXJuYS1jYzAwZmYuc3ZnKV0oaHR0cHM6Ly9sZXJuYS5qcy5v\ncmcvKQoKIyMg4pqg77iPIFN0YXR1cwoKVnVlIENMSSBpcyBub3cgaW4gbWFp\nbnRlbmFuY2UgbW9kZS4gRm9yIG5ldyBwcm9qZWN0cywgcGxlYXNlIHVzZSBb\nY3JlYXRlLXZ1ZV0oaHR0cHM6Ly9naXRodWIuY29tL3Z1ZWpzL2NyZWF0ZS12\ndWUpIHRvIHNjYWZmb2xkIFtWaXRlXShodHRwczovL3ZpdGVqcy5kZXYvKS1i\nYXNlZCBwcm9qZWN0cy4gYGNyZWF0ZS12dWVgIHN1cHBvcnRzIGJvdGggVnVl\nIDIgYW5kIFZ1ZSAzLgoKQWxzbyByZWZlciB0byB0aGUgW1Z1ZSAzIFRvb2xp\nbmcgR3VpZGVdKGh0dHBzOi8vdnVlanMub3JnL2d1aWRlL3NjYWxpbmctdXAv\ndG9vbGluZy5odG1sKSBmb3IgdGhlIGxhdGVzdCByZWNvbW1lbmRhdGlvbnMu\nCgpGb3IgaW5mb3JtYXRpb24gb24gbWlncmF0aW5nIGZyb20gVnVlIENMSSB0\nbyBWaXRlOgoKLSBbVnVlIENMSSAtPiBWaXRlIE1pZ3JhdGlvbiBHdWlkZSBm\ncm9tIFZ1ZVNjaG9vbC5pb10oaHR0cHM6Ly92dWVzY2hvb2wuaW8vYXJ0aWNs\nZXMvdnVlanMtdHV0b3JpYWxzL2hvdy10by1taWdyYXRlLWZyb20tdnVlLWNs\naS10by12aXRlLykKLSBbVG9vbHMgLyBQbHVnaW5zIHRoYXQgaGVscCB3aXRo\nIGF1dG8gbWlncmF0aW9uXShodHRwczovL2dpdGh1Yi5jb20vdml0ZWpzL2F3\nZXNvbWUtdml0ZSN2dWUtY2xpKQoKIyMgRG9jdW1lbnRhdGlvbgoKRG9jcyBh\ncmUgYXZhaWxhYmxlIGF0IGh0dHBzOi8vY2xpLnZ1ZWpzLm9yZy8gLSB3ZSBh\ncmUgc3RpbGwgd29ya2luZyBvbiByZWZpbmluZyBpdCBhbmQgY29udHJpYnV0\naW9ucyBhcmUgd2VsY29tZSEKCiMjIENvbnRyaWJ1dGluZwoKUGxlYXNlIHNl\nZSBbY29udHJpYnV0aW5nIGd1aWRlXShodHRwczovL2dpdGh1Yi5jb20vdnVl\nanMvdnVlLWNsaS9ibG9iL2Rldi8uZ2l0aHViL0NPTlRSSUJVVElORy5tZCku\nCgojIyBMaWNlbnNlCgpbTUlUXShodHRwczovL2dpdGh1Yi5jb20vdnVlanMv\ndnVlLWNsaS9ibG9iL2Rldi9MSUNFTlNFKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/vuejs/vue-cli/contents/README.md?ref=dev",
+    "git": "https://api.github.com/repos/vuejs/vue-cli/git/blobs/0962eaf2fa7b8501a0fa9978dda3690750dcaf30",
+    "html": "https://github.com/vuejs/vue-cli/blob/dev/README.md"
+  }
+}

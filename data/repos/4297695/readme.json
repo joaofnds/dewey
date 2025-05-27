@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f575327d50aa34030b8cb24c81bc3f269cee4cd1",
+  "size": 1315,
+  "url": "https://api.github.com/repos/zemirco/json2csv/contents/README.md?ref=master",
+  "html_url": "https://github.com/zemirco/json2csv/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/zemirco/json2csv/git/blobs/f575327d50aa34030b8cb24c81bc3f269cee4cd1",
+  "download_url": "https://raw.githubusercontent.com/zemirco/json2csv/master/README.md",
+  "type": "file",
+  "content": "IyA6d2FybmluZzogV0FSTklORzogVEhJUyBQQUNLQUdFIElTIEFCQU5ET05F\nRAoKVGhlIGNvZGUgaGFzIG1vdmVkIHRvIGEgW25ldyBob21lXShodHRwczov\nL2dpdGh1Yi5jb20vanVhbmpvRGlhei9qc29uMmNzdikuCgpUaGlzIHJlcG9z\naXRvcnkgc3RheXMgYXMgYSB0aGUgaGlzdG9yaWMgaG9tZSBvZiBganNvbjJj\nc3ZgIHVwIHVudGlsIHY1LgpGcm9tIHY2LCB0aGUgbGlicmFyeSBoYXMgYmVl\nbiBicm9rZW4gaW50byBzbWFsbGVyIGxpYnJhcmllcyB0aGF0IGFyZSBub3cg\ncHVibGlzaGVkIHRvIE5QTSBpbmRlcGVuZGVudGx5OgoKKiAqKltQbGFpbmpz\nXShodHRwczovL3d3dy5ucG1qcy5jb20vcGFja2FnZS9AanNvbjJjc3YvcGxh\naW5qcyk6KiogSW5jbHVkZXMgdGhlIGBQYXJzZXJgIEFQSSBhbmQgYSBuZXcg\nYFN0cmVhbVBhcnNlcmAgQVBJIHdoaWNoIGRvZXNuJ3QgdGhlIGNvbnZlcnNp\nb24gaW4gYSBzdHJlYW1pbmcgZmFzaGlvbiBpbiBwdXJlIGpzLgoqICoqW05v\nZGVdKGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL0Bqc29uMmNzdi9u\nb2RlKToqKiBJbmNsdWRlcyB0aGUgYE5vZGUgVHJhbnNmb3JtYCBhbmQgYE5v\nZGUgQXN5bmMgUGFyc2VyYCBBUElzIGZvciBOb2RlIHVzZXJzLgoqICoqW1dI\nQVRXR10oaHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvQGpzb24yY3N2\nL3doYXR3Zyk6KiogSW5jbHVkZXMgdGhlIGBXSEFUV0cgVHJhbnNmb3JtIFN0\ncmVhbWAgYW5kIGBXSEFUV0cgQXN5bmMgUGFyc2VyYCBBUElzIGZvciB1c2Vy\ncyBvZiBXSEFUV0cgc3RyZWFtcyAoYnJvd3NlciwgTm9kZSBvciBEZW5vKS4K\nKiAqKltDTEldKGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL0Bqc29u\nMmNzdi9jbGkpOioqIEluY2x1ZGVzIHRoZSBgQ0xJYCBpbnRlcmZhY2UuCiog\nKipbVHJhbnNmb3Jtc10oaHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2Uv\nQGpzb24yY3N2L3RyYW5zZm9ybXMpOioqIEluY2x1ZGVzIHRoZSBidWlsdC1p\nbiBgdHJhbnNmb3Jtc2AgZm9yIGpzb24yY3N2LgoqICoqW0Zvcm1hdHRlcnNd\nKGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL0Bqc29uMmNzdi9mb3Jt\nYXR0ZXJzKToqKiBJbmNsdWRlcyB0aGUgYnVpbHQtaW4gYGZvcm1hdHRlcnNg\nIGZvciBqc29uMmNzdi4gRm9ybWF0dGVycyBhcmUgdGhlIG5ldyB3YXkgdG8g\nZm9ybWF0IGRhdGEgYmVmb3JlIGFkZGluZyBpdCB0byB0aGUgcmVzdWx0aW5n\nIENTVi4KClVwLXRvLWRhdGUgZG9jdW1lbnRhdGlvbiBvZiB0aGUgbGlicmFy\neSBjYW4gYmUgZm91bmQgYXQgaHR0cHM6Ly9qdWFuam9kaWF6LmdpdGh1Yi5p\nby9qc29uMmNzdg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/zemirco/json2csv/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/zemirco/json2csv/git/blobs/f575327d50aa34030b8cb24c81bc3f269cee4cd1",
+    "html": "https://github.com/zemirco/json2csv/blob/master/README.md"
+  }
+}

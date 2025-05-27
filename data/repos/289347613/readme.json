@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "76792c0272db1c69d5955b554443327029ba8825",
+  "size": 171,
+  "url": "https://api.github.com/repos/maniginam/katas/contents/README.md?ref=master",
+  "html_url": "https://github.com/maniginam/katas/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/maniginam/katas/git/blobs/76792c0272db1c69d5955b554443327029ba8825",
+  "download_url": "https://raw.githubusercontent.com/maniginam/katas/master/README.md",
+  "type": "file",
+  "content": "IyBrYXRhcwoKSW5jbHVkZWQgaW4gdGhpcyByZXBvc2l0b3J5IGFyZSB0aGUg\na2F0YXMgaSd2ZSBiZWVuIHByYWN0aWNpbmcuCgpTbyBmYXIsIHRoZXNlIGlu\nY2x1ZGUgcHJpbWUtZmFjdG9ycyAmIGJvd2xpbmcuCgpUaGV5IHJlcXVpcmUg\nTGVpbmluZ2VuICYgc3BlY2xqIHRvIHJ1biB0aGUgdGVzdHMu\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/maniginam/katas/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/maniginam/katas/git/blobs/76792c0272db1c69d5955b554443327029ba8825",
+    "html": "https://github.com/maniginam/katas/blob/master/README.md"
+  }
+}

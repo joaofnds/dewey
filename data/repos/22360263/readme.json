@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "46acc3fcae096086be239673aa46e22dee020b11",
+  "size": 907,
+  "url": "https://api.github.com/repos/rust-itertools/itertools/contents/README.md?ref=master",
+  "html_url": "https://github.com/rust-itertools/itertools/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/rust-itertools/itertools/git/blobs/46acc3fcae096086be239673aa46e22dee020b11",
+  "download_url": "https://raw.githubusercontent.com/rust-itertools/itertools/master/README.md",
+  "type": "file",
+  "content": "IyBJdGVydG9vbHMKCkV4dHJhIGl0ZXJhdG9yIGFkYXB0b3JzLCBmdW5jdGlv\nbnMgYW5kIG1hY3Jvcy4KClBsZWFzZSByZWFkIHRoZSBbQVBJIGRvY3VtZW50\nYXRpb24gaGVyZV0oaHR0cHM6Ly9kb2NzLnJzL2l0ZXJ0b29scy8pLgoKSG93\nIHRvIHVzZSB3aXRoIENhcmdvOgoKYGBgdG9tbApbZGVwZW5kZW5jaWVzXQpp\ndGVydG9vbHMgPSAiMC4xNC4wIgpgYGAKCkhvdyB0byB1c2UgaW4geW91ciBj\ncmF0ZToKCmBgYHJ1c3QKdXNlIGl0ZXJ0b29sczo6SXRlcnRvb2xzOwpgYGAK\nCiMjIEhvdyB0byBjb250cmlidXRlCklmIHlvdSdyZSBub3Qgc3VyZSB3aGF0\nIHRvIHdvcmsgb24sIHRyeSBjaGVja2luZyB0aGUgW2hlbHAgd2FudGVkXSho\ndHRwczovL2dpdGh1Yi5jb20vcnVzdC1pdGVydG9vbHMvaXRlcnRvb2xzL2lz\nc3Vlcz9xPWlzJTNBb3BlbitpcyUzQWlzc3VlK2xhYmVsJTNBJTIyaGVscCt3\nYW50ZWQlMjIpIGxhYmVsLgoKU2VlIG91ciBbQ09OVFJJQlVUSU5HLm1kXSho\ndHRwczovL2dpdGh1Yi5jb20vcnVzdC1pdGVydG9vbHMvaXRlcnRvb2xzL2Js\nb2IvbWFzdGVyL0NPTlRSSUJVVElORy5tZCkgZm9yIGEgZGV0YWlsZWQgZ3Vp\nZGUuCgojIyBMaWNlbnNlCgpEdWFsLWxpY2Vuc2VkIHRvIGJlIGNvbXBhdGli\nbGUgd2l0aCB0aGUgUnVzdCBwcm9qZWN0LgoKTGljZW5zZWQgdW5kZXIgdGhl\nIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMApodHRwczovL3d3dy5hcGFj\naGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wIG9yIHRoZSBNSVQgbGljZW5z\nZQpodHRwczovL29wZW5zb3VyY2Uub3JnL2xpY2Vuc2VzL01JVCwgYXQgeW91\ncgpvcHRpb24uIFRoaXMgZmlsZSBtYXkgbm90IGJlIGNvcGllZCwgbW9kaWZp\nZWQsIG9yIGRpc3RyaWJ1dGVkCmV4Y2VwdCBhY2NvcmRpbmcgdG8gdGhvc2Ug\ndGVybXMuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rust-itertools/itertools/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/rust-itertools/itertools/git/blobs/46acc3fcae096086be239673aa46e22dee020b11",
+    "html": "https://github.com/rust-itertools/itertools/blob/master/README.md"
+  }
+}

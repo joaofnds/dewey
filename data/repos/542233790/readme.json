@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "450ff6e2e9e57dfac6d30fcb50f1488294f971ea",
+  "size": 750,
+  "url": "https://api.github.com/repos/charmbracelet/kancli/contents/README.md?ref=main",
+  "html_url": "https://github.com/charmbracelet/kancli/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/charmbracelet/kancli/git/blobs/450ff6e2e9e57dfac6d30fcb50f1488294f971ea",
+  "download_url": "https://raw.githubusercontent.com/charmbracelet/kancli/main/README.md",
+  "type": "file",
+  "content": "IyBLYW5jbGkKCldlbGNvbWUgdG8gb3VyIGRlbW8gcmVwbyBmb3IgYSBrYW5i\nYW4gYm9hcmQgZm9yIHRoZSBjb21tYW5kIGxpbmUuCgpUaGVyZSBpcyBhIHZp\nZGVvIHRvIGdvIGFsb25nIHdpdGggdGhpcyByZXBvIG9uIG91ciBbWW91VHVi\nZQpjaGFubmVsXShodHRwczovL3lvdXR1YmUuY29tL2MvY2hhcm1jbGkpIGlm\nIHlvdSB3b3VsZCBsaWtlIGEgZnVsbCB3YWxrIHRocm91Z2gKdHV0b3JpYWwg\nb24gdGhlIHRvcGljLgoKIyMgRmVlZGJhY2sKCldlJ2QgbG92ZSB0byBoZWFy\nIHlvdXIgdGhvdWdodHMgb24gdGhpcyB0dXRvcmlhbC4gRmVlbCBmcmVlIHRv\nIGRyb3AgdXMgYSBub3RlIQoKKiBbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVy\nLmNvbS9jaGFybWNsaSkKKiBbVGhlIEZlZGl2ZXJzZV0oaHR0cHM6Ly9tYXN0\nb2Rvbi5zb2NpYWwvQGNoYXJtY2xpKQoqIFtEaXNjb3JkXShodHRwczovL2No\nYXJtLnNoL2NoYXQpCgojIyBMaWNlbnNlCgpbTUlUXShodHRwczovL2dpdGh1\nYi5jb20vY2hhcm1icmFjZWxldC9idWJibGV0ZWEvcmF3L21hc3Rlci9MSUNF\nTlNFKQoKKioqCgpQYXJ0IG9mIFtDaGFybV0oaHR0cHM6Ly9jaGFybS5zaCku\nCgo8YSBocmVmPSJodHRwczovL2NoYXJtLnNoLyI+PGltZyBhbHQ9IlRoZSBD\naGFybSBsb2dvIiBzcmM9Imh0dHBzOi8vc3R1ZmYuY2hhcm0uc2gvY2hhcm0t\nYmFkZ2UuanBnIiB3aWR0aD0iNDAwIj48L2E+CgpDaGFybeeDreeIseW8gOa6\nkCDigKIgQ2hhcm0gbG92ZXMgb3BlbiBzb3VyY2UK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/charmbracelet/kancli/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/charmbracelet/kancli/git/blobs/450ff6e2e9e57dfac6d30fcb50f1488294f971ea",
+    "html": "https://github.com/charmbracelet/kancli/blob/main/README.md"
+  }
+}

@@ -1,0 +1,1 @@
+Syncthing is an open-source, continuous file synchronization program written in Go. It enables peer-to-peer file synchronization across multiple computers, prioritizing data safety, security, and ease of use. Key features include automatic synchronization, and cross-platform availability. The project is designed as a standalone application, offering CLI-based and GUI-based usage.

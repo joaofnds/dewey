@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a0f9125636ba68827c0ff1e0c9dca5db537df73a",
+  "size": 1049,
+  "url": "https://api.github.com/repos/company-mode/company-mode/contents/README.md?ref=master",
+  "html_url": "https://github.com/company-mode/company-mode/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/company-mode/company-mode/git/blobs/a0f9125636ba68827c0ff1e0c9dca5db537df73a",
+  "download_url": "https://raw.githubusercontent.com/company-mode/company-mode/master/README.md",
+  "type": "file",
+  "content": "U2VlIHRoZSBob21lcGFnZSBmb3IgW2luc3RhbGxhdGlvbiBhbmQgdXNhZ2Ug\naW5zdHJ1Y3Rpb25zXShodHRwOi8vY29tcGFueS1tb2RlLmdpdGh1Yi5pby8p\nLgoKRmlsZSBhIGJ1ZyByZXBvcnQgaW4gW0lzc3Vlc10oaHR0cHM6Ly9naXRo\ndWIuY29tL2NvbXBhbnktbW9kZS9jb21wYW55LW1vZGUvaXNzdWVzKS4KCkFz\nayBhIHF1ZXN0aW9uIG9yIHN1Z2dlc3QgYSBmZWF0dXJlIGluIFtEaXNjdXNz\naW9uc10oaHR0cHM6Ly9naXRodWIuY29tL2NvbXBhbnktbW9kZS9jb21wYW55\nLW1vZGUvZGlzY3Vzc2lvbnMvKS4KClNlZSBbQ29udHJpYnV0aW5nXShodHRw\nczovL2dpdGh1Yi5jb20vY29tcGFueS1tb2RlL2NvbXBhbnktbW9kZS9ibG9i\nL21hc3Rlci9DT05UUklCVVRJTkcubWQpIG9uIG90aGVyIHdheXMgdG8gaGVs\ncCBvdXQuCgpbIVtCdWlsZCBTdGF0dXNdKGh0dHBzOi8vZ2l0aHViLmNvbS9j\nb21wYW55LW1vZGUvY29tcGFueS1tb2RlL2FjdGlvbnMvd29ya2Zsb3dzL2Np\nLnltbC9iYWRnZS5zdmcpXShodHRwczovL2dpdGh1Yi5jb20vY29tcGFueS1t\nb2RlL2NvbXBhbnktbW9kZS9hY3Rpb25zL3dvcmtmbG93cy9jaS55bWwpClsh\nW0dOVSBFbWFjc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9zdGF0aWMvdjE/\nbG9nbz1nbnVlbWFjcyZsb2dvQ29sb3I9ZmFmYWZhJmxhYmVsPU1hZGUlMjBm\nb3ImbWVzc2FnZT1HTlUlMjBFbWFjcyZjb2xvcj03RjVBQjYmc3R5bGU9Zmxh\ndCldKGh0dHBzOi8vd3d3LmdudS5vcmcvc29mdHdhcmUvZW1hY3MvKQpbIVtN\nRUxQQV0oaHR0cHM6Ly9tZWxwYS5vcmcvcGFja2FnZXMvY29tcGFueS1iYWRn\nZS5zdmcpXShodHRwczovL21lbHBhLm9yZy8jL2NvbXBhbnkpClshW0dOVSBF\nTFBBXShodHRwczovL2VscGEuZ251Lm9yZy9wYWNrYWdlcy9jb21wYW55LnN2\nZyldKGh0dHBzOi8vZWxwYS5nbnUub3JnL3BhY2thZ2VzL2NvbXBhbnkuaHRt\nbCkKWyFbR05VLWRldmVsIEVMUEFdKGh0dHBzOi8vZWxwYS5nbnUub3JnL2Rl\ndmVsL2NvbXBhbnkuc3ZnKV0oaHR0cHM6Ly9lbHBhLmdudS5vcmcvZGV2ZWwv\nY29tcGFueS5odG1sKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/company-mode/company-mode/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/company-mode/company-mode/git/blobs/a0f9125636ba68827c0ff1e0c9dca5db537df73a",
+    "html": "https://github.com/company-mode/company-mode/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b141584794b561127084a32f9b1ec527d811aeb0",
+  "size": 467,
+  "url": "https://api.github.com/repos/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use/contents/README.md?ref=main",
+  "html_url": "https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use/git/blobs/b141584794b561127084a32f9b1ec527d811aeb0",
+  "download_url": "https://raw.githubusercontent.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use/main/README.md",
+  "type": "file",
+  "content": "IyBganNvbi1wYXJzZXItaW4tdHlwZXNjcmlwdC12ZXJ5LWJhZC1pZGVhLXBs\nZWFzZS1kb250LXVzZWAKCj4gSlNPTiBQYXJzZXIgd3JpdHRlbiBlbnRpcmVs\neSBpbiBUeXBlU2NyaXB0J3MgdHlwZSBzeXN0ZW0KCmBgYHRzCmltcG9ydCB0\neXBlIHsgUGFyc2VKc29uIH0gZnJvbSAianNvbi1wYXJzZXItaW4tdHlwZXNj\ncmlwdC12ZXJ5LWJhZC1pZGVhLXBsZWFzZS1kb250LXVzZSIKCnR5cGUgUGVy\nc29uID0gUGFyc2VKc29uPCd7ICJuYW1lIjogIkphbWllIEt5bGUiLCAidHdp\ndHRlciI6ICJodHRwczovL3R3aXR0ZXIuY29tL2J1aWxkc2dob3N0IiB9Jz4K\nLy8gewovLyAgICJuYW1lIjogIkphbWllIEt5bGUiLAovLyB9ICYgewovLyAg\nICJ0d2l0dGVyIjogImh0dHBzOi8vdHdpdHRlci5jb20vYnVpbGRzZ2hvc3Qi\nCi8vIH0KYGBgCgpbRm9sbG93IG1lIG5lcmRzXShodHRwczovL3R3aXR0ZXIu\nY29tL2J1aWxkc2dob3N0KQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use/git/blobs/b141584794b561127084a32f9b1ec527d811aeb0",
+    "html": "https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use/blob/main/README.md"
+  }
+}

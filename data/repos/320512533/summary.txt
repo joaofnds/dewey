@@ -1,0 +1,1 @@
+This repository implements a Trie data structure. Written in Emacs Lisp, it provides the fundamental functionality for representing and searching prefix-based data. The project is a library primarily intended for use within the Emacs environment, likely targeting Emacs Lisp developers.

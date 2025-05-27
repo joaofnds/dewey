@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "192de715ed8bff85960f65b544b837eafbe226ee",
+  "size": 1430,
+  "url": "https://api.github.com/repos/joatmon08/infrastructure-pipeline/contents/README.md?ref=main",
+  "html_url": "https://github.com/joatmon08/infrastructure-pipeline/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/joatmon08/infrastructure-pipeline/git/blobs/192de715ed8bff85960f65b544b837eafbe226ee",
+  "download_url": "https://raw.githubusercontent.com/joatmon08/infrastructure-pipeline/main/README.md",
+  "type": "file",
+  "content": "IyBBbiBFeGFtcGxlIEluZnJhc3RydWN0dXJlIFBpcGVsaW5lCgpUaGlzIGV4\nYW1wbGUgdXNlczoKCi0gQW1hem9uIFdlYiBTZXJ2aWNlcwotIEdpdEh1YiBB\nY3Rpb25zCi0gVGVycmFmb3JtIDAuMTQrCi0gVmF1bHQgMS41KwotIEhhc2hp\nQ29ycCBDbG91ZCBQbGF0Zm9ybSBWYXVsdCAobWFuYWdlZCBWYXVsdCBvZmZl\ncmluZykKLSBUZXJyYWZvcm0gQ2xvdWQgKGZvciBjb25maWd1cmluZyBWYXVs\ndCwgdXNlcyBgdmF1bHQvYCBkaXJlY3RvcnkpCgpUaGUgaW5mcmFzdHJ1Y3R1\ncmUgcGlwZWxpbmUgcnVucyBUZXJyYWZvcm0gdG8gY3JlYXRlIGEgUG9zdGdy\nZVNRTCBkYXRhYmFzZQppbiBBV1MuIEl0IHNlY3VyZWx5IHJldHJpZXZlcyBz\nZWNyZXRzIGZyb20gSGFzaGlDb3JwIFZhdWx0LgoKIVtEaWFncmFtIHdpdGgg\nSENQIFZhdWx0LCBBV1MsIGFuZCBwZWVyZWQgY29ubmVjdGlvbl0oaW1nL2Rp\nYWdyYW0ucG5nKQoKIyMgVXNhZ2UKCjEuIEluIHlvdXIgQ0xJLCBzZXQgdGhl\nIFZhdWx0IGFkZHJlc3MsIHRva2VuLCBhbmQgbmFtZXNwYWNlLgogICBgYGBz\naGVsbAogICAkIGV4cG9ydCBWQVVMVF9BRERSPQogICAkIGV4cG9ydCBWQVVM\nVF9UT0tFTj0KICAgJCBleHBvcnQgVkFVTFRfTkFNRVNQQUNFPQogICBgYGAK\nCjEuIEdldCBWYXVsdCBzZWNyZXQgSUQuCiAgIGBgYHNoZWxsCiAgICQgbWFr\nZSBnZXQtc2VjcmV0CiAgIGBgYAoKMS4gR28gdG8gdGhlIEdpdEh1YiByZXBv\nc2l0b3J5J3Mgc2VjcmV0cy4KCjEuIFNldCB0aGUgZm9sbG93aW5nIHJlcG9z\naXRvcnkgc2VjcmV0czoKICAgMS4gYFZBVUxUX0FERFJgOiBhZGRyZXNzIG9m\nIFZhdWx0CiAgIDEuIGBWQVVMVF9OQU1FU1BBQ0VgOiBgYWRtaW5gCiAgIDEu\nIGBWQVVMVF9ST0xFX0lEYDogYGluZnJhc3RydWN0dXJlLXBpcGVsaW5lYAog\nICAxLiBgVkFVTFRfU0VDUkVUX0lEYDogYWRkIHNlY3JldCBJRCBmcm9tIENM\nSQoKMS4gTWFrZSBjaGFuZ2VzIHRvIHRoaXMgcmVwb3NpdG9yeSB0byBleGVj\ndXRlIFRlcnJhZm9ybS4KCiMjIE5vdGVzCgoxLiBUaGUgR2l0SHViIEFjdGlv\nbnMgd29ya2Zsb3cgYWNjZXNzZXMgVmF1bHQgb3ZlciBwdWJsaWMgaW50ZXJu\nZXQuIFRvIGFjY2VzcyBWYXVsdAogICBvdmVyIHByaXZhdGUgY29ubmVjdGlv\nbiwgeW91IHdpbGwgd2FudCB0byBkZXBsb3kgYSBzZWxmLWhvc3RlZCBydW5u\nZXIgb3IgR2l0SHViCiAgIEVudGVycHJpc2UuIFZhdWx0IGNvbmZpZ3VyZXMg\ndGhlIFBvc3RncmVTUUwgZGF0YWJhc2Ugb3ZlciBhIHByaXZhdGUgY29ubmVj\ndGlvbi4KCjEuIFRoZSBkZW1vIHVzZXMgSGFzaGlDb3JwIENsb3VkIFBsYXRm\nb3JtLiBZb3UgY2FuIHN1YnN0aXR1dGUgdGhlIFZhdWx0IGVuZHBvaW50CiAg\nIHdpdGggeW91ciBvd24gVmF1bHQgaW5zdGFuY2UsIGFzIGxvbmcgYXMgaXQg\nY2FuIGNvbm5lY3QgdG8gQVdTLiMjIFJlcXVpcmVtZW50cwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/joatmon08/infrastructure-pipeline/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/joatmon08/infrastructure-pipeline/git/blobs/192de715ed8bff85960f65b544b837eafbe226ee",
+    "html": "https://github.com/joatmon08/infrastructure-pipeline/blob/main/README.md"
+  }
+}

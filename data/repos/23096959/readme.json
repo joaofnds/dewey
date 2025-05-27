@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "71c9d1dc2993880f38d227085d1b48c4070d1e85",
+  "size": 1454,
+  "url": "https://api.github.com/repos/golang/go/contents/README.md?ref=master",
+  "html_url": "https://github.com/golang/go/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/golang/go/git/blobs/71c9d1dc2993880f38d227085d1b48c4070d1e85",
+  "download_url": "https://raw.githubusercontent.com/golang/go/master/README.md",
+  "type": "file",
+  "content": "IyBUaGUgR28gUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UKCkdvIGlzIGFuIG9wZW4g\nc291cmNlIHByb2dyYW1taW5nIGxhbmd1YWdlIHRoYXQgbWFrZXMgaXQgZWFz\neSB0byBidWlsZCBzaW1wbGUsCnJlbGlhYmxlLCBhbmQgZWZmaWNpZW50IHNv\nZnR3YXJlLgoKIVtHb3BoZXIgaW1hZ2VdKGh0dHBzOi8vZ29sYW5nLm9yZy9k\nb2MvZ29waGVyL2ZpdmV5ZWFycy5qcGcpCipHb3BoZXIgaW1hZ2UgYnkgW1Jl\nbmVlIEZyZW5jaF1bcmZdLCBsaWNlbnNlZCB1bmRlciBbQ3JlYXRpdmUgQ29t\nbW9ucyA0LjAgQXR0cmlidXRpb24gbGljZW5zZV1bY2M0LWJ5XS4qCgpPdXIg\nY2Fub25pY2FsIEdpdCByZXBvc2l0b3J5IGlzIGxvY2F0ZWQgYXQgaHR0cHM6\nLy9nby5nb29nbGVzb3VyY2UuY29tL2dvLgpUaGVyZSBpcyBhIG1pcnJvciBv\nZiB0aGUgcmVwb3NpdG9yeSBhdCBodHRwczovL2dpdGh1Yi5jb20vZ29sYW5n\nL2dvLgoKVW5sZXNzIG90aGVyd2lzZSBub3RlZCwgdGhlIEdvIHNvdXJjZSBm\naWxlcyBhcmUgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlCkJTRC1zdHlsZSBsaWNl\nbnNlIGZvdW5kIGluIHRoZSBMSUNFTlNFIGZpbGUuCgojIyMgRG93bmxvYWQg\nYW5kIEluc3RhbGwKCiMjIyMgQmluYXJ5IERpc3RyaWJ1dGlvbnMKCk9mZmlj\naWFsIGJpbmFyeSBkaXN0cmlidXRpb25zIGFyZSBhdmFpbGFibGUgYXQgaHR0\ncHM6Ly9nby5kZXYvZGwvLgoKQWZ0ZXIgZG93bmxvYWRpbmcgYSBiaW5hcnkg\ncmVsZWFzZSwgdmlzaXQgaHR0cHM6Ly9nby5kZXYvZG9jL2luc3RhbGwKZm9y\nIGluc3RhbGxhdGlvbiBpbnN0cnVjdGlvbnMuCgojIyMjIEluc3RhbGwgRnJv\nbSBTb3VyY2UKCklmIGEgYmluYXJ5IGRpc3RyaWJ1dGlvbiBpcyBub3QgYXZh\naWxhYmxlIGZvciB5b3VyIGNvbWJpbmF0aW9uIG9mCm9wZXJhdGluZyBzeXN0\nZW0gYW5kIGFyY2hpdGVjdHVyZSwgdmlzaXQKaHR0cHM6Ly9nby5kZXYvZG9j\nL2luc3RhbGwvc291cmNlCmZvciBzb3VyY2UgaW5zdGFsbGF0aW9uIGluc3Ry\ndWN0aW9ucy4KCiMjIyBDb250cmlidXRpbmcKCkdvIGlzIHRoZSB3b3JrIG9m\nIHRob3VzYW5kcyBvZiBjb250cmlidXRvcnMuIFdlIGFwcHJlY2lhdGUgeW91\nciBoZWxwIQoKVG8gY29udHJpYnV0ZSwgcGxlYXNlIHJlYWQgdGhlIGNvbnRy\naWJ1dGlvbiBndWlkZWxpbmVzIGF0IGh0dHBzOi8vZ28uZGV2L2RvYy9jb250\ncmlidXRlLgoKTm90ZSB0aGF0IHRoZSBHbyBwcm9qZWN0IHVzZXMgdGhlIGlz\nc3VlIHRyYWNrZXIgZm9yIGJ1ZyByZXBvcnRzIGFuZApwcm9wb3NhbHMgb25s\neS4gU2VlIGh0dHBzOi8vZ28uZGV2L3dpa2kvUXVlc3Rpb25zIGZvciBhIGxp\nc3Qgb2YKcGxhY2VzIHRvIGFzayBxdWVzdGlvbnMgYWJvdXQgdGhlIEdvIGxh\nbmd1YWdlLgoKW3JmXTogaHR0cHM6Ly9yZW5lZWZyZW5jaC5ibG9nc3BvdC5j\nb20vCltjYzQtYnldOiBodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGlj\nZW5zZXMvYnkvNC4wLwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/golang/go/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/golang/go/git/blobs/71c9d1dc2993880f38d227085d1b48c4070d1e85",
+    "html": "https://github.com/golang/go/blob/master/README.md"
+  }
+}

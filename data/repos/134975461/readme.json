@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "329b4cbfc4feac2ddf578835ccfcdcb9f1c7ef78",
+  "size": 1100,
+  "url": "https://api.github.com/repos/seebye/ueberzug/contents/README.md?ref=master",
+  "html_url": "https://github.com/seebye/ueberzug/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/seebye/ueberzug/git/blobs/329b4cbfc4feac2ddf578835ccfcdcb9f1c7ef78",
+  "download_url": "https://raw.githubusercontent.com/seebye/ueberzug/master/README.md",
+  "type": "file",
+  "content": "IyMgOndhcm5pbmc6ICoqc2VlYnllL3VlYmVyenVnIGlzIG5vdCBtYWludGFp\nbmVkKiogIAoKRmlyc3Qgb2YgYWxsOiBJIGRlY2lkZWQgbm90IHRvIHdvcmsg\nb24gdGhpcyBwcm9qZWN0IGFueW1vcmUuICAKCnVlYmVyenVnIHdhcyBhIHRv\nb2wgd2hpY2ggYWxsb3dlZCB0byBoYWNrIGltYWdlIHN1cHBvcnQgaW50byB0\nZXJtaW5hbCBlbXVsYXRvcnMgaWYgdGhleSBmdWxmaWxsZWQgY2VydGFpbiBw\ncm9wZXJ0aWVzLiAgClNvIGl0IHdhcyBub3QgbWFkZSB0byBjb21wZXRlIHdp\ndGggcHJvamVjdHMgd2hpY2ggdHJ5IHRvIGVzdGFibGlzaCBhIHN0YW5kYXJk\nIGZvciBpbWFnZXMgaW4gdGVybWluYWxzIGxpa2UgU0lYRUwsIGtpdHR5cyBp\nbWFnZSBwcm90b2NvbCBvciBzaW1pbGFyLCAgCmJ1dCBtb3JlIGl0IHdhcyB0\naG91Z2h0IHRvIGhlbHAgZHVyaW5nIHRoZSB0aW1lIGluIHdoaWNoIHRoZXNl\nIHByb3RvY29scyBhcmUgc3VwcG9ydGVkIHRvIHJhcmVseS4gIApJdCB3aWxs\nIHN0b3Agd29ya2luZyBhdCB0aGUgbGF0ZXN0IGlmIHlvdSBhcmUgZm9yY2Vk\nIHRvIHN3aXRjaCB0byB3YXlsYW5kLiAgClN1Y2ggYW4gdG9vbCBtYXkgYWxz\nbyBpbmNyZWFzZSB0aGUgYWRvcHRpb24gdGltZSBvZiB0aGVzZSBpbWFnZSBw\ncm90b2NvbHMgd2hpY2ggaXMgd2h5IEkgc3VnZ2VzdCBub3QgdG8gZm9yayB0\naGlzIHByb2plY3QsICAKYnV0IHRvIG1vdmUgdG8gb25lIG9mIHRoZSB0ZXJt\naW5hbCBlbXVsYXRvcnMgd2hpY2ggaGF2ZSBpbWFnZSBzdXBwb3J0LiAgCkUu\nZy4gU0lYRUwgaXMgYWxyZWFkeSBzdXBwb3J0ZWQgYnkgdGhlIGZvbGxvd2lu\nZyB0ZXJtaW5hbCBlbXVsYXRvcnM6ICAKZm9vdCwga29uc29sZSwgd2V6dGVy\nbSwgeHRlcm0sIFlha3Vha2UsIFplbGxpaiBhbmQgc28gb24gKFNvdXJjZTog\nW2h0dHBzOi8vd3d3LmFyZXdlc2l4ZWx5ZXQuY29tL10oaHR0cHM6Ly93d3cu\nYXJld2VzaXhlbHlldC5jb20vKSkuICAKCioqSWYgeW91IGRlY2lkZSB0byBm\nb3JrIHRoZSBwcm9qZWN0Kiogbm9uZSB0aGUgbGVzcyBpdCB3b3VsZCBiZSBu\naWNlIGZyb20geW91IHRvIGNoYW5nZSBvciByZW1vdmUgdGhlIGF1dGhvciBu\nYW1lIGluIGFsbCBmaWxlcy4gIAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/seebye/ueberzug/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/seebye/ueberzug/git/blobs/329b4cbfc4feac2ddf578835ccfcdcb9f1c7ef78",
+    "html": "https://github.com/seebye/ueberzug/blob/master/README.md"
+  }
+}

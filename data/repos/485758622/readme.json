@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "fbb643e5a902fb8bf847f4166581b80c211a444e",
+  "size": 1042,
+  "url": "https://api.github.com/repos/AlaaSaadAbdo/battoota/contents/README.md?ref=main",
+  "html_url": "https://github.com/AlaaSaadAbdo/battoota/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/AlaaSaadAbdo/battoota/git/blobs/fbb643e5a902fb8bf847f4166581b80c211a444e",
+  "download_url": "https://raw.githubusercontent.com/AlaaSaadAbdo/battoota/main/README.md",
+  "type": "file",
+  "content": "IyBEaXNjbGFpbWVyOiBQbGVhc2Uga2VlcCBpbiBtaW5kIHRoYXQgdGhlcmUg\nYXJlIHByb3RvdHlwZXMgaGVyZS4gVXNlIHRoZSBmaWxlcyBhdCB5b3VyIG93\nbiByaXNrLgoKCiMgUGljdHVyZXMKIVtHaGF6YWxdKC9QaWN0dXJlcy9HaGF6\nYWwuanBnKQohW1dpcmVkIFdpenphXSgvUGljdHVyZXMvV2lyZWQtV2l6emEu\nanBlZykKIVtCYXRyZWVxVjJSZWN0YW5nbGVdKC9QaWN0dXJlcy9CYXRyZWVx\nVjJSZWN0YW5nbGUuanBnKQohW1phenVdKC9QaWN0dXJlcy9aYXp1LmpwZykK\nIVtCYXJnaG9vdF0oL1BpY3R1cmVzL0Jhcmdob290LmpwZykKIVthY3RpdmUt\nYm9hcmRzXSgvUGljdHVyZXMvYWN0aXZlLWJvYXJkcy0yLmpwZykKCiMjIENy\nZWRpdHMvcmVmZXJlbmNlcwoKQWxsIG9mIHRoZSBib2FyZHMgaGVyZSB3b3Vs\nZG4ndCBiZSBwb3NzaWJsZSB3aXRob3V0IHRoZSBoZWxwIG9mIHNvbWUgYXdl\nc29tZSBwZW9wbGUgYW5kIHRoZWlyIHByb2plY3RzOgotIFticmVkZmllbGRd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9icmVkZmllbGQpCi0gW1JhZSBEdXhdKGh0\ndHBzOi8vZ2l0aHViLmNvbS9hbmRyZXdqcmFlL3JhZS1kdXgpCi0gW1J1Zm91\ncy9CZXJ5bGxpbmVdKGh0dHBzOi8vZ2l0aHViLmNvbS9qY21razMvdHJvY2hp\nbGlkYWUpCi0gW1NhZGVrIEJhcm91ZGldKGh0dHBzOi8vZ2l0aHViLmNvbS9z\nYWRla2Jhcm91ZGkpIG9mIFtmaW5nZXJwdW5jaF0oaHR0cHM6Ly9maW5nZXJw\ndW5jaC54eXopCi0gW0hhemVsXShodHRwczovL2dpdGh1Yi5jb20vamFzb25o\nYXplbCkKLSBbRnJlem5lbF0oaHR0cHM6Ly9naXRodWIuY29tL2ZyZXpuZWwx\nMCkKLSBbRHVja3liXShodHRwczovL2dpdGh1Yi5jb20vZHVja3liKQotIFtH\ncmlubmllXShodHRwczovL2dpdGh1Yi5jb20vcmVnaWNpZGFscGx1dG9waGFn\nZSkKLSBbV2V0ZW9yXShodHRwczovL2dpdGh1Yi5jb20vd2V0ZW9yKQotIFth\na2kyN10oaHR0cHM6Ly90d2l0dGVyLmNvbS9ha2kyN2tiZCkKLSBbY2hld2ll\nZGllc10oaHR0cHM6Ly93d3cucHJpbnRhYmxlcy5jb20vQGNoZXdpZWRpZXNf\nMzYwNzM4KQ==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/AlaaSaadAbdo/battoota/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/AlaaSaadAbdo/battoota/git/blobs/fbb643e5a902fb8bf847f4166581b80c211a444e",
+    "html": "https://github.com/AlaaSaadAbdo/battoota/blob/main/README.md"
+  }
+}

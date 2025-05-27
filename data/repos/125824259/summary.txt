@@ -1,0 +1,1 @@
+XTDB is an immutable SQL database designed for application development, time-travel reporting, and data compliance. Built in Clojure, it provides bitemporal data storage capabilities, enabling users to query and analyze data across time. This project functions as a database management system (DBMS), offering SQL support for querying temporal data.

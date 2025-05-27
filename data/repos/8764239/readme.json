@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b21fbb334b9b2f2de36e9a0abf1da0c35e633149",
+  "size": 885,
+  "url": "https://api.github.com/repos/jbalmert/goos-by-chapter/contents/README.md?ref=master",
+  "html_url": "https://github.com/jbalmert/goos-by-chapter/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/jbalmert/goos-by-chapter/git/blobs/b21fbb334b9b2f2de36e9a0abf1da0c35e633149",
+  "download_url": "https://raw.githubusercontent.com/jbalmert/goos-by-chapter/master/README.md",
+  "type": "file",
+  "content": "Z29vcy1ieS1jaGFwdGVyCj09PT09PT09PT09PT09PQoKQ2hhcHRlciBieSBj\naGFwdGVyIGJ1aWxkIG9mIHRoZSBBdWN0aW9uU25pcGVyIGFwcGxpY2F0aW9u\nIGZyb20gR3Jvd2luZyBPYmplY3QKT3JpZW50ZWQgU29mdHdhcmUsIEd1aWRl\nZCBCeSBUZXN0cyAoR09PUykuICBFYWNoIGNoYXB0ZXIgaGFzIGl0cyBvd24g\ndGFnLApzdGFydGluZyB3aXRoIENoYXB0ZXIgMTAgKHRhZz1jaDEwKS4gIEVh\nY2ggc291cmNlIGZpbGUgaGFzIGNpdGF0aW9ucyBmcm9tIHRoZQpvcmlnaW5h\nbCB0ZXh0LCBzdGF0aW5nIHRoZSBzb3VyY2UgY2hhcHRlciBhbmQgcGFnZXMg\nZm9yIHRoZSBjb2RlIGNoYW5nZXMuCgpUaGVyZSBhcmUgc29tZSBpbXBvcnRh\nbnQgZGlmZmVyZW5jZXMgYmV0d2VlbiB0aGlzIGltcGxlbWVudGF0aW9uIGFu\nZCB0aGUKIG9yaWdpbmFsIGZyb20gYm9vay4gIFNwZWNpZmljYWxseSwgdGhp\ncyBwcm9qZWN0CiAtIGlzIE1hdmVuIGJhc2VkIHRvIG1ha2UgZGVwZW5kZW5j\neSBtYW5hZ2VtZW50IGVhc3kuCiAtIHVzZXMgTW9ja2l0byBpbnN0ZWFkIG9m\nIEpNb2NrLiAgTXkgdGVhbSBpcyByZWFkaW5nIHRoaXMgYm9vawogYXMgcGFy\ndCBvZiBhIGdyb3VwIHN0dWR5LCBhbmQgd2UgaGF2ZSBmb3VuZCB0aGUgdGhl\nICJleHBlY3RhdGlvbnMiIHN0eWxlIG9mCiBKTW9jayB0byBiZSBjb25mdXNp\nbmcgY29tcGFyZWQgdG8gdGhlICJ3aGVuL3RoZW4iIGFuZCAidmVyaWZ5IiBv\nZiBNb2NraXRvLgogLSB1c2VzIE9wZW5GaXJlIHYzLjguICBUaGlzIGZvcmNl\ncyBhIHNsaWdodGx5IGRpZmZlcmVudCB3YXkgb2YgY29ubmVjdGluZwogdmlh\nIFNtYWNrLiAgQ29tbWVudHMgYXJlIGFkZGVkIHRvIHRoZSBjb2RlIHdoZXJl\nIGl0IGRpZmZlcnMgZnJvbSB0aGUgb3JpZ2luYWwu\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jbalmert/goos-by-chapter/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/jbalmert/goos-by-chapter/git/blobs/b21fbb334b9b2f2de36e9a0abf1da0c35e633149",
+    "html": "https://github.com/jbalmert/goos-by-chapter/blob/master/README.md"
+  }
+}

@@ -1,0 +1,5 @@
+This TypeScript-based repository, Daytona, offers a Secure and Elastic Infrastructure for executing AI-generated code. Its primary function lies in providing an isolated runtime environment for AI workflows, ensuring zero risk to existing infrastructure while offering lightning-fast sandbox creation (sub-90ms) from code to execution.
+
+Key features include massive parallelization for concurrent AI workflows, programmatic control through File, Git, LSP, and Execute APIs, unlimited persistence, and OCI/Docker compatibility using any compatible image to create a sandbox.
+
+The technology stack includes TypeScript SDK for type-safe development and Python SDK for broader language support. This project serves as an application that facilitates the secure and efficient execution of AI-generated code, targeting developers working in the AI domain.

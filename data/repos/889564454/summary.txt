@@ -1,0 +1,5 @@
+This GitHub repository, **bradcypert/adl**, is a tool designed for managing Architecture Decision Records (ADRs) in a project directory. The primary function of adl is to aid in capturing and organizing ADRs as markdown files within a specified directory, such as the `adr` subdirectory of a repository.
+
+Key features include generating new ADRs with a predefined template and automatically numbering them for easy reference. Additionally, it provides a command for regenerating the cataloguing README file in the `adr` directory. The tool is written in Zig, a modern systems programming language, and requires users to install and add it to their system path.
+
+As of now, adl ships with two commands: generating a new ADR and regenerating the README. This tool is particularly useful for software development teams seeking to maintain a structured record of architectural decisions made during the project lifecycle. The target users are primarily software developers working on collaborative projects.

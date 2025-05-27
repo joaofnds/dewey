@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "185128ae39988125755176bb5cf3ae071454db34",
+  "size": 1111,
+  "url": "https://api.github.com/repos/lmj/lparallel/contents/README.md?ref=master",
+  "html_url": "https://github.com/lmj/lparallel/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/lmj/lparallel/git/blobs/185128ae39988125755176bb5cf3ae071454db34",
+  "download_url": "https://raw.githubusercontent.com/lmj/lparallel/master/README.md",
+  "type": "file",
+  "content": "CiMgbHBhcmFsbGVsCgpscGFyYWxsZWwgaXMgYSBsaWJyYXJ5IGZvciBwYXJh\nbGxlbCBwcm9ncmFtbWluZyBpbiBDb21tb24gTGlzcCwgZmVhdHVyaW5nCgog\nICogYSBzaW1wbGUgbW9kZWwgb2YgdGFzayBzdWJtaXNzaW9uIHdpdGggcmVj\nZWl2aW5nIHF1ZXVlCiAgKiBjb25zdHJ1Y3RzIGZvciBleHByZXNzaW5nIGZp\nbmUtZ3JhaW5lZCBwYXJhbGxlbGlzbQogICogYXN5bmNocm9ub3VzIGNvbmRp\ndGlvbiBoYW5kbGluZyBhY3Jvc3MgdGhyZWFkIGJvdW5kYXJpZXMKICAqIHBh\ncmFsbGVsIHZlcnNpb25zIG9mIG1hcCwgcmVkdWNlLCBzb3J0LCByZW1vdmUs\nIGFuZCBtYW55IG90aGVycwogICogcHJvbWlzZXMsIGZ1dHVyZXMsIGFuZCBk\nZWxheWVkIGV2YWx1YXRpb24gY29uc3RydWN0cwogICogY29tcHV0YXRpb24g\ndHJlZXMgZm9yIHBhcmFsbGVsaXppbmcgaW50ZXJjb25uZWN0ZWQgdGFza3MK\nICAqIGJvdW5kZWQgYW5kIHVuYm91bmRlZCBGSUZPIHF1ZXVlcwogICogaGln\naCBhbmQgbG93IHByaW9yaXR5IHRhc2tzCiAgKiB0YXNrIGtpbGxpbmcgYnkg\nY2F0ZWdvcnkKICAqIGludGVncmF0ZWQgdGltZW91dHMKClNlZSBodHRwOi8v\nbHBhcmFsbGVsLm9yZyBmb3IgZG9jdW1lbnRhdGlvbiBhbmQgZXhhbXBsZXMu\nCgojIyMgUnVubmluZwoKbHBhcmFsbGVsIHNob3VsZCBydW4gb24gYW55IENv\nbW1vbiBMaXNwIGltcGxlbWVudGF0aW9uIHN1cHBvcnRlZCBieQpib3JkZWF1\neC10aHJlYWRzLiBUaGUgZm9sbG93aW5nIGltcGxlbWVudGF0aW9ucyBzdWNj\nZXNzZnVsbHkgcGFzcyB0aGUKdGVzdCBzdWl0ZToKCiAgKiBBQkNMCiAgKiBB\nbGxlZ3JvCiAgKiBDbG96dXJlCiAgKiBMaXNwV29ya3MKICAqIFNCQ0wKClRv\nIHJ1biB0ZXN0cywgbG9hZCBgbHBhcmFsbGVsLXRlc3QuYXNkYCBhbmQgY2Fs\nbCBgKGxwYXJhbGxlbC10ZXN0OmV4ZWN1dGUpYC4KClRvIHJ1biBiZW5jaG1h\ncmtzLCBsb2FkIGBscGFyYWxsZWwtYmVuY2guYXNkYCBhbmQgY2FsbApgKGxw\nYXJhbGxlbC1iZW5jaDpleGVjdXRlIE4pYCB3aGVyZSBgTmAgaXMgdGhlIG51\nbWJlciBvZiB3b3JrZXIgdGhyZWFkcy4KCiMjIyBBdXRob3IKCkphbWVzIE0u\nIExhd3JlbmNlIDxsbG1qam1sbEBnbWFpbC5jb20+Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/lmj/lparallel/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/lmj/lparallel/git/blobs/185128ae39988125755176bb5cf3ae071454db34",
+    "html": "https://github.com/lmj/lparallel/blob/master/README.md"
+  }
+}

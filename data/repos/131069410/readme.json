@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "4cff842d9c080adf032d4cf66d2f438e7fba1863",
+  "size": 140,
+  "url": "https://api.github.com/repos/will/slacktyping/contents/README?ref=master",
+  "html_url": "https://github.com/will/slacktyping/blob/master/README",
+  "git_url": "https://api.github.com/repos/will/slacktyping/git/blobs/4cff842d9c080adf032d4cf66d2f438e7fba1863",
+  "download_url": "https://raw.githubusercontent.com/will/slacktyping/master/README",
+  "type": "file",
+  "content": "QSB2ZXJ5IGdvb2QgcHJvZ3JhbSB0aGF0IG1ha2VzIGl0IHNvIGl0IHNheXMg\naSdtIHR5cGluZyB3aGVuIGFueW9uZSBlbHNlIGlzIHR5cGluZwoKaHR0cHM6\nLy90d2l0dGVyLmNvbS9sZWlud2ViZXIvc3RhdHVzLzk4OTI2NzM0MzAwMjk1\nMTY4MAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/will/slacktyping/contents/README?ref=master",
+    "git": "https://api.github.com/repos/will/slacktyping/git/blobs/4cff842d9c080adf032d4cf66d2f438e7fba1863",
+    "html": "https://github.com/will/slacktyping/blob/master/README"
+  }
+}

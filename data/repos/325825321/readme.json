@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "32cb6eaef0c28698e5c23df4e79f51d0cc636573",
+  "size": 1429,
+  "url": "https://api.github.com/repos/mats852/doublet/contents/README.md?ref=main",
+  "html_url": "https://github.com/mats852/doublet/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/mats852/doublet/git/blobs/32cb6eaef0c28698e5c23df4e79f51d0cc636573",
+  "download_url": "https://raw.githubusercontent.com/mats852/doublet/main/README.md",
+  "type": "file",
+  "content": "IyBkb3VibGV0CkhhbmRsZSBhbnkgSmF2YXNjcmlwdCBhbmQgVHlwZXNjcmlw\ndCBmdW5jdGlvbiBhcyBhbiBlcnJvciBhbmQgcmVzcG9uc2UgdHVwbGUuIFRo\naXMgcHJldmVudHMgZGVjbGFyaW5nIHZhcmlhYmxlcyBvdXRzaWRlIG9mIGEg\ndHJ5L2NhdGNoIGJsb2NrIGZvciBhIGNsZWFuZXIgZmxvdy4KClshW2RvdWJs\nZXRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vbnBtL3YvZG91YmxldC5zdmcp\nXShodHRwczovL3d3dy5ucG1qcy5jb20vcGFja2FnZS9kb3VibGV0KQpbIVtH\naXRodWIgbGljZW5jZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9naXRodWIv\nbGljZW5zZS9tYXRzODUyL2RvdWJsZXQpXShodHRwczovL2ltZy5zaGllbGRz\nLmlvL2dpdGh1Yi9saWNlbnNlL21hdHM4NTIvZG91YmxldCkKWyFbQ0ldKGh0\ndHBzOi8vZ2l0aHViLmNvbS9tYXRzODUyL2RvdWJsZXQvYWN0aW9ucy93b3Jr\nZmxvd3MvbWFpbi55bWwvYmFkZ2Uuc3ZnKV0oaHR0cHM6Ly9naXRodWIuY29t\nL21hdHM4NTIvZG91YmxldC9hY3Rpb25zL3dvcmtmbG93cy9tYWluLnltbCkK\nCiMjIEluc3RhbGxhdGlvbgoKYGBgc2hlbGwKbnBtIGkgZG91YmxldApgYGAK\nCiMjIFVzYWdlCiMjIyBUcmFkaXRpb25uYWwgZXJyb3IgaGFuZGxpbmcKYGBg\ndHMKaW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsKaW1wb3J0IGRvdWJsZXQg\nZnJvbSAnZG91YmxldCc7CmltcG9ydCBIdHRwRXhjZXB0aW9uIGZyb20gJ3lv\ndXItZmF2b3JpdGUtZXJyb3ItaGFuZGxlcic7Cgphc3luYyBmdW5jdGlvbiBm\nZXRjaFVzZXIoaWQ6IHN0cmluZyk6IFVzZXIgewogIGxldCB1c2VyOwoKICB0\ncnkgewogICAgdXNlciA9IGF3YWl0IGF4aW9zKGAvdXNlcnMvJHtpZH1gKTsK\nICB9IGNhdGNoIChlcnJvcikgewogICAgdGhyb3cgbmV3IEh0dHBFeGNlcHRp\nb24oYENvdWxkIG5vdCBmZXRjaCB1c2VyIElEICIke2lkfSIsIEVycm9yOyAk\ne2Vycm9yLm1lc3NhZ2V9YCwgZXJyb3Iuc3RhdHVzKTsKICB9CgogIC8vIERv\nIHNvbWV0aGluZyB3aXRoIHVzZXIKfQoKYGBgCgojIyMgV2l0aCBkb3VibGV0\nCgpgYGB0cwppbXBvcnQgYXhpb3MgZnJvbSAnYXhpb3MnOwppbXBvcnQgZG91\nYmxldCBmcm9tICdkb3VibGV0JzsKaW1wb3J0IEh0dHBFeGNlcHRpb24gZnJv\nbSAneW91ci1mYXZvcml0ZS1lcnJvci1oYW5kbGVyJzsKCmFzeW5jIGZ1bmN0\naW9uIGZldGNoVXNlcihpZDogc3RyaW5nKTogVXNlciB7CiAgY29uc3QgW3Vz\nZXJFcnJvciwgdXNlcl0gPSBhd2FpdCBkb3VibGV0KGF4aW9zLCBgL3VzZXJz\nLyR7aWR9YCk7CiAgaWYgKHVzZXJFcnJvcikgdGhyb3cgbmV3IEh0dHBFeGNl\ncHRpb24oYENvdWxkIG5vdCBmZXRjaCB1c2VyIElEICIke2lkfSIsIEVycm9y\nOyAke3VzZXJFcnJvci5tZXNzYWdlfWAsIHVzZXJFcnJvci5zdGF0dXMpOwoK\nICAvLyBEbyBzb21ldGhpbmcgd2l0aCB1c2VyCn0KYGBgCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mats852/doublet/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/mats852/doublet/git/blobs/32cb6eaef0c28698e5c23df4e79f51d0cc636573",
+    "html": "https://github.com/mats852/doublet/blob/main/README.md"
+  }
+}

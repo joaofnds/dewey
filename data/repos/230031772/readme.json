@@ -1,0 +1,18 @@
+{
+  "name": "README.org",
+  "path": "README.org",
+  "sha": "6c82f2f6fa3f65ade95ad77fd4009828acaf6a55",
+  "size": 1264,
+  "url": "https://api.github.com/repos/alphapapa/snow.el/contents/README.org?ref=master",
+  "html_url": "https://github.com/alphapapa/snow.el/blob/master/README.org",
+  "git_url": "https://api.github.com/repos/alphapapa/snow.el/git/blobs/6c82f2f6fa3f65ade95ad77fd4009828acaf6a55",
+  "download_url": "https://raw.githubusercontent.com/alphapapa/snow.el/master/README.org",
+  "type": "file",
+  "content": "IytUSVRMRTogc25vdy5lbAoKL0xldCBpdCBzbm93IGluIEVtYWNzIS8KCltb\naHR0cHM6Ly9naXRodWIuY29tL2FscGhhcGFwYS9zbm93LmVsL2Jsb2IvbWV0\nYS92aWRlby9zbm93Lm1wND9yYXc9dHJ1ZV1bUHJldmlldyB2aWRlb11dIChb\nW2h0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9lbWFjcy9jb21tZW50cy9ramQy\nejIvbGV0X2l0X3Nub3dfaW5fZW1hY3Nfbm93X3dpdGhfd2luZF92YXJ5aW5n\nL11bb24gUmVkZGl0XV0pCgpbW3Nub3cucG5nXV0KCiogSW5zdGFsbGF0aW9u\nCgorICBGcm9tIE1FTFBBIDo6IFlvdSBtYXkgaW5zdGFsbCB0aGUgcGFja2Fn\nZSB+c25vd34gZnJvbSBbW2h0dHBzOi8vbWVscGEub3JnLyMvc25vd11bTUVM\nUEFdXS4KKyAgV2l0aCBRdWVscGEgOjoKICAgICAxLiAgSW5zdGFsbCBbW2h0\ndHBzOi8vZnJhbWFnaXQub3JnL3N0ZWNrZXJoYWx0ZXIvcXVlbHBhLXVzZS1w\nYWNrYWdlI2luc3RhbGxhdGlvbl1bcXVlbHBhLXVzZS1wYWNrYWdlXV0uCiAg\nICAgMi4gIEFkZCB0aGlzIGZvcm0gdG8geW91ciBpbml0IGZpbGU6CiAgIytC\nRUdJTl9TUkMgZWxpc3AKICAgICAgICh1c2UtcGFja2FnZSBzbm93CiAgICAg\nICAgIDpxdWVscGEgKHNub3cgOmZldGNoZXIgZ2l0aHViIDpyZXBvICJhbHBo\nYXBhcGEvc25vdy5lbCIpKQogICMrRU5EX1NSQworICBNYW51YWxseSA6OiBM\nb2FkID1zbm93LmVsPSwgZS5nLiB3aXRoID1NLXggZW1hY3MtbGlzcC1ieXRl\nLWNvbXBpbGUtYW5kLWxvYWQgUkVUPS4KCiogVXNhZ2UKCiBSdW4gPU0teCBz\nbm93IFJFVD0uCgogKk5PVEU6KiBDZXJ0YWluIGZvbnRzIG1heSBjYXVzZSBh\nIGppdHRlcnkgYXBwZWFyYW5jZSBpbiB0aGUgc25vdyBidWZmZXIgZHVlIHRv\nIHRoZSBzaXplIG9mIHRoZSBzbm93Zmxha2UgZ2x5cGguICBGb3IgZXhhbXBs\nZSwgL0ZhbnRhc3F1ZSBTYW5zIE1vbm8vIGhhcyB0aGlzIHByb2JsZW0sIGJ1\ndCBvdGhlciBmb250cywgbGlrZSAvSGFjay8sIHdvcmsgcGVyZmVjdGx5LiAg\nSWYgeW91IG5vdGljZSB0aGlzIHByb2JsZW0sIGN1c3RvbWl6ZSB0aGUgfnNu\nb3ctZmxha2V+IGZhY2UgYW5kIGNoYW5nZSBpdHMgZm9udCBmYW1pbHkgdG8s\nIGUuZy4gL0RlamFWdSBTYW5zIE1vbm8vLiAgSXQgbWF5IGFsc28gYmUgbmVj\nZXNzYXJ5IHRvIHNldCBpdHMgaGVpZ2h0IGF0dHJpYnV0ZSB0bywgZS5nLiA5\nMC4KCiogVGlwcwoKKyAgVXNlIH5NLXggY3VzdG9taXplLWdyb3VwIFJFVCBz\nbm93IFJFVH4gdG8gY3VzdG9taXplIG9wdGlvbnMuCgoqIExpY2Vuc2UKCkdQ\nTHYzCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/alphapapa/snow.el/contents/README.org?ref=master",
+    "git": "https://api.github.com/repos/alphapapa/snow.el/git/blobs/6c82f2f6fa3f65ade95ad77fd4009828acaf6a55",
+    "html": "https://github.com/alphapapa/snow.el/blob/master/README.org"
+  }
+}

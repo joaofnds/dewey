@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "eccbd52b3c8565ffd9b7d59092c4f317f0d2aef0",
+  "size": 428,
+  "url": "https://api.github.com/repos/braveclojure/cftbat-code/contents/README.md?ref=master",
+  "html_url": "https://github.com/braveclojure/cftbat-code/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/braveclojure/cftbat-code/git/blobs/eccbd52b3c8565ffd9b7d59092c4f317f0d2aef0",
+  "download_url": "https://raw.githubusercontent.com/braveclojure/cftbat-code/master/README.md",
+  "type": "file",
+  "content": "IyBDbG9qdXJlIGZvciB0aGUgQnJhdmUgYW5kIFRydWUgQ29kZQoKVGhpcyBj\nb250YWlucyBhbGwgdGhlIGNvZGUgZXhhbXBsZXMgZnJvbSB0aGUgYm9vayBD\nbG9qdXJlIGZvciB0aGUKQnJhdmUgYW5kIFRydWUsIHdoaWNoIHlvdSBjYW4g\ncmVhZCBhdCBodHRwOi8vYnJhdmVjbG9qdXJlLmNvbS4gQWxzbyBjaGVjayAK\nb3V0IHRoZSBwcmludCB2ZXJzaW9uIGF0IGh0dHBzOi8vbm9zdGFyY2guY29t\nL2Nsb2p1cmUhIAoKVGhpcyByZXBvIGlzIG9yZ2FuaXplZCBieSBjaGFwdGVy\nLCB3aXRoIHRoZSBgMDFgIGRpcmVjdG9yeSBjb3JyZXNwb25kaW5nIHRvIApj\naGFwdGVyIDEsIGAwMmAgY2hhcHRlciAyIC0geW91IGdldCB0aGUgaWRlYS4g\nRWFjaCBkaXJlY3RvcnkgaGFzIGl0cyBvd24KUkVBRE1FIHdpdGggYWRkaXRp\nb25hbCBub3Rlcy4KCkhhdmUgZnVuIQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/braveclojure/cftbat-code/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/braveclojure/cftbat-code/git/blobs/eccbd52b3c8565ffd9b7d59092c4f317f0d2aef0",
+    "html": "https://github.com/braveclojure/cftbat-code/blob/master/README.md"
+  }
+}

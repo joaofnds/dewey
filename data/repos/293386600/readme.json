@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "349d9a4f7889eec94a94ad1ae821304d1f60102a",
+  "size": 797,
+  "url": "https://api.github.com/repos/sthefanoss/flutter_multi_slider/contents/README.md?ref=main",
+  "html_url": "https://github.com/sthefanoss/flutter_multi_slider/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/sthefanoss/flutter_multi_slider/git/blobs/349d9a4f7889eec94a94ad1ae821304d1f60102a",
+  "download_url": "https://raw.githubusercontent.com/sthefanoss/flutter_multi_slider/main/README.md",
+  "type": "file",
+  "content": "IyBNdWx0aVNsaWRlcgoKQSBjdXN0b20gU2xpZGVyIHdoaWNoIGFjY2VwdHMg\nYSBsaXN0IG9mIG9yZGVyZWQgdmFsdWVzLiBJdCdzIG1lYW50IHRvIGJlIGFz\nIHNpbXBsZSBhcyB0aGUgb3JpZ2luYWwgU2xpZGVyIQoKIyBVSSB3aXRoIGl0\nCgo8aW1nIHNyYz0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29t\nL3N0aGVmYW5vc3MvZmx1dHRlcl9tdWx0aV9zbGlkZXIvbWFpbi9naXBoeS5n\naWYiIHdpZHRoPSIyNTAiPgoKIyBVc2FnZXMKIyMgQ29udGludW91cyBzbGlk\nZXIuCmBgYGRhcnQKTXVsdGlTbGlkZXIoCiAgICB2YWx1ZXM6IF9teUxpc3Qs\nCiAgICBvbkNoYW5nZWQ6ICh2YWx1ZXMpID0+IHNldFN0YXRlKCgpPT4gX215\nTGlzdCA9IHZhbHVlcyksCiksCmBgYAojIyBEaXNjcmV0ZSBzbGlkZXIuIApg\nYGBkYXJ0Ck11bHRpU2xpZGVyKAogICAgdmFsdWVzOiBfbXlMaXN0LAogICAg\nb25DaGFuZ2VkOiAodmFsdWVzKSA9PiBzZXRTdGF0ZSgoKT0+IF9teUxpc3Qg\nPSB2YWx1ZXMpLAogICAgZGl2aXNpb25zOiAxMCwKKSwKYGBgCiMjIFdpdGgg\nY3VzdG9tIHRyYWNlIHBhdHRlcm4uIApgYGBkYXJ0Ck11bHRpU2xpZGVyKAog\nICAgdmFsdWVzOiBfbXlMaXN0LAogICAgb25DaGFuZ2VkOiAodmFsdWVzKSA9\nPiBzZXRTdGF0ZSgoKT0+IF9teUxpc3QgPSB2YWx1ZXMpLAogICAgdmFsdWVS\nYW5nZVBhaW50ZXJDYWxsYmFjazogKHJhbmdlKSA9PiByYW5nZS5pbmRleCAl\nIDIgPT0gMSwKKSwKYGBgCgojIFRoYW5rcwotIFtzYXZhZG9kZXNpZ25zXSho\ndHRwczovL2dpdGh1Yi5jb20vc2F2YWRvZGVzaWducyk=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sthefanoss/flutter_multi_slider/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/sthefanoss/flutter_multi_slider/git/blobs/349d9a4f7889eec94a94ad1ae821304d1f60102a",
+    "html": "https://github.com/sthefanoss/flutter_multi_slider/blob/main/README.md"
+  }
+}

@@ -1,0 +1,1 @@
+`mkrl/misbrands` is a collection of satirical IT stickers parodying well-known brand logos with competitor names. The repository provides images suitable for printing custom stickers. Functionality is limited to providing publicly usable images. This is a design asset project, allowing users to create physical stickers through external vendors.

@@ -1,0 +1,7 @@
+**btop++: A Cross-Platform System Resource Monitor Written in C++**
+
+This C++ repository, btop++, offers a versatile system resource monitor for Linux, macOS, FreeBSD, NetBSD, and OpenBSD. It provides real-time monitoring of CPU, memory, network, and now GPU utilization, power usage, and clock speed. The project leverages modern C++20 features and is continuously built on multiple platforms to ensure compatibility.
+
+Key features include customizable themes, extensive keybindings, and a user-friendly interface for easy navigation. btop++ also supports GPU monitoring on Linux systems, with plans to expand this functionality to other platforms. The project is open source under the Apache License 2.0, allowing for flexibility in usage and contribution.
+
+Target users include system administrators, developers, and power users seeking a comprehensive tool for resource monitoring across various operating systems. btop++'s cross-platform compatibility and extensive feature set make it an ideal choice for those who require a versatile and efficient system resource monitor.

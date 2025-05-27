@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "207c6cbead9411208aa3a9274b26720a61a8f499",
+  "size": 485,
+  "url": "https://api.github.com/repos/victorqribeiro/isocity/contents/README.md?ref=master",
+  "html_url": "https://github.com/victorqribeiro/isocity/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/victorqribeiro/isocity/git/blobs/207c6cbead9411208aa3a9274b26720a61a8f499",
+  "download_url": "https://raw.githubusercontent.com/victorqribeiro/isocity/master/README.md",
+  "type": "file",
+  "content": "IyBJc29DaXR5CgpBbiBpc29tZXRyaWMgY2l0eSBidWlsZGVyIGluIEphdmFT\nY3JpcHQKCiFbc2NyZWVuc2hvdF0oc2NyZWVuc2hvdC5wbmcpCgpbTGl2ZSB2\nZXJzaW9uXShodHRwczovL3ZpY3RvcnJpYmVpcm8uY29tL2lzb2NpdHkpCgpb\nQWx0ZXJuYXRpdmUgbGlua10oaHR0cHM6Ly92aWN0b3JxcmliZWlyby5naXRo\ndWIuaW8vaXNvY2l0eS8pCgojIyBBYm91dAoKQSBzaW1wbGUgSmF2YVNjcmlw\ndCBjaXR5IGJ1aWxkZXIgd2l0aCBubyBzaW11bGF0aW9uIGF0IGFsbC4gTm8g\nYnVkZ2V0LCBubyBnb2Fscy4gSnVzdCBidWlsZCB5b3VyIHRpbnkgY2l0eS4g\nVGhpcyB3b3VsZCB3b3JrIG9uIGEgcGhvbmUsIGJ1dCBpdCB3YXNuJ3QgZGVz\naWduZWQgd2l0aCBwaG9uZXMgaW4gbWluZC4KCiMjIFRleHR1cmUgQ3JlZGl0\ncwoKVGV4dHVyZXMgZnJvbSAtIFtodHRwOi8vd3d3Lmtlbm5leS5ubF0oaHR0\ncHM6Ly9vcGVuZ2FtZWFydC5vcmcvdXNlcnMva2VubmV5KQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/victorqribeiro/isocity/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/victorqribeiro/isocity/git/blobs/207c6cbead9411208aa3a9274b26720a61a8f499",
+    "html": "https://github.com/victorqribeiro/isocity/blob/master/README.md"
+  }
+}

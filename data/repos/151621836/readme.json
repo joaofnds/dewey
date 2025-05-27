@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "055e637a8bde7e2b7ce3d0afb7ebf7e605b0c08e",
+  "size": 894,
+  "url": "https://api.github.com/repos/tech-otaku/macos-desktop/contents/README.md?ref=main",
+  "html_url": "https://github.com/tech-otaku/macos-desktop/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/tech-otaku/macos-desktop/git/blobs/055e637a8bde7e2b7ce3d0afb7ebf7e605b0c08e",
+  "download_url": "https://raw.githubusercontent.com/tech-otaku/macos-desktop/main/README.md",
+  "type": "file",
+  "content": "IyBTZXQgbWFjT1MgRGVza3RvcCBJbWFnZQoKKipJTVBPUlRBTlQqKjogWzIw\nMjMtMDktMjVdIFRoaXMgcmVwbyBoYXMgbm90IGJlZW4gdXBkYXRlZCBmb3Ig\nbWFjT1MgMTQgU29ub21hLiBUaGUgbGFzdCBzdXBwb3J0ZWQgdmVyc2lvbiBp\ncyBtYWNPUyAxMyBWZW50dXJhLgoKVGhlIHNjcmlwdHMgYHNldC1kZXNrdG9w\nLW1vamF2ZS5zaGAsIGBzZXQtZGVza3RvcC1jYXRhbGluYS5zaGAgYW5kIGBz\nZXQtZGVza3RvcC1iaWctc3VyLnNoYCBoYXZlIGJlZW4gcmVtb3ZlZCBmcm9t\nIHRoZSByZXBvIGluIGZhdm91ciBvZiBgc2V0LWRlc2t0b3Auc2hgIHdoaWNo\nIGNhbiBiZSB1c2VkIGZvciBhbGwgbWFjT1MgdmVyc2lvbnMgc2luY2UgbWFj\nT1MgMTAuMTQgTW9qYXZlLgoKU2VlIFtBIENvbXBhcmlzb24gb2YgQXBwbGUt\nc3VwcGxpZWQgRGVza3RvcCBJbWFnZXMgU2luY2UgbWFjT1MgMTAuMTQgTW9q\nYXZlXShodHRwczovL2Rlc2t0b3AudGVjaC1vdGFrdS5jb20vKQoKIyMjIFRh\nYmxlIG9mIENvbnRlbnRzIFtUT0NdCgpJbmZvcm1hdGlvbiBvbiBbbWFjT1Mg\nMTMgVmVudHVyYV0oVkVOVFVSQS5tZCNtYWNvcy0xMy12ZW50dXJhKSB2ZXJz\naW9uLgoKSW5mb3JtYXRpb24gb24gW21hY09TIDEyIE1vbnRlcmV5XShNT05U\nRVJFWS5tZCNtYWNvcy0xMi1tb250ZXJleSkgdmVyc2lvbi4KCkluZm9ybWF0\naW9uIG9uIFttYWNPUyAxMSBCaWcgU3VyXShCSUctU1VSLm1kI21hY29zLTEx\nLWJpZy1zdXIpIHZlcnNpb24uCgpJbmZvcm1hdGlvbiBvbiBbbWFjT1MgMTAu\nMTUgQ2F0YWxpbmFdKENBVEFMSU5BLm1kI21hY29zLTEwMTUtY2F0YWxpbmEp\nIHZlcnNpb24KCkluZm9ybWF0aW9uIG9uIFttYWNPUyAxMC4xNCBNb2phdmVd\nKE1PSkFWRS5tZCNtYWNvcy0xMDE0LW1vamF2ZSkgdmVyc2lvbgoK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tech-otaku/macos-desktop/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/tech-otaku/macos-desktop/git/blobs/055e637a8bde7e2b7ce3d0afb7ebf7e605b0c08e",
+    "html": "https://github.com/tech-otaku/macos-desktop/blob/main/README.md"
+  }
+}

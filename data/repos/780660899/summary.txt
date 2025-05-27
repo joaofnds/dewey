@@ -1,0 +1,3 @@
+**vltpkg/vltpkg: A Monorepo for a Versatile Node.js Package Manager**
+
+This TypeScript monorepo houses the source code of vlt, a package manager that streamlines the development, execution, and distribution process in the web dev domain. Core features include seamless dependency management, efficient installation, and versioning control. The technology stack is built on Node.js, with additional tools like pnpm for faster and more reliable package installations. This project serves as a library, providing a CLI interface for users to easily manage their projects' dependencies. Target users are primarily developers who value simplicity, speed, and consistency in their workflows.

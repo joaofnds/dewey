@@ -1,0 +1,19 @@
+**Repository Data:**
+   - **Name:** szermatt/visual-replace
+   - **Description:** A user-friendly Emacs Lisp interface for query-replace operations, enhancing the built-in functionality with a unified search and replace interface.
+   - **Language:** Emacs Lisp
+   - **License:** GNU General Public License v3.0
+   - **Size:** 3752 KB
+   - **Created:** 2020
+   - **Topics:** emacs, emacs-lisp, query-replace
+   - **README:** [Provided in the original post]
+
+**Primary function and domain:** Visual Replace is an Emacs Lisp library that provides a more intuitive interface for performing search and replace operations within the Emacs editor. It simplifies complex regular expression searches and replacements, making it easier to manage text manipulation tasks.
+
+**Core features and capabilities:** The library offers a unified prompt for both the search term and replacement, allowing users to easily craft their search patterns. It also provides real-time previews of matches, enabling users to see how their changes will affect the document before applying them. Additionally, it supports selective replacements using keyboard shortcuts or by clicking on the preview, and allows users to modify the scope and type of the search-and-replace command.
+
+**Technology stack:** The project is written in Emacs Lisp, a powerful scripting language for the Emacs editor. It leverages existing query and replace mechanisms built into Emacs, ensuring that all replacements are handled by standard Emacs commands.
+
+**Project type:** Library
+
+**Target users:** Developers using the Emacs editor who frequently perform search and replace operations on their text files.

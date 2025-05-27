@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9682e1cf455ababc9a11c99e990759742068b320",
+  "size": 1128,
+  "url": "https://api.github.com/repos/japa/core/contents/README.md?ref=10.x",
+  "html_url": "https://github.com/japa/core/blob/10.x/README.md",
+  "git_url": "https://api.github.com/repos/japa/core/git/blobs/9682e1cf455ababc9a11c99e990759742068b320",
+  "download_url": "https://raw.githubusercontent.com/japa/core/10.x/README.md",
+  "type": "file",
+  "content": "IyBAamFwYS9jb3JlCj4gVGhlIGNvcmUgb2YgdGhlIEphcGEgdGVzdHMgcnVu\nbmVycwoKWyFbZ2l0aHViLWFjdGlvbnMtaW1hZ2VdXVtnaXRodWItYWN0aW9u\ncy11cmxdIFshW25wbS1pbWFnZV1dW25wbS11cmxdIFshW2xpY2Vuc2UtaW1h\nZ2VdXVtsaWNlbnNlLXVybF0gWyFbdHlwZXNjcmlwdC1pbWFnZV1dW3R5cGVz\nY3JpcHQtdXJsXQoKVGhpcyByZXBvIGNvbnRhaW5zIHRoZSBjb2RlIGZvciB0\naGUgY29yZSBvZiB0aGUgamFwYSB0ZXN0cyBydW5uZXIuIFlvdSBjYW4gdXNl\nIGl0IGNyZWF0ZSB5b3VyIHRlc3RzIHJ1bm5lciwganVzdCBsaWtlIGBAamFw\nYS9ydW5uZXJgLgoKWW91IGNhbiB2aWV3IHRoZSBkb2N1bWVudGF0aW9uIG9u\nIFtodHRwczovL2phcGEuZGV2XShodHRwczovL2phcGEuZGV2KQoKW2dpdGh1\nYi1hY3Rpb25zLWltYWdlXTogaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9naXRo\ndWIvYWN0aW9ucy93b3JrZmxvdy9zdGF0dXMvamFwYS9jb3JlL2NoZWNrcy55\nbWw/c3R5bGU9Zm9yLXRoZS1iYWRnZQoKW2dpdGh1Yi1hY3Rpb25zLXVybF06\nIGh0dHBzOi8vZ2l0aHViLmNvbS9qYXBhL2NvcmUvYWN0aW9ucy93b3JrZmxv\nd3MvY2hlY2tzLnltbCAiZ2l0aHViLWFjdGlvbnMiCgpbbnBtLWltYWdlXTog\naHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9ucG0vdi9AamFwYS9jb3JlLnN2Zz9z\ndHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bnBtCltucG0tdXJsXTogaHR0cHM6\nLy9ucG1qcy5vcmcvcGFja2FnZS9AamFwYS9jb3JlICJucG0iCgpbbGljZW5z\nZS1pbWFnZV06IGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vbnBtL2wvQGphcGEv\nY29yZT9jb2xvcj1ibHVldmlvbGV0JnN0eWxlPWZvci10aGUtYmFkZ2UKW2xp\nY2Vuc2UtdXJsXTogTElDRU5TRS5tZCAibGljZW5zZSIKClt0eXBlc2NyaXB0\nLWltYWdlXTogaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UeXBlc2Ny\naXB0LTI5NEU4MC5zdmc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXR5cGVz\nY3JpcHQKW3R5cGVzY3JpcHQtdXJsXTogICJ0eXBlc2NyaXB0IgoKPGJyIC8+\nCjxocj4KCiFbXShodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20v\ndGhldHV0bGFnZS9zdGF0aWMvbWFpbi9zcG9uc29ya2l0L3Nwb25zb3JzLnBu\nZykK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/japa/core/contents/README.md?ref=10.x",
+    "git": "https://api.github.com/repos/japa/core/git/blobs/9682e1cf455ababc9a11c99e990759742068b320",
+    "html": "https://github.com/japa/core/blob/10.x/README.md"
+  }
+}

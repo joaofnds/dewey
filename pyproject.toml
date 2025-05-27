@@ -1,0 +1,26 @@
+[project]
+name = "dewey"
+version = "0.0.1"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "hdbscan",
+    "httpx",
+    "pandas",
+    "sentence-transformers",
+    "matplotlib",
+    "plotly",
+    "umap-learn",
+    "pygithub>=2.6.1",
+]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+extend-select = ["I"]
+
+[tool.setuptools]
+py-modules = []

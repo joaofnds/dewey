@@ -1,0 +1,18 @@
+{
+  "name": "readme.md",
+  "path": "readme.md",
+  "sha": "e52d239b4aae6ff7cbf95f8f1a00ea57d5589bd4",
+  "size": 441,
+  "url": "https://api.github.com/repos/pawelgrzybek/snippet-generator/contents/readme.md?ref=master",
+  "html_url": "https://github.com/pawelgrzybek/snippet-generator/blob/master/readme.md",
+  "git_url": "https://api.github.com/repos/pawelgrzybek/snippet-generator/git/blobs/e52d239b4aae6ff7cbf95f8f1a00ea57d5589bd4",
+  "download_url": "https://raw.githubusercontent.com/pawelgrzybek/snippet-generator/master/readme.md",
+  "type": "file",
+  "content": "IyBzbmlwcGV0LWdlbmVyYXRvcgoKW1NuaXBwZXQgZ2VuZXJhdG9yXShodHRw\nczovL3NuaXBwZXQtZ2VuZXJhdG9yLmFwcC8pIGlzIGEgdGlueSBSZWFjdCBh\ncHAgdG8gaGVscCB5b3UgY3JlYXRlIFtWaXN1YWwgU3R1ZGlvIENvZGVdKGh0\ndHBzOi8vY29kZS52aXN1YWxzdHVkaW8uY29tLyksIFtTdWJsaW1lIFRleHRd\nKGh0dHBzOi8vd3d3LnN1YmxpbWV0ZXh0LmNvbS8pIGFuZCBBdG9tIChSSVAg\n8J+qpikgc25pcHBldHMuIElmIHlvdSBsaWtlIHRoZSBwcm9qZWN0LCBbYnV5\nIG1lIGEgY29mZmVlXShodHRwczovL3d3dy5idXltZWFjb2ZmZWUuY29tL3Bh\nd2VsZ3J6eWJlayksIHBsZWFzZS4KCkVuam95IQoKWyFbc25pcHBldCBnZW5l\ncmF0b3IgYnkgUGF3ZWwgR3J6eWJla10oc25pcHBldC1nZW5lcmF0b3Iud2Vi\ncCldKGh0dHBzOi8vc25pcHBldC1nZW5lcmF0b3IuYXBwLykK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/pawelgrzybek/snippet-generator/contents/readme.md?ref=master",
+    "git": "https://api.github.com/repos/pawelgrzybek/snippet-generator/git/blobs/e52d239b4aae6ff7cbf95f8f1a00ea57d5589bd4",
+    "html": "https://github.com/pawelgrzybek/snippet-generator/blob/master/readme.md"
+  }
+}

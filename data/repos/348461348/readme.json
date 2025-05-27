@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "bb482fa0adcb71108ddb6a38b41fb784385e96d9",
+  "size": 1351,
+  "url": "https://api.github.com/repos/AnselmC/le-thesaurus.el/contents/README.md?ref=master",
+  "html_url": "https://github.com/AnselmC/le-thesaurus.el/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/AnselmC/le-thesaurus.el/git/blobs/bb482fa0adcb71108ddb6a38b41fb784385e96d9",
+  "download_url": "https://raw.githubusercontent.com/AnselmC/le-thesaurus.el/master/README.md",
+  "type": "file",
+  "content": "IyBERVBSRUNBVEVEIChEZWMgMjl0aCAyMDI0KQpUaGlzIHBhY2thZ2Ugbm8g\nbG9uZ2VyIHdvcmtzIGFzIHRoZSBlbmRwb2ludCBiZWluZyB1c2VkIGlzIG5v\ndCByZXR1cm5pbmcgYW55IGRhdGEuIFVuZm9ydHVuYXRlbHksIG5vIGZyZWUg\ndGhlc2F1cnVzIEFQSSBhbHRlcm5hdGl2ZXMgZXhpc3QuCgojIGxlLXRoZXNh\ndXJ1cy5lbApbIVtNRUxQQV0oaHR0cHM6Ly9tZWxwYS5vcmcvcGFja2FnZXMv\nbGUtdGhlc2F1cnVzLWJhZGdlLnN2ZyldKGh0dHBzOi8vbWVscGEub3JnLyMv\nbGUtdGhlc2F1cnVzKQpbIVtDb3ZlcmFnZSBTdGF0dXNdKGh0dHBzOi8vY292\nZXJhbGxzLmlvL3JlcG9zL2dpdGh1Yi9BbnNlbG1DL2xlLXRoZXNhdXJ1cy5l\nbC9iYWRnZS5zdmc/YnJhbmNoPW1hc3RlcildKGh0dHBzOi8vY292ZXJhbGxz\nLmlvL2dpdGh1Yi9BbnNlbG1DL2xlLXRoZXNhdXJ1cy5lbD9icmFuY2g9bWFz\ndGVyKQoKRW1hY3MgcGFja2FnZSBmb3IgcXVlcnlpbmcgc3lub255bXMgYW5k\nIGFudG9ueW1zIGZyb20gW1RoZXNhdXJ1cy5jb21dKHRoZXNhdXJ1cy5jb20p\nLgoKPHAgYWxpZ249ImNlbnRlciI+CiAgICA8aW1nIHNyYz0idGhlc2F1cnVz\nLWV4YW1wbGUuZ2lmIi8+CjwvcD4KCiMjIEluc3RhbGxhdGlvbgpsZS10aGVz\nYXVydXMgaXMgYXZhaWxhYmxlIHZpYSBbTUVMUEFdKGh0dHBzOi8vbWVscGEu\nb3JnLykuCgpJbnN0YWxsIGl0IHZpYSBbdXNlLXBhY2thZ2VdKGh0dHBzOi8v\nZ2l0aHViLmNvbS9qd2llZ2xleS91c2UtcGFja2FnZSkgb3IgW3N0cmFpZ2h0\nXShodHRwczovL2dpdGh1Yi5jb20vcmF4b2Q1MDIvc3RyYWlnaHQuZWwpCmBg\nYGVsaXNwCih1c2UtcGFja2FnZSBsZS10aGVzYXVydXMpCmBgYAoKIyMgVXNh\nZ2UKUHV0IHlvdXIgY3Vyc29yIG9uIHRoZSB3b3JkIHlvdSdkIGxpa2UgYSBz\neW5vbnltIGZvciBhbmQgcnVuIGBNLXggbGUtdGhlc2F1cnVzLWdldC17c3lu\nb255bXMsYW50b255bXN9YC4KUGljayBhIHN5bm9ueW0gZnJvbSB0aGUgY29t\ncGxldGlvbiBidWZmZXIgYW5kIGhpdCBgUkVUYC4KClJlc3BvbnNlcyBmcm9t\nIGB0aGVzYXVydXMuY29tYCBhcmUgY2FjaGVkLiAKWW91IGNhbiBjbGVhciB0\naGUgY2FjaGUgd2l0aCBgbGUtdGhlc2F1cnVzLWNsZWFyLWNhY2hlYCBpZiBp\ndCBzaG91bGQgZ2V0IHRvbyBsYXJnZS4KClRoYXQncyBpdC4KCgojIyBEZXZl\nbG9wbWVudApQdWxsIHJlcXVlc3RzIGFyZSB3ZWxjb21lLgoKIyMjIFRlc3Rz\nClRlc3RzIHVzZSB0aGUgW2J1dHRlcmN1cCBmcmFtZXdvcmtdKGh0dHBzOi8v\nZ2l0aHViLmNvbS9qb3JnZW5zY2hhZWZlci9lbWFjcy1idXR0ZXJjdXApLgpZ\nb3UgY2FuIHJ1biB0ZXN0cyB2aWEKCmBgYCBzaGVsbAptYWtlIHRlc3QKYGBg\nCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/AnselmC/le-thesaurus.el/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/AnselmC/le-thesaurus.el/git/blobs/bb482fa0adcb71108ddb6a38b41fb784385e96d9",
+    "html": "https://github.com/AnselmC/le-thesaurus.el/blob/master/README.md"
+  }
+}

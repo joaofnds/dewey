@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "5d600322db95b4b6d57c44bcef4b2420e7e1c18b",
+  "size": 348,
+  "url": "https://api.github.com/repos/hrsh7th/cmp-nvim-lsp-signature-help/contents/README.md?ref=main",
+  "html_url": "https://github.com/hrsh7th/cmp-nvim-lsp-signature-help/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/hrsh7th/cmp-nvim-lsp-signature-help/git/blobs/5d600322db95b4b6d57c44bcef4b2420e7e1c18b",
+  "download_url": "https://raw.githubusercontent.com/hrsh7th/cmp-nvim-lsp-signature-help/main/README.md",
+  "type": "file",
+  "content": "IyBjbXAtbnZpbS1sc3Atc2lnbmF0dXJlLWhlbHAKCm52aW0tY21wIHNvdXJj\nZSBmb3IgZGlzcGxheWluZyBmdW5jdGlvbiBzaWduYXR1cmVzIHdpdGggdGhl\nIGN1cnJlbnQgcGFyYW1ldGVyIGVtcGhhc2l6ZWQ6CgohW0Jhc2ljIEV4YW1w\nbGVdKGh0dHBzOi8vdXNlci1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29t\nLzEyODMyMjgwLzE0NDI0NjM1MS0wNjA0ZDhjYi00MGM1LTQzN2ItOWNhMS1m\nM2Q0MjA1MzkzNjAucG5nKSAgCiMgU2V0dXAKCmBgYGx1YQoKcmVxdWlyZSdj\nbXAnLnNldHVwIHsKICBzb3VyY2VzID0gewogICAgeyBuYW1lID0gJ252aW1f\nbHNwX3NpZ25hdHVyZV9oZWxwJyB9CiAgfQp9CmBgYAoK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/hrsh7th/cmp-nvim-lsp-signature-help/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/hrsh7th/cmp-nvim-lsp-signature-help/git/blobs/5d600322db95b4b6d57c44bcef4b2420e7e1c18b",
+    "html": "https://github.com/hrsh7th/cmp-nvim-lsp-signature-help/blob/main/README.md"
+  }
+}

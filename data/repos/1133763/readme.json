@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "af1add02252c6f3ecf5d8c05231a49652715bd89",
+  "size": 387,
+  "url": "https://api.github.com/repos/gigamonkey/monkeylib-foo/contents/README?ref=master",
+  "html_url": "https://github.com/gigamonkey/monkeylib-foo/blob/master/README",
+  "git_url": "https://api.github.com/repos/gigamonkey/monkeylib-foo/git/blobs/af1add02252c6f3ecf5d8c05231a49652715bd89",
+  "download_url": "https://raw.githubusercontent.com/gigamonkey/monkeylib-foo/master/README",
+  "type": "file",
+  "content": "VGhpcyBjb2RlIGlzIGJhc2ljYWxseSBkZXByZWNhdGVkLiBNdWNoIG9mIHRo\nZSBnb29kIHN0dWZmIGhhcyBiZWVuCm1vdmVkIG91dCBpbnRvIHNlcGFyYXRl\nIHByb2plY3RzLCBtb25rZXlsaWItdGV4dC1vdXRwdXQsCm1vbmtleWxpYi10\nZXh0LWxhbmd1YWdlcywgYW5kIG1vbmtleWxpYi1odG1sLiBUaGVyZSBpcyBz\ndGlsbCBzdHVmZiBpbgpoZXJlIGZvciBnZW5lcmF0aW5nIENTUyBhbmQgSmF2\nYXNjcmlwdCBhcyB3ZWxsIGFzIG15IGdvb2Z5IExpc3BzY3JpcHQKbGFuZ3Vh\nZ2UgYnV0IGFzIEknbSBub3Qgc3VyZSBob3cgdXNlZnVsIHRoYXQgaXMsIEkn\nbSBkb24ndCBoYXZlIGFueQppbW1lZGlhdGUgcGxhbnMgdG8gYnJlYWsgdGhl\nbSBvdXQgYXMgc2VwYXJhdGUgcHJvamVjdHMu\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gigamonkey/monkeylib-foo/contents/README?ref=master",
+    "git": "https://api.github.com/repos/gigamonkey/monkeylib-foo/git/blobs/af1add02252c6f3ecf5d8c05231a49652715bd89",
+    "html": "https://github.com/gigamonkey/monkeylib-foo/blob/master/README"
+  }
+}

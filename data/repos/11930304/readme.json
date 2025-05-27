@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "79c09a8fce6cd3cc32f57c952d4e1163c59f6eeb",
+  "size": 902,
+  "url": "https://api.github.com/repos/spotify/dockerfile-mode/contents/README.md?ref=master",
+  "html_url": "https://github.com/spotify/dockerfile-mode/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/spotify/dockerfile-mode/git/blobs/79c09a8fce6cd3cc32f57c952d4e1163c59f6eeb",
+  "download_url": "https://raw.githubusercontent.com/spotify/dockerfile-mode/master/README.md",
+  "type": "file",
+  "content": "ZG9ja2VyZmlsZS1tb2RlCj09PT09PT09PT09PT09PQpLbm93biB0byB3b3Jr\nIHdpdGggRW1hY3MgMjQgYW5kIGxhdGVyCgpJZiB5b3UganVzdCB3YW50IHRv\nIHVzZSBpdCwgeW91IGNhbiBnZXQgaXQgdmlhIE1FTFBBLgoKQSBEb2NrZXJm\naWxlIG1vZGUgZm9yIGVtYWNzCgpgYGAgZW1hY3MtbGlzcAooYWRkLXRvLWxp\nc3QgJ2xvYWQtcGF0aCAiL3lvdXIvcGF0aC90by9kb2NrZXJmaWxlLW1vZGUv\nIikKKHJlcXVpcmUgJ2RvY2tlcmZpbGUtbW9kZSkKYGBgCgpBZGRzIHN5bnRh\neCBoaWdobGlnaHRpbmcgYXMgd2VsbCBhcyB0aGUgYWJpbGl0eSB0byBidWls\nZCB0aGUgaW1hZ2UKZGlyZWN0bHkgdXNpbmcgYEMtYyBDLWJgIGZyb20gdGhl\nIGJ1ZmZlciAoYEMtYyBNLWJgIHRvIGJ5cGFzcyBkb2NrZXIgYnVpbGQgY2Fj\naGUpLgoKWW91IGNhbiBzcGVjaWZ5IHRoZSBpbWFnZSBuYW1lIGluIHRoZSBm\naWxlIGl0c2VsZiBieSBhZGRpbmcgYSBsaW5lIGxpa2UgdGhpcwphdCB0aGUg\ndG9wIG9mIHlvdXIgRG9ja2VyZmlsZS4KCmBgYCBlbWFjcy1saXNwCiMjIC0q\nLSBkb2NrZXJmaWxlLWltYWdlLW5hbWU6ICJ5b3VyLWltYWdlLW5hbWUtaGVy\nZSIgLSotCmBgYAoKSWYgeW91IGRvbid0LCB5b3UnbGwgYmUgcHJvbXB0ZWQg\nZm9yIGFuIGltYWdlIG5hbWUgZWFjaCB0aW1lIHlvdSBidWlsZC4KWW91IG1h\neSB3YW50IHRvIGFkZCB0aGUgZm9sbG93aW5nIHRvIHlvdXIgZW1hY3MgY29u\nZmlnOgoKYGBgIGVtYWNzLWxpc3AKKHB1dCAnZG9ja2VyZmlsZS1pbWFnZS1u\nYW1lICdzYWZlLWxvY2FsLXZhcmlhYmxlICMnc3RyaW5ncCkKYGBgCgpZb3Ug\nY2FuIGNoYW5nZSB0aGUgYmluYXJ5IHRvIHVzZSB3aXRoCmBgYGVtYWNzLWxp\nc3AKKHNldHEgZG9ja2VyZmlsZS1tb2RlLWNvbW1hbmQgImRvY2tlciIpCmBg\nYAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/spotify/dockerfile-mode/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/spotify/dockerfile-mode/git/blobs/79c09a8fce6cd3cc32f57c952d4e1163c59f6eeb",
+    "html": "https://github.com/spotify/dockerfile-mode/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "236df49b96c0e5cf397f13b558d47e71d624e295",
+  "size": 974,
+  "url": "https://api.github.com/repos/go-task/task/contents/README.md?ref=main",
+  "html_url": "https://github.com/go-task/task/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/go-task/task/git/blobs/236df49b96c0e5cf397f13b558d47e71d624e295",
+  "download_url": "https://raw.githubusercontent.com/go-task/task/main/README.md",
+  "type": "file",
+  "content": "PGRpdiBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJodHRwczovL3Rhc2tm\naWxlLmRldiI+CiAgICA8aW1nIHNyYz0id2Vic2l0ZS9zdGF0aWMvaW1nL2xv\nZ28uc3ZnIiB3aWR0aD0iMjAwcHgiIGhlaWdodD0iMjAwcHgiIC8+CiAgPC9h\nPgoKICA8aDE+VGFzazwvaDE+CgogIDxwPgogICAgVGFzayBpcyBhIHRhc2sg\ncnVubmVyIC8gYnVpbGQgdG9vbCB0aGF0IGFpbXMgdG8gYmUgc2ltcGxlciBh\nbmQgZWFzaWVyIHRvIHVzZSB0aGFuLCBmb3IgZXhhbXBsZSwgPGEgaHJlZj0i\naHR0cHM6Ly93d3cuZ251Lm9yZy9zb2Z0d2FyZS9tYWtlLyI+R05VIE1ha2U8\nYT4uCiAgPC9wPgoKICA8cD4KICAgIDxhIGhyZWY9Imh0dHBzOi8vdGFza2Zp\nbGUuZGV2L2luc3RhbGxhdGlvbi8iPkluc3RhbGxhdGlvbjwvYT4gfCA8YSBo\ncmVmPSJodHRwczovL3Rhc2tmaWxlLmRldi91c2FnZS8iPkRvY3VtZW50YXRp\nb248L2E+IHwgPGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS90YXNrZmls\nZWRldiI+VHdpdHRlcjwvYT4gfCA8YSBocmVmPSJodHRwczovL2Jza3kuYXBw\nL3Byb2ZpbGUvdGFza2ZpbGUuZGV2Ij5CbHVlc2t5PC9hPiB8IDxhIGhyZWY9\nImh0dHBzOi8vZm9zc3RvZG9uLm9yZy9AdGFzayI+TWFzdG9kb248L2E+IHwg\nPGEgaHJlZj0iaHR0cHM6Ly9kaXNjb3JkLmdnLzZUWTM2RTM5VUsiPkRpc2Nv\ncmQ8L2E+CiAgPC9wPgoKICA8aDE+R29sZCBTcG9uc29yczwvaDE+CgogIDx0\nYWJsZT4KICAgIDx0cj4KICAgICAgPHRkIGFsaWduPSJjZW50ZXIiIHZhbGln\nbj0ibWlkZGxlIj4KICAgICAgICA8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0i\naHR0cHM6Ly9kZXZvd2wuaW8iPgogICAgICAgICAgPGltZyBzcmM9Ii93ZWJz\naXRlL3N0YXRpYy9pbWcvZGV2b3dsLmlvLnN2ZyIgaGVpZ2h0PSIxMDBweCIg\ndGl0bGU9ImRldm93bC5pbyIgLz4KICAgICAgICA8L2E+CiAgICAgIDwvdGQ+\nCiAgICA8L3RyPgogIDwvdGFibGU+CjwvZGl2Pgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/go-task/task/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/go-task/task/git/blobs/236df49b96c0e5cf397f13b558d47e71d624e295",
+    "html": "https://github.com/go-task/task/blob/main/README.md"
+  }
+}

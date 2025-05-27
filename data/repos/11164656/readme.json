@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "86e3971ef8445c0eb912f5f7ce6a77cc5d734cc9",
+  "size": 1471,
+  "url": "https://api.github.com/repos/AlexCharlton/cl-glfw3/contents/README.md?ref=master",
+  "html_url": "https://github.com/AlexCharlton/cl-glfw3/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/AlexCharlton/cl-glfw3/git/blobs/86e3971ef8445c0eb912f5f7ce6a77cc5d734cc9",
+  "download_url": "https://raw.githubusercontent.com/AlexCharlton/cl-glfw3/master/README.md",
+  "type": "file",
+  "content": "IyBjbC1nbGZ3MwoKQmluZGluZ3MgZm9yIHRoZSBbR0xGVyBsaWJyYXJ5XSho\ndHRwOi8vZ2xmdy5vcmcvKSwgdmVyc2lvbiAzLngsIGZvciBDb21tb24gTGlz\ncC4KClRoZXNlIGJpbmRpbmdzIGhhdmUgYmVlbiBlbmhhbmNlZCB3aXRoIHNl\ndmVyYWwgY29udmVuaWVuY2VzLCBhcyBkZXNjcmliZWQgaW4gW2NsLWdsZncz\nLmxpc3BdKC4vY2wtZ2xmdzMubGlzcCkuCgpEaXJlY3QgYmluZGluZ3MgdG8g\nYWxsIEdMRlcgZnVuY3Rpb25zIGNhbiBiZSBmb3VuZCBpbiB0aGUgc3lzdGVt\nIGAlZ2xmd2AgW2dsZnctYmluZGluZ3MubGlzcF0oLi9nbGZ3LWJpbmRpbmdz\nLmxpc3ApLgoKIyMjIEluc3RhbGxpbmcKCmNsLWdsZnczIGlzIFF1aWNrbGlz\ncCBpbnN0YWxsYWJsZSEgSnVzdCB0eXBlOgoKYGBgbGlzcAoocWw6cXVpY2ts\nb2FkIDpjbC1nbGZ3MykKYGBgCgpSdW5uaW5nIHRoZSByZXN1bHRpbmcgc3lz\ndGVtIHJlcXVpcmVzIFtHTEZXXShodHRwOi8vd3d3LmdsZncub3JnLykgdmVy\nc2lvbiAzLnggYW5kIFtsaWJmZmldKGh0dHA6Ly9zb3VyY2V3YXJlLm9yZy9s\naWJmZmkvKSB0byBiZSBpbnN0YWxsZWQgb24geW91ciBjb21wdXRlci4KCiMj\nIyMgT1NYCgogLSBgYnJldyBpbnN0YWxsIGdsZncgbGliZmZpYAoKIyMjIyBV\nYnVudHUvRGViaWFuCgogLSBgc3VkbyBhcHQtZ2V0IGluc3RhbGwgbGliZ2xm\ndzMgbGliZmZpLWRldmAKCiMjIyBFeGFtcGxlcwoKRXhhbXBsZXMgY2FuIGJl\nIGZvdW5kIGluIHRoZSBbZXhhbXBsZXNdKC4vZXhhbXBsZXMpIGRpcmVjdG9y\neS4KClRoZSBleGFtcGxlcyByZWx5IG9uIFtjbC1vcGVuZ2xdKGh0dHBzOi8v\nZ2l0aHViLmNvbS8zYi9jbC1vcGVuZ2wpICh3aGljaCBRdWlja2xpc3Agd2ls\nbCB0YWtlIGNhcmUgb2YpIGFuZCByZXF1aXJlIHRoYXQgT3BlbkdMIGJlIGlu\nc3RhbGxlZCBvbiB5b3VyIGNvbXB1dGVyLgoKVGhlc2UgY2FuIGJlIGxvYWRl\nZCB0aHJvdWdoIFF1aWNrbGlzcCB3aXRoOgoKYGBgbGlzcAoocWw6cXVpY2ts\nb2FkIDpjbC1nbGZ3My1leGFtcGxlcykKCihjbC1nbGZ3My1leGFtcGxlczpl\ndmVudHMtZXhhbXBsZSkKKGNsLWdsZnczLWV4YW1wbGVzOmJhc2ljLXdpbmRv\ndy1leGFtcGxlKQooY2wtZ2xmdzMtZXhhbXBsZXM6cGFydGljbGVzLWJhc2lj\nLWV4YW1wbGUpCihjbC1nbGZ3My1leGFtcGxlczpmcmFnbWVudC1zaGFkZXIt\nZXhhbXBsZSkKYGBgCgojIyMgRG9jdW1lbnRhdGlvbgoKVGhlIGJlc3QgcGxh\nY2UgdG8gZmluZCBkb2N1bWVudGF0aW9uIGZvciBHTEZXMyBpcyBbdGhlaXIg\nb2ZmaWNpYWwgc2l0ZV0oaHR0cDovL3d3dy5nbGZ3Lm9yZy9kb2NzLzMuMC9p\nbmRleC5odG1sKS4KCiMjIyBTdGFiaWxpdHkKCkF0IHRoZSBtb21lbnQgdGhl\nc2UgYmluZGluZ3MgYXJlIGxhcmdlbHkgdW50ZXN0ZWQsIGFzaWRlIGZyb20g\nd2hhdCBjYW4gYmUgc2VlbiBpbiB0aGUgZXhhbXBsZXMgZGlyZWN0b3J5LiBD\nb250cmlidXRpb25zIGFyZSBtb3N0IHdlbGNvbWUhCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/AlexCharlton/cl-glfw3/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/AlexCharlton/cl-glfw3/git/blobs/86e3971ef8445c0eb912f5f7ce6a77cc5d734cc9",
+    "html": "https://github.com/AlexCharlton/cl-glfw3/blob/master/README.md"
+  }
+}

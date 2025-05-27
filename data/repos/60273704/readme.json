@@ -1,0 +1,18 @@
+{
+  "name": "README.rst",
+  "path": "README.rst",
+  "sha": "85520f02ea2720b0ebb7ec258ab03cdf09b4d8a3",
+  "size": 1541,
+  "url": "https://api.github.com/repos/mozilla/DeepSpeech/contents/README.rst?ref=master",
+  "html_url": "https://github.com/mozilla/DeepSpeech/blob/master/README.rst",
+  "git_url": "https://api.github.com/repos/mozilla/DeepSpeech/git/blobs/85520f02ea2720b0ebb7ec258ab03cdf09b4d8a3",
+  "download_url": "https://raw.githubusercontent.com/mozilla/DeepSpeech/master/README.rst",
+  "type": "file",
+  "content": "UHJvamVjdCBEZWVwU3BlZWNoCj09PT09PT09PT09PT09PT09PQoKCi4uIGlt\nYWdlOjogaHR0cHM6Ly9yZWFkdGhlZG9jcy5vcmcvcHJvamVjdHMvZGVlcHNw\nZWVjaC9iYWRnZS8/dmVyc2lvbj1sYXRlc3QKICAgOnRhcmdldDogaHR0cHM6\nLy9kZWVwc3BlZWNoLnJlYWR0aGVkb2NzLmlvLz9iYWRnZT1sYXRlc3QKICAg\nOmFsdDogRG9jdW1lbnRhdGlvbgoKCi4uIGltYWdlOjogaHR0cHM6Ly9naXRo\ndWIuY29tL21vemlsbGEvRGVlcFNwZWVjaC9hY3Rpb25zL3dvcmtmbG93cy9t\nYWNPUy1hbWQ2NC55bWwvYmFkZ2Uuc3ZnCiAgIDp0YXJnZXQ6IGh0dHBzOi8v\nZ2l0aHViLmNvbS9tb3ppbGxhL0RlZXBTcGVlY2gvYWN0aW9ucy93b3JrZmxv\nd3MvbWFjT1MtYW1kNjQueW1sCiAgIDphbHQ6IG1hY09TIGJ1aWxkcwoKLi4g\naW1hZ2U6OiBodHRwczovL2dpdGh1Yi5jb20vbW96aWxsYS9EZWVwU3BlZWNo\nL2FjdGlvbnMvd29ya2Zsb3dzL2xpbnQueW1sL2JhZGdlLnN2ZwogICA6dGFy\nZ2V0OiBodHRwczovL2dpdGh1Yi5jb20vbW96aWxsYS9EZWVwU3BlZWNoL2Fj\ndGlvbnMvd29ya2Zsb3dzL2xpbnQueW1sCiAgIDphbHQ6IExpbnRlcnMKCi4u\nIGltYWdlOjogaHR0cHM6Ly9naXRodWIuY29tL21vemlsbGEvRGVlcFNwZWVj\naC9hY3Rpb25zL3dvcmtmbG93cy9kb2NrZXIueW1sL2JhZGdlLnN2ZwogICA6\ndGFyZ2V0OiBodHRwczovL2dpdGh1Yi5jb20vbW96aWxsYS9EZWVwU3BlZWNo\nL2FjdGlvbnMvd29ya2Zsb3dzL2RvY2tlci55bWwKICAgOmFsdDogRG9ja2Vy\nIEltYWdlcwoKCkRlZXBTcGVlY2ggaXMgYW4gb3Blbi1zb3VyY2UgU3BlZWNo\nLVRvLVRleHQgZW5naW5lLCB1c2luZyBhIG1vZGVsIHRyYWluZWQgYnkgbWFj\naGluZSBsZWFybmluZyB0ZWNobmlxdWVzIGJhc2VkIG9uIGBCYWlkdSdzIERl\nZXAgU3BlZWNoIHJlc2VhcmNoIHBhcGVyIDxodHRwczovL2FyeGl2Lm9yZy9h\nYnMvMTQxMi41NTY3PmBfLiBQcm9qZWN0IERlZXBTcGVlY2ggdXNlcyBHb29n\nbGUncyBgVGVuc29yRmxvdyA8aHR0cHM6Ly93d3cudGVuc29yZmxvdy5vcmcv\nPmBfIHRvIG1ha2UgdGhlIGltcGxlbWVudGF0aW9uIGVhc2llci4KCkRvY3Vt\nZW50YXRpb24gZm9yIGluc3RhbGxhdGlvbiwgdXNhZ2UsIGFuZCB0cmFpbmlu\nZyBtb2RlbHMgYXJlIGF2YWlsYWJsZSBvbiBgZGVlcHNwZWVjaC5yZWFkdGhl\nZG9jcy5pbyA8aHR0cHM6Ly9kZWVwc3BlZWNoLnJlYWR0aGVkb2NzLmlvLz9i\nYWRnZT1sYXRlc3Q+YF8uCgpGb3IgdGhlIGxhdGVzdCByZWxlYXNlLCBpbmNs\ndWRpbmcgcHJlLXRyYWluZWQgbW9kZWxzIGFuZCBjaGVja3BvaW50cywgYHNl\nZSB0aGUgbGF0ZXN0IHJlbGVhc2Ugb24gR2l0SHViIDxodHRwczovL2dpdGh1\nYi5jb20vbW96aWxsYS9EZWVwU3BlZWNoL3JlbGVhc2VzL2xhdGVzdD5gXy4K\nCkZvciBjb250cmlidXRpb24gZ3VpZGVsaW5lcywgc2VlIGBDT05UUklCVVRJ\nTkcucnN0IDxDT05UUklCVVRJTkcucnN0PmBfLgoKRm9yIGNvbnRhY3QgYW5k\nIHN1cHBvcnQgaW5mb3JtYXRpb24sIHNlZSBgU1VQUE9SVC5yc3QgPFNVUFBP\nUlQucnN0PmBfLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mozilla/DeepSpeech/contents/README.rst?ref=master",
+    "git": "https://api.github.com/repos/mozilla/DeepSpeech/git/blobs/85520f02ea2720b0ebb7ec258ab03cdf09b4d8a3",
+    "html": "https://github.com/mozilla/DeepSpeech/blob/master/README.rst"
+  }
+}

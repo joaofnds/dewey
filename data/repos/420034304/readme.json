@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "405ba4e536d4555236f6d194dcd7dbae257aa801",
+  "size": 547,
+  "url": "https://api.github.com/repos/protesilaos/tmr/contents/README.md?ref=main",
+  "html_url": "https://github.com/protesilaos/tmr/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/protesilaos/tmr/git/blobs/405ba4e536d4555236f6d194dcd7dbae257aa801",
+  "download_url": "https://raw.githubusercontent.com/protesilaos/tmr/main/README.md",
+  "type": "file",
+  "content": "IyBUTVIKClRNUiBpcyBhbiBFbWFjcyBwYWNrYWdlIHRoYXQgcHJvdmlkZXMg\nZmFjaWxpdGllcyBmb3Igc2V0dGluZyB0aW1lcnMKdXNpbmcgYSBjb252ZW5p\nZW50IG5vdGF0aW9uLiAgTG90cyBvZiBjb21tYW5kcyBhcmUgYXZhaWxhYmxl\nIHRvIG9wZXJhdGUKb24gdGltZXJzLCB3aGlsZSB0aGVyZSBhbHNvIGV4aXN0\ncyBhIHRhYnVsYXRlZCB2aWV3IHRvIGRpc3BsYXkgYWxsCnRpbWVycyBpbiBh\nIG5pY2UgZ3JpZC4KCisgUGFja2FnZSBuYW1lIChHTlUgRUxQQSk6IGB0bXJg\nCisgT2ZmaWNpYWwgbWFudWFsOiA8aHR0cHM6Ly9wcm90ZXNpbGFvcy5jb20v\nZW1hY3MvdG1yPgorIENoYW5nZSBsb2c6IDxodHRwczovL3Byb3Rlc2lsYW9z\nLmNvbS9lbWFjcy90bXItY2hhbmdlbG9nPgorIEdpdCByZXBvc2l0b3JpZXM6\nCiAgKyBHaXRIdWI6IDxodHRwczovL2dpdGh1Yi5jb20vcHJvdGVzaWxhb3Mv\ndG1yPgogICsgR2l0TGFiOiA8aHR0cHM6Ly9naXRsYWIuY29tL3Byb3Rlc2ls\nYW9zL3Rtcj4KKyBCYWNrcm9ueW06IFRNUiBNYXkgUmluZzsgVGltZXIgTXVz\ndCBSdW4uCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/protesilaos/tmr/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/protesilaos/tmr/git/blobs/405ba4e536d4555236f6d194dcd7dbae257aa801",
+    "html": "https://github.com/protesilaos/tmr/blob/main/README.md"
+  }
+}

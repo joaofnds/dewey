@@ -1,0 +1,18 @@
+{
+  "name": "readme.md",
+  "path": "readme.md",
+  "sha": "fbceed95a5b33421d51646f506f7c496ffaef05b",
+  "size": 746,
+  "url": "https://api.github.com/repos/sindresorhus/speed-test/contents/readme.md?ref=main",
+  "html_url": "https://github.com/sindresorhus/speed-test/blob/main/readme.md",
+  "git_url": "https://api.github.com/repos/sindresorhus/speed-test/git/blobs/fbceed95a5b33421d51646f506f7c496ffaef05b",
+  "download_url": "https://raw.githubusercontent.com/sindresorhus/speed-test/main/readme.md",
+  "type": "file",
+  "content": "IyBzcGVlZC10ZXN0Cgo+IFRlc3QgeW91ciBpbnRlcm5ldCBjb25uZWN0aW9u\nIHNwZWVkIGFuZCBwaW5nIHVzaW5nIFtzcGVlZHRlc3QubmV0XShodHRwczov\nL3d3dy5zcGVlZHRlc3QubmV0KSBmcm9tIHRoZSBDTEkKCjxpbWcgc3JjPSJz\nY3JlZW5zaG90LmdpZiIgd2lkdGg9IjQwNCI+CgojIyBJbnN0YWxsCgpFbnN1\ncmUgeW91IGhhdmUgW05vZGUuanNdKGh0dHBzOi8vbm9kZWpzLm9yZykgdmVy\nc2lvbiAxMi4yMCsgaW5zdGFsbGVkLiBUaGVuIHJ1biB0aGUgZm9sbG93aW5n\nOgoKYGBgc2gKbnBtIGluc3RhbGwgLS1nbG9iYWwgc3BlZWQtdGVzdApgYGAK\nCiMjIFVzYWdlCgpgYGAKJCBzcGVlZC10ZXN0IC0taGVscAoKICBVc2FnZQog\nICAgJCBzcGVlZC10ZXN0CgogIE9wdGlvbnMKICAgIC0tanNvbiAtaiAgICAg\nT3V0cHV0IHRoZSByZXN1bHQgYXMgSlNPTgogICAgLS1ieXRlcyAtYiAgICBP\ndXRwdXQgdGhlIHJlc3VsdCBpbiBtZWdhYnl0ZXMgcGVyIHNlY29uZCAoTUJw\ncykKICAgIC0tdmVyYm9zZSAtdiAgT3V0cHV0IG1vcmUgZGV0YWlsZWQgaW5m\nb3JtYXRpb24KYGBgCgojIyBMaW5rcwoKLSBbUHJvZHVjdCBIdW50IHBvc3Rd\nKGh0dHBzOi8vd3d3LnByb2R1Y3RodW50LmNvbS9wb3N0cy9zcGVlZC10ZXN0\nLWNsaSkKCiMjIFJlbGF0ZWQKCi0gW2Zhc3QtY2xpXShodHRwczovL2dpdGh1\nYi5jb20vc2luZHJlc29yaHVzL2Zhc3QtY2xpKSAtIFRlc3QgeW91ciBkb3du\nbG9hZCBzcGVlZCB1c2luZyBmYXN0LmNvbQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sindresorhus/speed-test/contents/readme.md?ref=main",
+    "git": "https://api.github.com/repos/sindresorhus/speed-test/git/blobs/fbceed95a5b33421d51646f506f7c496ffaef05b",
+    "html": "https://github.com/sindresorhus/speed-test/blob/main/readme.md"
+  }
+}

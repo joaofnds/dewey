@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "c66c4c3566c0d09c54c166e35fcb2411ded08f40",
+  "size": 942,
+  "url": "https://api.github.com/repos/i3/i3/contents/README.md?ref=next",
+  "html_url": "https://github.com/i3/i3/blob/next/README.md",
+  "git_url": "https://api.github.com/repos/i3/i3/git/blobs/c66c4c3566c0d09c54c166e35fcb2411ded08f40",
+  "download_url": "https://raw.githubusercontent.com/i3/i3/next/README.md",
+  "type": "file",
+  "content": "IVtMb2dvXShkb2NzL2xvZ28tMzAucG5nKSBpMzogQSB0aWxpbmcgd2luZG93\nIG1hbmFnZXIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09\nPT09PT09PT09PT09PT09PT0KClshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly9n\naXRodWIuY29tL2kzL2kzL2FjdGlvbnMvd29ya2Zsb3dzL21haW4ueW1sL2Jh\nZGdlLnN2ZyldKGh0dHBzOi8vZ2l0aHViLmNvbS9pMy9pMy9hY3Rpb25zL3dv\ncmtmbG93cy9tYWluLnltbCkKWyFbSXNzdWUgU3RhdHNdKGh0dHBzOi8vaW1n\nLnNoaWVsZHMuaW8vZ2l0aHViL2lzc3Vlcy9pMy9pMy5zdmcpXShodHRwczov\nL2dpdGh1Yi5jb20vaTMvaTMvaXNzdWVzKQpbIVtQdWxsIFJlcXVlc3QgU3Rh\ndHNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2lzc3Vlcy1wci9p\nMy9pMy5zdmcpXShodHRwczovL2dpdGh1Yi5jb20vaTMvaTMvcHVsbHMpCgpb\nIVtQYWNrYWdlc10oaHR0cHM6Ly9yZXBvbG9neS5vcmcvYmFkZ2UvbGF0ZXN0\nLXZlcnNpb25zL2kzLnN2ZyldKGh0dHBzOi8vcmVwb2xvZ3kub3JnL21ldGFw\nYWNrYWdlL2kzL3ZlcnNpb25zKQpbIVtQYWNrYWdlc10oaHR0cHM6Ly9yZXBv\nbG9neS5vcmcvYmFkZ2UvdGlueS1yZXBvcy9pMy5zdmcpXShodHRwczovL3Jl\ncG9sb2d5Lm9yZy9tZXRhcGFja2FnZS9pMy92ZXJzaW9ucykKCmkzIGlzIGEg\ndGlsaW5nIHdpbmRvdyBtYW5hZ2VyIGZvciBYMTEuCgpGb3IgbW9yZSBpbmZv\ncm1hdGlvbiBhYm91dCBpMywgcGxlYXNlIHNlZSBbdGhlIHByb2plY3QncyB3\nZWJzaXRlXShodHRwczovL2kzd20ub3JnLykgYW5kIFtvbmxpbmUgZG9jdW1l\nbnRhdGlvbl0oaHR0cHM6Ly9pM3dtLm9yZy9kb2NzLykuCgpGb3IgaW5mb3Jt\nYXRpb24gYWJvdXQgY29udHJpYnV0aW5nIHRvIGkzLCBwbGVhc2Ugc2VlIFtD\nT05UUklCVVRJTkcubWRdKC5naXRodWIvQ09OVFJJQlVUSU5HLm1kKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/i3/i3/contents/README.md?ref=next",
+    "git": "https://api.github.com/repos/i3/i3/git/blobs/c66c4c3566c0d09c54c166e35fcb2411ded08f40",
+    "html": "https://github.com/i3/i3/blob/next/README.md"
+  }
+}

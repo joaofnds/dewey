@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "924e1e278c1a3a5db512ba4ae8d50aff15f0fc76",
+  "size": 933,
+  "url": "https://api.github.com/repos/basecamp/kamal/contents/README.md?ref=main",
+  "html_url": "https://github.com/basecamp/kamal/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/basecamp/kamal/git/blobs/924e1e278c1a3a5db512ba4ae8d50aff15f0fc76",
+  "download_url": "https://raw.githubusercontent.com/basecamp/kamal/main/README.md",
+  "type": "file",
+  "content": "IyBLYW1hbDogRGVwbG95IHdlYiBhcHBzIGFueXdoZXJlCgpGcm9tIGJhcmUg\nbWV0YWwgdG8gY2xvdWQgVk1zLCBkZXBsb3kgd2ViIGFwcHMgYW55d2hlcmUg\nd2l0aCB6ZXJvIGRvd250aW1lLiBLYW1hbCB1c2VzIFtrYW1hbC1wcm94eV0o\naHR0cHM6Ly9naXRodWIuY29tL2Jhc2VjYW1wL2thbWFsLXByb3h5KSB0byBz\nZWFtbGVzc2x5IHN3aXRjaCByZXF1ZXN0cyBiZXR3ZWVuIGNvbnRhaW5lcnMu\nIFdvcmtzIHNlYW1sZXNzbHkgYWNyb3NzIG11bHRpcGxlIHNlcnZlcnMsIHVz\naW5nIFNTSEtpdCB0byBleGVjdXRlIGNvbW1hbmRzLiBPcmlnaW5hbGx5IGJ1\naWx0IGZvciBSYWlscyBhcHBzLCBLYW1hbCB3aWxsIHdvcmsgd2l0aCBhbnkg\ndHlwZSBvZiB3ZWIgYXBwIHRoYXQgY2FuIGJlIGNvbnRhaW5lcml6ZWQgd2l0\naCBEb2NrZXIuCgrinqHvuI8gU2VlIFtrYW1hbC1kZXBsb3kub3JnXShodHRw\nczovL2thbWFsLWRlcGxveS5vcmcpIGZvciBkb2N1bWVudGF0aW9uIG9uIFtp\nbnN0YWxsYXRpb25dKGh0dHBzOi8va2FtYWwtZGVwbG95Lm9yZy9kb2NzL2lu\nc3RhbGxhdGlvbiksIFtjb25maWd1cmF0aW9uXShodHRwczovL2thbWFsLWRl\ncGxveS5vcmcvZG9jcy9jb25maWd1cmF0aW9uKSwgYW5kIFtjb21tYW5kc10o\naHR0cHM6Ly9rYW1hbC1kZXBsb3kub3JnL2RvY3MvY29tbWFuZHMpLgoKIyMg\nQ29udHJpYnV0aW5nIHRvIHRoZSBkb2N1bWVudGF0aW9uCgpQbGVhc2UgaGVs\ncCB1cyBpbXByb3ZlIEthbWFsJ3MgZG9jdW1lbnRhdGlvbiBvbiB0aGUgW3Ro\nZSBiYXNlY2FtcC9rYW1hbC1zaXRlIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0\naHViLmNvbS9iYXNlY2FtcC9rYW1hbC1zaXRlKS4KCiMjIExpY2Vuc2UKCkth\nbWFsIGlzIHJlbGVhc2VkIHVuZGVyIHRoZSBbTUlUIExpY2Vuc2VdKGh0dHBz\nOi8vb3BlbnNvdXJjZS5vcmcvbGljZW5zZXMvTUlUKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/basecamp/kamal/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/basecamp/kamal/git/blobs/924e1e278c1a3a5db512ba4ae8d50aff15f0fc76",
+    "html": "https://github.com/basecamp/kamal/blob/main/README.md"
+  }
+}

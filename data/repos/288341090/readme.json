@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "1e26ab531802f3c47ec77f01336f80a392a91b9d",
+  "size": 1275,
+  "url": "https://api.github.com/repos/stevenpetryk/mafs/contents/README.md?ref=main",
+  "html_url": "https://github.com/stevenpetryk/mafs/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/stevenpetryk/mafs/git/blobs/1e26ab531802f3c47ec77f01336f80a392a91b9d",
+  "download_url": "https://raw.githubusercontent.com/stevenpetryk/mafs/main/README.md",
+  "type": "file",
+  "content": "IyBNYWZzCgpNYWZzIGlzIGEgc2V0IG9mIG9waW5pb25hdGVkIFJlYWN0IGNv\nbXBvbmVudHMgZm9yIGNyZWF0aW5nIG1hdGggdmlzdWFsaXphdGlvbnMuCgpb\nVmlzaXQgdGhlIGRvY3Mg4oaSXShodHRwczovL21hZnMuZGV2KQoKLS0tCgoj\nIyBEZXZlbG9wbWVudAoKRGV2ZWxvcG1lbnQgaXMgZG9uZSBpbnNpZGUgb2Yg\ndGhlIE5leHQuanMgZG9jdW1lbnRhdGlvbiBzaXRlLCB3aGljaCBkaXJlY3Rs\neQppbXBvcnRzIE1hZnMgY29tcG9uZW50cyBmcm9tIGBzcmMvYC4gVG8gc3Rh\ncnQgdGhlIGRldmVsb3BtZW50IHNlcnZlciwgcnVuOgoKYGBgCnBucG0gaW5z\ndGFsbApwbnBtIHN0YXJ0CmBgYAoKVGhlIHZlcnNpb24gb2YgYHBucG1gIGlu\nIHVzZSBjYW4gYmUgdmlld2VkIGJ5IGNoZWNraW5nIHRoZSBgcGFja2FnZU1h\nbmFnZXJgCmZpZWxkIG9mIGBwYWNrYWdlLmpzb25gLiBVc2luZyBgY29yZXBh\nY2tgIHRvIGluc3RhbGwgcG5wbSB3aWxsIGtlZXAgdGhpcwp1cC10by1kYXRl\nIGF1dG9tYXRpY2FsbHkuIE1hZnMgcGlucyBwbnBtIHRvIGEgcHJlY2lzZSB2\nZXJzaW9uIHRvIGF2b2lkIHNwdXJpb3VzCnBucG0tbG9jay55YW1sIGNoYW5n\nZXMuCgpUaGVuIHZpc2l0IFtsb2NhbGhvc3Q6MzAwMF0oaHR0cDovL2xvY2Fs\naG9zdDozMDAwKS4KCiMjIFRlc3RzCgpNYWZzIHVzZXMgdW5pdCwgZW5kLXRv\nLWVuZCwgYW5kIHZpc3VhbCByZWdyZXNzaW9uIHRlc3RpbmcgdG8gZW5zdXJl\nIGNvbnNpc3RlbmN5IGJldHdlZW4gdXBkYXRlcy4gSXQgdGFrZXMgbGl0ZXJh\nbCBzY3JlZW5zaG90cyBvZiBjb21wb25lbnRzIGFzIHJlbmRlcmVkIGJ5IHRo\nZSBicm93c2VyLCBhbmQgY29tcGFyZXMgdGhlbSB0byBhIGtub3duICJjb3Jy\nZWN0IiBzY3JlZW5zaG90LiBUd28gb2YgdGhlIGJyb3dzZXJzIG1heSByZXF1\naXJlIGEgTWFjIHRvIHJ1biAoU2FmYXJpIGFuZCBpT1MgU2FmYXJpKS4KCkFs\nbCBleGFtcGxlcyBvbiB0aGUgZG9jdW1lbnRhdGlvbiBzaXRlIGFyZSB2aXN1\nYWxseSB0ZXN0ZWQgYXV0b21hdGljYWxseeKAlHRoZSB0ZXN0IGZpbGUgaXMg\nYXV0b2dlbmVyYXRlZC4KCmBgYGJhc2gKcG5wbSB0ZXN0ICAgICAgIyBydW4g\nYm90aCBzdWl0ZXMKcG5wbSB0ZXN0OnVuaXQgIyB0byBydW4ganVzdCB0aGUg\nSmVzdCB0ZXN0cwpwbnBtIHRlc3Q6ZTJlICAjIHRvIHJ1biBQbGF5d3JpZ2h0\nIChlbmQtdG8tZW5kIGFuZCB2aXN1YWwgdGVzdHMpCnBucG0gdGVzdCAtLSAt\nLXVwZGF0ZS1zbmFwc2hvdHMgIyB0byB1cGRhdGUgdGhlIHZpc3VhbCB0ZXN0\nIGJhc2VsaW5lcwpgYGAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/stevenpetryk/mafs/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/stevenpetryk/mafs/git/blobs/1e26ab531802f3c47ec77f01336f80a392a91b9d",
+    "html": "https://github.com/stevenpetryk/mafs/blob/main/README.md"
+  }
+}

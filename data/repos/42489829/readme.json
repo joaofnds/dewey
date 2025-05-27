@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0ae6265de946d6b948de4fe6a4fc322c1c93dca3",
+  "size": 390,
+  "url": "https://api.github.com/repos/rust-lang/rustlings/contents/README.md?ref=main",
+  "html_url": "https://github.com/rust-lang/rustlings/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/rust-lang/rustlings/git/blobs/0ae6265de946d6b948de4fe6a4fc322c1c93dca3",
+  "download_url": "https://raw.githubusercontent.com/rust-lang/rustlings/main/README.md",
+  "type": "file",
+  "content": "IyBbUnVzdGxpbmdzXShodHRwczovL3J1c3RsaW5ncy5ydXN0LWxhbmcub3Jn\nKSDwn6aACgpTbWFsbCBleGVyY2lzZXMgdG8gZ2V0IHlvdSB1c2VkIHRvIHJl\nYWRpbmcgYW5kIHdyaXRpbmcgW1J1c3RdKGh0dHBzOi8vd3d3LnJ1c3QtbGFu\nZy5vcmcpIGNvZGUgLSBfUmVjb21tZW5kZWQgaW4gcGFyYWxsZWwgdG8gcmVh\nZGluZyBbdGhlIG9mZmljaWFsIFJ1c3QgYm9va10oaHR0cHM6Ly9kb2MucnVz\ndC1sYW5nLm9yZy9ib29rKSDwn5Oa77iPXwoKVmlzaXQgdGhlICoqd2Vic2l0\nZSoqIGZvciBhIGRlbW8sIGluZm8gYWJvdXQgc2V0dXAgYW5kIG1vcmU6Cgoj\nIyDinqHvuI8gW3J1c3RsaW5ncy5ydXN0LWxhbmcub3JnXShodHRwczovL3J1\nc3RsaW5ncy5ydXN0LWxhbmcub3JnKSDirIXvuI8K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rust-lang/rustlings/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/rust-lang/rustlings/git/blobs/0ae6265de946d6b948de4fe6a4fc322c1c93dca3",
+    "html": "https://github.com/rust-lang/rustlings/blob/main/README.md"
+  }
+}

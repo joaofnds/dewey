@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "411ea19d675c8fad0232de6c40dbe90630c99962",
+  "size": 1035,
+  "url": "https://api.github.com/repos/edge-js/edge/contents/README.md?ref=6.x",
+  "html_url": "https://github.com/edge-js/edge/blob/6.x/README.md",
+  "git_url": "https://api.github.com/repos/edge-js/edge/git/blobs/411ea19d675c8fad0232de6c40dbe90630c99962",
+  "download_url": "https://raw.githubusercontent.com/edge-js/edge/6.x/README.md",
+  "type": "file",
+  "content": "IyBFZGdlCgpbIVtnaC13b3JrZmxvdy1pbWFnZV1dW2doLXdvcmtmbG93LXVy\nbF0gWyFbdHlwZXNjcmlwdC1pbWFnZV1dW3R5cGVzY3JpcHQtdXJsXSBbIVtu\ncG0taW1hZ2VdXVtucG0tdXJsXSBbIVtsaWNlbnNlLWltYWdlXV1bbGljZW5z\nZS11cmxdCgpFZGdlIGlzIGEgc2ltcGxlLCBNb2Rlcm4sIGFuZCBiYXR0ZXJp\nZXMgaW5jbHVkZWQgdGVtcGxhdGUgZW5naW5lIGZvciBOb2RlLmpzLiBFZGdl\nIGlzIHNpbWlsYXIgdG8gd3JpdGluZyBKYXZhU2NyaXB0LiBJZiB5b3Uga25v\ndyBKYXZhU2NyaXB0LCB5b3Uga25vdyBFZGdlLgoKIyMg8J+RiSBbTGVhcm4g\nbW9yZV0oaHR0cHM6Ly9lZGdlanMuZGV2KQoKIVtdKGh0dHBzOi8vY2RuLmpz\nZGVsaXZyLm5ldC9naC90aGV0dXRsYWdlL3N0YXRpYy9zcG9uc29ya2l0L3Nw\nb25zb3JzLnBuZykKCltnaC13b3JrZmxvdy1pbWFnZV06IGh0dHBzOi8vaW1n\nLnNoaWVsZHMuaW8vZ2l0aHViL2FjdGlvbnMvd29ya2Zsb3cvc3RhdHVzL2Vk\nZ2UtanMvZWRnZS9jaGVja3MueW1sP3N0eWxlPWZvci10aGUtYmFkZ2UKW2do\nLXdvcmtmbG93LXVybF06IGh0dHBzOi8vZ2l0aHViLmNvbS9lZGdlLWpzL2Vk\nZ2UvYWN0aW9ucy93b3JrZmxvd3MvY2hlY2tzLnltbCAiR2l0aHViIGFjdGlv\nbiIKClt0eXBlc2NyaXB0LWltYWdlXTogaHR0cHM6Ly9pbWcuc2hpZWxkcy5p\nby9iYWRnZS9UeXBlc2NyaXB0LTI5NEU4MC5zdmc/c3R5bGU9Zm9yLXRoZS1i\nYWRnZSZsb2dvPXR5cGVzY3JpcHQKW3R5cGVzY3JpcHQtdXJsXTogInR5cGVz\nY3JpcHQiCgpbbGljZW5zZS1pbWFnZV06IGh0dHBzOi8vaW1nLnNoaWVsZHMu\naW8vbnBtL2wvZWRnZS5qcz9jb2xvcj1ibHVldmlvbGV0JnN0eWxlPWZvci10\naGUtYmFkZ2UKW2xpY2Vuc2UtdXJsXTogTElDRU5TRS5tZCAnbGljZW5zZScK\nCltucG0taW1hZ2VdOiBodHRwczovL2ltZy5zaGllbGRzLmlvL25wbS92L2Vk\nZ2UuanMuc3ZnP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1ucG0KW25wbS11\ncmxdOiBodHRwczovL25wbWpzLm9yZy9wYWNrYWdlL2VkZ2UuanMgJ25wbScK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/edge-js/edge/contents/README.md?ref=6.x",
+    "git": "https://api.github.com/repos/edge-js/edge/git/blobs/411ea19d675c8fad0232de6c40dbe90630c99962",
+    "html": "https://github.com/edge-js/edge/blob/6.x/README.md"
+  }
+}

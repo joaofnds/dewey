@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a487101cb50b3411c1b8439b434be3594db016e6",
+  "size": 1164,
+  "url": "https://api.github.com/repos/dandavison/magit-delta/contents/README.md?ref=master",
+  "html_url": "https://github.com/dandavison/magit-delta/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/dandavison/magit-delta/git/blobs/a487101cb50b3411c1b8439b434be3594db016e6",
+  "download_url": "https://raw.githubusercontent.com/dandavison/magit-delta/master/README.md",
+  "type": "file",
+  "content": "VGhpcyBFbWFjcyBwYWNrYWdlIHByb3ZpZGVzIGEgbWlub3IgbW9kZSB3aGlj\naCBjb25maWd1cmVzIFtNYWdpdF0oaHR0cHM6Ly9naXRodWIuY29tL21hZ2l0\nL21hZ2l0KSB0byB1c2UgW2RlbHRhXShodHRwczovL2dpdGh1Yi5jb20vZGFu\nZGF2aXNvbi9kZWx0YSkgd2hlbiBkaXNwbGF5aW5nIGRpZmZzLgoKMS4gSW5z\ndGFsbCBbZGVsdGFdKGh0dHBzOi8vZ2l0aHViLmNvbS9kYW5kYXZpc29uL2Rl\nbHRhKS4KMi4gSW5zdGFsbCBtYWdpdC1kZWx0YSBmcm9tIFtNRUxQQV0oaHR0\ncHM6Ly9tZWxwYS5vcmcvIy9nZXR0aW5nLXN0YXJ0ZWQpLgozLiBVc2UgYE0t\neCBtYWdpdC1kZWx0YS1tb2RlYCB0byB0b2dnbGUgYmV0d2VlbiB1c2luZyBk\nZWx0YSwgYW5kIG5vcm1hbCBtYWdpdCBiZWhhdmlvci4KICAgVG8gYWN0aXZh\ndGUgaXQgYXV0b21hdGljYWxseToKICAgIGBgYGVtYWNzLWxpc3AKICAgIChh\nZGQtaG9vayAnbWFnaXQtbW9kZS1ob29rIChsYW1iZGEgKCkgKG1hZ2l0LWRl\nbHRhLW1vZGUgKzEpKSkKICAgIGBgYAogICAgCiAgICBPciB3aXRoIGB1c2Ut\ncGFja2FnZWAKICAgIGBgYGVtYWNzLWxpc3AKICAgICh1c2UtcGFja2FnZSBt\nYWdpdC1kZWx0YQogICAgICA6aG9vayAobWFnaXQtbW9kZSAuIG1hZ2l0LWRl\nbHRhLW1vZGUpKQogICAgYGBgCgo8YnI+Cjxicj4KPHRhYmxlPjx0cj48dGQ+\nCiAgPGltZyB3aWR0aD01MDBweCBzcmM9Imh0dHBzOi8vdXNlci1pbWFnZXMu\nZ2l0aHVidXNlcmNvbnRlbnQuY29tLzUyMjA1LzgwMDU2NDA0LTIzNzQ1NTAw\nLTg0ZjItMTFlYS05ZWNkLTgzMjM3NmZhZjJmMS5wbmciIGFsdD0iaW1hZ2Ui\nIC8+CjwvdGQ+PC90cj48L3RhYmxlPgoKSWYgeW91IHJ1biBlbWFjcyBhcyBh\nIHRlcm1pbmFsIGFwcGxpY2F0aW9uIChgZW1hY3MgLW53YCkgYW5kIGNvbG9y\ncyBhcmUgbm90IGJlaW5nIHJlbmRlcmVkIGNvcnJlY3RseSwgdGhlbiBmb2xs\nb3cgdGhlIGluc3RydWN0aW9ucyBoZXJlOiBodHRwczovL3d3dy5nbnUub3Jn\nL3NvZnR3YXJlL2VtYWNzL21hbnVhbC9odG1sX25vZGUvZWZhcS9Db2xvcnMt\nb24tYS1UVFkuaHRtbC4KCgojIyMgQ3JlZGl0Ci0gW21hZ2l0XShodHRwczov\nL2dpdGh1Yi5jb20vbWFnaXQvbWFnaXQpCi0gW3h0ZXJtLWNvbG9yXShodHRw\nczovL2dpdGh1Yi5jb20vYXRvbW9udGFnZS94dGVybS1jb2xvcikK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/dandavison/magit-delta/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/dandavison/magit-delta/git/blobs/a487101cb50b3411c1b8439b434be3594db016e6",
+    "html": "https://github.com/dandavison/magit-delta/blob/master/README.md"
+  }
+}

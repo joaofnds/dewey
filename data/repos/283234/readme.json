@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "fb7b494fd9cb88b32aa141d58a393aadf1df6dcd",
+  "size": 473,
+  "url": "https://api.github.com/repos/Raimondi/delimitMate/contents/README.md?ref=master",
+  "html_url": "https://github.com/Raimondi/delimitMate/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/Raimondi/delimitMate/git/blobs/fb7b494fd9cb88b32aa141d58a393aadf1df6dcd",
+  "download_url": "https://raw.githubusercontent.com/Raimondi/delimitMate/master/README.md",
+  "type": "file",
+  "content": "VGhpcyBwbHVnLWluIHByb3ZpZGVzIGF1dG9tYXRpYyBjbG9zaW5nIG9mIHF1\nb3RlcywgcGFyZW50aGVzaXMsIGJyYWNrZXRzLCBldGMuLCBiZXNpZGVzIHNv\nbWUgb3RoZXIgcmVsYXRlZCBmZWF0dXJlcyB0aGF0CnNob3VsZCBtYWtlIHlv\ndXIgdGltZSBpbiBpbnNlcnQgbW9kZSBhIGxpdHRsZSBiaXQgZWFzaWVyLCBs\naWtlIHN5bnRheCBhd2FyZW5lc3MgKHdpbGwgbm90IGluc2VydCB0aGUgY2xv\nc2luZyBkZWxpbWl0ZXIKaW4gY29tbWVudHMgYW5kIG90aGVyIGNvbmZpZ3Vy\nYWJsZSByZWdpb25zKSwgPENSPiBhbmQgPFNwYWNlPiBleHBhbnNpb25zIChv\nZmYgYnkgZGVmYXVsdCksIGFuZCBzb21lIG1vcmUuCgpNb3N0IG9mIHRoZSBm\nZWF0dXJlcyBjYW4gYmUgbW9kaWZpZWQgb3IgZGlzYWJsZWQgcGVybWFuZW50\nbHksIHVzaW5nIGdsb2JhbCB2YXJpYWJsZXMsIG9yIG9uIGEgRmlsZVR5cGUg\nYmFzaXMsIHVzaW5nCjphdXRvY21kLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Raimondi/delimitMate/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/Raimondi/delimitMate/git/blobs/fb7b494fd9cb88b32aa141d58a393aadf1df6dcd",
+    "html": "https://github.com/Raimondi/delimitMate/blob/master/README.md"
+  }
+}

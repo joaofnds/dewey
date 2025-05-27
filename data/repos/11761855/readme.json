@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a8f3f8ed5f5410b10628a8dbb6552f5a0b6c9572",
+  "size": 919,
+  "url": "https://api.github.com/repos/Sterlingg/json-snatcher/contents/README.md?ref=master",
+  "html_url": "https://github.com/Sterlingg/json-snatcher/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/Sterlingg/json-snatcher/git/blobs/a8f3f8ed5f5410b10628a8dbb6552f5a0b6c9572",
+  "download_url": "https://raw.githubusercontent.com/Sterlingg/json-snatcher/master/README.md",
+  "type": "file",
+  "content": "I2pzb24tc25hdGNoZXIuZWwKClNheSB5b3UncmUgbG9va2luZyB0aHJvdWdo\nIGEgbGFyZ2UgSlNPTiBmaWxlLCBhbmQgc2VlIGEgdmFsdWUgdGhhdCB5b3Ug\nd2FudCB0byBleHRyYWN0IHByb2dyYW1tYXRpY2FsbHkuIFRoaXMgRW1hY3Mg\nZXh0ZW5zaW9uIHdpbGwgYWxsb3cgeW91IHRvIHNuYXRjaCB0aGUgcGF0aCB0\nbyB0aGlzIHZhbHVlLgoKQXZhaWxhYmxlIG9uIE1FTFBBIGF0IGh0dHA6Ly9t\nZWxwYS5taWxrYm94Lm5ldC8jL2pzb24tc25hdGNoZXIgLgojIyBJbnN0YWxs\nYXRpb24KCkZpcnN0IGluY2x1ZGUgdGhlIHBhY2thZ2UKYGBgbGlzcAoocmVx\ndWlyZSAnanNvbi1zbmF0Y2hlcikKYGBgCgpUaGVuIGFkZCB0aGUgZm9sbG93\naW5nIGxpbmVzIHRvIHlvdXIgLmVtYWNzIGZpbGUsIHdoaWNoIHNldHMgYSBo\nb3RrZXkgd2hlbiBlZGl0aW5nIEpTT04gZmlsZXMgaW4gZWl0aGVyIGpzIG9y\nIGpzMiBtb2RlCiAgIGBgYGxpc3AKICAgKGRlZnVuIGpzLW1vZGUtYmluZGlu\nZ3MgKCkKICAgIlNldHMgYSBob3RrZXkgZm9yIHVzaW5nIHRoZSBqc29uLXNu\nYXRjaGVyIHBsdWdpbiIKICAgCSAod2hlbiAoc3RyaW5nLW1hdGNoICAiXFwu\nanNvbiQiIChidWZmZXItbmFtZSkpCgkgICAgICAgKGxvY2FsLXNldC1rZXkg\nKGtiZCAiQy1jIEMtZyIpICdqc29ucy1wcmludC1wYXRoKSkpCiAgIChhZGQt\naG9vayAnanMtbW9kZS1ob29rICdqcy1tb2RlLWJpbmRpbmdzKQogICAoYWRk\nLWhvb2sgJ2pzMi1tb2RlLWhvb2sgJ2pzLW1vZGUtYmluZGluZ3MpCiAgIGBg\nYAojIyBEZW1vCiAgIEhlcmUncyBhbiBleGFtcGxlIG9mIHRoZSBwbHVnaW4g\nYXQgd29yawoKICAgIVtMaWdodHMsIENhbWVyYSwgQWN0aW9uIV0oaHR0cHM6\nLy9naXRodWIuY29tL1N0ZXJsaW5nZy9qc29uLXNuYXRjaGVyL3Jhdy9tYXN0\nZXIvRGVtby9kZW1vLmdpZikKCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Sterlingg/json-snatcher/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/Sterlingg/json-snatcher/git/blobs/a8f3f8ed5f5410b10628a8dbb6552f5a0b6c9572",
+    "html": "https://github.com/Sterlingg/json-snatcher/blob/master/README.md"
+  }
+}

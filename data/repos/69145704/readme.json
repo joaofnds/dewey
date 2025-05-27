@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "bbcd646d5aa722f282fe37f2351f80eb9b33d4d7",
+  "size": 868,
+  "url": "https://api.github.com/repos/jremmen/vim-ripgrep/contents/README.md?ref=master",
+  "html_url": "https://github.com/jremmen/vim-ripgrep/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/jremmen/vim-ripgrep/git/blobs/bbcd646d5aa722f282fe37f2351f80eb9b33d4d7",
+  "download_url": "https://raw.githubusercontent.com/jremmen/vim-ripgrep/master/README.md",
+  "type": "file",
+  "content": "IyB2aW0tcmlwZ3JlcAoKICAgIDpSZyA8c3RyaW5nfHBhdHRlcm4+CgpXb3Jk\nIHVuZGVyIGN1cnNvciB3aWxsIGJlIHNlYXJjaGVkIGlmIG5vIGFyZ3VtZW50\nIGlzIHBhc3NlZCB0byBgUmdgCgojIyBjb25maWd1cmF0aW9uCgoKfCBTZXR0\naW5nICAgICAgICAgICAgICB8IERlZmF1bHQgICAgICAgICAgICAgICAgICAg\nfCBEZXRhaWxzCnwgLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tCnwgZzpyZ19iaW5hcnkgICAg\nICAgICAgfCByZyAgICAgICAgICAgICAgICAgICAgICAgIHwgcGF0aCB0byBy\nZwp8IGc6cmdfZm9ybWF0ICAgICAgICAgIHwgJWY6JWw6JWM6JW0gICAgICAg\nICAgICAgICB8IHZhbHVlIG9mIGdyZXBmb3JtYXQgCnwgZzpyZ19jb21tYW5k\nICAgICAgICAgfCBnOnJnX2JpbmFyeSAtLXZpbWdyZXAgICAgIHwgc2VhcmNo\nIGNvbW1hbmQKfCBnOnJnX2hpZ2hsaWdodCAgICAgICB8IGZhbHNlICAgICAg\nICAgICAgICAgICAgICAgfCB0cnVlIGlmIHlvdSB3YW50IG1hdGNoZXMgaGln\naGxpZ2h0ZWQKfCBnOnJnX2Rlcml2ZV9yb290ICAgICB8IGZhbHNlICAgICAg\nICAgICAgICAgICAgICAgfCB0cnVlIGlmIHlvdSB3YW50IHRvIGZpbmQgcHJv\namVjdCByb290IGZyb20gY3dkCnwgZzpyZ19yb290X3R5cGVzICAgICAgfCBb\nJy5naXQnXSAgICAgICAgICAgICAgICAgIHwgbGlzdCBvZiBmaWxlcy9kaXIg\nZm91bmQgaW4gcHJvamVjdCByb290CnwgZzpyZ193aW5kb3dfbG9jYXRpb24g\nfCBib3RyaWdodCAgICAgICAgICAgICAgICAgIHwgcXVpY2tmaXggd2luZG93\nIGxvY2F0aW9uCiAgICAKIyMgbWlzYwoKU2hvdyByb290IHNlYXJjaCBkaXIK\nCiAgICA6UmdSb290Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jremmen/vim-ripgrep/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/jremmen/vim-ripgrep/git/blobs/bbcd646d5aa722f282fe37f2351f80eb9b33d4d7",
+    "html": "https://github.com/jremmen/vim-ripgrep/blob/master/README.md"
+  }
+}

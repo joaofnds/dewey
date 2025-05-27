@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "5999666332d4984a41b4d83fd43e5803c5fe4200",
+  "size": 1401,
+  "url": "https://api.github.com/repos/solus-project/sol/contents/README.md?ref=master",
+  "html_url": "https://github.com/solus-project/sol/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/solus-project/sol/git/blobs/5999666332d4984a41b4d83fd43e5803c5fe4200",
+  "download_url": "https://raw.githubusercontent.com/solus-project/sol/master/README.md",
+  "type": "file",
+  "content": "c29sCi0tLS0KClJlcGxhY2VtZW50IGZvciBgZW9wa2dgLCB0aGUgU29sdXMg\ncGFja2FnZSBtYW5hZ2VyIChhIGZvcmsgb2YgZW9wa2cpLgoKVGhpcyBpcyBu\nb3QgYW4gZWZmb3J0IHRvIGNyZWF0ZSAieWV0IGFub3RoZXIgcGFja2FnZSBt\nYW5hZ2VyIiwgaXQgaXMgaW5zdGVhZAphIGN1cnJlbnQgcmVzZWFyY2ggZWZm\nb3J0IGZvciB0aGUgc3VjY2Vzc29yIHRvIGBlb3BrZ2AsIHRvIGNyZWF0ZSBh\nIG1vZGVybgpwYWNrYWdlIG1hbmFnZXIgdG8gZGVhbCB3aXRoIHRoZSBuZWVk\ncyBvZiB0b2RheSwgYW5kIG9mIFNvbHVzIGl0c2VsZi4KCiAtIFNwZW5kIGxl\nc3MgdGltZSBkb3dubG9hZGluZwogLSBTcGVuZCBsZXNzIHRpbWUgYXBwbHlp\nbmcgdXBkYXRlcwogLSBEb24ndCBldmVyIGJyZWFrLiAoQUJJLCBsYXlvdXQs\nIGNvbmZpZywgZXRjLikKClRoZSBTb2x1cyBtYW50cmEgaXMgIkluc3RhbGwg\ndG9kYXksIHVwZGF0ZSBmb3JldmVyIi4gV2UgbmVlZCBhIG1vZGVybiBzb2Z0\nd2FyZQphbmQgdXBkYXRlIG1hbmFnZW1lbnQgc3lzdGVtIHRvIGhhbmRsZSB0\naGlzIGluIHRoZSBtb3N0IGVmZmljaWVudCBtYW5uZXIgZm9yCnRoZSB1c2Vy\nLCB0byB0cnVseSBoYW5kbGUgdGhlIG5lZWRzIG9mIGEgbW9kZXJuIHJvbGxp\nbmcgcmVsZWFzZSBkZXNpZ25lZCBmb3IKdGhlIG9yZGluYXJ5IHVzZXIuCgpN\nb3JlIGRldGFpbHMgd2lsbCBiZSBmbGVzaGVkIG91dCBhcyBhbmQgd2hlbiB3\nZSd2ZSBzZXR0bGVkIG9uIHRoZW0uIEluIHRoZQptZWFuIHRpbWUsIGRvbid0\nIHBhbmljLiA6XQoKYHNvbGAgaXMgYSBbU29sdXMgcHJvamVjdF0oaHR0cHM6\nLy9zb2x1cy1wcm9qZWN0LmNvbS8pCgohW2xvZ29dKGh0dHBzOi8vYnVpbGQu\nc29sdXMtcHJvamVjdC5jb20vbG9nby5wbmcpCgpJbml0aWFsIFRPRE8KLS0t\nLS0tLS0tLS0tCgogLSBbeF0gUmVuYW1lIHRvIHNvbWV0aGluZyB1bmR1bWIg\nKHNvbCkKIC0gWyBdIEtpbGwgYXV0b3Rvb2xzIHdpdGggYSBzaG92ZWwKIC0g\nWyBdIE1vdmUgbW9zdCBvZiB0aGUgZXhpc3RpbmcgZW9wa2cgY29kZSBpbnRv\nIGEgYE1pZ3JhdGlvbmAgc3lzdGVtLgogLSBbIF0gQWRkIGJhc2ljIGNvbnRh\naW5lciBmb3JtYXQKIC0gWyBdIEltcGxlbWVudCBiYXNpYyBpbnN0YWxsL3Jl\nbW92ZSBvcHMKIC0gWyBdIEFkZCBmaXJzdCBhYnN0cmFjdCBEQiBpbXBsZW1l\nbnRhdGlvbgogLSBbIF0gU3RhcnQgYWRkaW5nIG5ldHdvcmtpbmcKIC0gWyBd\nIEludHJvZHVjZSByZXBvIGZvcm1hdCArIGhhbmRsaW5nCiAtIFsgXSBBZGQg\nc3R1ZmYgdG8gdGhpcyBUT0RPLgoKCkxpY2Vuc2UKLS0tLS0tLS0KCkNvcHly\naWdodCDCqSAyMDE2LTIwMTcgSWtleSBEb2hlcnR5CgpMR1BMLTIuMS4gV2Un\ncmUgZ29pbmcgdG8gZXhwb3NlIGEgbGlicmFyeSBmb3Igb3RoZXJzIHRvIHVz\nZS4uLi4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/solus-project/sol/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/solus-project/sol/git/blobs/5999666332d4984a41b4d83fd43e5803c5fe4200",
+    "html": "https://github.com/solus-project/sol/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "6a9a45dc7e8adc9a7b1ba1116091164749da7578",
+  "size": 987,
+  "url": "https://api.github.com/repos/JakeBecker/vscode-elixir-ls/contents/README.md?ref=master",
+  "html_url": "https://github.com/JakeBecker/vscode-elixir-ls/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/JakeBecker/vscode-elixir-ls/git/blobs/6a9a45dc7e8adc9a7b1ba1116091164749da7578",
+  "download_url": "https://raw.githubusercontent.com/JakeBecker/vscode-elixir-ls/master/README.md",
+  "type": "file",
+  "content": "IyBFbGl4aXJMUzogRWxpeGlyIHN1cHBvcnQgYW5kIGRlYnVnZ2VyIGZvciBW\nUyBDb2RlCgpQcm92aWRlcyBFbGl4aXIgbGFuZ3VhZ2Ugc3VwcG9ydCBhbmQg\nZGVidWdnZXIuIFRoaXMgZXh0ZW5zaW9uIGlzIHBvd2VyZWQgYnkgdGhlIFtF\nbGl4aXIgTGFuZ3VhZ2UgU2VydmVyIChFbGl4aXJMUyldKGh0dHBzOi8vZ2l0\naHViLmNvbS9KYWtlQmVja2VyL2VsaXhpci1scyksIGFuIEVsaXhpciBpbXBs\nZW1lbnRhdGlvbiBvZiBNaWNyb3NvZnQncyBJREUtYWdub3N0aWMgW0xhbmd1\nYWdlIFNlcnZlciBQcm90b2NvbF0oaHR0cHM6Ly9naXRodWIuY29tL01pY3Jv\nc29mdC9sYW5ndWFnZS1zZXJ2ZXItcHJvdG9jb2wpIGFuZCBbVlMgQ29kZSBk\nZWJ1ZyBwcm90b2NvbF0oaHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5jb20v\nZG9jcy9leHRlbnNpb25BUEkvYXBpLWRlYnVnZ2luZykuIFZpc2l0IGl0cyBw\nYWdlIGZvciBtb3JlIGluZm9ybWF0aW9uLiBGb3IgYSBndWlkZSB0byBkZWJ1\nZ2dlciB1c2FnZSBpbiBFbGl4aXIsIHJlYWQgW3RoaXMgYmxvZyBwb3N0XSho\ndHRwczovL21lZGl1bS5jb20vQEpha2VCZWNrZXJDb2RlL2RlYnVnZ2luZy1l\nbGl4aXItaW4tdnMtY29kZS00MDBlMjE4MTQ2MTQpLgoKIyBUaGlzIHByb2pl\nY3QgaGFzIG1vdmVkIQoKSXQncyBub3cgYmVpbmcgbWFpbnRhaW5lZCBieSBw\ncm9hY3RpdmUgdm9sdW50ZWVycyBmcm9tIHRoZSBFbGl4aXIgY29tbXVuaXR5\nIG92ZXIgYXQgW2VsaXhpci1sc3BdKGh0dHBzOi8vZ2l0aHViLmNvbS9lbGl4\naXItbHNwKS9bdnNjb2RlLWVsaXhpci1sc10oaHR0cHM6Ly9naXRodWIuY29t\nL2VsaXhpci1sc3AvdnNjb2RlLWVsaXhpci1scykuIFVwZGF0ZXMgd2lsbCBj\nb250aW51ZSB0byBiZSBwdWJsaXNoZWQgZnJvbSB0aGF0IHJlcG8gdG8gdGhl\nIG9yaWdpbmFsIFZTIENvZGUgZXh0ZW5zaW9uLCBzbyBubyBuZWVkIHRvIHN3\naXRjaCBwbHVnaW5zLgoKVGhhbmtzIGZvciB1c2luZyBFbGl4aXJMUyEK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/JakeBecker/vscode-elixir-ls/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/JakeBecker/vscode-elixir-ls/git/blobs/6a9a45dc7e8adc9a7b1ba1116091164749da7578",
+    "html": "https://github.com/JakeBecker/vscode-elixir-ls/blob/master/README.md"
+  }
+}

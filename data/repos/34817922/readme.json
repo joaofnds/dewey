@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "eea44942538be1ed95bd6cb289e8c94d2c1debac",
+  "size": 1275,
+  "url": "https://api.github.com/repos/commercialhaskell/stack/contents/README.md?ref=master",
+  "html_url": "https://github.com/commercialhaskell/stack/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/commercialhaskell/stack/git/blobs/eea44942538be1ed95bd6cb289e8c94d2c1debac",
+  "download_url": "https://raw.githubusercontent.com/commercialhaskell/stack/master/README.md",
+  "type": "file",
+  "content": "IyMgVGhlIEhhc2tlbGwgVG9vbCBTdGFjawoKWyFbVW5pdCB0ZXN0c10oaHR0\ncHM6Ly9naXRodWIuY29tL2NvbW1lcmNpYWxoYXNrZWxsL3N0YWNrL3dvcmtm\nbG93cy9Vbml0JTIwdGVzdHMvYmFkZ2Uuc3ZnKV0oaHR0cHM6Ly9naXRodWIu\nY29tL2NvbW1lcmNpYWxoYXNrZWxsL3N0YWNrL2FjdGlvbnMvd29ya2Zsb3dz\nL3VuaXQtdGVzdHMueW1sKQpbIVtJbnRlZ3JhdGlvbiB0ZXN0c10oaHR0cHM6\nLy9naXRodWIuY29tL2NvbW1lcmNpYWxoYXNrZWxsL3N0YWNrL3dvcmtmbG93\ncy9JbnRlZ3JhdGlvbiUyMHRlc3RzL2JhZGdlLnN2ZyldKGh0dHBzOi8vZ2l0\naHViLmNvbS9jb21tZXJjaWFsaGFza2VsbC9zdGFjay9hY3Rpb25zL3dvcmtm\nbG93cy9pbnRlZ3JhdGlvbi10ZXN0cy55bWwpClshW1JlbGVhc2VdKGh0dHBz\nOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL3JlbGVhc2UvY29tbWVyY2lhbGhh\nc2tlbGwvc3RhY2suc3ZnKV0oaHR0cHM6Ly9naXRodWIuY29tL2NvbW1lcmNp\nYWxoYXNrZWxsL3N0YWNrL3JlbGVhc2VzKQoKU3RhY2sgaXMgYSBjcm9zcy1w\nbGF0Zm9ybSBwcm9ncmFtIGZvciBkZXZlbG9waW5nIEhhc2tlbGwgcHJvamVj\ndHMuIEl0IGlzIGludGVuZGVkIGZvciBIYXNrZWxsZXJzIGJvdGggbmV3IGFu\nZCBleHBlcmllbmNlZC4KClNlZSBbaGFza2VsbHN0YWNrLm9yZ10oaHR0cDov\nL2hhc2tlbGxzdGFjay5vcmcpLCBvciB0aGUgW2RvY10oLi9kb2MpIGRpcmVj\ndG9yeQpvZiB0aGlzIHJlcG9zaXRvcnksIGZvciBtb3JlIGluZm9ybWF0aW9u\nLgoKIyMjIExlYXJuaW5nIHRvIHVzZSBTdGFjawoKSWYgeW91IGFyZSBsZWFy\nbmluZyB0byB1c2UgU3RhY2sgYW5kIGhhdmUgcXVlc3Rpb25zLCBhIGRpc2N1\nc3Npb24gYXQgdGhlCltIYXNrZWxsIENvbW11bml0eV0oaHR0cHM6Ly9kaXNj\nb3Vyc2UuaGFza2VsbC5vcmcvKSBmb3J1bSBtYXkgaGVscC4gU2VlIGl0cwon\nTGVhcm4nIGNhdGVnb3J5LgoKIyMjIENvbW11bml0eQoKWW91IGNhbiBwYXJ0\naWNpcGF0ZSB3aXRoIHRoZSBTdGFjayBjb21tdW5pdHkgaW4gdGhlIGZvbGxv\nd2luZyBhcmVhczoKCiogdGhlIFtIYXNrZWxsIENvbW11bml0eV0oaHR0cHM6\nLy9kaXNjb3Vyc2UuaGFza2VsbC5vcmcvKSBmb3J1bQoKKiB0aGUgSGFza2Vs\nbAogIFtTdGFjayBhbmQgU3RhY2thZ2VdKGh0dHBzOi8vbWF0cml4LnRvLyMv\nI2hhc2tlbGwtc3RhY2s6bWF0cml4Lm9yZykKICByb29tIChhZGRyZXNzIGAj\naGFza2VsbC1zdGFjazptYXRyaXgub3JnYCkgb24gW01hdHJpeF0oaHR0cHM6\nLy9tYXRyaXgub3JnLykK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/commercialhaskell/stack/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/commercialhaskell/stack/git/blobs/eea44942538be1ed95bd6cb289e8c94d2c1debac",
+    "html": "https://github.com/commercialhaskell/stack/blob/master/README.md"
+  }
+}

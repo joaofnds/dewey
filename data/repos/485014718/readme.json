@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "e393ab503b93a9deb346c2dacc7e3df9aa75a318",
+  "size": 418,
+  "url": "https://api.github.com/repos/aweris/asdf-dagger/contents/README.md?ref=main",
+  "html_url": "https://github.com/aweris/asdf-dagger/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/aweris/asdf-dagger/git/blobs/e393ab503b93a9deb346c2dacc7e3df9aa75a318",
+  "download_url": "https://raw.githubusercontent.com/aweris/asdf-dagger/main/README.md",
+  "type": "file",
+  "content": "IyBhc2RmLWRhZ2dlcgoKIVtdKGh0dHBzOi8vZ2l0aHViLmNvbS9hd2VyaXMv\nYXNkZi1kYWdnZXIvd29ya2Zsb3dzL2NpL2JhZGdlLnN2ZykKCltkYWdnZXJd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9kYWdnZXIvZGFnZ2VyKSBwbHVnaW4gZm9y\nIHRoZSBbYXNkZl0oaHR0cHM6Ly9naXRodWIuY29tL2FzZGYtdm0vYXNkZikg\ndmVyc2lvbiBtYW5hZ2VyLgoKIyMgSW5zdGFsbAoKYGBgCmFzZGYgcGx1Z2lu\nLWFkZCBkYWdnZXIgaHR0cHM6Ly9naXRodWIuY29tL2F3ZXJpcy9hc2RmLWRh\nZ2dlci5naXQKYGBgCgojIyBVc2UKCkNoZWNrIG91dCB0aGUgW2FzZGZdKGh0\ndHBzOi8vZ2l0aHViLmNvbS9hc2RmLXZtL2FzZGYpIHJlYWRtZSBmb3IgaW5z\ndHJ1Y3Rpb25zIG9uIGhvdyB0byBpbnN0YWxsIGFuZCBtYW5hZ2UgdmVyc2lv\nbnMgb2YgZGFnZ2VyLg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/aweris/asdf-dagger/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/aweris/asdf-dagger/git/blobs/e393ab503b93a9deb346c2dacc7e3df9aa75a318",
+    "html": "https://github.com/aweris/asdf-dagger/blob/main/README.md"
+  }
+}

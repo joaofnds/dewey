@@ -1,0 +1,18 @@
+{
+  "name": "README.txt",
+  "path": "README.txt",
+  "sha": "8d37cc92a7ecbefbab90f76bbe6ed9d310b9d1eb",
+  "size": 175,
+  "url": "https://api.github.com/repos/apache/hadoop/contents/README.txt?ref=trunk",
+  "html_url": "https://github.com/apache/hadoop/blob/trunk/README.txt",
+  "git_url": "https://api.github.com/repos/apache/hadoop/git/blobs/8d37cc92a7ecbefbab90f76bbe6ed9d310b9d1eb",
+  "download_url": "https://raw.githubusercontent.com/apache/hadoop/trunk/README.txt",
+  "type": "file",
+  "content": "Rm9yIHRoZSBsYXRlc3QgaW5mb3JtYXRpb24gYWJvdXQgSGFkb29wLCBwbGVh\nc2UgdmlzaXQgb3VyIHdlYnNpdGUgYXQ6CgogICBodHRwOi8vaGFkb29wLmFw\nYWNoZS5vcmcvCgphbmQgb3VyIHdpa2ksIGF0OgoKICAgaHR0cHM6Ly9jd2lr\naS5hcGFjaGUub3JnL2NvbmZsdWVuY2UvZGlzcGxheS9IQURPT1AvCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/apache/hadoop/contents/README.txt?ref=trunk",
+    "git": "https://api.github.com/repos/apache/hadoop/git/blobs/8d37cc92a7ecbefbab90f76bbe6ed9d310b9d1eb",
+    "html": "https://github.com/apache/hadoop/blob/trunk/README.txt"
+  }
+}

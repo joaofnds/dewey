@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "6fd35c64d177272c72ce0a8dbdbd048bef81c482",
+  "size": 1427,
+  "url": "https://api.github.com/repos/bfirsh/jsnes-web/contents/README.md?ref=master",
+  "html_url": "https://github.com/bfirsh/jsnes-web/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/bfirsh/jsnes-web/git/blobs/6fd35c64d177272c72ce0a8dbdbd048bef81c482",
+  "download_url": "https://raw.githubusercontent.com/bfirsh/jsnes-web/master/README.md",
+  "type": "file",
+  "content": "IyBKU05FUyBXZWIgVUkKCkEgUmVhY3QtYmFzZWQgd2ViIFVJIGZvciBbSlNO\nRVNdKGh0dHBzOi8vZ2l0aHViLmNvbS9iZmlyc2gvanNuZXMpLgoKIyMgUnVu\nbmluZyBpbiBkZXZlbG9wbWVudAoKICAgICQgeWFybiBpbnN0YWxsCiAgICAk\nIHlhcm4gc3RhcnQKCiMjIEJ1aWxkaW5nIGZvciBwcm9kdWN0aW9uCgogICAg\nJCB5YXJuIGJ1aWxkCgpUaGUgYnVpbHQgYXBwIHdpbGwgYmUgaW4gYGJ1aWxk\nL2AuCgojIyBSdW5uaW5nIHRlc3RzCgogICAgJCB5YXJuIHRlc3QKCiMjIEZv\ncm1hdHRpbmcgY29kZQoKQWxsIGNvZGUgbXVzdCBjb25mb3JtIHRvIFtQcmV0\ndGllcl0oaHR0cHM6Ly9wcmV0dGllci5pby8pIGZvcm1hdHRpbmcuIFRoZSB0\nZXN0IHN1aXRlIHdvbid0IHBhc3MgdW5sZXNzIGl0IGRvZXMuCgpUbyBhdXRv\nbWF0aWNhbGx5IGZvcm1hdCBhbGwgeW91ciBjb2RlLCBydW46CgogICAgJCB5\nYXJuIHJ1biBmb3JtYXQKCiMjIEVtYmVkZGluZyBKU05FUyBpbiB5b3VyIG93\nbiBhcHAKClVuZm9ydHVuYXRlbHkgdGhpcyBpc24ndCB0cml2aWFsIGF0IHRo\nZSBtb21lbnQuIFRoZSBiZXN0IHdheSBpcyBjb3B5IGFuZCBwYXN0ZSBjb2Rl\nIGZyb20gdGhpcyByZXBvc2l0b3J5IGludG8gYSBSZWFjdCBhcHAsIHRoZW4g\ndXNlIHRoZSBbYDxFbXVsYXRvcj5gXShodHRwczovL2dpdGh1Yi5jb20vYmZp\ncnNoL2pzbmVzLXdlYi9ibG9iL21hc3Rlci9zcmMvRW11bGF0b3IuanMpLiBb\nSGVyZSBpcyBhIHVzYWdlIGV4YW1wbGUuXShodHRwczovL2dpdGh1Yi5jb20v\nYmZpcnNoL2pzbmVzLXdlYi9ibG9iL2QzYzM1ZWVjMTE5ODY0MTI2MjZjYmQw\nODY2OGRiYWM3MDBlMDg3NTEvc3JjL1J1blBhZ2UuanMjTDExOS1MMTI1KS4K\nCkEgcHJvamVjdCBmb3IgcG90ZW50aWFsIGNvbnRyaWJ1dG9ycyAoaGVsbG8h\nKToganNuZXMtd2ViIHNob3VsZCBiZSByZXVzYWJsZSBhbmQgb24gTlBNISBJ\ndCBqdXN0IG5lZWRzIGNvbXBpbGluZyBhbmQgYnVuZGxpbmcuCgojIyBBZGRp\nbmcgcm9tcwoKT3BlbiBgc3JjL2NvbmZpZy5qc2AgYW5kIGFkZCBhIG5ldyBr\nZXkgdG8gYGNvbmZpZy5ST01TYC4gRm9yIGV4YW1wbGU6CgpgYGBqYXZhc2Ny\naXB0CmNvbnN0IGNvbmZpZyA9IHsKICBST01TOiB7CiAgICAvLyAuLi4KICAg\nIG15cm9tOiB7CiAgICAgIG5hbWU6ICJNeSBSb20iLAogICAgICBkZXNjcmlw\ndGlvbjogPHNwYW4+VGhpcyBpcyBteSBvd24gaG9tZWJyZXcgTkVTIHJvbTwv\nc3Bhbj4sCiAgICAgIHVybDogImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9yb21z\nL215cm9tL215cm9tLm5lcyIKICAgIH0KICB9Cn0KYGBgCgpUaGVuLCBhZGQg\ndGhlIFJPTSBmaWxlIGFzIGBwdWJsaWMvcm9tcy9teXJvbS9teXJvbS5uZXNg\nLiBUaGUgUk9NIHNob3VsZCBub3cgYmUgYXZhaWxhYmxlIHRvIHBsYXkgYXQg\naHR0cDovL2xvY2FsaG9zdDozMDAwL3J1bi9teXJvbQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/bfirsh/jsnes-web/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/bfirsh/jsnes-web/git/blobs/6fd35c64d177272c72ce0a8dbdbd048bef81c482",
+    "html": "https://github.com/bfirsh/jsnes-web/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "d33909681c734ffc88eabbcc82b15590fc8df9fc",
+  "size": 1562,
+  "url": "https://api.github.com/repos/gruntwork-io/terragrunt/contents/README.md?ref=main",
+  "html_url": "https://github.com/gruntwork-io/terragrunt/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/gruntwork-io/terragrunt/git/blobs/d33909681c734ffc88eabbcc82b15590fc8df9fc",
+  "download_url": "https://raw.githubusercontent.com/gruntwork-io/terragrunt/main/README.md",
+  "type": "file",
+  "content": "IyBUZXJyYWdydW50CgpbIVtNYWludGFpbmVkIGJ5IEdydW50d29yay5pb10o\naHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9tYWludGFpbmVkJTIwYnkt\nZ3J1bnR3b3JrLmlvLSUyMzU4NDlhNi5zdmcpXShodHRwczovL2dydW50d29y\nay5pby8/cmVmPXJlcG9fdGVycmFncnVudCkKWyFbR28gUmVwb3J0IENhcmRd\nKGh0dHBzOi8vZ29yZXBvcnRjYXJkLmNvbS9iYWRnZS9naXRodWIuY29tL2dy\ndW50d29yay1pby90ZXJyYWdydW50KV0oaHR0cHM6Ly9nb3JlcG9ydGNhcmQu\nY29tL3JlcG9ydC9naXRodWIuY29tL2dydW50d29yay1pby90ZXJyYWdydW50\nKQpbIVtHb0RvY10oaHR0cHM6Ly9nb2RvYy5vcmcvZ2l0aHViLmNvbS9ncnVu\ndHdvcmstaW8vdGVycmFncnVudD9zdGF0dXMuc3ZnKV0oaHR0cHM6Ly9nb2Rv\nYy5vcmcvZ2l0aHViLmNvbS9ncnVudHdvcmstaW8vdGVycmFncnVudCkKIVtP\ncGVuVG9mdSBWZXJzaW9uXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdl\nL3RvZnUtJTNFJTNEMS42LjAtYmx1ZS5zdmcpCiFbVGVycmFmb3JtIFZlcnNp\nb25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvdGYtJTNFJTNEMC4x\nMi4wLWJsdWUuc3ZnKQoKVGVycmFncnVudCBpcyBhIGZsZXhpYmxlIG9yY2hl\nc3RyYXRpb24gdG9vbCB0aGF0IGFsbG93cyBJbmZyYXN0cnVjdHVyZSBhcyBD\nb2RlIHdyaXR0ZW4gaW4gW09wZW5Ub2Z1XShodHRwczovL29wZW50b2Z1Lm9y\nZykvW1RlcnJhZm9ybV0oaHR0cHM6Ly93d3cudGVycmFmb3JtLmlvKSB0byBz\nY2FsZS4KClBsZWFzZSBzZWUgdGhlIGZvbGxvd2luZyBmb3IgbW9yZSBpbmZv\nLCBpbmNsdWRpbmcgaW5zdGFsbCBpbnN0cnVjdGlvbnMgYW5kIGNvbXBsZXRl\nIGRvY3VtZW50YXRpb246CgoqIFtUZXJyYWdydW50IFdlYnNpdGVdKGh0dHBz\nOi8vdGVycmFncnVudC5ncnVudHdvcmsuaW8pCiogW0dldHRpbmcgc3RhcnRl\nZCB3aXRoIFRlcnJhZ3J1bnRdKGh0dHBzOi8vdGVycmFncnVudC5ncnVudHdv\ncmsuaW8vZG9jcy9nZXR0aW5nLXN0YXJ0ZWQvcXVpY2stc3RhcnQvKQoqIFtU\nZXJyYWdydW50IERvY3VtZW50YXRpb25dKGh0dHBzOi8vdGVycmFncnVudC5n\ncnVudHdvcmsuaW8vZG9jcykKKiBbQ29udHJpYnV0aW5nIHRvIFRlcnJhZ3J1\nbnRdKGh0dHBzOi8vdGVycmFncnVudC5ncnVudHdvcmsuaW8vZG9jcy9jb21t\ndW5pdHkvY29udHJpYnV0aW5nKQoqIFtDb21tZXJjaWFsIFN1cHBvcnRdKGh0\ndHBzOi8vZ3J1bnR3b3JrLmlvL3N1cHBvcnQvKQoKIyMgSm9pbiB0aGUgRGlz\nY29yZCEKCkpvaW4gW291ciBjb21tdW5pdHldKGh0dHBzOi8vZGlzY29yZC5n\nZy9ZRU5hVDloOGpoKSBmb3IgZGlzY3Vzc2lvbnMsIHN1cHBvcnQsIGFuZCBj\nb250cmlidXRpb25zOgoKWyFbXShodHRwczovL2RjYmFkZ2UubGltZXMucGlu\nay9hcGkvc2VydmVyL2h0dHBzOi8vZGlzY29yZC5nZy9ZRU5hVDloOGpoKV0o\naHR0cHM6Ly9kaXNjb3JkLmdnL1lFTmFUOWg4amgpCgojIyBMaWNlbnNlCgpU\naGlzIGNvZGUgaXMgcmVsZWFzZWQgdW5kZXIgdGhlIE1JVCBMaWNlbnNlLiBT\nZWUgW0xJQ0VOU0UudHh0XShMSUNFTlNFLnR4dCkuCgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gruntwork-io/terragrunt/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/gruntwork-io/terragrunt/git/blobs/d33909681c734ffc88eabbcc82b15590fc8df9fc",
+    "html": "https://github.com/gruntwork-io/terragrunt/blob/main/README.md"
+  }
+}

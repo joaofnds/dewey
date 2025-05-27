@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "eab5dbf7ba732ff5e26258e8f209ac808501fc3e",
+  "size": 371,
+  "url": "https://api.github.com/repos/google/btree/contents/README.md?ref=master",
+  "html_url": "https://github.com/google/btree/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/google/btree/git/blobs/eab5dbf7ba732ff5e26258e8f209ac808501fc3e",
+  "download_url": "https://raw.githubusercontent.com/google/btree/master/README.md",
+  "type": "file",
+  "content": "IyBCVHJlZSBpbXBsZW1lbnRhdGlvbiBmb3IgR28KClRoaXMgcGFja2FnZSBw\ncm92aWRlcyBhbiBpbi1tZW1vcnkgQi1UcmVlIGltcGxlbWVudGF0aW9uIGZv\nciBHbywgdXNlZnVsIGFzCmFuIG9yZGVyZWQsIG11dGFibGUgZGF0YSBzdHJ1\nY3R1cmUuCgpUaGUgQVBJIGlzIGJhc2VkIG9mZiBvZiB0aGUgd29uZGVyZnVs\nCmh0dHA6Ly9nb2RvYy5vcmcvZ2l0aHViLmNvbS9wZXRhci9Hb0xMUkIvbGxy\nYiwgYW5kIGlzIG1lYW50IHRvIGFsbG93IGJ0cmVlIHRvCmFjdCBhcyBhIGRy\nb3AtaW4gcmVwbGFjZW1lbnQgZm9yIGdvbGxyYiB0cmVlcy4KClNlZSBodHRw\nOi8vZ29kb2Mub3JnL2dpdGh1Yi5jb20vZ29vZ2xlL2J0cmVlIGZvciBkb2N1\nbWVudGF0aW9uLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/google/btree/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/google/btree/git/blobs/eab5dbf7ba732ff5e26258e8f209ac808501fc3e",
+    "html": "https://github.com/google/btree/blob/master/README.md"
+  }
+}

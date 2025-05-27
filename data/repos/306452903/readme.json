@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b9a0f0d589a2f4ceaf233577ba7f30e85d917a26",
+  "size": 772,
+  "url": "https://api.github.com/repos/tzarc/keyboards/contents/README.md?ref=main",
+  "html_url": "https://github.com/tzarc/keyboards/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/tzarc/keyboards/git/blobs/b9a0f0d589a2f4ceaf233577ba7f30e85d917a26",
+  "download_url": "https://raw.githubusercontent.com/tzarc/keyboards/main/README.md",
+  "type": "file",
+  "content": "IyBAdHphcmMncyBLZXlib2FyZHMuCgpIZXJlIHlvdSdsbCBmaW5kIHRoZSBk\nZXNpZ24gZmlsZXMgZm9yIEB0emFyYydzIGN1c3RvbSBrZXlib2FyZCBkZXNp\nZ25zLgoKU2luY2UgRmVicnVhcnkgMjAyNCwgbGljZW5zZXMgaGF2ZSBjaGFu\nZ2VkIGZyb20gR1BMMyB0byBDRVJOLU9ITC1TLgoKIyMgRGppbm4KClRoZSBb\nRGppbm5dKERqaW5uL1JFQURNRS5tZCkgaXMgYSA2NC1rZXkgc3BsaXQga2V5\nYm9hcmQgLS0gZHVhbCA0eDcgd2l0aCBhIDQta2V5IHRodW1iIGNsdXN0ZXIu\nIEl0IGFsc28gaGFzIGEgNS13YXkgdGFjdGlsZSBzd2l0Y2ggdW5kZXIgdGhl\nIHRodW1iLgoKIVtEamlubl0oaHR0cHM6Ly9pLmltZ3VyLmNvbS9BclNqa3Y4\nLmpwZykKCiMjIEdob3VsCgpUaGUgW0dob3VsXShHaG91bC9SRUFETUUubWQp\nIGlzIGEgUGxhbmNrLWxpa2UgZGV2ZWxvcG1lbnQgYm9hcmQgZm9yIFFNSywg\ndXNpbmcgU3BhcmtGdW4gTWljcm9Nb2QgZm9yIGhvdC1zd2FwIE1DVSBjYXBh\nYmlsaXR5IGluIGEgYDJ4NHg1PTQwYCBsYXlvdXQgd2l0aCBlbmNvZGVyIGFu\nZCBSR0IgT0xFRCwgcGVyLWtleSBSR0IuCgohW0dob3VsXShodHRwczovL2ku\naW1ndXIuY29tL1Q4d3A3Y0UuanBnKQoKIyMgS29ib2xkCgpUaGUgW0tvYm9s\nZF0oS29ib2xkL1JFQURNRS5tZCkgaXMgYW4gb3J0aG8gNHg0IG1hY3JvcGFk\nLCBhcyBhIHJlcGxhY2VtZW50IGZvciBhIGJtMTZzIHdpdGggbW9kZXJuIGhh\ncmR3YXJlLgoKIVtLb2JvbGRdKGh0dHBzOi8vaS5pbWd1ci5jb20vUjhuRG9k\nTy5qcGcpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tzarc/keyboards/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/tzarc/keyboards/git/blobs/b9a0f0d589a2f4ceaf233577ba7f30e85d917a26",
+    "html": "https://github.com/tzarc/keyboards/blob/main/README.md"
+  }
+}

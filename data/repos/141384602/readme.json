@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b6926ad7bd714682b2c9d593bafb2385baad1974",
+  "size": 237,
+  "url": "https://api.github.com/repos/keycloak/keycloak-nodejs-admin-client/contents/README.md?ref=main",
+  "html_url": "https://github.com/keycloak/keycloak-nodejs-admin-client/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/keycloak/keycloak-nodejs-admin-client/git/blobs/b6926ad7bd714682b2c9d593bafb2385baad1974",
+  "download_url": "https://raw.githubusercontent.com/keycloak/keycloak-nodejs-admin-client/main/README.md",
+  "type": "file",
+  "content": "IyMgS2V5Y2xvYWsgQWRtaW4gQ2xpZW50Cgo+ICoqV2FybmluZyoqCj4gVGhl\nIEFkbWluIENsaWVudCBoYXMgYmVlbiBtb3ZlZCB0byB0aGUgW0tleWNsb2Fr\nIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0aHViLmNvbS9rZXljbG9hay9rZXlj\nbG9hay90cmVlL21haW4vanMvbGlicy9rZXljbG9hay1hZG1pbi1jbGllbnQp\nLiBQbGVhc2Ugb3BlbiBhbnkgbmV3IGlzc3VlcyBhbmQgUFJzIG9uIHRoYXQg\ncmVwb3NpdG9yeS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/keycloak/keycloak-nodejs-admin-client/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/keycloak/keycloak-nodejs-admin-client/git/blobs/b6926ad7bd714682b2c9d593bafb2385baad1974",
+    "html": "https://github.com/keycloak/keycloak-nodejs-admin-client/blob/main/README.md"
+  }
+}

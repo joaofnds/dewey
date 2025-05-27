@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "8b6a208d96723810a51ab679225db49bb84c43d8",
+  "size": 718,
+  "url": "https://api.github.com/repos/antn/hubot-seinfeld/contents/README.md?ref=master",
+  "html_url": "https://github.com/antn/hubot-seinfeld/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/antn/hubot-seinfeld/git/blobs/8b6a208d96723810a51ab679225db49bb84c43d8",
+  "download_url": "https://raw.githubusercontent.com/antn/hubot-seinfeld/master/README.md",
+  "type": "file",
+  "content": "IyBodWJvdC1zZWluZmVsZCBbIVtCdWlsZCBTdGF0dXNdKGh0dHBzOi8vdHJh\ndmlzLWNpLm9yZy9hbnRuL2h1Ym90LXNlaW5mZWxkLnN2Zz9icmFuY2g9bWFz\ndGVyKV0oaHR0cHM6Ly90cmF2aXMtY2kub3JnL2FudG4vaHVib3Qtc2VpbmZl\nbGQpCiFbaHVib3Qtc2VpbmZlbGRdKGh0dHBzOi8vaS5pbWd1ci5jb20vdmZI\naHRuQi5wbmcpCkNyZWF0ZSBTZWluZmVsZCBsb2dvcyBvZiB5b3VyIHRleHQg\nd2l0aCBodWJvdAoKIyMjIEluc3RhbGxhdGlvbgoKQWRkIGBodWJvdC1zZWlu\nZmVsZGAgdG8geW91ciBgcGFja2FnZS5qc29uYCBmaWxlOgoKYGBgCm5wbSBp\nbnN0YWxsIC0tc2F2ZSBodWJvdC1zZWluZmVsZApgYGAKCkFkZCBgaHVib3Qt\nc2VpbmZlbGRgIHRvIHlvdXIgYGV4dGVybmFsLXNjcmlwdHMuanNvbmA6Cgpg\nYGBqc29uClsiaHVib3Qtc2VpbmZlbGQiXQpgYGAKClJ1biBgbnBtIGluc3Rh\nbGxgCgojIyMgVXNhZ2UKYGh1Ym90IHNlaW5mZWxkIG1lIDxpbnB1dD5gCgoj\nIyMgQ3JlZGl0cwoKVGhhbmtzIHRvIFtAY2hhcmxpZXNvbWVdKGh0dHBzOi8v\nZ2l0aHViLmNvbS9jaGFybGllc29tZSkgZm9yIGhpcyBTZWluZmVsZCBnZW5l\ncmF0b3IgdXNlZCBpbiB0aGlzIHNjcmlwdC4KCkJpZyB0aGFua3MgdG8gW0Bo\nb2xtYW5dKGh0dHBzOi8vZ2l0aHViLmNvbS9ob2xtYW4pIGZvciBoaXMgZnVj\nay15ZWFoLW5vdW5zIHNjcmlwdCB0aGF0IHRoaXMgaXMgYmFzZWQgb24uCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/antn/hubot-seinfeld/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/antn/hubot-seinfeld/git/blobs/8b6a208d96723810a51ab679225db49bb84c43d8",
+    "html": "https://github.com/antn/hubot-seinfeld/blob/master/README.md"
+  }
+}

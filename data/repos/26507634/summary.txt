@@ -1,0 +1,1 @@
+`paxedit` is an Emacs Lisp project focused on structured editing and refactoring of Lisp code. It provides context-driven editing functionalities designed to enhance developer productivity within the Emacs environment. This project likely functions as an Emacs extension, providing features to streamline Lisp development workflows.

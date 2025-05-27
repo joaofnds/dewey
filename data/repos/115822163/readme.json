@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9a3f25ed4fe683e7749618a6d3a1fb7e6f8c417a",
+  "size": 710,
+  "url": "https://api.github.com/repos/anders94/public-private-key-demo/contents/README.md?ref=master",
+  "html_url": "https://github.com/anders94/public-private-key-demo/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/anders94/public-private-key-demo/git/blobs/9a3f25ed4fe683e7749618a6d3a1fb7e6f8c417a",
+  "download_url": "https://raw.githubusercontent.com/anders94/public-private-key-demo/master/README.md",
+  "type": "file",
+  "content": "IyBQdWJsaWNrIEtleSAvIFByaXZhdGUgS2V5IERlbW8KQSB3ZWItYmFzZWQg\nZGVtb25zdHJhdGlvbiBvZiBwdWJsaWMgLyBwcml2YXRlIGtleSBwYWlyIGNv\nbmNlcHRzLgoKWyFbQmxvY2tjaGFpbiAxMDEgLSBEZW1vXShodHRwczovL2lt\nZy55b3V0dWJlLmNvbS92aS94SURMX2FrZXJhcy8wLmpwZyldKGh0dHBzOi8v\nd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eElETF9ha2VyYXMpCgpUaGlzIGlz\nIGEgdmVyeSBiYXNpYyB2aXN1YWwgaW50cm9kdWN0aW9uIHRvIHRoZSBjb25j\nZXB0cyBiZWhpbmQgYSBwdWJsaWMgLyBwcml2YXRlIGtleSBwYWlyLCBzaWdu\naW5nIGFuZCB0aGVpciB1c2UgaW4gYSBibG9ja2NoYWluIGNvbnRleHQuCgoj\nIyBTZXR1cApHZXQgdGhlIGNvZGU6CgpgYGAKZ2l0IGNsb25lIGh0dHBzOi8v\nZ2l0aHViLmNvbS9hbmRlcnM5NC9wdWJsaWMtcHJpdmF0ZS1rZXktZGVtby5n\naXQKYGBgCgpJbnN0YWxsIGRlcGVuZGVuY2llczoKCmBgYApjZCBwdWJsaWMt\ncHJpdmF0ZS1rZXktZGVtbwpucG0gaW5zdGFsbApgYGAKUnVuIHRoZSBzZXJ2\nZXI6CgpgYGAKLi9iaW4vd3d3CmBgYAoKUG9pbnQgYSB3ZWIgYnJvd3NlciBh\ndCB0aGUgZGVtbzoKCmBgYApodHRwOi8vbG9jYWxob3N0OjMwMDAKYGBgCgoj\nIyBTZW5kIFRoYW5rcwpCaXRjb2luIGdyZWF0ZnVsbHkgYWNjZXB0ZWQ6IGAx\nSzNOdmN1WnpWVHVlSFcxcWhrRzJDbTN2aVJraDJFWEpwYAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/anders94/public-private-key-demo/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/anders94/public-private-key-demo/git/blobs/9a3f25ed4fe683e7749618a6d3a1fb7e6f8c417a",
+    "html": "https://github.com/anders94/public-private-key-demo/blob/master/README.md"
+  }
+}

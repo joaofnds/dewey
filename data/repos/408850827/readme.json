@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "7e183f659843d260fab78474a8e3ecd828f054eb",
+  "size": 858,
+  "url": "https://api.github.com/repos/testdouble/mocktail/contents/README.md?ref=main",
+  "html_url": "https://github.com/testdouble/mocktail/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/testdouble/mocktail/git/blobs/7e183f659843d260fab78474a8e3ecd828f054eb",
+  "download_url": "https://raw.githubusercontent.com/testdouble/mocktail/main/README.md",
+  "type": "file",
+  "content": "IyBNb2NrdGFpbAoKTW9ja3RhaWwgaXMgYSBtb2NraW5nIGxpYnJhcnkgZm9y\nIFJ1YnkgYnVpbHQgd2l0aCBtb2Rlcm4gUnVieSAzIEFQSXMgYW5kIHRoZQpf\nb25seSBvbmVfIHdpdGggZmlyc3QtY2xhc3Mgc3VwcG9ydCBmb3IgdHlwZSBj\naGVja2luZyB3aXRoCltTb3JiZXRdKGh0dHBzOi8vc29yYmV0Lm9yZykuIE1v\nY2t0YWlsIHdhcyBjcmVhdGVkIHRvIGFjY2VsZXJhdGUgdGVzdC1kcml2ZW4K\nZGV2ZWxvcG1lbnQgaW4gUnVieSBhbmQgaXMgZGVzaWduZWQgdG8gcHJldmVu\ndCBjb21tb24gcHJvYmxlbXMgdGhhdCBsZWFkIHRvCmJyaXR0bGUgYW5kIGNv\nbmZ1c2luZyB0ZXN0cy4KCllvdXIgZmlyc3QgY2hvaWNlIGlzIGEgY29uc2Vx\ndWVudGlhbCBvbmU6ICoqaG93IGRvIHlvdSB3YW50IHlvdXIgTW9ja3RhaWw/\nKioKCjxwIGFsaWduPSJjZW50ZXIiIHdpZHRoPSIxMDAlIj4KICA8YSBocmVm\nPSIvZG9jcy9pbnN0YWxsYXRpb25fdW50eXBlZC5tZCI+CiAgICA8aW1nIHNy\nYz0iZG9jcy9pbWcvbW9ja3RhaWxfdW50eXBlZC5qcGciIHdpZHRoPSI0NSUi\nIGFsdD0iVHJ5IE1vY2t0YWlsIHdpdGhvdXQgdHlwZSBjaGVja2luZyI+CiAg\nPC9hPgogIDxhIGhyZWY9Ii9kb2NzL2luc3RhbGxhdGlvbl9zb3JiZXQubWQi\nPgogICAgPGltZyBzcmM9ImRvY3MvaW1nL21vY2t0YWlsX3NvcmJldC5qcGci\nIHdpZHRoPSI0NSUiIGFsdD0iVHJ5IE1vY2t0YWlsIHdpdGggU29yYmV0IHR5\ncGUgY2hlY2tpbmciPgogIDwvYT4KPC9wPgoKWW91IGNhbiBhbHNvIHNraXAg\nYWxsIHRoZSBmdW4gc3R1ZmYgYW5kIGRpdmUgc3RyYWlnaHQgaW50byB0aGUg\nW2Z1bGwgQVBJIGRvY3VtZW50YXRpb25dKC9kb2NzL3N1cHBvcnQvYXBpLm1k\nKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/testdouble/mocktail/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/testdouble/mocktail/git/blobs/7e183f659843d260fab78474a8e3ecd828f054eb",
+    "html": "https://github.com/testdouble/mocktail/blob/main/README.md"
+  }
+}

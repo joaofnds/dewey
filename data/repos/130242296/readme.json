@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a31c84dc40bf9d4c3fd51e52d90dc57148a8e3f3",
+  "size": 49,
+  "url": "https://api.github.com/repos/zaiste/.doom.d/contents/README.md?ref=master",
+  "html_url": "https://github.com/zaiste/.doom.d/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/zaiste/.doom.d/git/blobs/a31c84dc40bf9d4c3fd51e52d90dc57148a8e3f3",
+  "download_url": "https://raw.githubusercontent.com/zaiste/.doom.d/master/README.md",
+  "type": "file",
+  "content": "IyBEb29tIEVtYWNzIAoKTXkgcHJpdmF0ZSBjb25maWcgZm9yIERvb20gRW1h\nY3MuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/zaiste/.doom.d/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/zaiste/.doom.d/git/blobs/a31c84dc40bf9d4c3fd51e52d90dc57148a8e3f3",
+    "html": "https://github.com/zaiste/.doom.d/blob/master/README.md"
+  }
+}

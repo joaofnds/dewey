@@ -1,0 +1,1 @@
+`cl-cuda` is a Common Lisp library providing an interface to NVIDIA CUDA, enabling GPU acceleration within Lisp programs. This library allows developers to leverage CUDA's parallel computing capabilities for computationally intensive tasks. The project functions as a library, integrating with existing Common Lisp development environments.

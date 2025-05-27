@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "8d1acd233ec2dc4cbce8ce06f9401390e2781209",
+  "size": 478,
+  "url": "https://api.github.com/repos/mholt/archiver/contents/README.md?ref=master",
+  "html_url": "https://github.com/mholt/archiver/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/mholt/archiver/git/blobs/8d1acd233ec2dc4cbce8ce06f9401390e2781209",
+  "download_url": "https://raw.githubusercontent.com/mholt/archiver/master/README.md",
+  "type": "file",
+  "content": "IyBhcmNoaXZlciB2NCBhbHBoYSAoREVQUkVDQVRFRCkKClRoaXMgcGFja2Fn\nZSBpcyBubyBsb25nZXIgZGV2ZWxvcGVkOyBpdCBoYXMgYmVlbiBzdXBlcmNl\nZGVkIGJ5ICoqW21ob2x0L2FyY2hpdmVzXShodHRwczovL2dpdGh1Yi5jb20v\nbWhvbHQvYXJjaGl2ZXMpKiogd2l0aCBhbiBpbXByb3ZlZCwgbW9yZSBjb252\nZW50aW9uYWwgZXhwb3J0ZWQgQVBJLCBzaWduaWZpY2FudCBwZXJmb3JtYW5j\nZSBpbXByb3ZlbWVudHMsIGFuZCBuZXcgZmVhdHVyZXMuCgpUaGFuayB5b3Ug\ndG8gW2FsbCA3MSBjb250cmlidXRvcnNdKGh0dHBzOi8vZ2l0aHViLmNvbS9t\naG9sdC9hcmNoaXZlci9ncmFwaHMvY29udHJpYnV0b3JzKSBvdmVyIHRoZSA4\nIHllYXJzIHRoaXMgdmVyc2lvbiBvZiB0aGUgcHJvamVjdCB3YXMgZGV2ZWxv\ncGVkISBJdCBsaXZlcyBhdCAqKlttaG9sdC9hcmNoaXZlc10oaHR0cHM6Ly9n\naXRodWIuY29tL21ob2x0L2FyY2hpdmVzKSoqLg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mholt/archiver/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/mholt/archiver/git/blobs/8d1acd233ec2dc4cbce8ce06f9401390e2781209",
+    "html": "https://github.com/mholt/archiver/blob/master/README.md"
+  }
+}

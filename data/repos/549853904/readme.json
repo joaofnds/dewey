@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "e8c03309ca64ce02b4ff9a41641c79ea505675ca",
+  "size": 1467,
+  "url": "https://api.github.com/repos/nat-418/boole.nvim/contents/README.md?ref=main",
+  "html_url": "https://github.com/nat-418/boole.nvim/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/nat-418/boole.nvim/git/blobs/e8c03309ca64ce02b4ff9a41641c79ea505675ca",
+  "download_url": "https://raw.githubusercontent.com/nat-418/boole.nvim/main/README.md",
+  "type": "file",
+  "content": "Ym9vbGUubnZpbSDwn5SbCj09PT09PT09PT09PT0KCkJvb2xlIGlzIGEgc2lt\ncGxlIE5lb3ZpbSBwbHVnaW4gdGhhdCBleHRlbmRzIHRoZSBkZWZhdWx0IGlu\nY3JlbWVudCBhbmQKZGVjcmVtZW50IGZ1bmN0aW9uYWxpdHkgb2YgQ1RSTC1B\nIGFuZCBDVFJMLVggdG8gYWxsb3cgZm9yIHRvZ2dsaW5nCmJvb2xlYW4gdmFs\ndWVzIGxpa2UgYG9uYCwgYHllc2AsIGFuZCBgdHJ1ZWAgYXMgd2VsbCBhcyBj\neWNsaW5nIHRocm91Z2g6CgoqIERheXMgb2YgdGhlIHdlZWsgYW5kIHRoZWly\nIGFiYnJldmlhdGlvbnMgKGUuZy4sIGBNb25kYXlgIOKGkiBgVHVlc2RheWAp\nCiogTW9udGhzIG9mIHRoZSB5ZWFyIGFuZCB0aGVpciBhYmJyZXZpYXRpb25z\nIChlLmcuLCBgSmFuYCDihpIgYEZlYmApCiogWDExIC8gV2ViIGNvbG9yIG5h\nbWVzIChlLmcuLCBgT3JhbmdlYCDihpIgYE9yYW5nZVJlZGApCiogQ2Fub25p\nY2FsIGhvdXJzIChlLmcuLCBgQ29tcGxpbmVgIOKGkiBgVmlnaWxgKQoqIExl\ndHRlciArIG51bWJlciAid29yZHMiIChlLmcuLCBgRjFgIOKGkiBgRjJgKQoK\nVGhpcyBwbHVnaW4gc2hpcHMgb25lIGNvbW1hbmQ6CgoqIGA6Qm9vbGUge2lu\nY3JlbWVudHxkZWNyZW1lbnR9YAoKVGhpcyBjb21tYW5kIGNhbiBiZSBzYWZl\nbHkgbWFwcGVkIHRvIENUUkwtQSBhbmQgQ1RSTC1YLiBTZWUgdGhlCmNvbmZp\nZ3VyYXRpb24gc2VjdGlvbiBiZWxvdyBmb3IgYW4gZXhhbXBsZS4KCkluc3Rh\nbGxhdGlvbgotLS0tLS0tLS0tLS0KCmBgYHNoCiQgZ2l0IGNsb25lIC0tZGVw\ndGggMSBodHRwczovL2dpdGh1Yi5jb20vbmF0LTQxOC9ib29sZS5udmltIH4v\nLmxvY2FsL3NoYXJlL252aW0vc2l0ZS9wYWNrL2Jvb2xlL3N0YXJ0L2Jvb2xl\nLm52aW0KYGBgCgpDb25maWd1cmF0aW9uCi0tLS0tLS0tLS0tLS0KCkJvb2xl\nIGNhbiBiZSBtYXBwZWQgdG8gYSBrZXkgYnkgcGFzc2luZyBhIGNvbmZpZ3Vy\nYXRpb24gdGFibGUgdG8gdGhlIApgc2V0dXBgIGZ1bmN0aW9uLiBZb3UgY2Fu\nIGFsc28gYWRkIGFueSBjeWNsZSBvZiB3b3JkcyB5b3Ugd291bGQgbGlrZS4K\nRmVlbCBmcmVlIHRvIHN1Ym1pdCBhbiBpc3N1ZSBhbmQgcHVsbCByZXF1ZXN0\nIHdpdGggYWRkaXRpb25zIHlvdQp0aGluayB3b3VsZCBtYWtlIGdvb2QgZGVm\nYXVsdHMuCgpgYGBsdWEKcmVxdWlyZSgnYm9vbGUnKS5zZXR1cCh7CiAgbWFw\ncGluZ3MgPSB7CiAgICBpbmNyZW1lbnQgPSAnPEMtYT4nLAogICAgZGVjcmVt\nZW50ID0gJzxDLXg+JwogIH0sCiAgLS0gVXNlciBkZWZpbmVkIGxvb3BzCiAg\nYWRkaXRpb25zID0gewogICAgeydGb28nLCAnQmFyJ30sCiAgICB7J3RpYycs\nICd0YWMnLCAndG9lJ30KICB9LAogIGFsbG93X2NhcHNfYWRkaXRpb25zID0g\newogICAgeydlbmFibGUnLCAnZGlzYWJsZSd9CiAgICAtLSBlbmFibGUg4oaS\nIGRpc2FibGUKICAgIC0tIEVuYWJsZSDihpIgRGlzYWJsZQogICAgLS0gRU5B\nQkxFIOKGkiBESVNBQkxFCiAgfQp9KQpgYGAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/nat-418/boole.nvim/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/nat-418/boole.nvim/git/blobs/e8c03309ca64ce02b4ff9a41641c79ea505675ca",
+    "html": "https://github.com/nat-418/boole.nvim/blob/main/README.md"
+  }
+}

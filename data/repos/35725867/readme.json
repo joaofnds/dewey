@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "205db3ce975ccda43f88910ec12a878cbe8568e6",
+  "size": 1160,
+  "url": "https://api.github.com/repos/kimh/clojure-by-example/contents/README.md?ref=master",
+  "html_url": "https://github.com/kimh/clojure-by-example/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/kimh/clojure-by-example/git/blobs/205db3ce975ccda43f88910ec12a878cbe8568e6",
+  "download_url": "https://raw.githubusercontent.com/kimh/clojure-by-example/master/README.md",
+  "type": "file",
+  "content": "IyBDbG9qdXJlIGJ5IEV4YW1wbGUKClshW0NpcmNsZUNJXShodHRwczovL2Np\ncmNsZWNpLmNvbS9naC9raW1oL2Nsb2p1cmUtYnktZXhhbXBsZS5zdmc/c3R5\nbGU9c3ZnKV0oaHR0cHM6Ly9jaXJjbGVjaS5jb20vZ2gva2ltaC9jbG9qdXJl\nLWJ5LWV4YW1wbGUpCgpUaGlzIHJlcG9zaXRvcnkgaG9zdHMgY29kZSBmb3Ig\nW0Nsb2p1cmUgYnkgRXhhbXBsZV0oaHR0cDovL2tpbWguZ2l0aHViLmlvL2Ns\nb2p1cmUtYnktZXhhbXBsZS8pCgojIyBEZXZlbG9wbWVudAoKUnVuIHRoZSBm\nb2xsb3dpbmcgY29tbWFuZHMgdG8gcnVuIGxvY2FsbHkuCgpgYGAKYnVuZGxl\nIGluc3RhbGwKYnVuZGxlIGV4ZWMgbWlkZGxlbWFuIHNlcnZlcgpgYGAKClRo\nZSBjb21tYW5kIG91dHB1dCBmcm9tIG1pZGRsZW1hbiB0ZWxscyB5b3UgdGhl\nIHVybCB0byBhY2Nlc3MuCgojIyBVcGRhdGluZyBTbGF0ZQoKVGhpcyBzaXRl\nIGlzIGNyZWF0ZWQgYmFzZWQgb24gW1NsYXRlXShodHRwczovL2dpdGh1Yi5j\nb20vbG9yZC9zbGF0ZSkuIFRoZSBvbmx5IHdheSBJIGtub3cgdG8gdXBkYXRl\nIFNsYXRlIGlzIGNvcHlpbmcgYWxsIGZpbGVzIGZyb20gdGhlIG5ldyB2ZXJz\naW9uIG9mIFNsYXRlIHJlcG9zaXRvcnkKYW5kIHVwZGF0ZSBvbmx5IHdoYXQg\neW91IG5lZWQgZm9yIENsb2p1cmUgQnkgRXhhbXBsZSBzaXRlLgoKTmFtZWx5\nIHRoZXkgYXJlCgotIGBzb3VyY2UvaW5kZXguaHRtbC5tZGAgZm9yIHRoZSBt\nYWluIGNvbnRlbnQKLSBgc291cmNlL3N0eWxlc2hlZXRzL192YXJpYWJsZXMu\nc2Nzc2AgZm9yIGZvbnQgc2l6ZQotIGBzb3VyY2UvbGF5b3V0cy9sYXlvdXQu\nZXJiYCBmb3IgIkNsb2p1cmUgQnkgRXhhbXBsZSIgbG9nbwoKU2VlIFt0aGlz\nIGNvbW1pdF0oaHR0cHM6Ly9naXRodWIuY29tL2tpbWgvY2xvanVyZS1ieS1l\neGFtcGxlL2NvbW1pdC9hMjg3MmI1NjYwYjg5YWY1MTM3YTAyYmU3MTY5YWU2\nYzc4OGIzMWI3KSBhcyBhbiBleGFtcGxlLgoKIyMgVG9kbwoKKiB0ZXN0Ciog\nY2xlYW4gdXAgdGhlIGNvbmZ1c2lvbiBpbiBzZXF1ZW5jZS4gcHJvYmFibHkg\nSSBzaG91bGQgdXNlIGNvbGwgd2hlcmUgc2VxdWVuY2UgaXMgbWVudGlvbmVk\nIGJlY2F1c2Ugc2VxdWVuY2UgaXMgbm90IGRhdGEgdHlwZS4KKiBkZWZyZWNv\ncmQKKiBkZXN0cnVjdHVyaW5nCiogZGlzc29jIGluIE1hcAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/kimh/clojure-by-example/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/kimh/clojure-by-example/git/blobs/205db3ce975ccda43f88910ec12a878cbe8568e6",
+    "html": "https://github.com/kimh/clojure-by-example/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.adoc",
+  "path": "README.adoc",
+  "sha": "839d833c43c66731e676b422b65a9385cd25a785",
+  "size": 1228,
+  "url": "https://api.github.com/repos/LMAX-Exchange/disruptor/contents/README.adoc?ref=master",
+  "html_url": "https://github.com/LMAX-Exchange/disruptor/blob/master/README.adoc",
+  "git_url": "https://api.github.com/repos/LMAX-Exchange/disruptor/git/blobs/839d833c43c66731e676b422b65a9385cd25a785",
+  "download_url": "https://raw.githubusercontent.com/LMAX-Exchange/disruptor/master/README.adoc",
+  "type": "file",
+  "content": "PSBMTUFYIERpc3J1cHRvcgoKaW1hZ2U6aHR0cHM6Ly9naXRodWIuY29tL0xN\nQVgtRXhjaGFuZ2UvZGlzcnVwdG9yL3dvcmtmbG93cy9KYXZhJTIwQ0klMjB3\naXRoJTIwR3JhZGxlL2JhZGdlLnN2Z1tKYXZhIENJIHdpdGggR3JhZGxlLGxp\nbms9aHR0cHM6Ly9naXRodWIuY29tL0xNQVgtRXhjaGFuZ2UvZGlzcnVwdG9y\nL2FjdGlvbnMvd29ya2Zsb3dzL2dyYWRsZS1idWlsZC55bWxdCmltYWdlOmh0\ndHBzOi8vZ2l0aHViLmNvbS9MTUFYLUV4Y2hhbmdlL2Rpc3J1cHRvci93b3Jr\nZmxvd3MvQ29kZVFML2JhZGdlLnN2Z1tDb2RlUUwsbGluaz1odHRwczovL2dp\ndGh1Yi5jb20vTE1BWC1FeGNoYW5nZS9kaXNydXB0b3IvYWN0aW9ucy93b3Jr\nZmxvd3MvY29kZXFsLWFuYWx5c2lzLnltbF0KaW1hZ2U6aHR0cHM6Ly9pbWcu\nc2hpZWxkcy5pby9naXRodWIvbGljZW5zZS9MTUFYLUV4Y2hhbmdlL2Rpc3J1\ncHRvcltMaWNlbnNlLGxpbms9aHR0cHM6Ly9naXRodWIuY29tL0xNQVgtRXhj\naGFuZ2UvZGlzcnVwdG9yL2Jsb2IvbWFzdGVyL0xJQ0VOQ0UudHh0XQoKQSBI\naWdoIFBlcmZvcm1hbmNlIEludGVyLVRocmVhZCBNZXNzYWdpbmcgTGlicmFy\neQoKPT0gTWFpbnRhaW5lcgoKTE1BWCBEZXZlbG9wbWVudCBUZWFtCgo9PSBT\ndXBwb3J0CgogLSBPcGVuIGEgdGlja2V0IGluIEdpdEh1YiBodHRwczovL2dp\ndGh1Yi5jb20vTE1BWC1FeGNoYW5nZS9kaXNydXB0b3IvaXNzdWVzW2lzc3Vl\nIHRyYWNrZXJdCiAtIGh0dHBzOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAv\nbG1heC1kaXNydXB0b3JbR29vZ2xlIEdyb3VwXQoKPT0gRG9jdW1lbnRhdGlv\nbgoKKiBodHRwczovL2xtYXgtZXhjaGFuZ2UuZ2l0aHViLmlvL2Rpc3J1cHRv\nci9bT3ZlcnZpZXddCiogaHR0cHM6Ly9sbWF4LWV4Y2hhbmdlLmdpdGh1Yi5p\nby9kaXNydXB0b3IvdXNlci1ndWlkZS9pbmRleC5odG1sW1VzZXIgR3VpZGVd\nCiogaHR0cHM6Ly9sbWF4LWV4Y2hhbmdlLmdpdGh1Yi5pby9kaXNydXB0b3Iv\namF2YWRvYy9jb20ubG1heC5kaXNydXB0b3IvbW9kdWxlLXN1bW1hcnkuaHRt\nbFtBUEkgRG9jdW1lbnRhdGlvbl0KKiBodHRwczovL2xtYXgtZXhjaGFuZ2Uu\nZ2l0aHViLmlvL2Rpc3J1cHRvci9kZXZlbG9wZXItZ3VpZGUvaW5kZXguaHRt\nbFtEZXZlbG9wZXIgR3VpZGVdCiogaHR0cHM6Ly9naXRodWIuY29tL0xNQVgt\nRXhjaGFuZ2UvZGlzcnVwdG9yL3dpa2kvRnJlcXVlbnRseS1Bc2tlZC1RdWVz\ndGlvbnNbRkFRXQoKCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/LMAX-Exchange/disruptor/contents/README.adoc?ref=master",
+    "git": "https://api.github.com/repos/LMAX-Exchange/disruptor/git/blobs/839d833c43c66731e676b422b65a9385cd25a785",
+    "html": "https://github.com/LMAX-Exchange/disruptor/blob/master/README.adoc"
+  }
+}

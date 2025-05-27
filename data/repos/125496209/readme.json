@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9d28355baacb58e91da5f26ad0084c978eb0c4b4",
+  "size": 1109,
+  "url": "https://api.github.com/repos/gulyasm/jsonui/contents/README.md?ref=master",
+  "html_url": "https://github.com/gulyasm/jsonui/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/gulyasm/jsonui/git/blobs/9d28355baacb58e91da5f26ad0084c978eb0c4b4",
+  "download_url": "https://raw.githubusercontent.com/gulyasm/jsonui/master/README.md",
+  "type": "file",
+  "content": "IyBKU09OVUkKWyFbXShodHRwczovL3RyYXZpcy1jaS5vcmcvZ3VseWFzbS9q\nc29udWkuc3ZnP2JyYW5jaD1tYXN0ZXIpXShodHRwczovL3RyYXZpcy1jaS5v\ncmcvZ3VseWFzbS9qc29udWkpIFshW10oaHR0cHM6Ly9nb3JlcG9ydGNhcmQu\nY29tL2JhZGdlL2dpdGh1Yi5jb20vZ3VseWFzbS9qc29udWkpXShodHRwczov\nL2dvcmVwb3J0Y2FyZC5jb20vcmVwb3J0L2dpdGh1Yi5jb20vZ3VseWFzbS9q\nc29udWkpCgpganNvbnVpYCBpcyBhbiBpbnRlcmFjdGl2ZSBKU09OIGV4cGxv\ncmVyIGluIHlvdXIgY29tbWFuZCBsaW5lLiBZb3UgY2FuIHBpcGUgYW55IEpT\nT04gaW50byBganNvbnVpYCBhbmQgZXhwbG9yZSBpdCwgY29weSB0aGUgcGF0\naCBmb3IgZWFjaCBlbGVtZW50LgoKIVtdKGltZy9qc29udWkuZ2lmKQoKIyMg\nSW5zdGFsbApgZ28gZ2V0IC11IGdpdGh1Yi5jb20vZ3VseWFzbS9qc29udWlg\nCgojIyBCaW5hcnkgUmVsZWFzZXMKW0JpbmFyeSByZWxlYXNlcyBhcmUgYXZh\naWxhYmVdKGh0dHBzOi8vZ2l0aHViLmNvbS9ndWx5YXNtL2pzb251aS9yZWxl\nYXNlcykKCiMjIFVzYWdlCkp1c3QgdXNlIHRoZSBzdGFuZGFyZCBvdXRwdXQ6\nCmBgYApjYXQgdGVzdF9iaWcuanNvbiB8IGpzb251aQpgYGAKCiMjIyBLZXlz\nCgojIyMjIGBqYCwgYERvd25BcnJvd2AKTW92ZSBkb3duIGEgbGluZQoKIyMj\nIyBga2AsIGBEb3duVXBgCk1vdmUgdXAgYSBsaW5lCgojIyMjIGBKL1BhZ2VE\nb3duYApNb3ZlIGRvd24gMTUgbGluZXMKCiMjIyMgYEsvUGFnZVVwYApNb3Zl\nIHVwIDE1IGxpbmVzCgojIyMjIGBoLz9gClRvZ2dsZSBIZWxwIHZpZXcKCiMj\nIyMgYGVgClRvZ2dsZSBub2RlIChleHBlbmQgb3IgY29sbGFwc2UpCgojIyMj\nIGBFYApFeHBhbmQgYWxsIG5vZGVzCgojIyMjIGBDYApDb2xsYXBzZSBhbGwg\nbm9kZXMKCiMjIyMgYHEvQ3RybCtDYApRdWl0IGpzb251aQoKCiMjIEFja25v\nd2xlZGdtZW50cwpTcGVjaWFsIHRoYW5rcyBmb3IgW2FzY2lpbW9vXShodHRw\nczovL2dpdGh1Yi5jb20vYXNjaWltb28pIGFuZCB0aGUgW3d1enpdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9hc2NpaW1vby93dXp6KSBwcm9qZWN0IGZvciBhbGwg\ndGhlIGhlbHAgYW5kIHN1Z2dlc3Rpb25zLiAgCgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gulyasm/jsonui/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/gulyasm/jsonui/git/blobs/9d28355baacb58e91da5f26ad0084c978eb0c4b4",
+    "html": "https://github.com/gulyasm/jsonui/blob/master/README.md"
+  }
+}

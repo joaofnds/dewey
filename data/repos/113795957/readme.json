@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "31e2f242f61f9bf9ec8ab4930ef147baeee0e6b4",
+  "size": 702,
+  "url": "https://api.github.com/repos/muttmua/mutt/contents/README?ref=master",
+  "html_url": "https://github.com/muttmua/mutt/blob/master/README",
+  "git_url": "https://api.github.com/repos/muttmua/mutt/git/blobs/31e2f242f61f9bf9ec8ab4930ef147baeee0e6b4",
+  "download_url": "https://raw.githubusercontent.com/muttmua/mutt/master/README",
+  "type": "file",
+  "content": "V2hlbiB1cGRhdGluZyBtdXR0IGZyb20gYW4gZWFybGllciByZWxlYXNlIG9y\nIGZyb20gR2l0LCBwbGVhc2UKbWFrZSBzdXJlIHRvIHJlYWQgdGhlIGNvbXBh\ndGliaWxpdHkgbm90ZXMgaW4gYGBVUERBVElORycnLgoKSW5zdGFsbGF0aW9u\nIGluc3RydWN0aW9ucyBhcmUgZGV0YWlsZWQgaW4gYGBJTlNUQUxMJycuIFRo\nZSB1c2VyIG1hbnVhbAppcyBpbiBkb2MvbWFudWFsLnR4dC4gR251UEcgdXNl\ncnMgc2hvdWxkIHVzZSB0aGUgc2FtcGxlIGNvbmZpZ3VyYXRpb24gaW4KY29u\ndHJpYi9ncGcucmMuCgpCZWZvcmUgeW91IHN0YXJ0IGhhY2tpbmcgb24gbXV0\ndCwgcmVhZCBkb2MvZGV2ZWwtbm90ZXMudHh0LiAgQmVmb3JlCmFwcGx5aW5n\nIHBhdGNoZXMgdG8gbXV0dCwgcmVhZCBkb2MvYXBwbHlpbmctcGF0Y2hlcy50\neHQuICBQbGVhc2UsCnJlYWQgdGhlc2UgZmlsZXMsIGFzIHRoZXkgd2lsbCBz\nYXZlIHlvdSBmcm9tIGFza2luZyBGQVFzLgoKRm9yIG1vcmUgaW5mb3JtYXRp\nb24sIHNlZSB0aGUgTXV0dCBob21lIHBhZ2U6CgogaHR0cDovL3d3dy5tdXR0\nLm9yZy8KClRoZSBwcmltYXJ5IGRpc3RyaWJ1dGlvbiBwb2ludHMgZm9yIE11\ndHQgaXM6CgogZnRwOi8vZnRwLm11dHQub3JnL3B1Yi9tdXR0CgpBIGxpc3Qg\nb2YgbWlycm9yIHNpdGVzIGNhbiBiZSBmb3VuZCB1bmRlcgo8aHR0cDovL3d3\ndy5tdXR0Lm9yZy9kb3dubG9hZC5odG1sPi4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/muttmua/mutt/contents/README?ref=master",
+    "git": "https://api.github.com/repos/muttmua/mutt/git/blobs/31e2f242f61f9bf9ec8ab4930ef147baeee0e6b4",
+    "html": "https://github.com/muttmua/mutt/blob/master/README"
+  }
+}

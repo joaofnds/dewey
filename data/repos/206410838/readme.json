@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a0ef07fe22fe3b391caf4cea4ef074cda22c57c3",
+  "size": 1568,
+  "url": "https://api.github.com/repos/google/eng-practices/contents/README.md?ref=master",
+  "html_url": "https://github.com/google/eng-practices/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/google/eng-practices/git/blobs/a0ef07fe22fe3b391caf4cea4ef074cda22c57c3",
+  "download_url": "https://raw.githubusercontent.com/google/eng-practices/master/README.md",
+  "type": "file",
+  "content": "IyBHb29nbGUgRW5naW5lZXJpbmcgUHJhY3RpY2VzIERvY3VtZW50YXRpb24K\nCkdvb2dsZSBoYXMgbWFueSBnZW5lcmFsaXplZCBlbmdpbmVlcmluZyBwcmFj\ndGljZXMgdGhhdCBjb3ZlciBhbGwgbGFuZ3VhZ2VzIGFuZAphbGwgcHJvamVj\ndHMuIFRoZXNlIGRvY3VtZW50cyByZXByZXNlbnQgb3VyIGNvbGxlY3RpdmUg\nZXhwZXJpZW5jZSBvZiB2YXJpb3VzCmJlc3QgcHJhY3RpY2VzIHRoYXQgd2Ug\naGF2ZSBkZXZlbG9wZWQgb3ZlciB0aW1lLiBJdCBpcyBwb3NzaWJsZSB0aGF0\nIG9wZW4gc291cmNlCnByb2plY3RzIG9yIG90aGVyIG9yZ2FuaXphdGlvbnMg\nd291bGQgYmVuZWZpdCBmcm9tIHRoaXMga25vd2xlZGdlLCBzbyB3ZSB3b3Jr\nIHRvCm1ha2UgaXQgYXZhaWxhYmxlIHB1YmxpY2x5IHdoZW4gcG9zc2libGUu\nCgpDdXJyZW50bHkgdGhpcyBjb250YWlucyB0aGUgZm9sbG93aW5nIGRvY3Vt\nZW50czoKCiogICBbR29vZ2xlJ3MgQ29kZSBSZXZpZXcgR3VpZGVsaW5lc10o\ncmV2aWV3L2luZGV4Lm1kKSwgd2hpY2ggYXJlIGFjdHVhbGx5IHR3bwogICAg\nc2VwYXJhdGUgc2V0cyBvZiBkb2N1bWVudHM6CiAgICAqICAgW1RoZSBDb2Rl\nIFJldmlld2VyJ3MgR3VpZGVdKHJldmlldy9yZXZpZXdlci9pbmRleC5tZCkK\nICAgICogICBbVGhlIENoYW5nZSBBdXRob3IncyBHdWlkZV0ocmV2aWV3L2Rl\ndmVsb3Blci9pbmRleC5tZCkKCiMjIFRlcm1pbm9sb2d5CgpUaGVyZSBpcyBz\nb21lIEdvb2dsZS1pbnRlcm5hbCB0ZXJtaW5vbG9neSB1c2VkIGluIHNvbWUg\nb2YgdGhlc2UgZG9jdW1lbnRzLCB3aGljaAp3ZSBjbGFyaWZ5IGhlcmUgZm9y\nIGV4dGVybmFsIHJlYWRlcnM6CgoqICAgKipDTCoqOiBTdGFuZHMgZm9yICJj\naGFuZ2VsaXN0Iiwgd2hpY2ggbWVhbnMgb25lIHNlbGYtY29udGFpbmVkIGNo\nYW5nZSB0aGF0CiAgICBoYXMgYmVlbiBzdWJtaXR0ZWQgdG8gdmVyc2lvbiBj\nb250cm9sIG9yIHdoaWNoIGlzIHVuZGVyZ29pbmcgY29kZSByZXZpZXcuCiAg\nICBPdGhlciBvcmdhbml6YXRpb25zIG9mdGVuIGNhbGwgdGhpcyBhICJjaGFu\nZ2UiLCAicGF0Y2giLCBvciAicHVsbC1yZXF1ZXN0Ii4KKiAgICoqTEdUTSoq\nOiBNZWFucyAiTG9va3MgR29vZCB0byBNZSIuIEl0IGlzIHdoYXQgYSBjb2Rl\nIHJldmlld2VyIHNheXMgd2hlbgogICAgYXBwcm92aW5nIGEgQ0wuCgojIyBM\naWNlbnNlCgpUaGUgZG9jdW1lbnRzIGluIHRoaXMgcHJvamVjdCBhcmUgbGlj\nZW5zZWQgdW5kZXIgdGhlCltDQy1CeSAzLjAgTGljZW5zZV0oTElDRU5TRSks\nIHdoaWNoIGVuY291cmFnZXMgeW91IHRvIHNoYXJlIHRoZXNlIGRvY3VtZW50\ncy4gU2VlCjxodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMv\nYnkvMy4wLz4gZm9yIG1vcmUgZGV0YWlscy4KCjxhIHJlbD0ibGljZW5zZSIg\naHJlZj0iaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5\nLzMuMC8iPjxpbWcgYWx0PSJDcmVhdGl2ZSBDb21tb25zIExpY2Vuc2UiIHN0\neWxlPSJib3JkZXItd2lkdGg6MCIgc3JjPSJodHRwczovL2kuY3JlYXRpdmVj\nb21tb25zLm9yZy9sL2J5LzMuMC84OHgzMS5wbmciIC8+PC9hPgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/google/eng-practices/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/google/eng-practices/git/blobs/a0ef07fe22fe3b391caf4cea4ef074cda22c57c3",
+    "html": "https://github.com/google/eng-practices/blob/master/README.md"
+  }
+}

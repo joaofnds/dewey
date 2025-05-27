@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f934369bf10469ced237a642e329f2bfda34e677",
+  "size": 889,
+  "url": "https://api.github.com/repos/pimeys/emacs-prisma-mode/contents/README.md?ref=main",
+  "html_url": "https://github.com/pimeys/emacs-prisma-mode/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/pimeys/emacs-prisma-mode/git/blobs/f934369bf10469ced237a642e329f2bfda34e677",
+  "download_url": "https://raw.githubusercontent.com/pimeys/emacs-prisma-mode/main/README.md",
+  "type": "file",
+  "content": "IyBlbWFjcy1wcmlzbWEtbW9kZQoKQSBxdWljayBhbmQgZGlydHkgZW1hY3Mg\nbWFqb3IgbW9kZSBmb3IgUHJpc21hIHNjaGVtYXMuCgpQLlMuIEkgaGF2ZSBx\ndWl0ZSBsaW1pdGVkIHRpbWUgZm9yIHRoaXMsIHNvIEknZCBiZSBoYXBweSBm\nb3IgZ29vZCBwdWxsIHJlcXVlc3RzIGlmIG5lZWRpbmcgZmVhdHVyZXMhCgoj\nIyBZZXMgOikKCi0gU3ludGF4IGhpbGlnaHRpbmcKLSBBdXRvaW5kZW50Ci0g\nTFNQCgojIyBJbnN0YWxsYXRpb24KCkknbSB1c2luZyBbZG9vbS1lbWFjc10o\naHR0cHM6Ly9naXRodWIuY29tL2hsaXNzbmVyL2Rvb20tZW1hY3MpLCBzbyB0\nbyBoYXZlIHRoZSBtb2RlIGF2YWlsYWJsZSBJIGNsb25lIHRoZSByZXBvIHRv\nIGB+Ly5kb29tLmQvZW1hY3MtcHJpc21hLW1vZGVgLCB0aGVuIGluIGB+Ly5k\nb29tLmQvY29uZmlnLmVsYCBJIGNhbiBzZXQ6CgpgYGBlbGlzcAoobG9hZCEg\nImVtYWNzLXByaXNtYS1tb2RlL3ByaXNtYS1tb2RlIikKYGBgCgpPciwgeW91\nIGNhbiBhbHNvIGluc3RhbGwgYXMgcGFja2FnZSBhdCBgfi8uZG9vbS5kL3Bh\nY2thZ2VzLmVsYAoKYGBgZWxpc3AKKHBhY2thZ2UhIHByaXNtYS1tb2RlIDpy\nZWNpcGUgKDpob3N0IGdpdGh1YiA6cmVwbyAicGltZXlzL2VtYWNzLXByaXNt\nYS1tb2RlIiA6YnJhbmNoICJtYWluIikpCmBgYApOb3RlOiBUaGlzIHBhY2th\nZ2UgcmVxdWlyZXMgW2xzcC1tb2RlXShodHRwczovL2dpdGh1Yi5jb20vZW1h\nY3MtbHNwL2xzcC1tb2RlKQoKYGBgZWxpc3AKKHBhY2thZ2UhIGxzcC1tb2Rl\nKQpgYGAKIyMgU2NyZWVuc2hvdAoKIVtBbGwgaXRzIGdsb3J5XShodHRwczov\nL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcGltZXlzL2VtYWNzLXByaXNt\nYS1tb2RlL21haW4vZW1hY3MtbWFqb3ItbW9kZS5wbmcpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/pimeys/emacs-prisma-mode/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/pimeys/emacs-prisma-mode/git/blobs/f934369bf10469ced237a642e329f2bfda34e677",
+    "html": "https://github.com/pimeys/emacs-prisma-mode/blob/main/README.md"
+  }
+}

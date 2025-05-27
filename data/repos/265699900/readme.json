@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "4de8488745eb4855908df9805370d50be55f0baa",
+  "size": 1562,
+  "url": "https://api.github.com/repos/pink-gorilla/goldly/contents/README.md?ref=master",
+  "html_url": "https://github.com/pink-gorilla/goldly/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/pink-gorilla/goldly/git/blobs/4de8488745eb4855908df9805370d50be55f0baa",
+  "download_url": "https://raw.githubusercontent.com/pink-gorilla/goldly/master/README.md",
+  "type": "file",
+  "content": "IyBHb2xkbHkgClshW0dpdEh1YiBBY3Rpb25zIHN0YXR1cyB8cGluay1nb3Jp\nbGxhL2dvbGRseV0oaHR0cHM6Ly9naXRodWIuY29tL3BpbmstZ29yaWxsYS9n\nb2xkbHkvd29ya2Zsb3dzL0NJL2JhZGdlLnN2ZyldKGh0dHBzOi8vZ2l0aHVi\nLmNvbS9waW5rLWdvcmlsbGEvZ29sZGx5L2FjdGlvbnM/d29ya2Zsb3c9Q0kp\nClshW0Nsb2phcnMgUHJvamVjdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9j\nbG9qYXJzL3Yvb3JnLnBpbmtnb3JpbGxhL2dvbGRseS5zdmcpXShodHRwczov\nL2Nsb2phcnMub3JnL29yZy5waW5rZ29yaWxsYS9nb2xkbHkpCgotIGdvbGRs\neSB1c2VzIHRoZSBzY2kgY2xvanVyZShzY3JpcHQpIGludGVycHJldGVyIHRv\nIGNyZWF0ZSBhIGNsb2p1cmVzY3JpcHQga2VybmVsLgotIGdvbGRseSB1c2Vz\nIHdlYmx5IHRvIGNyZWF0ZSBsYXp5LWxvYWRhYmxlLWpzLW1vZHVsZXMgdmlh\nIHNoYWRvdy1jbGpzLgotIGdvbGRseSBoYXMgMiBzdWItcHJvamVjdHM6CiAg\nLSBnb2xkbHktc2NpOiAgY3JlYXRlcyBhIHNjaS1pbnRlcnByZXRlciBzZXR1\ncCB0aGF0IHdvcmtzIHdpdGggc2hhZG93LWNsanMgbGF6eSBtb2R1bGVzLgog\nIC0gc2NpLWNvbmZpZ3M6IGNyZWF0ZXMgbW9kdWxlcyBiYXNlZCBvbiBzY2kt\nY29uZmlncyBuYW1lc3BhY2UgbWFwcGluZ3MuCgojIyBkZW1vCgpUaGUgZGVt\nbyBpcyBtYWlubHkgdGhlcmUgZm9yIGRldmVsb3BtZW50IG9mIGdvbGRseS4g\nCgpDbG9uZSBnb2xkbHkgZ2l0IHJlcG8uCgoKYGBgCmNkIGRlbW8KY2xqIC1Y\nOndlYmx5Om5wbS1pbnN0YWxsCmNsaiAtWDp3ZWJseTpjb21waWxlCmNsaiAt\nWDpuYmV2YWwKY2xqIC1YOndlYmx5OnJ1bgoKYGBgCiMjIGdvbGRseSAtIGlu\nIHlvdXIgIHByb2plY3QgKip3aXRoIGN1c3RvbSB1aS1yZW5kZXJlcnMqKgoK\nWW91IG5lZWQgdG8gYWRkIHRoZSAqKmdvbGRseSoqIGFydGVmYWN0IHRvIGJ1\naWxkIGphdmFzY3JpcHQgYnVuZGxlIGZyb20gc2NyYXRjaC4gClRoaXMgdGFr\nZXMgbW9yZSB0aW1lIChucG0gZGVwZW5kZW5jaWVzIGhhdmUgdG8gYmUgZG93\nbmxvYWRlZCwgamF2YXNjcmlwdCBidW5kbGUgbmVlZHMgdG8gYmUgY29tcGls\nZWQpLCAKYnV0IGl0IGFsbG93cyB5b3UgdG8gYWRkIGN1c3RvbSB1aSByZW5k\nZXJlcnMgdG8geW91ciBnb2xkbHkgYXBwLgoKVGhpcyBjb25maWd1cmVzIGdv\nbGRseSB3aXRoIHlvdXIgc2V0IG9mIHVpLXJlbmRlcmVycy4KCllvdSBoYXZl\nIHRvIGluY2x1ZGUgdGhlIGdvbGRseSBhbmQgdWktcmVuZGVyZXIgZGVwZW5k\nZW5jaWVzLCBhbmQgdGhlbiBhZGQgdGhlCm5hbWVzcGFjZSBvZiB0aGUgdWkt\ncmVuZGVyZXIgdG8gZ29sZGx5L2V4dGVuc2lvbnMuIFRoaXMgYWxsb3dzIGdv\nbGRseSB0byAKYWRkIHRoZSB1aSBleHRlbnNpb25zIHRvIHRoZSBqYXZhc2Ny\naXB0IGJ1bmRsZS4KCkhhdmUgYSBsb29rIGF0IFt1aS1iaW5hcnktY2xvY2td\nKGh0dHBzOi8vZ2l0aHViLmNvbS9waW5rLWdvcmlsbGEvdWktYmluYXJ5LWNs\nb2NrKSB0bwpzZWUgaG93IHlvdSBjYW4gYnVpbGQgYSBjdXN0b20gamF2YXNj\ncmlwdCBqcyBidW5kbGUgd2l0aCBnb2xkbHkuIAoKCgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/pink-gorilla/goldly/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/pink-gorilla/goldly/git/blobs/4de8488745eb4855908df9805370d50be55f0baa",
+    "html": "https://github.com/pink-gorilla/goldly/blob/master/README.md"
+  }
+}

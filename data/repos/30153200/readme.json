@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "eb136147fa3d7a04cf7efd7a20d889bdf6f38d82",
+  "size": 1383,
+  "url": "https://api.github.com/repos/junegunn/vim-peekaboo/contents/README.md?ref=master",
+  "html_url": "https://github.com/junegunn/vim-peekaboo/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/junegunn/vim-peekaboo/git/blobs/eb136147fa3d7a04cf7efd7a20d889bdf6f38d82",
+  "download_url": "https://raw.githubusercontent.com/junegunn/vim-peekaboo/master/README.md",
+  "type": "file",
+  "content": "dmltLXBlZWthYm9vCj09PT09PT09PT09PQoKIVtdKGh0dHBzOi8vY2xvdWQu\nZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Fzc2V0cy83MDA4MjYvNjA5NTI2MS9i\nYjAwMzQwYy1hZjk2LTExZTQtOWRmNS05Y2Q4Njk2NzNhMTEuZ2lmKQoKUGVl\na2Fib28gZXh0ZW5kcyBgImAgYW5kIGBAYCBpbiBub3JtYWwgbW9kZSBhbmQg\nYDxDVFJMLVI+YCBpbiBpbnNlcnQgbW9kZSBzbwp5b3UgY2FuIHNlZSB0aGUg\nY29udGVudHMgb2YgdGhlIHJlZ2lzdGVycy4KCkluc3RhbGxhdGlvbgotLS0t\nLS0tLS0tLS0KClVzaW5nIFt2aW0tcGx1Z10oaHR0cHM6Ly9naXRodWIuY29t\nL2p1bmVndW5uL3ZpbS1wbHVnKToKCmBgYHZpbQpQbHVnICdqdW5lZ3Vubi92\naW0tcGVla2Fib28nCmBgYAoKVXNhZ2UKLS0tLS0KClBlZWthYm9vIHdpbGwg\nc2hvdyB5b3UgdGhlIGNvbnRlbnRzIG9mIHRoZSByZWdpc3RlcnMgb24gdGhl\nIHNpZGViYXIgd2hlbiB5b3UKaGl0IGAiYCBvciBgQGAgaW4gbm9ybWFsIG1v\nZGUgb3IgYDxDVFJMLVI+YCBpbiBpbnNlcnQgbW9kZS4gVGhlIHNpZGViYXIg\naXMKYXV0b21hdGljYWxseSBjbG9zZWQgb24gc3Vic2VxdWVudCBrZXkgc3Ry\nb2tlcy4KCllvdSBjYW4gdG9nZ2xlIGZ1bGxzY3JlZW4gbW9kZSBieSBwcmVz\nc2luZyBzcGFjZWJhci4KCkN1c3RvbWl6YXRpb24KLS0tLS0tLS0tLS0tLQoK\nfCBDb25maWcgICAgICAgICAgICAgICAgICB8IERlZmF1bHQgICAgICAgICB8\nIERlc2NyaXB0aW9uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg\nICAgICAgfAp8IC0tLS0tLSAgICAgICAgICAgICAgICAgIHwgLS0tLS0tLSAg\nICAgICAgIHwgLS0tLS0tLS0tLS0gICAgICAgICAgICAgICAgICAgICAgICAg\nICAgICAgICAgICAgICB8CnwgYGc6cGVla2Fib29fd2luZG93YCAgICAgfCBg\ndmVydCBibyAzMG5ld2AgfCBDb21tYW5kIGZvciBjcmVhdGluZyBQZWVrYWJv\nbyB3aW5kb3cgICAgICAgICAgICAgIHwKfCBgZzpwZWVrYWJvb19kZWxheWAg\nICAgICB8IDAgKG1zKSAgICAgICAgICB8IERlbGF5IG9wZW5pbmcgb2YgUGVl\na2Fib28gd2luZG93ICAgICAgICAgICAgICAgICAgfAp8IGBnOnBlZWthYm9v\nX2NvbXBhY3RgICAgIHwgMCAoYm9vbGVhbikgICAgIHwgQ29tcGFjdCBkaXNw\nbGF5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CnwgYGc6\ncGVla2Fib29fcHJlZml4YCAgICAgfCBFbXB0eSAoc3RyaW5nKSAgfCBQcmVm\naXggZm9yIGtleSBtYXBwaW5nIChlLmcuIGA8bGVhZGVyPmApICAgICAgICAg\nIHwKfCBgZzpwZWVrYWJvb19pbnNfcHJlZml4YCB8IEVtcHR5IChzdHJpbmcp\nICB8IFByZWZpeCBmb3IgaW5zZXJ0IG1vZGUga2V5IG1hcHBpbmcgKGUuZy4g\nYDxjLXg+YCkgfAoKTGljZW5zZQotLS0tLS0tCgpNSVQK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/junegunn/vim-peekaboo/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/junegunn/vim-peekaboo/git/blobs/eb136147fa3d7a04cf7efd7a20d889bdf6f38d82",
+    "html": "https://github.com/junegunn/vim-peekaboo/blob/master/README.md"
+  }
+}

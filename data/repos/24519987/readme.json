@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "4d54a71eeeafcd799e1b5c50b7f6d56dd086e485",
+  "size": 1514,
+  "url": "https://api.github.com/repos/squid-cache/squid/contents/README?ref=master",
+  "html_url": "https://github.com/squid-cache/squid/blob/master/README",
+  "git_url": "https://api.github.com/repos/squid-cache/squid/git/blobs/4d54a71eeeafcd799e1b5c50b7f6d56dd086e485",
+  "download_url": "https://raw.githubusercontent.com/squid-cache/squid/master/README",
+  "type": "file",
+  "content": "U1FVSUQgV2ViIFByb3h5IENhY2hlICAgICAgICAgICAgICAgICAgICAgICAg\naHR0cDovL3d3dy5zcXVpZC1jYWNoZS5vcmcvCi0tLS0tLS0tLS0tLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t\nLS0tLS0tLS0tLQoKQ29weXJpZ2h0IChDKSAxOTk2LTIwMjUgVGhlIFNxdWlk\nIFNvZnR3YXJlIEZvdW5kYXRpb24gYW5kIGNvbnRyaWJ1dG9ycwoKU3F1aWQg\nc29mdHdhcmUgaXMgZGlzdHJpYnV0ZWQgdW5kZXIgR1BMdjIrIGxpY2Vuc2Ug\nYW5kIGluY2x1ZGVzIApjb250cmlidXRpb25zIGZyb20gbnVtZXJvdXMgaW5k\naXZpZHVhbHMgYW5kIG9yZ2FuaXphdGlvbnMuClBsZWFzZSBzZWUgdGhlIENP\nUFlJTkcgYW5kIENPTlRSSUJVVE9SUyBmaWxlcyBmb3IgZGV0YWlscy4KCgpG\nb3Igc3VwcG9ydCwgcGxlYXNlIHVzZSB0aGUgZm9sbG93aW5nIHJlc291cmNl\nczoKCiAgICAqIEdlbmVyYWwgaGVscCBhbmQgc3VwcG9ydDogIHNxdWlkLXVz\nZXJzQGxpc3RzLnNxdWlkLWNhY2hlLm9yZwogICAgKiBQdWJsaWMgYnVnIHJl\ncG9ydHM6ICAgICAgICBodHRwczovL2J1Z3Muc3F1aWQtY2FjaGUub3JnLwog\nICAgKiBTZWN1cml0eSBidWcgcmVwb3J0czogICAgICBzcXVpZC1idWdzQGxp\nc3RzLnNxdWlkLWNhY2hlLm9yZwogICAgKiBEZXZlbG9wbWVudCBkaXNjdXNz\naW9uczogICBzcXVpZC1kZXZAbGlzdHMuc3F1aWQtY2FjaGUub3JnCgpGb3Ig\nbWFpbGluZyBsaXN0IHN1YnNjcmlwdGlvbiBpbnN0cnVjdGlvbnMsIHByb2pl\nY3QgbWFpbnRhaW5lcnMgY29udGFjdAppbmZvcm1hdGlvbiwgY29tbWVyY2lh\nbCBzZXJ2aWNlcywgYW5kIG1hbnkgb3RoZXIgc3VwcG9ydCBkZXRhaWxzLCBw\nbGVhc2UKdmlzaXQgaHR0cDovL3d3dy5zcXVpZC1jYWNoZS5vcmcvU3VwcG9y\ndC8KCgpUaGlzIHByb2dyYW0gaXMgZnJlZSBzb2Z0d2FyZTsgeW91IGNhbiBy\nZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQppdCB1bmRlciB0aGUgdGVy\nbXMgb2YgdGhlIEdOVSBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIGFzIHB1Ymxp\nc2hlZCBieQp0aGUgRnJlZSBTb2Z0d2FyZSBGb3VuZGF0aW9uOyBlaXRoZXIg\ndmVyc2lvbiAyIG9mIHRoZSBMaWNlbnNlLCBvcgooYXQgeW91ciBvcHRpb24p\nIGFueSBsYXRlciB2ZXJzaW9uLgoKVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1\ndGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCmJ1dCBX\nSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVk\nIHdhcnJhbnR5IG9mCk1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBB\nIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKR05VIEdlbmVyYWwgUHVi\nbGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4KCllvdSBzaG91bGQgaGF2\nZSByZWNlaXZlZCBhIGNvcHkgb2YgdGhlIEdOVSBHZW5lcmFsIFB1YmxpYyBM\naWNlbnNlCmFsb25nIHdpdGggdGhpcyBwcm9ncmFtLiBJZiBub3QsIHNlZSBo\ndHRwOi8vd3d3LmdudS5vcmcvbGljZW5zZXMvLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/squid-cache/squid/contents/README?ref=master",
+    "git": "https://api.github.com/repos/squid-cache/squid/git/blobs/4d54a71eeeafcd799e1b5c50b7f6d56dd086e485",
+    "html": "https://github.com/squid-cache/squid/blob/master/README"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "849ba709ca5d6286adc08d1197c5481cd304a4da",
+  "size": 608,
+  "url": "https://api.github.com/repos/thefuga/parcelsapp-crawler/contents/README.md?ref=main",
+  "html_url": "https://github.com/thefuga/parcelsapp-crawler/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/thefuga/parcelsapp-crawler/git/blobs/849ba709ca5d6286adc08d1197c5481cd304a4da",
+  "download_url": "https://raw.githubusercontent.com/thefuga/parcelsapp-crawler/main/README.md",
+  "type": "file",
+  "content": "IyBQYXJjZWxzIEFwcCBDcmF3bGVyClRoaXMgaXMgYSBzaWxseSBhdXRvbWF0\naW9uIHRvIHRyYWNrIHBhcmNlbHMgZnJvbSBQYXJjZWxzIEFwcCBmcm9tIHRo\nZSB0ZXJtaW5hbCwgCmFsbG93aW5nIHN0dWZmIGxpa2UgZm9ybWF0dGluZyB3\naXRoIEpRLCBUTVVYIGFuZCBQb2x5YmFyIHZpc3VhbGl6YXRpb24sIGFuZCBz\nbyBvbi4KCiMjIEhvdyB0byB1c2UgaXQ/Ci0gQ29weSB0aGUgYGNvbmZpZy5l\neGFtcGxlLmpzb25gIGZpbGUgdG8gYGNvbmZpZy5qc29uYCBhbmQgZmlsbCBp\ndCB3aXRoIHRoZSBwcm9wZXIgdmFsdWVzLgoJLSBgY2hyb21lX3BhdGhgIGlz\nIG9wdGlvbmFsIGFuZCBtdXN0IG9ubHkgYmUgdXNlZCBpZiB0aGUgYXBwbGlj\nYXRpb24gZG9lc24ndCBsb2NhdGUgaXQuCi0gQnVpbGQgdGhlIGFwcCAoYGdv\nIGJ1aWxkIG1haW4uZ29gKSBhbmQgcnVuIHRoZSBiaW5hcnksIG9yIHNpbXBs\neSBydW4gaXQgd2l0aCBgZ28gcnVuIG1haW4uZ29gLgotIFdhaXQgZm9yIHRo\nZSBhcHBsaWNhdGlvbiB0byBjcmF3bCB0aGUgd2Vic2l0ZSBhbmQgZmV0Y2gg\ndGhlIHRyYWNraW5nIGluZm8uCgojIyMgUmVxdWlyZW1lbnRzCi0gR28gMS4x\nOSAoPjEuMTUgc2hvdWxkIGRvIGl0KQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/thefuga/parcelsapp-crawler/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/thefuga/parcelsapp-crawler/git/blobs/849ba709ca5d6286adc08d1197c5481cd304a4da",
+    "html": "https://github.com/thefuga/parcelsapp-crawler/blob/main/README.md"
+  }
+}

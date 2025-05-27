@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "13f8fe425c7a784d20035e4e7a8b4d35206a8f59",
+  "size": 1302,
+  "url": "https://api.github.com/repos/froggey/Iota/contents/README?ref=master",
+  "html_url": "https://github.com/froggey/Iota/blob/master/README",
+  "git_url": "https://api.github.com/repos/froggey/Iota/git/blobs/13f8fe425c7a784d20035e4e7a8b4d35206a8f59",
+  "download_url": "https://raw.githubusercontent.com/froggey/Iota/master/README",
+  "type": "file",
+  "content": "SW90YSBpcyBhbiBMTFZNIHRvIENMIHRyYW5zcGlsZXIsIHNpbWlsYXIgdG8g\nZW1zY3JpcHRlbi4gSXQgY29udmVydHMgTExWTSBiaXRjb2RlCnRvIHNhZmUs\nIHBvcnRhYmxlIENvbW1vbiBMaXNwIGNvZGUuCgoKUXVpY2sgU3RhcnQKLS0t\nLS0KCiMgWW91J2xsIHByb2JhYmx5IHdhbnQgdG8gbWFrZSB0aGlzIGF2YWls\nYWJsZSBhcyBhIHF1aWNrbGlzcCBsb2NhbCBwcm9qZWN0LgoKIyBPcHRpb25h\nbCwgZm9yIHBhcmFsbGVsIGJ1aWxkcwpleHBvcnQgTUFLRUZMQUdTPS1qMgoK\nIyBDbG9uZSB0aGUgTExWTS9DbGFuZyByZXBvcy4KLi9mZXRjaC1sbHZtLnNo\nCgojIEJ1aWxkIExMVk0sIENsYW5nLCBhbmQgdGhlIHRyYW5zbGF0b3IuCiMg\nVGhpcyB3aWxsIHRha2UgYSBsb25nIHRpbWUgdW5sZXNzIHlvdSBoYXZlIGEg\nYmVlZnkgbWFjaGluZS4KLi9idWlsZC1sbHZtLnNoCgojIEJ1aWxkICYgdHJh\nbnNsYXRlIGxpYnJhcmllcyBhbmQgcHJvZ3JhbXMuCi4vYnVpbGQuc2gKCiMg\nTG9hZCBpbnRvIExpc3AuCmxpc3AgLS1sb2FkIGxvYWQubGlzcAoKIyBwcmJv\nb20gJiBzZGxxdWFrZSBjYW4gbm93IGJlIHJ1biB1c2luZyAoQ0wtVVNFUjo6\nUlVOLVBSQk9PTSkgYW5kIChDTC1VU0VSOjpSVU4tU0RMUVVBS0UpLgoKClVz\nYWdlCi0tLS0tCgpUaGUgYnVpbGQtbGx2bS5zaCBhbmQgYnVpbGQuc2ggc2Ny\naXB0cyBidWlsZCB0aGUgdHJhbnNsYXRvciBhbmQgY29tcGlsZXIsCmluc3Rh\nbGxpbmcgdGhlbSBpbiB0aGUgdG9vbGNoYWluLyBzdWJkaXJlY3RvcnkuCkMg\nc291cmNlIGNvZGUgY2FuIGJlIGNvbXBpbGVkIHRvIG9iamVjdCBmaWxlcyBh\ncyBub3JtYWwgdXNpbmcgY2xhbmcgLWMuClRoZXJlIGlzIG5vIGxkLXN0eWxl\nIGxpbmtlciwgc28gb2JqZWN0IGNvZGUgYW5kIGxpYnJhcmllcyBtdXN0IGJl\nIGxpbmtlZAp3aXRoIGxsdm0tbGluay4KVGhlIGxpbmtlZCBiaXRjb2RlIGZp\nbGUgY2FuIHRoZW4gYmUgdHJhbnNsYXRlZCB3aXRoIGlvdGEuCgoKRXhhbXBs\nZQotLS0tLQoKY2F0ID4gZXhhbXBsZS5jIDw8RU9GCiNpbmNsdWRlIDxzdGRp\nby5oPgppbnQgbWFpbihpbnQgYXJnYywgY2hhciAqKmFyZ3YpIHsKICAgIHBy\naW50ZigiSGVsbG8sIFdvcmxkIVxuIik7CiAgICByZXR1cm4gMDsKfQpFT0YK\ndG9vbGNoYWluL2Jpbi9jbGFuZyAtYyBleGFtcGxlLmMKdG9vbGNoYWluL2Jp\nbi9sbHZtLWxpbmsgLW89ZXhhbXBsZS5iYyBleGFtcGxlLm8gdG9vbGNoYWlu\nL2xlMzItaW90YS9saWIvbGliYy5hCnRvb2xjaGFpbi9iaW4vaW90YSAtcGFj\na2FnZT0iOmV4YW1wbGUiIGV4YW1wbGUuYmMgPiBleGFtcGxlLmxpc3AK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/froggey/Iota/contents/README?ref=master",
+    "git": "https://api.github.com/repos/froggey/Iota/git/blobs/13f8fe425c7a784d20035e4e7a8b4d35206a8f59",
+    "html": "https://github.com/froggey/Iota/blob/master/README"
+  }
+}

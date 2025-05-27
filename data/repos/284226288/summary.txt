@@ -1,0 +1,1 @@
+This repository provides a modern styling revamp of the orgmode homepage, utilizing SCSS for styling. The project focuses on updating the visual presentation, aiming for a contemporary aesthetic while avoiding the use of "modern" JavaScript. It is likely a web-based front-end project, with the primary deliverable being a stylesheet.

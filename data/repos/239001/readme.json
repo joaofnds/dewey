@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "c8d721746e88cd01288de970f20316fd913efdf8",
+  "size": 1601,
+  "url": "https://api.github.com/repos/rspec/rspec-metagem/contents/README.md?ref=main",
+  "html_url": "https://github.com/rspec/rspec-metagem/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/rspec/rspec-metagem/git/blobs/c8d721746e88cd01288de970f20316fd913efdf8",
+  "download_url": "https://raw.githubusercontent.com/rspec/rspec-metagem/main/README.md",
+  "type": "file",
+  "content": "IyBSU3BlYwoKQmVoYXZpb3VyIERyaXZlbiBEZXZlbG9wbWVudCBmb3IgUnVi\neQoKKipUaGlzIGlzIHRoZSBvbGQgcnNwZWMgbWV0YWdlbSByZXBvc2l0b3J5\nLCBwbGVhc2Ugc2VlIHRoZSBtb25vcmVwbyByc3BlYy9yc3BlYyBmb3IKbmV3\nIGlzc3VlcyBhbmQgcmVsZWFzZXMuKioKCiMjIERlc2NyaXB0aW9uCgpyc3Bl\nYyBpcyBhIG1ldGEtZ2VtLCB3aGljaCBkZXBlbmRzIG9uIHRoZQpbcnNwZWMt\nY29yZV0oaHR0cHM6Ly9naXRodWIuY29tL3JzcGVjL3JzcGVjLWNvcmUpLApb\ncnNwZWMtZXhwZWN0YXRpb25zXShodHRwczovL2dpdGh1Yi5jb20vcnNwZWMv\ncnNwZWMtZXhwZWN0YXRpb25zKQphbmQgW3JzcGVjLW1vY2tzXShodHRwczov\nL2dpdGh1Yi5jb20vcnNwZWMvcnNwZWMtbW9ja3MpIGdlbXMuIEVhY2ggb2Yg\ndGhlc2UKY2FuIGJlIGluc3RhbGxlZCBzZXBhcmF0ZWx5IGFuZCBsb2FkZWQg\naW4gaXNvbGF0aW9uIHVzaW5nIGByZXF1aXJlYC4gQW1vbmcKb3RoZXIgYmVu\nZWZpdHMsIHRoaXMgYWxsb3dzIHlvdSB0byB1c2UgcnNwZWMtZXhwZWN0YXRp\nb25zLCBmb3IgZXhhbXBsZSwgaW4KVGVzdDo6VW5pdDo6VGVzdENhc2UgaWYg\neW91IGhhcHBlbiB0byBwcmVmZXIgdGhhdCBzdHlsZS4KCkNvbnZlcnNlbHks\nIGlmIHlvdSBsaWtlIFJTcGVjJ3MgYXBwcm9hY2ggdG8gZGVjbGFyaW5nIGV4\nYW1wbGUgZ3JvdXBzIGFuZApleGFtcGxlcyAoYGRlc2NyaWJlYCBhbmQgYGl0\nYCkgYnV0IHByZWZlciBUZXN0OjpVbml0IGFzc2VydGlvbnMgYW5kClttb2No\nYV0oaHR0cHM6Ly9naXRodWIuY29tL2ZyZWVyYW5nZS9tb2NoYSksIFtycl0o\naHR0cHM6Ly9naXRodWIuY29tL3JyL3JyKQpvciBbZmxleG1vY2tdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9qaW13ZWlyaWNoL2ZsZXhtb2NrKSBmb3IgbW9ja2lu\nZywgeW91J2xsIGJlCmFibGUgdG8gZG8gdGhhdCB3aXRob3V0IGhhdmluZyB0\nbyBpbnN0YWxsIG9yIGxvYWQgdGhlIGNvbXBvbmVudHMgb2YgUlNwZWMgdGhh\ndAp5b3UncmUgbm90IHVzaW5nLgoKIyMgRG9jdW1lbnRhdGlvbgoKU2VlIGh0\ndHA6Ly9yc3BlYy5pbmZvL2RvY3VtZW50YXRpb24vIGZvciBsaW5rcyB0byBk\nb2N1bWVudGF0aW9uIGZvciBhbGwgZ2Vtcy4KCiMjIEluc3RhbGwKCiAgICBn\nZW0gaW5zdGFsbCByc3BlYwoKIyMgU2V0dXAKCiAgICByc3BlYyAtLWluaXQK\nCiMjIENvbnRyaWJ1dGUKCiogW2h0dHA6Ly9naXRodWIuY29tL3JzcGVjL3Jz\ncGVjLWRldl0oaHR0cDovL2dpdGh1Yi5jb20vcnNwZWMvcnNwZWMtZGV2KQoK\nIyMgQWxzbyBzZWUKCiogW2h0dHBzOi8vZ2l0aHViLmNvbS9yc3BlYy9yc3Bl\nYy1jb3JlXShodHRwczovL2dpdGh1Yi5jb20vcnNwZWMvcnNwZWMtY29yZSkK\nKiBbaHR0cHM6Ly9naXRodWIuY29tL3JzcGVjL3JzcGVjLWV4cGVjdGF0aW9u\nc10oaHR0cHM6Ly9naXRodWIuY29tL3JzcGVjL3JzcGVjLWV4cGVjdGF0aW9u\ncykKKiBbaHR0cHM6Ly9naXRodWIuY29tL3JzcGVjL3JzcGVjLW1vY2tzXSho\ndHRwczovL2dpdGh1Yi5jb20vcnNwZWMvcnNwZWMtbW9ja3MpCiogW2h0dHBz\nOi8vZ2l0aHViLmNvbS9yc3BlYy9yc3BlYy1yYWlsc10oaHR0cHM6Ly9naXRo\ndWIuY29tL3JzcGVjL3JzcGVjLXJhaWxzKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rspec/rspec-metagem/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/rspec/rspec-metagem/git/blobs/c8d721746e88cd01288de970f20316fd913efdf8",
+    "html": "https://github.com/rspec/rspec-metagem/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "8b3a78e51df782e5059b8847ba2c5662f4ba0728",
+  "size": 35,
+  "url": "https://api.github.com/repos/regiszanandrea/nvim/contents/README.md?ref=main",
+  "html_url": "https://github.com/regiszanandrea/nvim/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/regiszanandrea/nvim/git/blobs/8b3a78e51df782e5059b8847ba2c5662f4ba0728",
+  "download_url": "https://raw.githubusercontent.com/regiszanandrea/nvim/main/README.md",
+  "type": "file",
+  "content": "IyBudmltCk52aW0gcGVyc29uYWwgY29uZmlndXJhdGlvbgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/regiszanandrea/nvim/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/regiszanandrea/nvim/git/blobs/8b3a78e51df782e5059b8847ba2c5662f4ba0728",
+    "html": "https://github.com/regiszanandrea/nvim/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "5e844f8a1d6a78d5d2a458c9f22d7c47449bdd39",
+  "size": 1481,
+  "url": "https://api.github.com/repos/jamiebuilds/the-super-tiny-compiler/contents/README.md?ref=master",
+  "html_url": "https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/jamiebuilds/the-super-tiny-compiler/git/blobs/5e844f8a1d6a78d5d2a458c9f22d7c47449bdd39",
+  "download_url": "https://raw.githubusercontent.com/jamiebuilds/the-super-tiny-compiler/master/README.md",
+  "type": "file",
+  "content": "WyFbVGhlIFN1cGVyIFRpbnkgQ29tcGlsZXJdKGh0dHBzOi8vY2xvdWQuZ2l0\naHVidXNlcmNvbnRlbnQuY29tL2Fzc2V0cy85NTI3ODMvMjE1NzkyOTAvNTc1\nNTI4OGEtY2Y3NS0xMWU2LTkwZTAtMDI5NTI5YTQ0YTM4LnBuZyldKHRoZS1z\ndXBlci10aW55LWNvbXBpbGVyLmpzKQoKKioqV2VsY29tZSB0byBUaGUgU3Vw\nZXIgVGlueSBDb21waWxlciEqKioKClRoaXMgaXMgYW4gdWx0cmEtc2ltcGxp\nZmllZCBleGFtcGxlIG9mIGFsbCB0aGUgbWFqb3IgcGllY2VzIG9mIGEgbW9k\nZXJuIGNvbXBpbGVyCndyaXR0ZW4gaW4gZWFzeSB0byByZWFkIEphdmFTY3Jp\ncHQuCgpSZWFkaW5nIHRocm91Z2ggdGhlIGd1aWRlZCBjb2RlIHdpbGwgaGVs\ncCB5b3UgbGVhcm4gYWJvdXQgaG93ICptb3N0KiBjb21waWxlcnMKd29yayBm\ncm9tIGVuZCB0byBlbmQuCgojIyMgW1dhbnQgdG8ganVtcCBpbnRvIHRoZSBj\nb2RlPyBDbGljayBoZXJlXSh0aGUtc3VwZXItdGlueS1jb21waWxlci5qcykK\nCiMjIyBbWW91IGNhbiBhbHNvIGNoZWNrIGl0IG91dCBvbiBHbGl0Y2hdKGh0\ndHBzOi8vdGhlLXN1cGVyLXRpbnktY29tcGlsZXIuZ2xpdGNoLm1lLykKCi0t\nLQoKIyMjIFdoeSBzaG91bGQgSSBjYXJlPwoKVGhhdCdzIGZhaXIsIG1vc3Qg\ncGVvcGxlIGRvbid0IHJlYWxseSBoYXZlIHRvIHRoaW5rIGFib3V0IGNvbXBp\nbGVycyBpbiB0aGVpciBkYXkKam9icy4gSG93ZXZlciwgY29tcGlsZXJzIGFy\nZSBhbGwgYXJvdW5kIHlvdSwgdG9ucyBvZiB0aGUgdG9vbHMgeW91IHVzZSBh\ncmUgYmFzZWQKb24gY29uY2VwdHMgYm9ycm93ZWQgZnJvbSBjb21waWxlcnMu\nCgojIyMgQnV0IGNvbXBpbGVycyBhcmUgc2NhcnkhCgpZZXMsIHRoZXkgYXJl\nLiBCdXQgdGhhdCdzIG91ciBmYXVsdCAodGhlIHBlb3BsZSB3aG8gd3JpdGUg\nY29tcGlsZXJzKSwgd2UndmUKdGFrZW4gc29tZXRoaW5nIHRoYXQgaXMgcmVh\nc29uYWJseSBzdHJhaWdodGZvcndhcmQgYW5kIG1hZGUgaXQgc28gc2Nhcnkg\ndGhhdAptb3N0IHRoaW5rIG9mIGl0IGFzIHRoaXMgdG90YWxseSB1bmFwcHJv\nYWNoYWJsZSB0aGluZyB0aGF0IG9ubHkgdGhlIG5lcmRpZXN0IG9mCnRoZSBu\nZXJkcyBhcmUgYWJsZSB0byB1bmRlcnN0YW5kLgoKIyMjIE9rYXkgc28gd2hl\ncmUgZG8gSSBiZWdpbj8KCkF3ZXNvbWUhIEhlYWQgb24gb3ZlciB0byB0aGUg\nW3RoZS1zdXBlci10aW55LWNvbXBpbGVyLmpzXSh0aGUtc3VwZXItdGlueS1j\nb21waWxlci5qcykKZmlsZS4KCiMjIyBJJ20gYmFjaywgdGhhdCBkaWRuJ3Qg\nbWFrZSBzZW5zZQoKT3VjaCwgSSdtIHJlYWxseSBzb3JyeS4gTGV0IG1lIGtu\nb3cgaG93IGl0IGNhbiBiZSBpbXByb3ZlZC4KCiMjIyBUZXN0cwoKUnVuIHdp\ndGggYG5vZGUgdGVzdC5qc2AKCi0tLQoKWyFbY2MtYnktNC4wXShodHRwczov\nL2xpY2Vuc2VidXR0b25zLm5ldC9sL2J5LzQuMC84MHgxNS5wbmcpXShodHRw\nOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jamiebuilds/the-super-tiny-compiler/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/jamiebuilds/the-super-tiny-compiler/git/blobs/5e844f8a1d6a78d5d2a458c9f22d7c47449bdd39",
+    "html": "https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/README.md"
+  }
+}

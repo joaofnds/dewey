@@ -1,0 +1,1 @@
+`n7olkachev/imgdiff` is a Go-based standalone application designed for high-speed pixel-by-pixel image comparison. The core functionality allows users to efficiently determine the differences between two images. This tool is a command-line interface (CLI) utility, emphasizing speed as its primary distinguishing characteristic.

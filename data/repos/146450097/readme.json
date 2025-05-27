@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "c661e4068fb108ba88f5ccf3874ebed902851150",
+  "size": 684,
+  "url": "https://api.github.com/repos/istioinaction/book-source-code/contents/README.md?ref=master",
+  "html_url": "https://github.com/istioinaction/book-source-code/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/istioinaction/book-source-code/git/blobs/c661e4068fb108ba88f5ccf3874ebed902851150",
+  "download_url": "https://raw.githubusercontent.com/istioinaction/book-source-code/master/README.md",
+  "type": "file",
+  "content": "PGltZyBhbGlnbj0icmlnaHQiIHdpZHRoPSIxODAiIHNyYz0iaHR0cHM6Ly9p\nbWFnZXMubWFubmluZy5jb20vMzYwLzQ4MC9yZXNpemUvYm9vay85L2M0Yzcw\nYjItYjZjOC00MDYxLThhZDMtOGY1MDM2ODlmZmRkL1Bvc3RhLUlzdGlvLUhJ\nLnBuZyI+CgojIElzdGlvIGluIEFjdGlvbgoKVGhpcyBzb3VyY2UgY29kZSBy\nZXBvc2l0b3J5IGlzIGEgY29tcGFuaW9uIHRvIHRoZSBbSXN0aW8gaW4gQWN0\naW9uXShodHRwczovL3d3dy5tYW5uaW5nLmNvbS9ib29rcy9pc3Rpby1pbi1h\nY3Rpb24/Z2NsaWQ9Q2p3S0NBandtSzZJQmhCcUVpd0FvY01jOHIxQ2JoTk1r\ndTdTZnRYb2RNVTN0bUFPaTBoNjY1bmlMTWtKRi00cFEwbzZ0aURhR0d3VWVC\nb0NwTGdRQXZEX0J3RSkgYm9vayBhdmFpbGFibGUgZnJvbSBNYW5uaW5nIFB1\nYmxpY2F0aW9ucy4KCiMjIEhvdyB0byB1c2UgdGhpcyByZXBvc2l0b3J5PwoK\nVGhlIGZpbGVzIGluIHRoaXMgcmVwb3NpdG9yeSBhcmUgdXNlZCBpbiB0aGUg\nYm9vayB0byBkZW1vbnN0cmF0ZSB0aGUgZmVhdHVyZXMgb2YgdGhlIHNlcnZp\nY2UgbWVzaC4gRWFjaCBjaGFwdGVyJ3MgZmlsZXMgYXJlIGluIHRoZWlyIG93\nbiBkaXJlY3RvcnksIG1lYW53aGlsZSwgdGhlIHNlcnZpY2VzIHVzZWQgYWNy\nb3NzIGFsbCB0aGUgZXhhbXBsZXMgYXJlIGluIHRoZSBgc2VydmljZXNgIGRp\ncmVjdG9yeS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/istioinaction/book-source-code/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/istioinaction/book-source-code/git/blobs/c661e4068fb108ba88f5ccf3874ebed902851150",
+    "html": "https://github.com/istioinaction/book-source-code/blob/master/README.md"
+  }
+}

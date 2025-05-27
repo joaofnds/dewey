@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "758515e632f528962d16d303d732f0727d81c67c",
+  "size": 1278,
+  "url": "https://api.github.com/repos/alash3al/smtp2http/contents/README.md?ref=master",
+  "html_url": "https://github.com/alash3al/smtp2http/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/alash3al/smtp2http/git/blobs/758515e632f528962d16d303d732f0727d81c67c",
+  "download_url": "https://raw.githubusercontent.com/alash3al/smtp2http/master/README.md",
+  "type": "file",
+  "content": "U01UUDJIVFRQIChlbWFpbC10by13ZWIpCj09PT09PT09PT09PT09PT09PT09\nPT09PQpzbXRwMmh0dHAgaXMgYSBzaW1wbGUgc210cCBzZXJ2ZXIgdGhhdCBy\nZXNlbmRzIHRoZSBpbmNvbWluZyBlbWFpbCB0byB0aGUgY29uZmlndXJlZCB3\nZWIgZW5kcG9pbnQgKHdlYmhvb2spIGFzIGEgYmFzaWMgaHR0cCBwb3N0IHJl\ncXVlc3QuCgpEZXYgCj09PQotIGBnbyBtb2QgdmVuZG9yYAotIGBnbyBidWls\nZGAKCkRldiB3aXRoIERvY2tlcgo9PT09PT09PT09PT09PQpMb2NhbGx5IDoK\nLSBgZ28gbW9kIHZlbmRvcmAKLSBgZG9ja2VyIGJ1aWxkIC1mIERvY2tlcmZp\nbGUuZGV2IC10IHNtdHAyaHR0cC1kZXYgLmAKLSBgZG9ja2VyIHJ1biAtcCAy\nNToyNSBzbXRwMmh0dHAtZGV2IC0tdGltZW91dC5yZWFkPTUwIC0tdGltZW91\ndC53cml0ZT01MCAtLXdlYmhvb2s9aHR0cDovL3NvbWUuaG9vay9hcGlgCgpP\nciBidWlsZCBpdCBhcyBpdCBjb21lcyBmcm9tIHRoZSByZXBvIDoKLSBgZG9j\na2VyIGJ1aWxkIC10IHNtdHAyaHR0cCAuYAotIGBkb2NrZXIgcnVuIC1wIDI1\nOjI1IHNtdHAyaHR0cCAtLXRpbWVvdXQucmVhZD01MCAtLXRpbWVvdXQud3Jp\ndGU9NTAgLS13ZWJob29rPWh0dHA6Ly9zb21lLmhvb2svYXBpYAoKVGhlIGB0\naW1lb3V0YCBvcHRpb25zIGFyZSBvZiBjb3Vyc2Ugb3B0aW9uYWwgYnV0IG1h\na2UgaXQgZWFzaWVyIHRvIHRlc3QgaW4gbG9jYWwgd2l0aCBgdGVsbmV0IGxv\nY2FsaG9zdCAyNWAKSGVyZSBpcyBhIHRlbG5ldCBleGFtcGxlIHBheWxvYWQg\nOiAKYGBgCkhFTE8gemV1cwojIHNtdHAgYW5zd2VyCgpNQUlMIEZST006PGVt\nYWlsQGZyb20uY29tPgojIHNtdHAgYW5zd2VyCgpSQ1BUIFRPOjx5b3VyZW1h\naWxAZXhhbXBsZS5jb20+CiMgc210cCBhbnN3ZXIKCkRBVEEKeW91ciBtYWls\nIGNvbnRlbnQKLgoKYGBgCgpEb2NrZXIgKHByb2R1Y3Rpb24pCj09PT09Cioq\nRG9ja2VyIGltYWdlcyBhcm4ndCBhdmFpbGFibGUgb25saW5lIGZvciBub3cq\nKgoqKlNlZSAiRGV2IHdpdGggRG9ja2VyIiBhYm92ZSoqCi0gYGRvY2tlciBy\ndW4gLXAgMjU6MjUgc210cDJodHRwIC0td2ViaG9vaz1odHRwOi8vc29tZS5o\nb29rL2FwaWAKCk5hdGl2ZSB1c2FnZQo9PT09PQpgc210cDJodHRwIC0tbGlz\ndGVuPToyNSAtLXdlYmhvb2s9aHR0cDovL2xvY2FsaG9zdDo4MDgwL2FwaS9z\nbXRwLWhvb2tgCmBzbXRwMmh0dHAgLS1oZWxwYAoKQ29udHJpYnV0aW9uCj09\nPT09PT09PT09PQpPcmlnaW5hbCByZXBvIGZyb20gQGFsYXNoM2FsClRoYW5r\ncyB0byBAYXJhbmFqdWFuCgoK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/alash3al/smtp2http/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/alash3al/smtp2http/git/blobs/758515e632f528962d16d303d732f0727d81c67c",
+    "html": "https://github.com/alash3al/smtp2http/blob/master/README.md"
+  }
+}

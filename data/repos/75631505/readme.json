@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9631f2f948f6eb9c547a5e770f142ee9768390bc",
+  "size": 50,
+  "url": "https://api.github.com/repos/surma/underdash/contents/README.md?ref=master",
+  "html_url": "https://github.com/surma/underdash/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/surma/underdash/git/blobs/9631f2f948f6eb9c547a5e770f142ee9768390bc",
+  "download_url": "https://raw.githubusercontent.com/surma/underdash/master/README.md",
+  "type": "file",
+  "content": "IyB1bmRlcmRhc2gKClNlZSBodHRwczovL3N1cm1hLmdpdGh1Yi5pby91bmRl\ncmRhc2g=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/surma/underdash/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/surma/underdash/git/blobs/9631f2f948f6eb9c547a5e770f142ee9768390bc",
+    "html": "https://github.com/surma/underdash/blob/master/README.md"
+  }
+}

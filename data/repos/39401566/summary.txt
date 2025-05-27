@@ -1,0 +1,1 @@
+The `quickdocs-server` repository hosts the web application operational at quickdocs.org. It appears to be a web application, written using CSS, and the absence of further information makes it difficult to determine core functionalities, technology stack, or target audience. Given the publicly available information, it is impossible to be more specific.

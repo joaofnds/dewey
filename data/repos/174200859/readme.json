@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "89e25ba21381fc7cb300da665e253ebde368567c",
+  "size": 904,
+  "url": "https://api.github.com/repos/inertiajs/inertia/contents/README.md?ref=master",
+  "html_url": "https://github.com/inertiajs/inertia/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/inertiajs/inertia/git/blobs/89e25ba21381fc7cb300da665e253ebde368567c",
+  "download_url": "https://raw.githubusercontent.com/inertiajs/inertia/master/README.md",
+  "type": "file",
+  "content": "WyFbSW5lcnRpYS5qc10oaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQu\nY29tL2luZXJ0aWFqcy9pbmVydGlhL21hc3Rlci8uZ2l0aHViL0xPR08ucG5n\nKV0oaHR0cHM6Ly9pbmVydGlhanMuY29tLykKCkluZXJ0aWEuanMgbGV0cyB5\nb3UgcXVpY2tseSBidWlsZCBtb2Rlcm4gc2luZ2xlLXBhZ2UgUmVhY3QsIFZ1\nZSBhbmQgU3ZlbHRlIGFwcHMgdXNpbmcgY2xhc3NpYyBzZXJ2ZXItc2lkZSBy\nb3V0aW5nIGFuZCBjb250cm9sbGVycy4gRmluZCBmdWxsIGRvY3VtZW50YXRp\nb24gYXQgW2luZXJ0aWFqcy5jb21dKGh0dHBzOi8vaW5lcnRpYWpzLmNvbS8p\nLgoKIyMgQ29udHJpYnV0aW5nCgpUaGFuayB5b3UgZm9yIGNvbnNpZGVyaW5n\nIGNvbnRyaWJ1dGluZyB0byBJbmVydGlhISBZb3UgY2FuIHJlYWQgdGhlIGNv\nbnRyaWJ1dGlvbiBndWlkZSBbaGVyZV0oLmdpdGh1Yi9DT05UUklCVVRJTkcu\nbWQpLgoKIyMgQ29kZSBvZiBDb25kdWN0CgpJbiBvcmRlciB0byBlbnN1cmUg\ndGhhdCB0aGUgTGFyYXZlbCBjb21tdW5pdHkgaXMgd2VsY29taW5nIHRvIGFs\nbCwgcGxlYXNlIHJldmlldyBhbmQgYWJpZGUgYnkgdGhlIFtDb2RlIG9mIENv\nbmR1Y3RdKGh0dHBzOi8vbGFyYXZlbC5jb20vZG9jcy9jb250cmlidXRpb25z\nI2NvZGUtb2YtY29uZHVjdCkuCgojIyBTZWN1cml0eSBWdWxuZXJhYmlsaXRp\nZXMKClBsZWFzZSByZXZpZXcgW291ciBzZWN1cml0eSBwb2xpY3ldKGh0dHBz\nOi8vZ2l0aHViLmNvbS9pbmVydGlhanMvaW5lcnRpYS9zZWN1cml0eS9wb2xp\nY3kpIG9uIGhvdyB0byByZXBvcnQgc2VjdXJpdHkgdnVsbmVyYWJpbGl0aWVz\nLgoKIyMgTGljZW5zZQoKSW5lcnRpYSBpcyBvcGVuLXNvdXJjZWQgc29mdHdh\ncmUgbGljZW5zZWQgdW5kZXIgdGhlIFtNSVQgbGljZW5zZV0oTElDRU5TRS5t\nZCkuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/inertiajs/inertia/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/inertiajs/inertia/git/blobs/89e25ba21381fc7cb300da665e253ebde368567c",
+    "html": "https://github.com/inertiajs/inertia/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.org",
+  "path": "README.org",
+  "sha": "c57e4c45a7b2c7c742441a014cfcd1294a67b181",
+  "size": 1521,
+  "url": "https://api.github.com/repos/emacs-evil/evil-ediff/contents/README.org?ref=master",
+  "html_url": "https://github.com/emacs-evil/evil-ediff/blob/master/README.org",
+  "git_url": "https://api.github.com/repos/emacs-evil/evil-ediff/git/blobs/c57e4c45a7b2c7c742441a014cfcd1294a67b181",
+  "download_url": "https://raw.githubusercontent.com/emacs-evil/evil-ediff/master/README.org",
+  "type": "file",
+  "content": "KiBldmlsLWVkaWZmCgogICpUaGlzIHByb2plY3QgaGFzIGJlZW4gbWVyZ2Vk\nIGludG8gdGhlIGxhcmdlciBbW2h0dHBzOi8vZ2l0aHViLmNvbS9lbWFjcy1l\ndmlsL2V2aWwtY29sbGVjdGlvbl1bRXZpbCBDb2xsZWN0aW9uXV0gcHJvamVj\ndCBhbmQKICB3aWxsIG5vIGxvbmdlciBiZSBtYWludGFpbmVkIGhlcmUuKgoK\nTWFrZSBlZGlmZiBhIGxpdHRsZSBldmlsLiBUaGlzIGNvbmZpZ3VyZXMgZWRp\nZmYgdG8gYmUgZnJpZW5kbGllciB0byB1c2VycwpvZiB2aW0tbGlrZSBrZXli\naW5kaW5ncy4gQ29uc3VsdCB0aGUgaGVscCBidWZmZXIgKD0/PSkgZm9yIG1v\ncmUgaW5mby4KCkhlcmUncyBhIHRhYmxlIGRlc2NyaWJpbmcgdGhlIGJpbmRp\nbmdzCgp8IENvbW1hbmQgICAgICAgICAgICAgICAgICAgICB8IE9yaWdpbmFs\nIEJpbmRpbmcgfCBFdmlsLWVkaWZmICAgICB8CnwtLS0tLS0tLS0tLS0tLS0t\nLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0t\nLS0tLXwKfCA9ZWRpZmYtbmV4dC1kaWZmZXJlbmNlPSAgICAgfCA9biwgU1BD\nPSAgICAgICAgIHwgPWosIG4sIFNQQz0gICAgfAp8ID1lZGlmZi1wcmV2aW91\ncy1kaWZmZXJlbmNlPSB8ID1wLCBERUw9ICAgICAgICAgfCA9aywgTiwgcCwg\nREVMPSB8CnwgPWVkaWZmLWp1bXAtdG8tZGlmZmVyZW5jZT0gIHwgPWo9ICAg\nICAgICAgICAgICB8ID1kPSAgICAgICAgICAgIHwKfCBqdW1wIHRvIGZpcnN0\nIGRpZmZlcmVuY2UgICAgfCA9MWo9ICAgICAgICAgICAgIHwgPWdnLCAxZD0g\nICAgICAgfAp8IGp1bXAgdG8gbGFzdCBkaWZmZXJlbmNlICAgICB8IE4vQSAg\nICAgICAgICAgICAgfCA9Rz0gICAgICAgICAgICB8CnwgY29weSByZWdpb24g\nQSB0byByZWdpb24gQiAgIHwgPWE9ICAgICAgICAgICAgICB8ID1hLCBsPSAg\nICAgICAgIHwKfCBjb3B5IHJlZ2lvbiBCIHRvIHJlZ2lvbiBBICAgfCA9Yj0g\nICAgICAgICAgICAgIHwgPWIsIGg9ICAgICAgICAgfAp8IHNjcm9sbCBkb3du\nIDEgbGluZSAgICAgICAgICB8ID1DLXUgMSB2PSAgICAgICAgfCA9Qy1lPSAg\nICAgICAgICB8Cnwgc2Nyb2xsIHVwIDEgbGluZSAgICAgICAgICAgIHwgPUMt\ndSAxIFY9ICAgICAgICB8ID1DLXk9ICAgICAgICAgIHwKfCBzY3JvbGwgZG93\nbiBoYWxmIHBhZ2UgICAgICAgfCA9diwgQy12PSAgICAgICAgIHwgPUMtZCwg\ndiwgQy12PSAgfAp8IHNjcm9sbCB1cCBoYWxmIHBhZ2UgICAgICAgICB8ID1W\nLCBNLXY9ICAgICAgICAgfCA9Qy11LCBWLCBNLXY9ICB8Cnwgc2Nyb2xsIGxl\nZnQgICAgICAgICAgICAgICAgIHwgPT49ICAgICAgICAgICAgICB8ID16aD0g\nICAgICAgICAgIHwKfCBzY3JvbGwgcmlnaHQgICAgICAgICAgICAgICAgfCA9\nPD0gICAgICAgICAgICAgIHwgPXpsPSAgICAgICAgICAgfAp8IHRvZ2dsZSBo\naWdobGlnaHRpbmcgICAgICAgICB8ID1oPSAgICAgICAgICAgICAgfCA9SD0g\nICAgICAgICAgICB8CnwgPWVkaWZmLXN1c3BlbmQ9ICAgICAgICAgICAgIHwg\nPXo9ICAgICAgICAgICAgICB8ID1DLXo9ICAgICAgICAgIHwK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/emacs-evil/evil-ediff/contents/README.org?ref=master",
+    "git": "https://api.github.com/repos/emacs-evil/evil-ediff/git/blobs/c57e4c45a7b2c7c742441a014cfcd1294a67b181",
+    "html": "https://github.com/emacs-evil/evil-ediff/blob/master/README.org"
+  }
+}

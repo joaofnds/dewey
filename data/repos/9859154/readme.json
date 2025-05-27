@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "d8fb531fc2ac068f2bb06c5a06f3892d589249a9",
+  "size": 950,
+  "url": "https://api.github.com/repos/json-api/json-api/contents/README.md?ref=gh-pages",
+  "html_url": "https://github.com/json-api/json-api/blob/gh-pages/README.md",
+  "git_url": "https://api.github.com/repos/json-api/json-api/git/blobs/d8fb531fc2ac068f2bb06c5a06f3892d589249a9",
+  "download_url": "https://raw.githubusercontent.com/json-api/json-api/gh-pages/README.md",
+  "type": "file",
+  "content": "SlNPTjpBUEkKPT09PT09PT0KCkRvY3VtZW50YXRpb24gZm9yIHRoZSBbYXBw\nbGljYXRpb24vdm5kLmFwaStqc29uIG1lZGlhCnR5cGVdKGh0dHA6Ly93d3cu\naWFuYS5vcmcvYXNzaWdubWVudHMvbWVkaWEtdHlwZXMvYXBwbGljYXRpb24v\ndm5kLmFwaStqc29uKSwKYSBzcGVjaWZpY2F0aW9uIGZvciBBUElzIHRoYXQg\ndXNlIEpTT04uIFRoaXMgcmVwb3NpdG9yeSBpcyB0aGUKc291cmNlIGNvZGUg\nZm9yIFtodHRwOi8vanNvbmFwaS5vcmddKGh0dHA6Ly9qc29uYXBpLm9yZyku\nCgoKUmVzb3VyY2VzCi0tLS0tLS0tLQoKKiBJUkMgY2hhbm5lbDogI2pzb25h\ncGkgb24gZnJlZW5vZGUubmV0CiogVHdpdHRlcjogQGpzb25hcGkKKiBEaXNj\nb3Vyc2U6IFtodHRwOi8vZGlzY3Vzcy5qc29uYXBpLm9yZ10oaHR0cDovL2Rp\nc2N1c3MuanNvbmFwaS5vcmcpCgoKU3RhdHVzCi0tLS0tLQoKVGhpcyBzdGFu\nZGFyZCBpcyBjdXJyZW50bHkgdW5kZXIgZGV2ZWxvcG1lbnQuIFRvIGFzc2lz\ndDoKCjEuIEdldCB0aGUgZGVwZW5kZW5jaWVzOgoKICAgIGAkIGJ1bmRsZWAK\nCjEuIEhvc3QgdGhlIHNpdGUgbG9jYWxseSB3aGlsZSBlZGl0aW5nOgoKICAg\nIGAkIGJ1bmRsZSBleGVjIHJha2UgcHJldmlldzpicm93c2VyYAoKMS4gRWRp\ndCB0aGUgTWFya2Rvd24gZmlsZXMuCjEuIENvbW1pdCB5b3VyIGNoYW5nZXMu\nCjEuIFNlbmQgYSBQdWxsIFJlcXVlc3Qgd2hlbiBmaW5pc2hlZC4KClRoZSB3\nZWJzaXRlIGlzIGF1dG9tYXRpY2FsbHkgYnVpbHQgYnkgW0dpdEh1YiBQYWdl\nc10oaHR0cDovL3BhZ2VzLmdpdGh1Yi5jb20pCndoZW4gY2hhbmdlcyBhcmUg\ncHVzaGVkIHRvIHRoZSBgZ2gtcGFnZXNgIGJyYW5jaC4KCkFyY2hpdmUKLS0t\nLS0tLQoKb2xkZXIgdmVyc2lvbnMgb2YgdGhlIEpTT046QVBJIGRvY3VtZW50\nYXRpb25zCgoqIFJDMyAtIGh0dHA6Ly9qc29uYXBpLXJjMy5oZXJva3VhcHAu\nY29tLwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/json-api/json-api/contents/README.md?ref=gh-pages",
+    "git": "https://api.github.com/repos/json-api/json-api/git/blobs/d8fb531fc2ac068f2bb06c5a06f3892d589249a9",
+    "html": "https://github.com/json-api/json-api/blob/gh-pages/README.md"
+  }
+}

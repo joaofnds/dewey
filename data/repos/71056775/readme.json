@@ -1,0 +1,18 @@
+{
+  "name": "README.asciidoc",
+  "path": "README.asciidoc",
+  "sha": "1066d7f07878e803a189a483059101f2ef5ea6b3",
+  "size": 759,
+  "url": "https://api.github.com/repos/kovidgoyal/kitty/contents/README.asciidoc?ref=master",
+  "html_url": "https://github.com/kovidgoyal/kitty/blob/master/README.asciidoc",
+  "git_url": "https://api.github.com/repos/kovidgoyal/kitty/git/blobs/1066d7f07878e803a189a483059101f2ef5ea6b3",
+  "download_url": "https://raw.githubusercontent.com/kovidgoyal/kitty/master/README.asciidoc",
+  "type": "file",
+  "content": "PSBraXR0eSAtIHRoZSBmYXN0LCBmZWF0dXJlLXJpY2gsIGNyb3NzLXBsYXRm\nb3JtLCBHUFUgYmFzZWQgdGVybWluYWwKClNlZSBodHRwczovL3N3Lmtvdmlk\nZ295YWwubmV0L2tpdHR5L1t0aGUga2l0dHkgd2Vic2l0ZV0uCgppbWFnZTpo\ndHRwczovL2dpdGh1Yi5jb20va292aWRnb3lhbC9raXR0eS93b3JrZmxvd3Mv\nQ0kvYmFkZ2Uuc3ZnWyJCdWlsZCBzdGF0dXMiLCBsaW5rPSJodHRwczovL2dp\ndGh1Yi5jb20va292aWRnb3lhbC9raXR0eS9hY3Rpb25zP3F1ZXJ5PXdvcmtm\nbG93JTNBQ0kiXQoKaHR0cHM6Ly9zdy5rb3ZpZGdveWFsLm5ldC9raXR0eS9m\nYXEvW0ZyZXF1ZW50bHkgQXNrZWQgUXVlc3Rpb25zXQoKVG8gYXNrIG90aGVy\nIHF1ZXN0aW9ucyBhYm91dCBraXR0eSB1c2FnZSwgdXNlIGVpdGhlciB0aGUg\naHR0cHM6Ly9naXRodWIuY29tL2tvdmlkZ295YWwva2l0dHkvZGlzY3Vzc2lv\nbnMvW2Rpc2N1c3Npb25zIG9uIEdpdEh1Yl0gb3IgdGhlCmh0dHBzOi8vd3d3\nLnJlZGRpdC5jb20vci9LaXR0eVRlcm1pbmFsW1JlZGRpdCBjb21tdW5pdHld\nCgpQYWNrYWdpbmcgc3RhdHVzIGluIHZhcmlvdXMgcmVwb3NpdG9yaWVzOgoK\naW1hZ2U6aHR0cHM6Ly9yZXBvbG9neS5vcmcvYmFkZ2UvdmVydGljYWwtYWxs\ncmVwb3Mva2l0dHktdGVybWluYWwuc3ZnP2NvbHVtbnM9MyZoZWFkZXI9a2l0\ndHlbIlBhY2thZ2luZyBzdGF0dXMiLCBsaW5rPSJodHRwczovL3JlcG9sb2d5\nLm9yZy9wcm9qZWN0L2tpdHR5LXRlcm1pbmFsL3ZlcnNpb25zIl0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/kovidgoyal/kitty/contents/README.asciidoc?ref=master",
+    "git": "https://api.github.com/repos/kovidgoyal/kitty/git/blobs/1066d7f07878e803a189a483059101f2ef5ea6b3",
+    "html": "https://github.com/kovidgoyal/kitty/blob/master/README.asciidoc"
+  }
+}

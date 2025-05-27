@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f9be067d700fbeabd7ad3c4d1f609b082d06d896",
+  "size": 943,
+  "url": "https://api.github.com/repos/aarowill/base16-alacritty/contents/README.md?ref=master",
+  "html_url": "https://github.com/aarowill/base16-alacritty/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/aarowill/base16-alacritty/git/blobs/f9be067d700fbeabd7ad3c4d1f609b082d06d896",
+  "download_url": "https://raw.githubusercontent.com/aarowill/base16-alacritty/master/README.md",
+  "type": "file",
+  "content": "IyBiYXNlMTYtYWxhY3JpdHR5CgpbQmFzZTE2XShodHRwczovL2dpdGh1Yi5j\nb20vY2hyaXNrZW1wc29uL2Jhc2UxNikgZm9yIHRoZSBbQWxhY3JpdHR5IFRl\ncm1pbmFsCkVtdWxhdG9yXShodHRwczovL2dpdGh1Yi5jb20vandpbG0vYWxh\nY3JpdHR5KQoKKipOT1RFOioqIEFsbCBmaWxlcyBpbiB0aGlzIHJlcG9zaXRv\ncnkgYXJlIGdlbmVyYXRlZCBieSBhIGJhc2UxNi1idWlsZGVyIAoKIyMgSW5z\ndGFsbGF0aW9uCgpBZnRlciBjbG9uaW5nIHRoaXMgcmVwbywgc2ltcGx5IGNv\ncHkgdGhlIGNvbnRlbnRzIG9mIHlvdXIgZGVzaXJlZCBjb2xvciBzY2hlbWUK\naW50byB5b3VyIGBhbGFjcml0dHkueW1sYCBjb25maWd1cmF0aW9uIGZpbGUu\nIE1ha2Ugc3VyZSB0byByZW1vdmUgb3IgY29tbWVudApvdXQgdGhlIG9yaWdp\nbmFsIGNvbG9yIHNjaGVtZS4KCiMjICIyNTYiIFZhcmlhdGlvbnMKVGhlIDI1\nNiB2YXJpYXRpb25zIGFyZSBwcm92aWRlZCBzbyB0aGF0IGFueW9uZSB3aG8g\nd2lzaGVzIHRvIGNvbnRpbnVlIHVzaW5nCnRoZSAxNiBBTlNJIGNvbG9ycyB3\nb24ndCBlbmQgdXAgd2l0aCB3ZWlyZCBjb2xvcnMgaW5zdGVhZCBvZiBicmln\naHQgY29sb3JzLgpIb3dldmVyIHNpbmNlIGJhc2UxNiB1c2VzIG9ubHkgMTYt\nY29sb3IgdGhlbWVzLCB0aGlzIHJlc3VsdHMgaW4gYWxsIG9mIHRoZQpicmln\naHQgY29sb3JzIG1pcnJvcmluZyB0aGVpciBub24tYnJpZ2h0IGNvbG9ycywg\ncmF0aGVyIHRoYW4gYmVpbmcgYWRkaXRpb25hbApjb2xvcnMuIElmIHlvdSB1\nc2UgdGhlIDI1NiB2YXJpYXRpb25zLCB5b3Ugd2lsbCBhbHNvIG5lZWQgdG8g\ndXNlIHRoZSBbQmFzZTE2ClNoZWxsXShodHRwczovL2dpdGh1Yi5jb20vY2hy\naXNrZW1wc29uL2Jhc2UxNi1zaGVsbCkgc2NyaXB0IHRvIG1haW50YWluIHBy\nb3Blcgpjb21wYXRpYmlsaXR5IHdpdGggdGhlIGJhc2UxNiB0aGVtZXMuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/aarowill/base16-alacritty/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/aarowill/base16-alacritty/git/blobs/f9be067d700fbeabd7ad3c4d1f609b082d06d896",
+    "html": "https://github.com/aarowill/base16-alacritty/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "e69326652836ce8a31c92163d4f29fca35361532",
+  "size": 1451,
+  "url": "https://api.github.com/repos/EugenMayer/docker-sync/contents/README.md?ref=main",
+  "html_url": "https://github.com/EugenMayer/docker-sync/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/EugenMayer/docker-sync/git/blobs/e69326652836ce8a31c92163d4f29fca35361532",
+  "download_url": "https://raw.githubusercontent.com/EugenMayer/docker-sync/main/README.md",
+  "type": "file",
+  "content": "WyFbR2VtIFZlcnNpb25dKGh0dHBzOi8vYmFkZ2UuZnVyeS5pby9yYi9kb2Nr\nZXItc3luYy5zdmcpXShodHRwczovL2JhZGdlLmZ1cnkuaW8vcmIvZG9ja2Vy\nLXN5bmMpIFshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly93d3cudHJhdmlzLWNp\nLmNvbS9FdWdlbk1heWVyL2RvY2tlci1zeW5jLnN2Zz9icmFuY2g9bWFzdGVy\nKV0oaHR0cHM6Ly93d3cudHJhdmlzLWNpLmNvbS9naXRodWIvRXVnZW5NYXll\nci9kb2NrZXItc3luYykgCgogICAgVGhhbmsgeW91IGZvciBhbGwgdGhlIGZl\nZWRiYWNrIGFuZCBzdXBwb3J0IGkgYWxyZWFkeSByZWNlaXZlZCEKICAgIERv\nY2tlci1zeW5jIGhhcyBiZWVuIGltcHJvdmVkIGJ5IGFsbCBvZiB5b3UgaW4g\naHVnZSB3YXlzIQoKSW1wb3J0YW50IGxpbmtzOgoKLSBbRG9jdW1lbnRhdGlv\nbl0oaHR0cHM6Ly9kb2NrZXItc3luYy5yZWFkdGhlZG9jcy5pby9lbi9sYXRl\nc3QvaW5kZXguaHRtbCMpCi0gW09mZmljaWFsIGhvbWVwYWdlIGRvY2tlci1z\neW5jLmlvXShodHRwOi8vZG9ja2VyLXN5bmMuaW8pCgpEb2NrZXItc3luYyBu\nZWVkcyBjb250cmlidXRpb25zIGFuZCBoZWxwCgotIEhlbHAgW2hlcmVdKGh0\ndHBzOi8vZ2l0aHViLmNvbS9FdWdlbk1heWVyL2RvY2tlci1zeW5jL2lzc3Vl\ncz9xPWlzJTNBaXNzdWUraXMlM0FvcGVuK2xhYmVsJTNBJTIyaGVscCt3YW50\nZWQlMjIpIGlmIHlvdSBhcmUgYSBjb2RlcgotIEhlbHAgW2hlcmVdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9FdWdlbk1heWVyL2RvY2tlci1zeW5jL2lzc3Vlcz91\ndGY4PSVFMiU5QyU5MyZxPWlzJTNBaXNzdWUlMjBpcyUzQW9wZW4lMjBsYWJl\nbCUzQSUyMmhlbHAlMjB3YW50ZWQlMjIlMjAlMjBsYWJlbCUzQSUyMmRvY3Vt\nZW50YXRpb24lMjIlMjApIHdpdGggdGhlIGRvY3Mgbm8gbWF0dGVyIHdoYXQg\nc2tpbGwgc2V0IHlvdSBoYXZlLiBTZWUgdGhlIFtkb2NzL1JFQURNRS5tZF0o\nZG9jcy9SRUFETUUubWQpIG9uIGhvdyB0byB3b3JrIHdpdGggdGhlIGRvY3Mu\nCiAtIE90aGVyd2lzZSwgcGxlYXNlIGNvbnNpZGVyIHNwb25zZXJpbmcgbWUg\nYSBiZWFyIHZpYSBbUGF0cmVvbl0oaHR0cHM6Ly9wYXRyZW9uLmNvbS9ldWdl\nbm1heWVyKSBhcyBhbiBhbHRlcm5hdGl2ZS4KIApNYWluIENvbnRyaWJ1dG9y\nczoKCi0gW2lnbmF0aXVzcmV6YV0oaHR0cHM6Ly9naXRodWIuY29tL2lnbmF0\naXVzcmV6YSkKLSBbbWljaGFlbGJhdWRpbm9dKGh0dHBzOi8vZ2l0aHViLmNv\nbS9taWNoYWVsYmF1ZGlubykKLSBbbWlja2FlbHBlcnJpbl0oaHR0cHM6Ly9n\naXRodWIuY29tL21pY2thZWxwZXJyaW4pCi0gW21hc3RlcmZ1bF0oaHR0cHM6\nLy9naXRodWIuY29tL21hc3RlcmZ1bCkKLSBbcndpbGxpYW1zXShodHRwczov\nL2dpdGh1Yi5jb20vcndpbGxpYW1zKQoKWzEuMV06IGh0dHA6Ly9pLmltZ3Vy\nLmNvbS90WFNvVGhGLnBuZwpbMV06IGh0dHA6Ly93d3cudHdpdHRlci5jb20v\nZG9ja2Vyc3luYwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/EugenMayer/docker-sync/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/EugenMayer/docker-sync/git/blobs/e69326652836ce8a31c92163d4f29fca35361532",
+    "html": "https://github.com/EugenMayer/docker-sync/blob/main/README.md"
+  }
+}

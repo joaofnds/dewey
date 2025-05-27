@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b08b1eadc31c1bdf798d48ce9e21ee77029697f8",
+  "size": 351,
+  "url": "https://api.github.com/repos/shawncplus/vim-classes/contents/README.md?ref=master",
+  "html_url": "https://github.com/shawncplus/vim-classes/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/shawncplus/vim-classes/git/blobs/b08b1eadc31c1bdf798d48ce9e21ee77029697f8",
+  "download_url": "https://raw.githubusercontent.com/shawncplus/vim-classes/master/README.md",
+  "type": "file",
+  "content": "VmltIHRyYWluaW5nIGNsYXNzIG5vdGVzCj09PT09PT09PT09CgpDbGFzcyBu\nb3RlcyBmcm9tIHRoZSBWaW0gY2xhc3NlcyBJIHRhdWdodCBhdCBCdWZmYWxv\nTGFiLgoKQ2xhc3MgMSBoYXMgbm8gdmlkZW8gYXMgaXQgd2FzIGp1c3Qgc2hv\nd2luZyBwZW9wbGUgaG93IHRvIGluc3RhbGwgVmltLgoKQ2xhc3MgMiAtIGh0\ndHA6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1OaW00X2Y1UVV4QQoKQ2xh\nc3MgMyAtIFZpZGVvIHdhcyBjb3JydXB0ZWQsIGJsYW1lIGxpbnV4LiBUaGUg\nY2xhc3Mgbm90ZXMgYXJlIGV4cGVydC0xLm1kCgpDbGFzcyA0IC0gaHR0cDov\nL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTJwcWlwcS1VRXdR\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/shawncplus/vim-classes/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/shawncplus/vim-classes/git/blobs/b08b1eadc31c1bdf798d48ce9e21ee77029697f8",
+    "html": "https://github.com/shawncplus/vim-classes/blob/master/README.md"
+  }
+}

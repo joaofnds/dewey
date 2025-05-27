@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "7a4f0680fde71c6c1921229a9a681b99d4cd90d7",
+  "size": 1451,
+  "url": "https://api.github.com/repos/ashleymcnamara/gophers/contents/README.md?ref=master",
+  "html_url": "https://github.com/ashleymcnamara/gophers/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/ashleymcnamara/gophers/git/blobs/7a4f0680fde71c6c1921229a9a681b99d4cd90d7",
+  "download_url": "https://raw.githubusercontent.com/ashleymcnamara/gophers/master/README.md",
+  "type": "file",
+  "content": "IyBSRUFETUUgLSBHb3BoZXIgQXJ0d29yawoKIyMjIEFib3V0IHRoZSBBcnR3\nb3JrICAKClRoaXMgcHJvamVjdCBpcyBiYXNlZCBvbiB0aGUgb3JpZ2luYWws\nIGljb25pYyBhcnR3b3JrIGJ5IHRoZSB0YWxlbnRlZCBbUmVuZWUgRnJlbmNo\nXShodHRwOi8vcmVuZWVmcmVuY2guYmxvZ3Nwb3QuY29tLykuIFRoZSBhcnR3\nb3JrIGNlbGVicmF0ZXMgdGhlIEdvIGNvbW11bml0eSBhbmQgaXRzIGNyZWF0\naXZlIHNwaXJpdC4gCgojIyBIb3cgdG8gVXNlIHRoZSBHb3BoZXIgQXJ0d29y\nayAgCgoxLiAqKkRvd25sb2FkIHRoZSBGaWxlcyoqOiAgCiAgIERvd25sb2Fk\nIGFuZCB1bnppcCB0aGUgYGdvcGhlcnMuemlwYCBmaWxlIHRvIGFjY2VzcyB0\naGUgUE5HIGFydHdvcmsuICAKCjIuICoqUHJpbnRpbmcgUmVjb21tZW5kYXRp\nb25zKio6ICAKICAgVGhlc2UgUE5HIGZpbGVzIGFyZSBwcmludC1yZWFkeSEg\nRm9yIGhpZ2gtcXVhbGl0eSwgY29sb3ItYWNjdXJhdGUgc3RpY2tlcnMsIHdl\nIGhpZ2hseSByZWNvbW1lbmQgW1N0aWNrZXIgTmluamFdKGh0dHBzOi8vc3Rp\nY2tlcm5pbmphLmNvbS8pLiAgCgojIyBTcGVjaWFsIFRoYW5rcyAgCgpBIGh1\nZ2Ugc2hvdXQtb3V0IHRvIHRoZSBpbmNyZWRpYmxlIGNvbnRyaWJ1dG9ycyB3\naG8gbWFkZSB0aGlzIHBvc3NpYmxlOiAgCi0gW1JlbmVlIEZyZW5jaF0oaHR0\ncDovL3JlbmVlZnJlbmNoLmJsb2dzcG90LmNvbS8pIGZvciB0aGUgb3JpZ2lu\nYWwgR29waGVyIGFydHdvcmsuICAKLSBbU3RldmUgRnJhbmNpYV0oaHR0cDov\nL3NwZjEzLmNvbS8pIGZvciBoaXMgaW5zcGlyYXRpb24gYW5kIGRlZGljYXRp\nb24gdG8gdGhlIEdvIGNvbW11bml0eS4gIAoKIyMgTGljZW5zZSAgCgpUaGlz\nIGFydHdvcmsgaXMgbGljZW5zZWQgdW5kZXIgYSBbQ3JlYXRpdmUgQ29tbW9u\ncyBBdHRyaWJ1dGlvbi1Ob25Db21tZXJjaWFsLVNoYXJlQWxpa2UgNC4wIElu\ndGVybmF0aW9uYWwgTGljZW5zZV0oaHR0cDovL2NyZWF0aXZlY29tbW9ucy5v\ncmcvbGljZW5zZXMvYnktbmMtc2EvNC4wLykuICAKCiMjIyBVc2FnZSBHdWlk\nZWxpbmVzOiAgCi0gKipOb24tQ29tbWVyY2lhbCBVc2UgT25seSoqOiBUaGUg\nYXJ0d29yayBtYXkgbm90IGJlIHVzZWQgZm9yIGFueSBjb21tZXJjaWFsIHB1\ncnBvc2VzLCBpbmNsdWRpbmcgYWN0aXZpdGllcyB3aGVyZSByZXZlbnVlIGlz\nIGdlbmVyYXRlZCAoZS5nLiwgYWR2ZXJ0aXNlbWVudHMsIHByb2R1Y3Qgc2Fs\nZXMpLiAgCi0gKipTaGFyZS1BbGlrZSoqOiBJZiB5b3UgcmVtaXgsIHRyYW5z\nZm9ybSwgb3IgYnVpbGQgdXBvbiB0aGlzIHdvcmssIHlvdSBtdXN0IGRpc3Ry\naWJ1dGUgeW91ciBjb250cmlidXRpb25zIHVuZGVyIHRoZSBzYW1lIGxpY2Vu\nc2UuICAKCgohW2NvbGxhZ2VdKGh0dHBzOi8vZ2l0aHViLmNvbS91c2VyLWF0\ndGFjaG1lbnRzL2Fzc2V0cy83NDFiZTg4MC04NjJhLTRlMDItOTdiNC1jZDli\nODJkMDZmNjcpCgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ashleymcnamara/gophers/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/ashleymcnamara/gophers/git/blobs/7a4f0680fde71c6c1921229a9a681b99d4cd90d7",
+    "html": "https://github.com/ashleymcnamara/gophers/blob/master/README.md"
+  }
+}

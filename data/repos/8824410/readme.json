@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "1b73759e5cd9bd6e5cd9f19ef700d8c6d9756728",
+  "size": 1200,
+  "url": "https://api.github.com/repos/jonase/termito/contents/README.md?ref=master",
+  "html_url": "https://github.com/jonase/termito/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/jonase/termito/git/blobs/1b73759e5cd9bd6e5cd9f19ef700d8c6d9756728",
+  "download_url": "https://raw.githubusercontent.com/jonase/termito/master/README.md",
+  "type": "file",
+  "content": "IyB0ZXJtaXRvCgpUZXJtaXRvIGlzIGEgc2ltcGxlIHRlcm0gcmV3cml0aW5n\nIGxpYnJhcnkgZm9yIGNsb2p1cmUuIEl0IGlzIGluc3BpcmVkCmJ5IHRoZSBb\na2liaXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb25hc2Uva2liaXQpIHJ1bGUg\nc3lzdGVtIGJ1dCB3aXRoCm1vcmUgZmVhdHVyZXMuCgojIyBVc2FnZQoKQWRk\nIGBbam9uYXNlL3Rlcm1pdG8gMC4wLjFdYCB0byB5b3VyIGRlcGVuZGVuY2ll\ncyBpbiBwcm9qZWN0LmNsai4KCiMjIEV4YW1wbGUKCkhlcmUgYXJlIHNvbWUg\nc2ltcGxlIGFyaXRobWV0aWMgcnVsZXM6CgpgYGBjbG9qdXJlCihkZWZydWxl\ncyB6ZXJvLXJ1bGVzCiAgWygqIDAgP3gpIDBdKQoKKGRlZnJ1bGVzIGlkZW50\naXR5LXJ1bGVzCiAgWygqIDEgP3gpID94XQogIFsoKyAwID94KSA/eF0pCgoo\nZGVmIHJ1bGVzIChjb25jYXQgemVyby1ydWxlcyAKICAgICAgICAgICAgICAg\nICAgIGlkZW50aXR5LXJ1bGVzKSAKCihzaW1wbGlmeSAnKCsgKCogMCB4KSAo\nKiAxIHkpKSBydWxlcykKOzsgPT4geQpgYGAKCk1vcmUgYWR2YW5jZWQgZXhh\nbXBsZXMgY2FuIGJlIGZvdW5kIGluCltzcmMvdGVybWl0by9leGFtcGxlc10o\nc3JjL3Rlcm1pdG8vZXhhbXBsZXMpLiBGb3IgZXhhbXBsZSwgY29tYmluaW5n\nCnRoZSBbYXJpdGhtZXRpYyBydWxlc10oc3JjL3Rlcm1pdG8vZXhhbXBsZXMv\nYXJpdGhtZXRpYy5jbGopIHdpdGggdGhlCmZvbGxvd2luZyBkZXJpdmF0aXZl\nIHJ1bGVzCgpgYGBjbG9qdXJlCihkZWZydWxlcyBkZXJpdmF0aXZlLXJ1bGVz\nCiAgWyhEIChwb3cgP3ggP24pID94KSAoKiA/biAocG93ID94ICgtID9uIDEp\nKSldCiAgWyhEICgqID9hIChwb3cgP3ggP24pKSA/eCkgKCogP2EgKEQgKHBv\ndyA/eCA/bikgP3gpKV0pCmBgYAoKdGVybWl0byBjYW4gc29sdmUgc2ltcGxl\nIG1hdGggcHJvYmxlbXMgbGlrZSAid2hhdCBpcyB0aGUgc2Vjb25kIGRlcml2\nYXRpdmUgb2YgNXheMyI6CgpgYGBjbG9qdXJlCj0+IChzaW1wbGlmeSAnKEQg\nKEQgKCogNSAocG93IHggMykpIHgpIHgpIAogICAgICAgICAgICAgKGNvbmNh\ndCBhcml0aG1ldGljL3J1bGVzIGRlcml2YXRpdmUtcnVsZXMpKSkKKCogMzAg\neCkKYGBgIAoKIyMgTGljZW5zZQoKQ29weXJpZ2h0IMKpIDIwMTMgSm9uYXMg\nRW5sdW5kCgpEaXN0cmlidXRlZCB1bmRlciB0aGUgRWNsaXBzZSBQdWJsaWMg\nTGljZW5zZSwgdGhlIHNhbWUgYXMgQ2xvanVyZS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jonase/termito/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/jonase/termito/git/blobs/1b73759e5cd9bd6e5cd9f19ef700d8c6d9756728",
+    "html": "https://github.com/jonase/termito/blob/master/README.md"
+  }
+}

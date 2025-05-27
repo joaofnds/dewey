@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "38b2df1701a00f4e2c8c858d18ec407869fb4ad9",
+  "size": 1606,
+  "url": "https://api.github.com/repos/hyperium/hyper/contents/README.md?ref=master",
+  "html_url": "https://github.com/hyperium/hyper/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/hyperium/hyper/git/blobs/38b2df1701a00f4e2c8c858d18ec407869fb4ad9",
+  "download_url": "https://raw.githubusercontent.com/hyperium/hyper/master/README.md",
+  "type": "file",
+  "content": "IyBbaHlwZXJdKGh0dHBzOi8vaHlwZXIucnMpCgpbIVtjcmF0ZXMuaW9dKGh0\ndHBzOi8vaW1nLnNoaWVsZHMuaW8vY3JhdGVzL3YvaHlwZXIuc3ZnKV0oaHR0\ncHM6Ly9jcmF0ZXMuaW8vY3JhdGVzL2h5cGVyKQpbIVtSZWxlYXNlZCBBUEkg\nZG9jc10oaHR0cHM6Ly9kb2NzLnJzL2h5cGVyL2JhZGdlLnN2ZyldKGh0dHBz\nOi8vZG9jcy5ycy9oeXBlcikKWyFbTUlUIGxpY2Vuc2VkXShodHRwczovL2lt\nZy5zaGllbGRzLmlvL2JhZGdlL2xpY2Vuc2UtTUlULWJsdWUuc3ZnKV0oLi9M\nSUNFTlNFKQpbIVtDSV0oaHR0cHM6Ly9naXRodWIuY29tL2h5cGVyaXVtL2h5\ncGVyL3dvcmtmbG93cy9DSS9iYWRnZS5zdmcpXShodHRwczovL2dpdGh1Yi5j\nb20vaHlwZXJpdW0vaHlwZXIvYWN0aW9ucz9xdWVyeT13b3JrZmxvdyUzQUNJ\nKQpbIVtEaXNjb3JkIGNoYXRdW2Rpc2NvcmQtYmFkZ2VdXVtkaXNjb3JkLXVy\nbF0KCkEgcHJvdGVjdGl2ZSBhbmQgZWZmaWNpZW50IEhUVFAgbGlicmFyeSBm\nb3IgYWxsLgoKLSBIVFRQLzEgYW5kIEhUVFAvMgotIEFzeW5jaHJvbm91cyBk\nZXNpZ24KLSBMZWFkaW5nIGluIHBlcmZvcm1hbmNlCi0gVGVzdGVkIGFuZCAq\nKmNvcnJlY3QqKgotIEV4dGVuc2l2ZSBwcm9kdWN0aW9uIHVzZQotIENsaWVu\ndCBhbmQgU2VydmVyIEFQSXMKCioqR2V0IHN0YXJ0ZWQqKiBieSBsb29raW5n\nIG92ZXIgdGhlIFtndWlkZXNdKGh0dHBzOi8vaHlwZXIucnMvZ3VpZGVzLzEv\nKS4KCiMjICJMb3ctbGV2ZWwiCgpoeXBlciBpcyBhIHJlbGF0aXZlbHkgbG93\nLWxldmVsIGxpYnJhcnksIG1lYW50IHRvIGJlIGEgYnVpbGRpbmcgYmxvY2sg\nZm9yCmxpYnJhcmllcyBhbmQgYXBwbGljYXRpb25zLgoKSWYgeW91IGFyZSBs\nb29raW5nIGZvciBhIGNvbnZlbmllbnQgSFRUUCBjbGllbnQsIHRoZW4geW91\nIG1heSB3aXNoIHRvIGNvbnNpZGVyCltyZXF3ZXN0XShodHRwczovL2dpdGh1\nYi5jb20vc2Vhbm1vbnN0YXIvcmVxd2VzdCkuCgpJZiB5b3UgYXJlIG5vdCBz\ndXJlIHdoYXQgSFRUUCBzZXJ2ZXIgdG8gY2hvb3NlLCB0aGVuIHlvdSBtYXkg\nd2FudCB0byBjb25zaWRlcgpbYXh1bV0oaHR0cHM6Ly9naXRodWIuY29tL3Rv\na2lvLXJzL2F4dW0pIG9yClt3YXJwXShodHRwczovL2dpdGh1Yi5jb20vc2Vh\nbm1vbnN0YXIvd2FycCksIHRoZSBsYXR0ZXIgdGFraW5nIGEgbW9yZSBmdW5j\ndGlvbmFsCmFwcHJvYWNoLiBCb3RoIGFyZSBidWlsdCBvbiB0b3Agb2YgdGhp\ncyBsaWJyYXJ5LgoKIyMgQ29udHJpYnV0aW5nCgpUbyBnZXQgaW52b2x2ZWQs\nIHRha2UgYSBsb29rIGF0IFtDT05UUklCVVRJTkddKENPTlRSSUJVVElORy5t\nZCkuCgpJZiB5b3UgcHJlZmVyIGNoYXR0aW5nLCB0aGVyZSBpcyBhbiBhY3Rp\ndmUgY29tbXVuaXR5IGluIHRoZSBbRGlzY29yZCBzZXJ2ZXJdW2Rpc2NvcmQt\ndXJsXS4KCiMjIExpY2Vuc2UKCmh5cGVyIGlzIHByb3ZpZGVkIHVuZGVyIHRo\nZSBNSVQgbGljZW5zZS4gU2VlIFtMSUNFTlNFXShMSUNFTlNFKS4KCltkaXNj\nb3JkLWJhZGdlXTogaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9kaXNjb3JkLzUw\nMDAyODg4NjAyNTg5NTkzNi5zdmc/bG9nbz1kaXNjb3JkCltkaXNjb3JkLXVy\nbF06IGh0dHBzOi8vZGlzY29yZC5nZy9ra3dwdWVaCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/hyperium/hyper/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/hyperium/hyper/git/blobs/38b2df1701a00f4e2c8c858d18ec407869fb4ad9",
+    "html": "https://github.com/hyperium/hyper/blob/master/README.md"
+  }
+}

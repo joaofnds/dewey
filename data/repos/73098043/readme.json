@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "312fb84829711a473335ef199c56e09703a65da8",
+  "size": 1300,
+  "url": "https://api.github.com/repos/foxcpp/maddy/contents/README.md?ref=master",
+  "html_url": "https://github.com/foxcpp/maddy/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/foxcpp/maddy/git/blobs/312fb84829711a473335ef199c56e09703a65da8",
+  "download_url": "https://raw.githubusercontent.com/foxcpp/maddy/master/README.md",
+  "type": "file",
+  "content": "TWFkZHkgTWFpbCBTZXJ2ZXIKPT09PT09PT09PT09PT09PT09PT09Cj4gQ29t\ncG9zYWJsZSBhbGwtaW4tb25lIG1haWwgc2VydmVyLgoKTWFkZHkgTWFpbCBT\nZXJ2ZXIgaW1wbGVtZW50cyBhbGwgZnVuY3Rpb25hbGl0eSByZXF1aXJlZCB0\nbyBydW4gYSBlLW1haWwKc2VydmVyLiBJdCBjYW4gc2VuZCBtZXNzYWdlcyB2\naWEgU01UUCAod29ya3MgYXMgTVRBKSwgYWNjZXB0IG1lc3NhZ2VzIHZpYSBT\nTVRQCih3b3JrcyBhcyBNWCkgYW5kIHN0b3JlIG1lc3NhZ2VzIHdoaWxlIHBy\nb3ZpZGluZyBhY2Nlc3MgdG8gdGhlbSB2aWEgSU1BUC4KSW4gYWRkaXRpb24g\ndG8gdGhhdCBpdCBpbXBsZW1lbnRzIGF1eGlsaWFyeSBwcm90b2NvbHMgdGhh\ndCBhcmUgbWFuZGF0b3J5CnRvIGtlZXAgZW1haWwgcmVhc29uYWJseSBzZWN1\ncmUgKERLSU0sIFNQRiwgRE1BUkMsIERBTkUsIE1UQS1TVFMpLgoKSXQgcmVw\nbGFjZXMgUG9zdGZpeCwgRG92ZWNvdCwgT3BlbkRLSU0sIE9wZW5TUEYsIE9w\nZW5ETUFSQyBhbmQgbW9yZSB3aXRoIG9uZQpkYWVtb24gd2l0aCB1bmlmb3Jt\nIGNvbmZpZ3VyYXRpb24gYW5kIG1pbmltYWwgbWFpbnRlbmFuY2UgY29zdC4K\nCioqTm90ZToqKiBJTUFQIHN0b3JhZ2UgaXMgImJldGEiLiBJZiB5b3UgYXJl\nIGxvb2tpbmcgZm9yIHN0YWJsZSBhbmQKZmVhdHVyZS1wYWNrZWQgaW1wbGVt\nZW50YXRpb24geW91IG1heSB3YW50IHRvIHVzZSBEb3ZlY290IGluc3RlYWQu\nIG1hZGR5IHN0aWxsCmNhbiBoYW5kbGUgbWVzc2FnZSBkZWxpdmVyeSBidXNp\nbmVzcy4KClshW0NJIHN0YXR1c10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9n\naXRodWIvYWN0aW9ucy93b3JrZmxvdy9zdGF0dXMvZm94Y3BwL21hZGR5L2Np\nY2QueW1sP3N0eWxlPWZsYXQtc3F1YXJlKV0oaHR0cHM6Ly9naXRodWIuY29t\nL2ZveGNwcC9tYWRkeS9hY3Rpb25zL3dvcmtmbG93cy9jaWNkLnltbCkKWyFb\nSXNzdWVzIHRyYWNrZXJdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHVi\nL2lzc3Vlcy9mb3hjcHAvbWFkZHk/c3R5bGU9ZmxhdC1zcXVhcmUpXShodHRw\nczovL2dpdGh1Yi5jb20vZm94Y3BwL21hZGR5KQoKKiBbU2V0dXAgdHV0b3Jp\nYWxdKGh0dHBzOi8vbWFkZHkuZW1haWwvdHV0b3JpYWxzL3NldHRpbmctdXAv\nKQoqIFtEb2N1bWVudGF0aW9uXShodHRwczovL21hZGR5LmVtYWlsLykKCiog\nW0lSQyBjaGFubmVsXShodHRwczovL3dlYmNoYXQub2Z0Yy5uZXQvP2NoYW5u\nZWxzPW1hZGR5JnVpbz1NVDExYm1SbFptbHVaV1FiMSkKKiBbTWFpbGluZyBs\naXN0XShodHRwczovL2xpc3RzLnNyLmh0L35mb3hjcHAvbWFkZHkpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/foxcpp/maddy/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/foxcpp/maddy/git/blobs/312fb84829711a473335ef199c56e09703a65da8",
+    "html": "https://github.com/foxcpp/maddy/blob/master/README.md"
+  }
+}

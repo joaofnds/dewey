@@ -1,0 +1,18 @@
+{
+  "name": "README.org",
+  "path": "README.org",
+  "sha": "77bfa1e6f2fc31233f062572ec71b0bdadb14de4",
+  "size": 1197,
+  "url": "https://api.github.com/repos/tarsius/keycast/contents/README.org?ref=main",
+  "html_url": "https://github.com/tarsius/keycast/blob/main/README.org",
+  "git_url": "https://api.github.com/repos/tarsius/keycast/git/blobs/77bfa1e6f2fc31233f062572ec71b0bdadb14de4",
+  "download_url": "https://raw.githubusercontent.com/tarsius/keycast/main/README.org",
+  "type": "file",
+  "content": "KiBTaG93IGN1cnJlbnQgY29tbWFuZCBhbmQgaXRzIGJpbmRpbmcKClRoaXMg\ncGFja2FnZSBwcm92aWRlcyBmb3VyIG1vZGVzIHRoYXQgZGlzcGxheSB0aGUg\nY3VycmVudCBjb21tYW5kIGFuZAppdHMga2V5IG9yIG1vdXNlIGJpbmRpbmcu\nCgotIH5rZXljYXN0LW1vZGUtbGluZS1tb2RlfiBzaG93cyB0aGUgY3VycmVu\ndCBiaW5kaW5nIGF0IHRoZSBib3R0b20gb2YKICB0aGUgc2VsZWN0ZWQgd2lu\nZG93LCBpbiBpdHMgbW9kZSBsaW5lLgoKLSB+a2V5Y2FzdC1oZWFkZXItbGlu\nZS1tb2RlfiBzaG93cyB0aGUgY3VycmVudCBiaW5kaW5nIGF0IHRoZSB0b3Ag\nb2YKICB0aGUgc2VsZWN0ZWQgd2luZG93LCBpbiBpdHMgaGVhZGVyIGxpbmUu\nCgotIH5rZXljYXN0LXRhYi1iYXItbW9kZX4gc2hvd3MgdGhlIGN1cnJlbnQg\nYmluZGluZyBhdCB0aGUgdG9wIG9mCiAgdGhlIHNlbGVjdGVkIGZyYW1lLCBp\nbiBpdHMgdGFiIGJhci4KCi0gfmtleWNhc3QtbG9nLW1vZGV+IGRpc3BsYXlz\nIGEgbGlzdCBvZiByZWNlbnQgYmluZGluZ3MgaW4gYSBkZWRpY2F0ZWQKICBm\ncmFtZS4KCltbaHR0cDovL3JlYWRtZS5lbWFjc2Fpci5tZS9rZXljYXN0LnBu\nZ11dCgojK2h0bWw6IDxicj48YnI+CiMraHRtbDogPGEgaHJlZj0iaHR0cHM6\nLy9naXRodWIuY29tL3RhcnNpdXMva2V5Y2FzdC9hY3Rpb25zL3dvcmtmbG93\ncy9jb21waWxlLnltbCI+PGltZyBhbHQ9IkNvbXBpbGUiIHNyYz0iaHR0cHM6\nLy9naXRodWIuY29tL3RhcnNpdXMva2V5Y2FzdC9hY3Rpb25zL3dvcmtmbG93\ncy9jb21waWxlLnltbC9iYWRnZS5zdmciLz48L2E+CiMraHRtbDogPGEgaHJl\nZj0iaHR0cHM6Ly9lbHBhLm5vbmdudS5vcmcvbm9uZ251L2tleWNhc3QuaHRt\nbCI+PGltZyBhbHQ9Ik5vbkdOVSBFTFBBIiBzcmM9Imh0dHBzOi8vZWxwYS5u\nb25nbnUub3JnL25vbmdudS9rZXljYXN0LnN2ZyIvPjwvYT4KIytodG1sOiA8\nYSBocmVmPSJodHRwczovL3N0YWJsZS5tZWxwYS5vcmcvIy9rZXljYXN0Ij48\naW1nIGFsdD0iTUVMUEEgU3RhYmxlIiBzcmM9Imh0dHBzOi8vc3RhYmxlLm1l\nbHBhLm9yZy9wYWNrYWdlcy9rZXljYXN0LWJhZGdlLnN2ZyIvPjwvYT4KIyto\ndG1sOiA8YSBocmVmPSJodHRwczovL21lbHBhLm9yZy8jL2tleWNhc3QiPjxp\nbWcgYWx0PSJNRUxQQSIgc3JjPSJodHRwczovL21lbHBhLm9yZy9wYWNrYWdl\ncy9rZXljYXN0LWJhZGdlLnN2ZyIvPjwvYT4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tarsius/keycast/contents/README.org?ref=main",
+    "git": "https://api.github.com/repos/tarsius/keycast/git/blobs/77bfa1e6f2fc31233f062572ec71b0bdadb14de4",
+    "html": "https://github.com/tarsius/keycast/blob/main/README.org"
+  }
+}

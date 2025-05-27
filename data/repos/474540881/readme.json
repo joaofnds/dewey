@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "45173d97825246ed0143ce5374483b5b69e97565",
+  "size": 1252,
+  "url": "https://api.github.com/repos/railwayapp/nixpacks/contents/README.md?ref=main",
+  "html_url": "https://github.com/railwayapp/nixpacks/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/railwayapp/nixpacks/git/blobs/45173d97825246ed0143ce5374483b5b69e97565",
+  "download_url": "https://raw.githubusercontent.com/railwayapp/nixpacks/main/README.md",
+  "type": "file",
+  "content": "IyBOaXhwYWNrcwoKWyFbQ0ldKGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlsd2F5\nYXBwL25peHBhY2tzL2FjdGlvbnMvd29ya2Zsb3dzL2NpLnltbC9iYWRnZS5z\ndmc/YnJhbmNoPW1haW4pXShodHRwczovL2dpdGh1Yi5jb20vcmFpbHdheWFw\ncC9uaXhwYWNrcy9hY3Rpb25zL3dvcmtmbG93cy9jaS55bWwpClshW0NyYXRl\ncy5pb10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9jcmF0ZXMvdi9uaXhwYWNr\ncyldKGh0dHBzOi8vY3JhdGVzLmlvL2NyYXRlcy9uaXhwYWNrcykKWyFbUnVz\ndDogMS43MCtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvcnVzdC0x\nLjcwKy05MzQ1MGEpXShodHRwczovL2Jsb2cucnVzdC1sYW5nLm9yZy8yMDIz\nLzA2LzAxL1J1c3QtMS43MC4wLmh0bWwpCgoqKkFwcCBzb3VyY2UgKyBOaXgg\ncGFja2FnZXMgKyBEb2NrZXIgPSBJbWFnZSoqCgpOaXhwYWNrcyB0YWtlcyBh\nIHNvdXJjZSBkaXJlY3RvcnkgYW5kIHByb2R1Y2VzIGFuIE9DSSBjb21wbGlh\nbnQgaW1hZ2UgdGhhdCBjYW4gYmUgZGVwbG95ZWQgYW55d2hlcmUuIFRoZSBw\ncm9qZWN0IHdhcyBzdGFydGVkIGJ5IHRoZSBbUmFpbHdheV0oaHR0cHM6Ly9y\nYWlsd2F5LmFwcCkgdGVhbSBhcyBhbiBhbHRlcm5hdGl2ZSB0byBbQnVpbGRw\nYWNrc10oaHR0cHM6Ly9idWlsZHBhY2tzLmlvLykgYW5kIGF0dGVtcHRzIHRv\nIGFkZHJlc3MgYSBsb3Qgb2YgdGhlIHNob3J0Y29taW5ncyBhbmQgaXNzdWVz\nIHRoYXQgb2NjdXJyZWQgd2hlbiBkZXBsb3lpbmcgdGhvdXNhbmRzIG9mIHVz\nZXIgYXBwcyB0byB0aGUgUmFpbHdheSBwbGF0Zm9ybS4gVGhlIGJpZ2dlc3Qg\nY2hhbmdlIGlzIHRoYXQgc3lzdGVtIGFuZCBsYW5ndWFnZSBkZXBlbmRlbmNp\nZXMgYXJlIHB1bGxlZCBmcm9tIHRoZSBOaXggZWNvc3lzdGVtLgoKUmVhZCB0\naGUgZG9jcyDwn5GJIFtuaXhwYWNrcy5jb21dKGh0dHBzOi8vbml4cGFja3Mu\nY29tKS4KCiMjIENvbnRyaWJ1dGluZwoKQ29udHJpYnV0aW9ucyBhcmUgd2Vs\nY29tZSB3aXRoIHRoZSBiaWcgY2F2ZWF0IHRoYXQgdGhpcyBpcyBhIHZlcnkg\nZWFybHkgc3RhZ2UgcHJvamVjdCBhbmQgdGhlIGltcGxlbWVudGF0aW9uIGRl\ndGFpbHMgYW5kIEFQSSB3aWxsIG1vc3QgbGlrZWx5IGNoYW5nZSBiZXR3ZWVu\nIG5vdyBhbmQgYSBzdGFibGUgcmVsZWFzZS4gRm9yIG1vcmUgZGV0YWlscyBv\nbiBob3cgdG8gY29udHJpYnV0ZSwgcGxlYXNlIHNlZSB0aGUgW0NvbnRyaWJ1\ndGluZyBndWlkZWxpbmVzXSguL0NPTlRSSUJVVElORy5tZCkuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/railwayapp/nixpacks/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/railwayapp/nixpacks/git/blobs/45173d97825246ed0143ce5374483b5b69e97565",
+    "html": "https://github.com/railwayapp/nixpacks/blob/main/README.md"
+  }
+}

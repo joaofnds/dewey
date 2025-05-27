@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "7bbfbbf770ede76f333531b50ac2f9eada7649e8",
+  "size": 1616,
+  "url": "https://api.github.com/repos/znck/grammarly/contents/README.md?ref=main",
+  "html_url": "https://github.com/znck/grammarly/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/znck/grammarly/git/blobs/7bbfbbf770ede76f333531b50ac2f9eada7649e8",
+  "download_url": "https://raw.githubusercontent.com/znck/grammarly/main/README.md",
+  "type": "file",
+  "content": "IyBHcmFtbWFybHkgZm9yIFZTIENvZGUKCkEgbGFuZ3VhZ2Ugc2VydmVyIGlt\ncGxlbWVudGF0aW9uIG9uIHRvcCBvZiBHcmFtbWFybHkncyBTREsuCgojIyBE\nZXZlbG9wbWVudCBTZXR1cAoKVGhpcyBwcm9qZWN0IHVzZXMgW3BucG1dKGh0\ndHBzOi8vcG5wbS5pbykuCgpgYGBzaApwbnBtIGluc3RhbGwKcG5wbSBydW4g\nYnVpbGQKYGBgCgojIyBBZGRpbmcgc3VwcG9ydCBmb3IgbmV3IGxhbmd1YWdl\nCgoxLiBBZGQgYCJvbkxhbmd1YWdlOjxsYW5ndWFnZSBuYW1lPiJgIHRvIGBh\nY3RpdmF0aW9uRXZlbnRzYCBpbiBbZXh0ZW5zaW9uL3BhY2thZ2UuanNvbl0o\nLi9leHRlbnNpb24vcGFja2FnZS5qc29uKQoyLiBBZGQgW3RyZWUtc2l0dGVy\nXShodHRwczovL3RyZWUtc2l0dGVyLmdpdGh1Yi5pby90cmVlLXNpdHRlci8p\nIGdyYW1tYXIKICAgMS4gSW5zdGFsbCB0cmVlLXNpdHRlciBncmFtbWFyIHBh\nY2thZ2UgKGdlbmVyYWxseSBwYWNrYWdlIGFyZSBuYW1lZCBhcyBgdHJlZS1z\naXR0ZXItPGxhbmd1YWdlIG5hbWU+YCkKICAgMi4gQWRkIHRoZSBwYWNrYWdl\nIHRvIHRoZSB3YXNtIGJ1aWxkIHNjcmlwdDogW3NjcmlwdHMvYnVpbGQtd2Fz\nbS5tanNdKC4vc2NyaXB0cy9idWlsZC13YXNtLm1qcykKMy4gQWRkIGxhbmd1\nYWdlIHRyYW5zZm9ybWVyIGluIHRoZSBkaXJlY3RvcnkKICAgMS4gQ3JlYXRl\nIGBMYW5ndWFnZTxMYW5ndWFnZU5hbWU+LnRzYAogICAyLiBGb3IgcmVmZXJl\nbmNlLCBjaGVjayBbYExhbmd1YWdlSFRNTC50c2BdKC4vcGFja2FnZXMvZ3Jh\nbW1hcmx5LXJpY2h0ZXh0LWVuY29kZXIvc3JjL0xhbmd1YWdlSFRNTC50cykK\nCiMjIEhvdyB0byBnZXQgaGVscAoKSGF2ZSBhIHF1ZXN0aW9uLCBvciB3YW50\nIHRvIHByb3ZpZGUgZmVlZGJhY2s/IFVzZSBbcmVwb3NpdG9yeSBkaXNjdXNz\naW9uc10oaHR0cHM6Ly9naXRodWIuY29tL3puY2svZ3JhbW1hcmx5L2Rpc2N1\nc3Npb25zKSB0byBhc2sgcXVlc3Rpb25zLCBzaGFyZSBidWdzIG9yIGZlZWRi\nYWNrLCBvciBjaGF0IHdpdGggb3RoZXIgdXNlcnMuCgojIyBPbGRlciBQYWNr\nYWdlcwoKYHVub2ZmaWNpYWwtZ3JhbW1hcmx5LWFwaWAsIGB1bm9mZmljaWFs\nLWdyYW1tYXJseS1sYW5ndWFnZS1jbGllbnRgIGFuZCBgdW5vZmZpY2lhbC1n\ncmFtbWFybHktbGFuZ3VhZ2Utc2VydmVyYCBhcmUgZGVwcmVjYXRlZCBhbmQg\nYXJjaGl2ZWQ6IGh0dHBzOi8vZ2l0aHViLmNvbS96bmNrL2dyYW1tYXJseS90\ncmVlL3YwCgojIyBTdXBwb3J0CgpUaGlzIGV4dGVuc2lvbiBpcyBtYWludGFp\nbmVkIGJ5IFtSYWh1bCBLYWR5YW5dKGh0dHBzOi8vZ2l0aHViLmNvbS96bmNr\nKS4gWW91IGNhbiBb8J+SliBzcG9uc29yIGhpbV0oaHR0cHM6Ly9naXRodWIu\nY29tL3Nwb25zb3JzL3puY2spIGZvciB0aGUgY29udGludWVkIGRldmVsb3Bt\nZW50IG9mIHRoaXMgZXh0ZW5zaW9uLgoKPHAgYWxpZ249ImNlbnRlciI+CiAg\nPGEgaHJlZj0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3puY2svc3Bv\nbnNvcnNAbWFpbi9zcG9uc29ycy5zdmciPgogICAgPGltZyBzcmM9J2h0dHBz\nOi8vY2RuLmpzZGVsaXZyLm5ldC9naC96bmNrL3Nwb25zb3JzQG1haW4vc3Bv\nbnNvcnMucG5nJy8+CiAgPC9hPgo8L3A+Cgo8YnI+Cjxicj4KPGJyPgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/znck/grammarly/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/znck/grammarly/git/blobs/7bbfbbf770ede76f333531b50ac2f9eada7649e8",
+    "html": "https://github.com/znck/grammarly/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "91719e8942d3ae613d577e17f2e6d90213e79270",
+  "size": 836,
+  "url": "https://api.github.com/repos/d07RiV/diabloweb/contents/README.md?ref=master",
+  "html_url": "https://github.com/d07RiV/diabloweb/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/d07RiV/diabloweb/git/blobs/91719e8942d3ae613d577e17f2e6d90213e79270",
+  "download_url": "https://raw.githubusercontent.com/d07RiV/diabloweb/master/README.md",
+  "type": "file",
+  "content": "IyMgRGlhYmxvIDEgZm9yIHdlYiBicm93c2VycyEKClRoaXMgcHJvamVjdCBp\ncyBiYXNlZCBvbiBodHRwczovL2dpdGh1Yi5jb20vZGlhc3VyZ2ljYWwvZGV2\naWx1dGlvbi4KClNvdXJjZSBjb2RlIHRvIGJ1aWxkIHRoZSBXZWJBc3NlbWJs\neSBtb2R1bGVzIGlzIGhlcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9kMDdSaVYv\nZGV2aWx1dGlvbgoKSSd2ZSBtb2RpZmllZCB0aGUgY29kZSB0byByZW1vdmUg\nYWxsIGRlcGVuZGVuY2llcyBhbmQgZXhwb3NlZCB0aGUgbWluaW1hbCByZXF1\naXJlZCBpbnRlcmZhY2Ugd2l0aCBKUywgYWxsb3dpbmcgdGhlIGdhbWUgdG8g\nYmUgY29tcGlsZWQgaW50byBXZWJBc3NlbWJseS4KCkV2ZW50IGhhbmRsaW5n\nIChlc3BlY2lhbGx5IGluIHRoZSBtZW51cykgaGFkIHRvIGJlIG1vZGlmaWVk\nIHNpZ25pZmljYW50bHkgdG8gZml0IHRoZSBKUyBtb2RlbC4KClRoZSBwcm9q\nZWN0IGlzIGhvc3RlZCBvbiBodHRwczovL2QwN1JpVi5naXRodWIuaW8vZGlh\nYmxvd2ViLyBhbG9uZyB3aXRoIHNwYXduLm1wcSBmcm9tIHRoZSBzaGFyZXdh\ncmUgdmVyc2lvbiAocGxhY2UgaXQgaW4gdGhlIHB1YmxpYyBmb2xkZXIgdG8g\ncnVuIGxvY2FsbHkpLgpUaGlzIGFsbG93cyBzaGFyZXdhcmUgdmVyc2lvbiB0\nbyBiZSBwbGF5ZWQgYW55d2hlcmUsIGV2ZW4gb24gbW9iaWxlIHBob25lcy4g\nVG8gcGxheSB0aGUgZnVsbCBnYW1lLCB5b3UgbXVzdCB1c2UgeW91ciBvd24g\nRElBQkRBVC5NUFEgdGhhdCB5b3UgY2FuIG9idGFpbgp3aXRoIHRoZSBvcmln\naW5hbCBjb3B5IG9mIHRoZSBnYW1lIGZyb20gW0dvR10odXJsPWh0dHBzOi8v\nd3d3LmdvZy5jb20vZ2FtZS9kaWFibG8pLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/d07RiV/diabloweb/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/d07RiV/diabloweb/git/blobs/91719e8942d3ae613d577e17f2e6d90213e79270",
+    "html": "https://github.com/d07RiV/diabloweb/blob/master/README.md"
+  }
+}

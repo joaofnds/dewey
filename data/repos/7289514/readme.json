@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "ec46b0f4f9a339e2e2b821aacf63212963c48f84",
+  "size": 888,
+  "url": "https://api.github.com/repos/allspiritseve/selene/contents/README.md?ref=master",
+  "html_url": "https://github.com/allspiritseve/selene/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/allspiritseve/selene/git/blobs/ec46b0f4f9a339e2e2b821aacf63212963c48f84",
+  "download_url": "https://raw.githubusercontent.com/allspiritseve/selene/master/README.md",
+  "type": "file",
+  "content": "IyBTZWxlbmUKClNlbGVuZSBpcyBhbiBpQ2FsZW5kYXIgcGFyc2VyIGZvciBS\ndWJ5LiBJdCB0YWtlcyBhIHN0cmluZyBpbiBpQ2FsZW5kYXIgZm9ybWF0IChS\nRkMgNTU0NSkgYW5kIG91dHB1dHMgYSBzZXJpYWxpemFibGUgaGFzaC4KCiMj\nIEluc3RhbGxhdGlvbgoKQWRkIHRoaXMgbGluZSB0byB5b3VyIGFwcGxpY2F0\naW9uJ3MgR2VtZmlsZToKCiAgICBnZW0gJ3NlbGVuZScKCkFuZCB0aGVuIGV4\nZWN1dGU6CgogICAgJCBidW5kbGUgaW5zdGFsbAoKT3IgaW5zdGFsbCBpdCB5\nb3Vyc2VsZiBhczoKCiAgICAkIGdlbSBpbnN0YWxsIHNlbGVuZQoKIyMgVXNh\nZ2UKCmBgYHJ1YnkKaWNhbCA9IFNlbGVuZS5wYXJzZShGaWxlLnJlYWQoJ2Nh\nbGVuZGFyLmljcycpKQpgYGAKCiMjIERlbW8KCkkgd3JvdGUgYSBxdWljayBs\naXR0bGUgaWNhbCB0byBqc29uIEhlcm9rdSBhcHA6CgpodHRwOi8vaWNhbC10\nby1qc29uLmhlcm9rdWFwcC5jb20vCgojIyBDb250cmlidXRpbmcKCjEuIEZv\ncmsgaXQKMi4gQ3JlYXRlIHlvdXIgZmVhdHVyZSBicmFuY2ggKGBnaXQgY2hl\nY2tvdXQgLWIgbXktbmV3LWZlYXR1cmVgKQozLiBDb21taXQgeW91ciBjaGFu\nZ2VzIChgZ2l0IGNvbW1pdCAtYW0gJ0FkZCBzb21lIGZlYXR1cmUnYCkKNC4g\nUHVzaCB0byB0aGUgYnJhbmNoIChgZ2l0IHB1c2ggb3JpZ2luIG15LW5ldy1m\nZWF0dXJlYCkKNS4gQ3JlYXRlIG5ldyBQdWxsIFJlcXVlc3QKCiMjIE5hbWVz\nYWtlCgpTZWxlbmUgaXMgdGhlIEdyZWVrIGdvZGRlc3Mgb2YgdGhlIG1vb24s\nIGFuZCBhbHNvIGhhcHBlbnMgdG8gYmUgYSB2YW1waXJlIGZyb20gdGhlIGV4\nY2VsbGVudCBmaWxtIFVuZGVyd29ybGQ6CgohW1NlbGVuZV0oaHR0cDovL2Nv\ncnlrYXVmbWFuLmNvbS9pbWFnZXMvc2VsZW5lLnBuZykK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/allspiritseve/selene/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/allspiritseve/selene/git/blobs/ec46b0f4f9a339e2e2b821aacf63212963c48f84",
+    "html": "https://github.com/allspiritseve/selene/blob/master/README.md"
+  }
+}

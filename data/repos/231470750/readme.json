@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "dcf756e89e8243b161d435ad375f7cd06e4c1a17",
+  "size": 868,
+  "url": "https://api.github.com/repos/camspiers/tmuxinator-fzf-start/contents/README.md?ref=master",
+  "html_url": "https://github.com/camspiers/tmuxinator-fzf-start/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/camspiers/tmuxinator-fzf-start/git/blobs/dcf756e89e8243b161d435ad375f7cd06e4c1a17",
+  "download_url": "https://raw.githubusercontent.com/camspiers/tmuxinator-fzf-start/master/README.md",
+  "type": "file",
+  "content": "IyBUbXV4aW5hdG9yIEZaRiBTdGFydAoKVXNlcyBmemYgdG8gcHJvdmlkZSBh\nIHNlbGVjdGlvbiBsaXN0IGZvciBzdGFydGluZyB0bXV4aW5hdG9yIHByb2pl\nY3RzCgojIyBPdmVydmlldzoKCnRtdXhpbmF0b3ItZnpmLXN0YXJ0LnNoIHdp\nbGwgb3BlbiBmemYgd2l0aCBhIG11bHRpIHNlbGVjdApsaXN0IG9mIHRtdXhp\nbmF0b3IgcHJvamVjdHMuICBVcG9uIHNlbGVjdGluZyBwcm9qZWN0L3MgZWFj\naApwcm9qZWN0IHdpbGwgaGF2ZSBgdG11eGluYXRvciBzdGFydGAgcnVuLCBh\nbmQgd2hlbiBjb21wbGV0ZQp0bXV4IHdpbGwgYmUgYXR0YWNoZWQsIG9yIGlm\nIHRtdXggaXMgYWxyZWFkeSBydW5uaW5nLCBhCnNlc3Npb24gc2VsZWN0aW9u\nIGludGVyZmFjZSB3aWxsIGJlIHByb3ZpZGVkLgoKSWYgYW4gaW5pdGlhbCBx\ndWVyeSBpcyBwcm92aWRlZCwgYW5kIG9ubHkgb25lIG1hdGNoIHJlc3VsdHMs\nCnRoZSBwcm9qZWN0IHdpbGwgYmUgYXV0b21hdGljYWxseSBvcGVuZWQgd2l0\naG91dCB1c2VyIGlucHV0LgoKIyMgVXNhZ2UKCmBgYGJhc2gKdG11eGluYXRv\nci1memYtc3RhcnQuc2gKdG11eGluYXRvci1memYtc3RhcnQuc2ggIlF1ZXJ5\nIgpgYGAKCiMjIEV4cGVjdGF0aW9ucwoKLSB0bXV4aW5hdG9yIGlzIG9uICRQ\nQVRICi0gZnpmIGlzIG9uICRQQVRICi0gdG11eCBpcyBvbiAkUEFUSAoKIyMg\nSW5zdGFsbAoKIyMjIEhvbWVicmV3CgpgYGBiYXNoCmJyZXcgdGFwIGNhbXNw\naWVycy90YXBzCmJyZXcgaW5zdGFsbCB0bXV4aW5hdG9yLWZ6Zi1zdGFydApg\nYGAKCiMjIyBNYW51YWwKCkRvd25sb2FkIGB0bXV4aW5hdG9yLWZ6Zi1zdGFy\ndC5zaGAsIG1ha2UgaXQgZXhlY3V0YWJsZSBhbmQgZW5zdXJlIGl0IGlzIG9u\nIHlvdXIgJFBBVEguCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/camspiers/tmuxinator-fzf-start/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/camspiers/tmuxinator-fzf-start/git/blobs/dcf756e89e8243b161d435ad375f7cd06e4c1a17",
+    "html": "https://github.com/camspiers/tmuxinator-fzf-start/blob/master/README.md"
+  }
+}

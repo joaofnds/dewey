@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "469d34f70ddfee65df187fc06db18891fb772d7e",
+  "size": 1631,
+  "url": "https://api.github.com/repos/go-delve/delve/contents/README.md?ref=master",
+  "html_url": "https://github.com/go-delve/delve/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/go-delve/delve/git/blobs/469d34f70ddfee65df187fc06db18891fb772d7e",
+  "download_url": "https://raw.githubusercontent.com/go-delve/delve/master/README.md",
+  "type": "file",
+  "content": "IVtEZWx2ZV0oaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dv\nLWRlbHZlL2RlbHZlL21hc3Rlci9hc3NldHMvZGVsdmVfaG9yaXpvbnRhbC5w\nbmcpCgpbIVtsaWNlbnNlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdl\nL2xpY2Vuc2UtTUlULWJsdWUuc3ZnKV0oaHR0cHM6Ly9yYXcuZ2l0aHVidXNl\ncmNvbnRlbnQuY29tL2dvLWRlbHZlL2RlbHZlL21hc3Rlci9MSUNFTlNFKQpb\nIVtHbyBSZWZlcmVuY2VdKGh0dHBzOi8vcGtnLmdvLmRldi9iYWRnZS9naXRo\ndWIuY29tL2dvLWRlbHZlL2RlbHZlLnN2ZyldKGh0dHBzOi8vcGtnLmdvLmRl\ndi9naXRodWIuY29tL2dvLWRlbHZlL2RlbHZlKQpbIVtCdWlsZCBTdGF0dXNd\nKGh0dHBzOi8vZGVsdmUudGVhbWNpdHkuY29tL2FwcC9yZXN0L2J1aWxkcy9i\ndWlsZFR5cGU6KGlkOkRlbHZlX0FnZ3JlZ2F0b3JCdWlsZCkvc3RhdHVzSWNv\nbi5zdmcpXShodHRwczovL2RlbHZlLnRlYW1jaXR5LmNvbS92aWV3VHlwZS5o\ndG1sP2J1aWxkVHlwZUlkPURlbHZlX0FnZ3JlZ2F0b3JCdWlsZCZndWVzdD0x\nKQoKVGhlIEdpdEh1YiBpc3N1ZSB0cmFja2VyIGlzIGZvciAqKmJ1Z3MqKiBv\nbmx5LiBQbGVhc2UgdXNlIHRoZSBbZGV2ZWxvcGVyIG1haWxpbmcgbGlzdF0o\naHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9mb3J1bS8jIWZvcnVtL2RlbHZl\nLWRldikgZm9yIGFueSBmZWF0dXJlIHByb3Bvc2FscyBhbmQgZGlzY3Vzc2lv\nbnMuCgojIyMgQWJvdXQgRGVsdmUKCi0gW0luc3RhbGxhdGlvbl0oRG9jdW1l\nbnRhdGlvbi9pbnN0YWxsYXRpb24pCi0gW0dldHRpbmcgU3RhcnRlZF0oRG9j\ndW1lbnRhdGlvbi9jbGkvZ2V0dGluZ19zdGFydGVkLm1kKQotIFtEb2N1bWVu\ndGF0aW9uXShEb2N1bWVudGF0aW9uKQogIC0gW0NvbW1hbmQgbGluZSBvcHRp\nb25zXShEb2N1bWVudGF0aW9uL3VzYWdlL2Rsdi5tZCkKICAtIFtDb21tYW5k\nIGxpbmUgY2xpZW50XShEb2N1bWVudGF0aW9uL2NsaS9SRUFETUUubWQpCiAg\nLSBbUGx1Z2lucyBhbmQgR1VJc10oRG9jdW1lbnRhdGlvbi9FZGl0b3JJbnRl\nZ3JhdGlvbi5tZCkKICAtIFtGcmVxdWVudGx5IEFza2VkIFF1ZXN0aW9uc10o\nRG9jdW1lbnRhdGlvbi9mYXEubWQpCi0gW0NvbnRyaWJ1dGluZ10oQ09OVFJJ\nQlVUSU5HLm1kKQogIC0gW0ludGVybmFsIERvY3VtZW50YXRpb25dKERvY3Vt\nZW50YXRpb24vaW50ZXJuYWwpCiAgLSBbQVBJIGRvY3VtZW50YXRpb25dKERv\nY3VtZW50YXRpb24vYXBpKQogIC0gW0hvdyB0byB3cml0ZSBhIERlbHZlIGNs\naWVudF0oRG9jdW1lbnRhdGlvbi9hcGkvQ2xpZW50SG93dG8ubWQpCgpEZWx2\nZSBpcyBhIGRlYnVnZ2VyIGZvciB0aGUgR28gcHJvZ3JhbW1pbmcgbGFuZ3Vh\nZ2UuIFRoZSBnb2FsIG9mIHRoZSBwcm9qZWN0IGlzIHRvIHByb3ZpZGUgYSBz\naW1wbGUsIGZ1bGwgZmVhdHVyZWQgZGVidWdnaW5nIHRvb2wgZm9yIEdvLiBE\nZWx2ZSBzaG91bGQgYmUgZWFzeSB0byBpbnZva2UgYW5kIGVhc3kgdG8gdXNl\nLiBDaGFuY2VzIGFyZSBpZiB5b3UncmUgdXNpbmcgYSBkZWJ1Z2dlciwgdGhp\nbmdzIGFyZW4ndCBnb2luZyB5b3VyIHdheS4gV2l0aCB0aGF0IGluIG1pbmQs\nIERlbHZlIHNob3VsZCBzdGF5IG91dCBvZiB5b3VyIHdheSBhcyBtdWNoIGFz\nIHBvc3NpYmxlLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/go-delve/delve/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/go-delve/delve/git/blobs/469d34f70ddfee65df187fc06db18891fb772d7e",
+    "html": "https://github.com/go-delve/delve/blob/master/README.md"
+  }
+}

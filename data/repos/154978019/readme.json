@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "8e35939e6349369ce9a22077cde453452ddcb519",
+  "size": 1396,
+  "url": "https://api.github.com/repos/apilayer/geolocationapi/contents/README.md?ref=master",
+  "html_url": "https://github.com/apilayer/geolocationapi/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/apilayer/geolocationapi/git/blobs/8e35939e6349369ce9a22077cde453452ddcb519",
+  "download_url": "https://raw.githubusercontent.com/apilayer/geolocationapi/master/README.md",
+  "type": "file",
+  "content": "IyBJUCBHZW9sb2NhdGlvbiBBUEkKCklQIEdlb2xvY2F0aW9uIEFQSSBpcyBh\nIGZyZWUgc2VydmljZSBmb3IgZ2VvY29kaW5nIHJlcXVlc3RzLgoKWyFbRGVw\nbG95XShodHRwczovL3d3dy5oZXJva3VjZG4uY29tL2RlcGxveS9idXR0b24u\nc3ZnKV0oaHR0cHM6Ly9oZXJva3UuY29tL2RlcGxveT90ZW1wbGF0ZT1odHRw\nczovL2dpdGh1Yi5jb20vbWFkaXN2YWluL2dlb2xvY2F0aW9uYXBpKQoKUmVx\ndWVzdCBnZW9jb2RpbmcgaXMgZG9uZSB2aWEgW0Nsb3VkRmxhcmUgSVAgR2Vv\nbG9jYXRpb25dKGh0dHBzOi8vc3VwcG9ydC5jbG91ZGZsYXJlLmNvbS9oYy9l\nbi11cy9hcnRpY2xlcy8yMDAxNjgyMzYtV2hhdC1kb2VzLUNsb3VkZmxhcmUt\nSVAtR2VvbG9jYXRpb24tZG8tKSB0byB3aGljaCBhZGRpdGlvbmFsIGluZm9y\nbWF0aW9uIGFib3V0IHRoZSBnZW9sb2NhdGVkIGNvdW50cnkgaXMgcHJvdmlk\nZWQuCgoKIyMgU3RhY2sKCklQIEdlb2xvY2F0aW9uIEFQSSBpcyBidWlsdCB1\ncG9uIFN0YXJsZXR0ZSB0byBhY2hpZXZlIGhpZ2ggdGhyb3VnaHB1dC4gVGhl\nIGN1cnJlbnQgc2V0dXAgY2FuIGFzeW5jcm9ub3VzbHkgaGFuZGxlIHRob3Vz\nYW5kcyBvZiByZXF1ZXN0cyBwZXIgc2Vjb25kIHdpdGggdmVyeSBsb3cgc3lz\ndGVtIHJlcXVpcmVtZW50cy4KCiMjIyMgTGlicmFyaWVzIHVzZWQKKiBbU3Rh\ncmxldHRlXShodHRwczovL3d3dy5zdGFybGV0dGUuaW8vKQoqIFtVdmljb3Ju\nXShodHRwczovL3d3dy51dmljb3JuLm9yZy8pCiogW3V2bG9vcF0oaHR0cHM6\nLy9naXRodWIuY29tL01hZ2ljU3RhY2svdXZsb29wKQoqIFt1bHRyYUpTT05d\nKGh0dHBzOi8vZ2l0aHViLmNvbS9lc25tZS91bHRyYWpzb24pCgoKIyMgRGV2\nZWxvcG1lbnQKIyMjIyBJbnN0YWxsIHBhY2thZ2VzCmBgYHNoZWxsCnBpcGVu\ndiBpbnN0YWxsCmBgYAoKIyMjIyBSdW5uaW5nIHRoZSBzZXJ2ZXIKYGBgc2hl\nbGwKZ3VuaWNvcm4gYXBwOmFwcCAtayB1dmljb3JuLndvcmtlcnMuVXZpY29y\nbldvcmtlciAtLXJlbG9hZApgYGAKCiMjIENvbnRyaWJ1dGluZwpUaGFua3Mg\nZm9yIHlvdXIgaW50ZXJlc3QgaW4gdGhlIHByb2plY3QhIEFsbCBwdWxsIHJl\ncXVlc3RzIGFyZSB3ZWxjb21lIGZyb20gZGV2ZWxvcGVycyBvZiBhbGwgc2tp\nbGwgbGV2ZWxzLiBUbyBnZXQgc3RhcnRlZCwgc2ltcGx5IGZvcmsgdGhlIG1h\nc3RlciBicmFuY2ggb24gR2l0SHViIHRvIHlvdXIgcGVyc29uYWwgYWNjb3Vu\ndCBhbmQgdGhlbiBjbG9uZSB0aGUgZm9yayBpbnRvIHlvdXIgZGV2ZWxvcG1l\nbnQgZW52aXJvbm1lbnQuCgpNYWRpcyBWw6RpbiAobWFkaXN2YWluIG9uIEdp\ndGh1YiwgVHdpdHRlcikgaXMgdGhlIG9yaWdpbmFsIGNyZWF0b3Igb2YgdGhl\nIElQIEdlb2xvY2F0aW9uIEFQSSBmcmFtZXdvcmsuCgojIyBMaWNlbnNlCk1J\nVA==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/apilayer/geolocationapi/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/apilayer/geolocationapi/git/blobs/8e35939e6349369ce9a22077cde453452ddcb519",
+    "html": "https://github.com/apilayer/geolocationapi/blob/master/README.md"
+  }
+}

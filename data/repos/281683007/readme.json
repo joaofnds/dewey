@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "77c0353b03206b37c37a0b914367089b0e133236",
+  "size": 1009,
+  "url": "https://api.github.com/repos/DataDog/helm-charts/contents/README.md?ref=main",
+  "html_url": "https://github.com/DataDog/helm-charts/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/DataDog/helm-charts/git/blobs/77c0353b03206b37c37a0b914367089b0e133236",
+  "download_url": "https://raw.githubusercontent.com/DataDog/helm-charts/main/README.md",
+  "type": "file",
+  "content": "IyBEYXRhZG9nIEhlbG0gQ2hhcnRzCgpbIVtBcnRpZmFjdCBIVUJdKGh0dHBz\nOi8vaW1nLnNoaWVsZHMuaW8vZW5kcG9pbnQ/dXJsPWh0dHBzOi8vYXJ0aWZh\nY3RodWIuaW8vYmFkZ2UvcmVwb3NpdG9yeS9kYXRhZG9nKV0oaHR0cHM6Ly9h\ncnRpZmFjdGh1Yi5pby9wYWNrYWdlcy9zZWFyY2g/cmVwbz1kYXRhZG9nKQoK\nT2ZmaWNpYWwgSGVsbSBjaGFydHMgZm9yIERhdGFkb2cgcHJvZHVjdHMuIEN1\ncnJlbnRseSBzdXBwb3J0ZWQ6Ci0gW0RhdGFkb2cgQWdlbnRzXShjaGFydHMv\nZGF0YWRvZy9SRUFETUUubWQpIChgZGF0YWRvZy9kYXRhZG9nYCkKLSBbRGF0\nYWRvZyBPcGVyYXRvcl0oY2hhcnRzL2RhdGFkb2ctb3BlcmF0b3IvUkVBRE1F\nLm1kKSAoYGRhdGFkb2cvZGF0YWRvZy1vcGVyYXRvcmApCi0gW0V4dGVuZGVk\nIERhZW1vblNldF0oY2hhcnRzL2V4dGVuZGVkLWRhZW1vbi1zZXQvUkVBRE1F\nLm1kKSAoYGRhdGFkb2cvZXh0ZW5kZWRkYWVtb25zZXRgKQotIFtPYnNlcnZh\nYmlsaXR5IFBpcGVsaW5lcyBXb3JrZXJdKGNoYXJ0cy9vYnNlcnZhYmlsaXR5\nLXBpcGVsaW5lcy13b3JrZXIvUkVBRE1FLm1kKSAoYGRhdGFkb2cvb2JzZXJ2\nYWJpbGl0eS1waXBlbGluZXMtd29ya2VyYCkKLSBbUHJpdmF0ZSBBY3Rpb24g\nUnVubmVyXShjaGFydHMvcHJpdmF0ZS1hY3Rpb24tcnVubmVyL1JFQURNRS5t\nZCkgKGBkYXRhZG9nL3ByaXZhdGUtYWN0aW9uLXJ1bm5lcmApCi0gW1N5bnRo\nZXRpY3MgUHJpdmF0ZSBMb2NhdGlvbl0oY2hhcnRzL3N5bnRoZXRpY3MtcHJp\ndmF0ZS1sb2NhdGlvbi9SRUFETUUubWQpIChgZGF0YWRvZy9zeW50aGV0aWNz\nLXByaXZhdGUtbG9jYXRpb25gKQoKIyMgSG93IHRvIHVzZSBEYXRhZG9nIEhl\nbG0gcmVwb3NpdG9yeQoKWW91IG5lZWQgdG8gYWRkIHRoaXMgcmVwb3NpdG9y\neSB0byB5b3VyIEhlbG0gcmVwb3NpdG9yaWVzOgoKYGBgc2hlbGwKaGVsbSBy\nZXBvIGFkZCBkYXRhZG9nIGh0dHBzOi8vaGVsbS5kYXRhZG9naHEuY29tCmhl\nbG0gcmVwbyB1cGRhdGUKYGBgCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/DataDog/helm-charts/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/DataDog/helm-charts/git/blobs/77c0353b03206b37c37a0b914367089b0e133236",
+    "html": "https://github.com/DataDog/helm-charts/blob/main/README.md"
+  }
+}

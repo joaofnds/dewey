@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "5bfc99da6da8bb9ccb2e072303c91f57e98a840e",
+  "size": 1296,
+  "url": "https://api.github.com/repos/SparkPost/heml/contents/README.md?ref=master",
+  "html_url": "https://github.com/SparkPost/heml/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/SparkPost/heml/git/blobs/5bfc99da6da8bb9ccb2e072303c91f57e98a840e",
+  "download_url": "https://raw.githubusercontent.com/SparkPost/heml/master/README.md",
+  "type": "file",
+  "content": "PGgxIGFsaWduPSJjZW50ZXIiPiZsdDtoZW1sJmd0OzwvaDE+CgoKPHAgYWxp\nZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly9oZW1sLmlvL2RvY3Mv\nZ2V0dGluZy1zdGFydGVkL2d1aWRlIj5HdWlkZTwvYT4gJmJ1bGw7CiAgPGEg\naHJlZj0iaHR0cHM6Ly9oZW1sLmlvL2RvY3MiPkRvY3VtZW50YXRpb248L2E+\nICZidWxsOwogIDxhIGhyZWY9Imh0dHBzOi8vaGVtbC5pby9lZGl0b3IiPkVk\naXRvcjwvYT4KPC9wPgoKCkhFTUwgaXMgYW4gb3BlbiBzb3VyY2UgbWFya3Vw\nIGxhbmd1YWdlIGZvciBidWlsZGluZyByZXNwb25zaXZlIGVtYWlsLgoKLSAq\nKk5hdGl2ZSBGZWVsOioqIERvIHlvdSBrbm93IEhUTUwgYW5kIENTUz8gQ2hl\nY2sgb3V0IG91ciBkb2NzIGFuZCB5b3UncmUgb2ZmIHRvIHRoZSByYWNlcyEg\nTm8gc3BlY2lhbCBydWxlcyBvciBzdHlsaW5nIHBhcmFkaWdtcyB0byBtYXN0\nZXIuCgotICoqRm9yd2FyZCBUaGlua2luZzoqKiBIRU1MIGlzIGRlc2lnbmVk\nIHRvIHRha2UgYWR2YW50YWdlIG9mIGFsbCB0aGF0IGVtYWlsIGNhbiBkbyB3\naGlsZSBzdGlsbCBwcm92aWRpbmcgYSBzb2xpZCBleHBlcmllbmNlIGZvciBh\nbGwgY2xpZW50cy4KCi0gKipFeHRlbmRhYmxlOioqIFlvdSBjYW4gY3JlYXRl\nIHlvdXIgb3duIHBvd2VyZnVsIGVsZW1lbnRzIGFuZCBzdHlsZSBydWxlcy4g\nU2hhcmUgdGhlbSB3aXRoIHRoZSB3b3JsZCwgb3Iga2VlcCB0aGVtIHRvIHlv\ndXJzZWxmLiBZb3VyIGNob2ljZS4KCgojIyBGQVEKCiMjIyBXaHkgc2hvdWxk\nIEkgdXNlIEhFTUw/CgpJdCBtYWtlcyBidWlsZGluZyBlbWFpbHMgZWFzaWVy\nLgoKIyMjIEhvdyBkbyBJIHVzZSBpdD8KCkNoZWNrIG91dCBvdXIgW3VzYWdl\nIGd1aWRlXShodHRwOi8vaGVtbC5pby9kb2NzL2dldHRpbmctc3RhcnRlZC91\nc2FnZSkuCgojIyMgV2hhdCBkbyBJIGRvIGlmIEkgZm91bmQgYSBidWc/CgpP\ncGVuIHVwIGFuIFtpc3N1ZV0oaHR0cHM6Ly9naXRodWIuY29tL1NwYXJrUG9z\ndC9oZW1sL2lzc3Vlcy9uZXcpIG9uIHRoZSByZXBvc2l0b3J5LiBUaGFua3Mg\nZm9yIGNhdGNoaW5nIGl0ISDwn5mPCgojIyMgV2FudCB0byBoZWxwPwoKQXdl\nc29tZSEhIFdlIHdlbGNvbWUgYW55IGFuZCBhbGwgaGVscCEgSGVhZCBvdmVy\nIHRvIHRoZSBbaXNzdWVzXShodHRwczovL2dpdGh1Yi5jb20vU3BhcmtQb3N0\nL2hlbWwvaXNzdWVzKSBhbmQgc2VlIGlmIGFueXRoaW5nIGNhdGNoZXMgeW91\nciBleWUuCgojIyBMaWNlbnNlCgpbTUlUXShodHRwczovL2dpdGh1Yi5jb20v\nU3BhcmtQb3N0L2hlbWwvYmxvYi9tYXN0ZXIvTElDRU5TRSkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/SparkPost/heml/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/SparkPost/heml/git/blobs/5bfc99da6da8bb9ccb2e072303c91f57e98a840e",
+    "html": "https://github.com/SparkPost/heml/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "ad520d998b17b4e8f7c310280558fdee54a8ab5c",
+  "size": 1160,
+  "url": "https://api.github.com/repos/SnapDrop/snapdrop/contents/README.md?ref=master",
+  "html_url": "https://github.com/SnapDrop/snapdrop/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/SnapDrop/snapdrop/git/blobs/ad520d998b17b4e8f7c310280558fdee54a8ab5c",
+  "download_url": "https://raw.githubusercontent.com/SnapDrop/snapdrop/master/README.md",
+  "type": "file",
+  "content": "IyBTbmFwZHJvcCAKCltTbmFwZHJvcF0oaHR0cHM6Ly9zbmFwZHJvcC5uZXQp\nOiBsb2NhbCBmaWxlIHNoYXJpbmcgaW4geW91ciBicm93c2VyLiBJbnNwaXJl\nZCBieSBBcHBsZSdzIEFpcmRyb3AuCgojIyBTbmFwZHJvcCBpcyBub3cgTGlt\nZVdpcmUKRGVhciBTbmFwZHJvcCBjb21tdW5pdHksClNuYXBkcm9wIGhhcyBi\nZWVuIGFjcXVpcmVkIGJ5IExpbWVXaXJlLCBhIGxlYWRpbmcgZmlsZSBzaGFy\naW5nIHBsYXRmb3JtIHdpdGggaW50ZWdyYXRlZCBBSSB0b29scy4gWW91IGNh\nbiBjb250aW51ZSB0byBzaGFyZSBhbnkgZmlsZXMgYmV0d2VlbiBkZXZpY2Vz\nLCB3aGlsZSBiZW5lZml0dGluZyBmcm9tOgoqIHNoYXJpbmcgZmlsZXMgYmV0\nd2VlbiBkZXZpY2VzIGluIHRoZSBzYW1lIG5ldHdvcmsKKiBhbm9ueW1vdXMg\ndXAtICYgZG93bmxvYWRzCiogZW5kLXRvLWVuZCBlbmNyeXB0aW9uCiogdXAg\ndG8gNDBHQiBzdG9yYWdlIGZvciBmcmVlIHVzZXJzCiogaW50ZWdyYXRlZCBB\nSSB0b29scyBmb3Igc2lnbmVkLXVwIHVzZXJzCgpWaXNpdCBbc25hcGRyb3Au\nbmV0XShodHRwczovL3NuYXBkcm9wLm5ldCkgb3IgW2xpbWV3aXJlLmNvbV0o\naHR0cHM6Ly9saW1ld2lyZS5jb20pCgpUaGUgR2l0aHViIHJlcG9zaXRvcnkg\nd2lsbCBzdGF5IGFzLWlzIGFuZCB5b3UgY2FuIHN0aWxsIGdvIGFoZWFkIGFu\nZCBkb3dubG9hZCBhbmQgcnVuIHRoZSBjbGFzc2ljIFNuYXBkcm9wIG9uIHlv\ndXIgb3duIGluZnJhc3RydWN0dXJlLgoKCiMjICBDbGFzc2ljIFNuYXBkcm9w\nIGlzIGJ1aWx0IHdpdGggdGhlIGZvbGxvd2luZyBhd2Vzb21lIHRlY2hub2xv\nZ2llcwoqIFZhbmlsbGEgSFRNTDUgLyBFUzYgLyBDU1MzIGZyb250ZW5kCiog\nW1dlYlJUQ10oaHR0cDovL3dlYnJ0Yy5vcmcvKSAvIFtXZWJTb2NrZXRzXSho\ndHRwOi8vd3d3LndlYnNvY2tldC5vcmcvKQoqIFtOb2RlSlNdKGh0dHBzOi8v\nbm9kZWpzLm9yZy9lbi8pIGJhY2tlbmQKKiBbUHJvZ3Jlc3NpdmUgV2ViIEFw\ncF0oaHR0cHM6Ly93aWtpcGVkaWEub3JnL3dpa2kvUHJvZ3Jlc3NpdmVfV2Vi\nX0FwcCkKCgpIYXZlIGFueSBxdWVzdGlvbnM/IFJlYWQgb3VyIFtGQVFdKC9k\nb2NzL2ZhcS5tZCkuCgpZb3UgY2FuIFtob3N0IHlvdXIgb3duIGluc3RhbmNl\nIHdpdGggRG9ja2VyXSgvZG9jcy9sb2NhbC1kZXYubWQpLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/SnapDrop/snapdrop/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/SnapDrop/snapdrop/git/blobs/ad520d998b17b4e8f7c310280558fdee54a8ab5c",
+    "html": "https://github.com/SnapDrop/snapdrop/blob/master/README.md"
+  }
+}

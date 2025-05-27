@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "4d15afe9e0cc931059be9e9d25637e6085818432",
+  "size": 798,
+  "url": "https://api.github.com/repos/layerware/hugsql/contents/README.md?ref=master",
+  "html_url": "https://github.com/layerware/hugsql/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/layerware/hugsql/git/blobs/4d15afe9e0cc931059be9e9d25637e6085818432",
+  "download_url": "https://raw.githubusercontent.com/layerware/hugsql/master/README.md",
+  "type": "file",
+  "content": "IyBIdWdTUUwKCiFbYWx0IHRhZ10oaHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS9s\nYXllcndhcmUvaHVnc3FsL21hc3Rlci9sb2dvL2h1Z3NxbF9hbHBoYV8xMjgu\ncG5nKQoKQSBDbG9qdXJlIGxpYnJhcnkgZm9yIGVtYnJhY2luZyBTUUwuCgpb\nIVtDbG9qYXJzIFByb2plY3RdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vY2xv\namFycy92L2NvbS5sYXllcndhcmUvaHVnc3FsLnN2ZyldKGh0dHBzOi8vY2xv\namFycy5vcmcvY29tLmxheWVyd2FyZS9odWdzcWwpIFshW1Rlc3RzXShodHRw\nczovL2dpdGh1Yi5jb20vbGF5ZXJ3YXJlL2h1Z3NxbC9hY3Rpb25zL3dvcmtm\nbG93cy9saW50LXRlc3QtYnVpbGQueW1sL2JhZGdlLnN2ZyldKGh0dHBzOi8v\nZ2l0aHViLmNvbS9sYXllcndhcmUvaHVnc3FsL2FjdGlvbnMvd29ya2Zsb3dz\nL2xpbnQtdGVzdC1idWlsZC55bWwpCgotIFtIdWdTUUwgRG9jczogaHR0cHM6\nLy93d3cuaHVnc3FsLm9yZ10oaHR0cHM6Ly93d3cuaHVnc3FsLm9yZykKLSBb\nQVBJIERvY3NdKGh0dHBzOi8vY2xqZG9jLm9yZy9kL2NvbS5sYXllcndhcmUv\naHVnc3FsLWNvcmUvKQotIFtDSEFOR0VMT0ddKGh0dHBzOi8vZ2l0aHViLmNv\nbS9sYXllcndhcmUvaHVnc3FsL2Jsb2IvbWFzdGVyL0NIQU5HRUxPRy5tZCkK\nCi0tLQpDb3B5cmlnaHQgwqkgMjAyMiBbTGF5ZXJ3YXJlLCBJbmMuXShodHRw\nOi8vd3d3LmxheWVyd2FyZS5jb20pCkRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBb\nQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wXShodHRwOi8vd3d3LmFwYWNo\nZS5vcmcvbGljZW5zZXMvTElDRU5TRS0yLjAuaHRtbCkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/layerware/hugsql/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/layerware/hugsql/git/blobs/4d15afe9e0cc931059be9e9d25637e6085818432",
+    "html": "https://github.com/layerware/hugsql/blob/master/README.md"
+  }
+}

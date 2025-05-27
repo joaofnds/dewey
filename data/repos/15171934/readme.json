@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "0e248ed3cb902289d23afe299aa1ce1f757d058a",
+  "size": 171,
+  "url": "https://api.github.com/repos/Homebrew/homebrew-cask-fonts/contents/README.md?ref=master",
+  "html_url": "https://github.com/Homebrew/homebrew-cask-fonts/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/Homebrew/homebrew-cask-fonts/git/blobs/0e248ed3cb902289d23afe299aa1ce1f757d058a",
+  "download_url": "https://raw.githubusercontent.com/Homebrew/homebrew-cask-fonts/master/README.md",
+  "type": "file",
+  "content": "IyBIb21lYnJldy9jYXNrLWZvbnRzIChkZXByZWNhdGVkKQoKRm9ybWVybHkg\nY29udGFpbmVkIGZvbnQgQ2Fza3MuCgpUaGVzZSBoYXZlIG1vc3RseSBiZWVu\nIG1pZ3JhdGVkIHRvIFtIb21lYnJldy9ob21lYnJldy1jYXNrXShodHRwczov\nL2dpdGh1Yi5jb20vSG9tZWJyZXcvaG9tZWJyZXctY2FzaykK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Homebrew/homebrew-cask-fonts/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/Homebrew/homebrew-cask-fonts/git/blobs/0e248ed3cb902289d23afe299aa1ce1f757d058a",
+    "html": "https://github.com/Homebrew/homebrew-cask-fonts/blob/master/README.md"
+  }
+}

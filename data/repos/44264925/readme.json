@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b358772ae07aacf450c199ae0532493e421a59db",
+  "size": 1153,
+  "url": "https://api.github.com/repos/microsoft/vscode-go/contents/README.md?ref=master",
+  "html_url": "https://github.com/microsoft/vscode-go/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/microsoft/vscode-go/git/blobs/b358772ae07aacf450c199ae0532493e421a59db",
+  "download_url": "https://raw.githubusercontent.com/microsoft/vscode-go/master/README.md",
+  "type": "file",
+  "content": "IyBHbyBmb3IgVmlzdWFsIFN0dWRpbyBDb2RlCgpbIVtTbGFja10oaHR0cHM6\nLy9pbWcuc2hpZWxkcy5pby9iYWRnZS9zbGFjay1nb3BoZXJzLWdyZWVuLnN2\nZz9zdHlsZT1mbGF0KV0oaHR0cHM6Ly9nb3BoZXJzLnNsYWNrLmNvbS9tZXNz\nYWdlcy92c2NvZGUvKQoKQW4gZXh0ZW5zaW9uIGZvciBWUyBDb2RlIHdoaWNo\nIHByb3ZpZGVzIHN1cHBvcnQgZm9yIHRoZSBHbyBsYW5ndWFnZS4KCiMjIFdl\nIGhhdmUgbW92ZWQhIPCfj6Eg8J+amiDwn4+hIAoKQXMgb2YgSnVuZSAyMDIw\nLCBvdXIgbmV3IGhvbWUgaXMgaHR0cHM6Ly9naXRodWIuY29tL2dvbGFuZy92\nc2NvZGUtZ28uCgpGb3IgbW9yZSBvbiB0aGlzLCBwbGVhc2Ugc2VlIHRoZSBi\nZWxvdyBibG9nIHBvc3RzCi0gW1RoZSBuZXh0IHBoYXNlIG9mIEdvIGV4cGVy\naWVuY2UgaW4gVlMgQ29kZV0oaHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5j\nb20vYmxvZ3MvMjAyMC8wNi8wOS9nby1leHRlbnNpb24pCi0gW1ZTIENvZGUg\nR28gZXh0ZW5zaW9uIGpvaW5zIHRoZSBHbyBwcm9qZWN0XShodHRwczovL2Js\nb2cuZ29sYW5nLm9yZy92c2NvZGUtZ28pCgojIyBDb250cmlidXRpbmcKClRo\naXMgcHJvamVjdCB3ZWxjb21lcyBjb250cmlidXRpb25zIGFuZCBzdWdnZXN0\naW9ucy4gUGxlYXNlIGdvIHRocm91Z2ggdGhlIFtDb250cmlidXRpbmcgR3Vp\nZGVdKGh0dHBzOi8vZ2l0aHViLmNvbS9nb2xhbmcvdnNjb2RlLWdvL2Jsb2Iv\nbWFzdGVyL2RvY3MvY29udHJpYnV0aW5nLm1kKSBpbiB0aGUgbmV3IHJlcG9z\naXRvcnkuCgojIyBDb2RlIG9mIENvbmR1Y3QKClRoaXMgcHJvamVjdCBoYXMg\nYWRvcHRlZCB0aGUgW01pY3Jvc29mdCBPcGVuIFNvdXJjZSBDb2RlIG9mIENv\nbmR1Y3RdKGh0dHBzOi8vb3BlbnNvdXJjZS5taWNyb3NvZnQuY29tL2NvZGVv\nZmNvbmR1Y3QvKS4KRm9yIG1vcmUgaW5mb3JtYXRpb24gc2VlIHRoZSBbQ29k\nZSBvZiBDb25kdWN0IEZBUV0oaHR0cHM6Ly9vcGVuc291cmNlLm1pY3Jvc29m\ndC5jb20vY29kZW9mY29uZHVjdC9mYXEvKSBvcgpjb250YWN0IFtvcGVuY29k\nZUBtaWNyb3NvZnQuY29tXShtYWlsdG86b3BlbmNvZGVAbWljcm9zb2Z0LmNv\nbSkgd2l0aCBhbnkgYWRkaXRpb25hbCBxdWVzdGlvbnMgb3IgY29tbWVudHMu\nCgojIyBMaWNlbnNlCltNSVRdKExJQ0VOU0UpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/microsoft/vscode-go/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/microsoft/vscode-go/git/blobs/b358772ae07aacf450c199ae0532493e421a59db",
+    "html": "https://github.com/microsoft/vscode-go/blob/master/README.md"
+  }
+}

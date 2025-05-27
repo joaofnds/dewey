@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "c5f97f238d6dd5798e2946e38412ac9902cdb05e",
+  "size": 785,
+  "url": "https://api.github.com/repos/jlord/git-it/contents/README.md?ref=master",
+  "html_url": "https://github.com/jlord/git-it/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/jlord/git-it/git/blobs/c5f97f238d6dd5798e2946e38412ac9902cdb05e",
+  "download_url": "https://raw.githubusercontent.com/jlord/git-it/master/README.md",
+  "type": "file",
+  "content": "CiMgR2l0LWl0IChPcmlnaW5hbCwgcmV0aXJlZCkKClshW2NoZWNrIG91dCBu\nZXcgZGVza3RvcCBhcHBdKGh0dHBzOi8vY2xvdWQuZ2l0aHVidXNlcmNvbnRl\nbnQuY29tL2Fzc2V0cy8xMzA1NjE3LzE0NjI2OTg3LzBhYmU0ODVjLTA1YTUt\nMTFlNi05ZTRhLTBjOGIzOTUwMGFlZi5wbmcpXShodHRwczovL2dpdGh1Yi5j\nb20vamxvcmQvZ2l0LWl0LWVsZWN0cm9uKQoKSGksIHRoZXJlISBUaGlzIGlz\nIHRoZSByZXBvc2l0b3J5IGZvciB0aGUgb3JpZ2luYWwgR2l0LWl0LCB0aGUg\ndmVyc2lvbiB0aGF0IHJ1bnMgaW4geW91ciB0ZXJtaW5hbC4gVGhlcmUgaXMg\nYSBuZXcgdmVyc2lvbiwgYSBkZXNrdG9wIGFwcCwgd2hpY2ggbGl2ZXMgYXQg\nW2psb3JkL2dpdC1pdC1lbGVjdHJvbl0oaHR0cHM6Ly9naXRodWIuY29tL2ps\nb3JkL2dpdC1pdC1lbGVjdHJvbikuICoqVGhpcyBvbmUgc3RpbGwgd29ya3Mg\nYW5kIHlvdSBjYW4gdXNlIGl0IGlmIHlvdSB3YW50LioqIEJ1dCBJIHdvbid0\nIGJlIGFjdGl2ZWx5IG1haW50YWluaW5nIGl0IGFzIEknbGwgYmUgZm9jdXNp\nbmcgb24gdGhlIGRlc2t0b3AgdmVyc2lvbiBnb2luZyBmb3J3YXJkLgoKfCA6\nY29tcHV0ZXI6IHwgUkVBRE1FIHwKfCAtLS0gfCAtLS0gfAp8ICFbc3NdKGh0\ndHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9qbG9yZC9naXQtaXQv\nbWFzdGVyL2dpdC1pdC1zcy5wbmcpIHwgVGhlIG9yaWdpbmFsIGByZWFkbWVg\nIGlzIG5vdyBhdmFpbGFibGUgYXMgW29yaWdpbmFsLXJlYWRtZS5tZF0ob3Jp\nZ2luYWwtcmVhZG1lLm1kKS4gfAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jlord/git-it/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/jlord/git-it/git/blobs/c5f97f238d6dd5798e2946e38412ac9902cdb05e",
+    "html": "https://github.com/jlord/git-it/blob/master/README.md"
+  }
+}

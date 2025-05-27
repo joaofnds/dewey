@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9a02d71fb95dba3079f408d96a230931ca0c136c",
+  "size": 465,
+  "url": "https://api.github.com/repos/solid/solid/contents/README.md?ref=main",
+  "html_url": "https://github.com/solid/solid/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/solid/solid/git/blobs/9a02d71fb95dba3079f408d96a230931ca0c136c",
+  "download_url": "https://raw.githubusercontent.com/solid/solid/main/README.md",
+  "type": "file",
+  "content": "IyBTb2xpZAoKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3By\nb2plY3QtU29saWQtN0M0REZGLnN2Zz9zdHlsZT1mbGF0LXNxdWFyZSldKGh0\ndHBzOi8vZ2l0aHViLmNvbS9zb2xpZC9zb2xpZCkKCiFbU29saWQgTG9nb10o\naHR0cHM6Ly9hdmF0YXJzMy5naXRodWJ1c2VyY29udGVudC5jb20vdS8xNDI2\nMjQ5MD92PTMmcz0yMDApCgoqKlJlLWRlY2VudHJhbGl6aW5nIHRoZSBXZWIq\nKgoKU29saWQgaXMgYSBwcm9wb3NlZCBzZXQgb2Ygc3RhbmRhcmRzIGFuZCB0\nb29scwpmb3IgYnVpbGRpbmcgKmRlY2VudHJhbGl6ZWQgV2ViIGFwcGxpY2F0\naW9ucyogYmFzZWQgb24KW0xpbmtlZCBEYXRhXShodHRwOi8vd3d3LnczLm9y\nZy9EZXNpZ25Jc3N1ZXMvTGlua2VkRGF0YS5odG1sKSBwcmluY2lwbGVzLgoK\nUmVhZCBtb3JlIG9uIFtzb2xpZHByb2plY3Qub3JnXShodHRwczovL3NvbGlk\ncHJvamVjdC5vcmcvKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/solid/solid/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/solid/solid/git/blobs/9a02d71fb95dba3079f408d96a230931ca0c136c",
+    "html": "https://github.com/solid/solid/blob/main/README.md"
+  }
+}

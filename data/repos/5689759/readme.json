@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "16d149a929a4e41b1da3d238e041279991b5a199",
+  "size": 1264,
+  "url": "https://api.github.com/repos/Datomic/day-of-datomic/contents/README.md?ref=master",
+  "html_url": "https://github.com/Datomic/day-of-datomic/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/Datomic/day-of-datomic/git/blobs/16d149a929a4e41b1da3d238e041279991b5a199",
+  "download_url": "https://raw.githubusercontent.com/Datomic/day-of-datomic/master/README.md",
+  "type": "file",
+  "content": "IyMgRGF5IG9mIERhdG9taWMKClRoZSBEYXkgb2YgRGF0b21pYyBwcm9qZWN0\nIGlzIGEgY29sbGVjdGlvbiBvZiBzYW1wbGVzIGFuZCB0dXRvcmlhbHMKZm9y\nIGxlYXJuaW5nIFtEYXRvbWljXShodHRwOi8vZGF0b21pYy5jb20pIGF0IGEg\nQ2xvanVyZSBSRVBMLgoKIyMgR2V0dGluZyBTdGFydGVkCgpTdGFydCBhIFJF\nUEw6CgogICAgIyB3aXRoIGxlaW4gMQogICAgbGVpbiByZXBsCgogICAgIyB3\naXRoIGxlaW4gMgogICAgbGVpbiB0cmFtcG9saW5lIHJlcGwKCldvcmsgdGhy\nb3VnaCBzb21lIG9mIHRoZSB0dXRvcmlhbHMgaW4gdGhlIHR1dG9yaWFsIGRp\ncmVjdG9yeSwKZXZhbHVhdGluZyBlYWNoIGZvcm0gYXQgdGhlIFJFUEwuIFlv\ndSBtaWdodCBzdGFydCB3aXRoOgoKKiBoZWxsb193b3JsZC5jbGoKKiBzb2Np\nYWxfbmV3cy5jbGoKKiBwcm92ZW5hbmNlLmNsagoqIGRhdGFsb2dfb25fZGVm\ncmVjb3Jkcy5jbGoKKiBkYXRhX2Z1bmN0aW9ucy5jbGoKKiBiaW5kaW5nLmNs\nagoqIGdyYXBoLmNsagoKWW91IGNhbiBhbHNvIHJ1biBhbGwgb2YgdGhlIGV4\nYW1wbGVzIGFuZCBzZWUgdGhlaXIgb3V0cHV0IGJ5IHJ1bm5pbmc6CgogICAg\nbGVpbiBydW4gLW0gZGF0b21pYy5zYW1wbGVzLnR1dG9yaWFscwoKIyMgU3R1\nZHkgdGhlIFNhbXBsZXMKCkFzIG9yIGFmdGVyIHlvdSB3b3JrIHRocm91Z2gg\ndGhlIHR1dG9yaWFsLCB5b3UgbWF5IHdhbnQgdG8gYWxzbyBzdHVkeQp0aGUg\naGVscGVyIGZ1bmN0aW9ucyBpbiBzcmMvZGF0b21pYy9zYW1wbGVzLgoKIyMg\nUXVlc3Rpb25zLCBGZWVkYmFjaz8KCkZvciBzcGVjaWZpYyBmZWVkYmFjayBv\nbiB0aGUgdHV0b3JpYWxzLCBwbGVhc2UgY3JlYXRlIGFuCltpc3N1ZV0oaHR0\ncHM6Ly9naXRodWIuY29tL0RhdG9taWMvZGF5LW9mLWRhdG9taWMvaXNzdWVz\nKS4KCkZvciBxdWVzdGlvbnMgYWJvdXQgRGF0b21pYywgdHJ5IHRoZSBbcHVi\nbGljIG1haWxpbmcKbGlzdF0oaHR0cDovL2dyb3Vwcy5nb29nbGUuY29tL2dy\nb3VwL2RhdG9taWMpLgoKIyMgQ29udHJpYnV0aW5nCgpUaGlzIGxpYnJhcnkg\naXMgZGV2ZWxvcGVkIGludGVybmFsbHkgYnkgQ29nbml0ZWN0LiBJc3N1ZXMg\nY2FuIGJlIGZpbGVkIHVzaW5nCltHaXRodWIgSXNzdWVzXShodHRwczovL2dp\ndGh1Yi5jb20vRGF0b21pYy9kYXktb2YtZGF0b21pYy9pc3N1ZXMpLiBXZSBk\nbwpub3QgYWNjZXB0IHB1bGwgcmVxdWVzdCBvciBwYXRjaGVzLgoKIyMgTGlj\nZW5zZQoKRVBMLiBTZWUgZXBsLXYxMC5odG1sIGF0IHRoZSBwcm9qZWN0IHJv\nb3QuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Datomic/day-of-datomic/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/Datomic/day-of-datomic/git/blobs/16d149a929a4e41b1da3d238e041279991b5a199",
+    "html": "https://github.com/Datomic/day-of-datomic/blob/master/README.md"
+  }
+}

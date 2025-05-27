@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "99989d76c9dc23b367aab5f0a9ea9a00b516947f",
+  "size": 1540,
+  "url": "https://api.github.com/repos/google/eslint-config-google/contents/README.md?ref=main",
+  "html_url": "https://github.com/google/eslint-config-google/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/google/eslint-config-google/git/blobs/99989d76c9dc23b367aab5f0a9ea9a00b516947f",
+  "download_url": "https://raw.githubusercontent.com/google/eslint-config-google/main/README.md",
+  "type": "file",
+  "content": "IyBlc2xpbnQtY29uZmlnLWdvb2dsZQoKPiBFU0xpbnQgW3NoYXJlYWJsZSBj\nb25maWddKGh0dHA6Ly9lc2xpbnQub3JnL2RvY3MvZGV2ZWxvcGVyLWd1aWRl\nL3NoYXJlYWJsZS1jb25maWdzLmh0bWwpIGZvciB0aGUgW0dvb2dsZSBKYXZh\nU2NyaXB0IHN0eWxlIGd1aWRlIChFUzIwMTUrIHZlcnNpb24pXShodHRwczov\nL2dvb2dsZS5naXRodWIuaW8vc3R5bGVndWlkZS9qc2d1aWRlLmh0bWwpCgoK\nIyMgSW5zdGFsbGF0aW9uCgpgYGAKJCBucG0gaW5zdGFsbCAtLXNhdmUtZGV2\nIGVzbGludCBlc2xpbnQtY29uZmlnLWdvb2dsZQpgYGAKCgojIyBVc2FnZQoK\nT25jZSB0aGUgYGVzbGludC1jb25maWctZ29vZ2xlYCBwYWNrYWdlIGlzIGlu\nc3RhbGxlZCwgeW91IGNhbiB1c2UgaXQgYnkgc3BlY2lmeWluZyBgZ29vZ2xl\nYCBpbiB0aGUgW2BleHRlbmRzYF0oaHR0cDovL2VzbGludC5vcmcvZG9jcy91\nc2VyLWd1aWRlL2NvbmZpZ3VyaW5nI2V4dGVuZGluZy1jb25maWd1cmF0aW9u\nLWZpbGVzKSBzZWN0aW9uIG9mIHlvdXIgW0VTTGludCBjb25maWd1cmF0aW9u\nXShodHRwOi8vZXNsaW50Lm9yZy9kb2NzL3VzZXItZ3VpZGUvY29uZmlndXJp\nbmcpLgoKYGBganMKewogICJleHRlbmRzIjogImdvb2dsZSIsCiAgInJ1bGVz\nIjogewogICAgLy8gQWRkaXRpb25hbCwgcGVyLXByb2plY3QgcnVsZXMuLi4K\nICB9Cn0KYGBgCgojIyMgVXNpbmcgdGhlIGBnb29nbGVgIGNvbmZpZyB3aXRo\nIGBlc2xpbnQ6cmVjb21tZW5kZWRgCgpUaGVyZSBhcmUgc2V2ZXJhbCBydWxl\ncyBpbiB0aGUgW2Blc2xpbnQ6cmVjb21tZW5kZWRgIHJ1bGVzZXRdKGh0dHA6\nLy9lc2xpbnQub3JnL2RvY3MvcnVsZXMvKSB0aGF0IEdvb2dsZSBzdHlsZSBp\ncyBub3Qgb3BpbmlvbmF0ZWQgYWJvdXQgdGhhdCB5b3UgbWlnaHQgd2FudCB0\nbyBlbmZvcmNlIGluIHlvdXIgcHJvamVjdC4KClRvIHVzZSBHb29nbGUgc3R5\nbGUgaW4gY29uanVuY3Rpb24gd2l0aCBFU0xpbnQncyByZWNvbW1lbmRlZCBy\ndWxlIHNldCwgZXh0ZW5kIHRoZW0gYm90aCwgbWFraW5nIHN1cmUgdG8gbGlz\ndCBgZ29vZ2xlYCBsYXN0OgoKYGBganMKewogICJleHRlbmRzIjogWyJlc2xp\nbnQ6cmVjb21tZW5kZWQiLCAiZ29vZ2xlIl0sCiAgInJ1bGVzIjogewogICAg\nLy8gQWRkaXRpb25hbCwgcGVyLXByb2plY3QgcnVsZXMuLi4KICB9Cn0KYGBg\nCgpUbyBzZWUgaG93IHRoZSBgZ29vZ2xlYCBjb25maWcgY29tcGFyZXMgd2l0\naCBgZXNsaW50OnJlY29tbWVuZGVkYCwgcmVmZXIgdG8gdGhlIFtzb3VyY2Ug\nY29kZSBvZiBgaW5kZXguanNgXShodHRwczovL2dpdGh1Yi5jb20vZ29vZ2xl\nL2VzbGludC1jb25maWctZ29vZ2xlL2Jsb2IvbWFpbi9pbmRleC5qcyksIHdo\naWNoIGxpc3RzIGV2ZXJ5IEVTTGludCBydWxlIGFsb25nIHdpdGggd2hldGhl\nciAoYW5kIGhvdykgaXQgaXMgZW5mb3JjZWQgYnkgdGhlIGBnb29nbGVgIGNv\nbmZpZy4KCgojIyBMaWNlbnNlCgpTZWUgW0xpY2Vuc2VdKGh0dHBzOi8vZ2l0\naHViLmNvbS9nb29nbGUvZXNsaW50LWNvbmZpZy1nb29nbGUvYmxvYi9tYWlu\nL0xJQ0VOU0UpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/google/eslint-config-google/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/google/eslint-config-google/git/blobs/99989d76c9dc23b367aab5f0a9ea9a00b516947f",
+    "html": "https://github.com/google/eslint-config-google/blob/main/README.md"
+  }
+}

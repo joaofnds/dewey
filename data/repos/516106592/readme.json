@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "ebbbd507269aca6eb69b57f57ed550b488285090",
+  "size": 813,
+  "url": "https://api.github.com/repos/amber-lang/amber/contents/README.md?ref=staging",
+  "html_url": "https://github.com/amber-lang/amber/blob/staging/README.md",
+  "git_url": "https://api.github.com/repos/amber-lang/amber/git/blobs/ebbbd507269aca6eb69b57f57ed550b488285090",
+  "download_url": "https://raw.githubusercontent.com/amber-lang/amber/staging/README.md",
+  "type": "file",
+  "content": "PGRpdiBhbGlnbj0iY2VudGVyIj4KICAgIDxpbWcgc3JjPSJhc3NldHMvYW1i\nZXIucG5nIiBhbHQ9ImFtYmVyIGxvZ28iIHdpZHRoPSIyNTAiIC8+CjwvZGl2\nPgoKIyBBbWJlcgoKUHJvZ3JhbW1pbmcgbGFuZ3VhZ2UgdGhhdCBjb21waWxl\ncyB0byBCYXNoLiBJdCdzIGEgaGlnaCBsZXZlbCBwcm9ncmFtbWluZyBsYW5n\ndWFnZSB0aGF0IG1ha2VzIGl0IGVhc3kgdG8gY3JlYXRlIHNoZWxsIHNjcmlw\ndHMuIEl0J3MgcGFydGljdWxhcmx5IHdlbGwgc3VpdGVkIGZvciBjbG91ZCBz\nZXJ2aWNlcy4KCj4gWyFXYXJuaW5nXQo+IFRoaXMgc29mdHdhcmUgaXMgbm90\nIHJlYWR5IGZvciBleHRlbmRlZCB1c2FnZS4KCltKb2luIG91ciBEaXNjb3Jk\nXShodHRwczovL2Rpc2NvcmQuY29tL2ludml0ZS9jakhqeGJzRHZaKSBvcgoj\nYW1iZXItbGFuZyBvbiBpcmMub2Z0Yy5uZXQgKGlyYzovL2lyYy5vZnRjLm5l\ndC8jYW1iZXItbGFuZykgb3IKW0pvaW4gb3VyIE1hdHJpeCByb29tXShodHRw\nczovL21hdHJpeC50by8jLyNfb2Z0Y18jYW1iZXItbGFuZzptYXRyaXgub3Jn\nKQoKIyMgSW5zdGFsbAoKWW91IGNhbiBmaW5kIGFuIGluc3RhbGxhdGlvbiBn\ndWlkZSBvbiB0aGUgW2RvY3VtZW50YXRpb24gd2Vic2l0ZV0oaHR0cHM6Ly9k\nb2NzLmFtYmVyLWxhbmcuY29tL2dldHRpbmdfc3RhcnRlZC9pbnN0YWxsYXRp\nb24pLgoKIyMgQ29udHJpYnV0aW5nCgpDb250cmlidXRpbmcgZ3VpZGUgY2Fu\nIGJlIGZvdW5kIG9uIHRoZSBbZG9jdW1lbnRhdGlvbiB3ZWJzaXRlXShodHRw\nczovL2RvY3MuYW1iZXItbGFuZy5jb20vY29udHJpYnV0ZS9jb250cmlidXRl\nKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/amber-lang/amber/contents/README.md?ref=staging",
+    "git": "https://api.github.com/repos/amber-lang/amber/git/blobs/ebbbd507269aca6eb69b57f57ed550b488285090",
+    "html": "https://github.com/amber-lang/amber/blob/staging/README.md"
+  }
+}

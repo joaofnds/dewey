@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "b4178d8c206fe8209547f53f06d199ba6681d52e",
+  "size": 731,
+  "url": "https://api.github.com/repos/LionyxML/ac-circuits/contents/README.md?ref=master",
+  "html_url": "https://github.com/LionyxML/ac-circuits/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/LionyxML/ac-circuits/git/blobs/b4178d8c206fe8209547f53f06d199ba6681d52e",
+  "download_url": "https://raw.githubusercontent.com/LionyxML/ac-circuits/master/README.md",
+  "type": "file",
+  "content": "IyBBQyBDaXJjdWl0cwoKSXQncyBhIC5vcmcgZmlsZSB5b3UgY2FuIHVzZSB3\naXRoaW4gZW1hY3MgdG8gc29sdmUgYmFzaWMgbW9ub3BoYXNpYyBBQyBjaXJj\ndWl0cwoKRW50ZXIgIHRoZSBjaXJjdWl0IGJhc2ljIHBhcmFtZXRlcnMgaW4g\ndGhlIGNvbXBsZXggZm9ybSAocmVjdGFuZ3VsYXIgb3IgcG9sYXIpIGFuZCBl\ndmFsIHRoZSBjaXJjdWl0IG9yIHRoZSBlbnRpcmUgZmlsZS4KCllvdSBjYW4g\nZXhwb3J0IGl0IGludG8gYW4gaHRtbCwgc3VjaCBhcyBpbiBoZXJlOiBbZXhw\nb3J0ZWRfaHRtbF0oLi9hY19jaXJjdWl0cy5odG1sKQoKUmVxdWlyZXM6IGVt\nYWNzICsgb3JnLW1vZGUgKyBjYWxjIChhbGwgYnVpbHQtaW4gb24gbW9kZXJu\nIGVtYWNzKQoKVGVzdGVkIHVuZGVyIExpbnV4LCBXaW5kb3dzIGFuZCBNYWNP\nUy4KCiMjIEZlYXR1cmVzCkFsbG93cyB5b3UgdG8gc29sdmUgZm9yIGltcGVk\nYW5jZSwgY3VycmVudCBhbmQgdm9sdGFnZSwgYm90aCBvbiByZWN0YW5ndWxh\nciBhbmQgcG9sYXIgZm9ybXMgb24gdGhlIGZvbGxvd2luZyBjbGFzc2ljIGNp\ncmN1aXRzOgotIFB1cmUgUmVzaXN0aXZlCi0gUHVyZSBJbmR1Y3RpdmUgCi0g\nUHVyZSBDYXBhY2l0aXZlCi0gUkwgU2VyaWVzCi0gUkMgU2VyaWVzCi0gUkxD\nIFNlcmllcwotIFJMIFBhcmFsbGVsCi0gUkMgUGFyYWxsZWwKLSBSTEMgUGFy\nYWxsZWwKCiMjIFNjcmVlbnNob3RzCiFbRXhhbXBsZSAxXShpbWcvZXhhbXBs\nZTEucG5nKQoKCgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/LionyxML/ac-circuits/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/LionyxML/ac-circuits/git/blobs/b4178d8c206fe8209547f53f06d199ba6681d52e",
+    "html": "https://github.com/LionyxML/ac-circuits/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README",
+  "path": "README",
+  "sha": "3cb156f98a97c642b869b0f236414c6718391d9b",
+  "size": 1187,
+  "url": "https://api.github.com/repos/edicl/cl-fad/contents/README?ref=master",
+  "html_url": "https://github.com/edicl/cl-fad/blob/master/README",
+  "git_url": "https://api.github.com/repos/edicl/cl-fad/git/blobs/3cb156f98a97c642b869b0f236414c6718391d9b",
+  "download_url": "https://raw.githubusercontent.com/edicl/cl-fad/master/README",
+  "type": "file",
+  "content": "Q29tcGxldGUgZG9jdW1lbnRhdGlvbiBmb3IgQ0wtRkFEIGNhbiBiZSBmb3Vu\nZCBpbiB0aGUgJ2RvY3MnCmRpcmVjdG9yeSBvciBhdCA8aHR0cHM6Ly9lZGlj\nbC5naXRodWIuaW8vY2wtZmFkLz4uCgpDTC1GQUQgYWxzbyBzdXBwb3J0cyBO\naWtvZGVtdXMgU2lpdm9sYSdzIEhZUEVSRE9DLCBzZWUKPGh0dHA6Ly9jb21t\nb24tbGlzcC5uZXQvcHJvamVjdC9oeXBlcmRvYy8+IGFuZAo8aHR0cDovL3d3\ndy5jbGlraS5uZXQvaHlwZXJkb2M+LgoKMS4gSW5zdGFsbGF0aW9uCgoxLjEu\nIFByb2JhYmx5IHRoZSBlYXNpZXN0IHdheSBpcwoKICAgICAgIChsb2FkICIv\ncGF0aC90by9jbC1mYWQvbG9hZC5saXNwIikKCiAgICAgVGhpcyBzaG91bGQg\nY29tcGlsZSBhbmQgbG9hZCBDTC1GQUQgb24gbW9zdCBDb21tb24gTGlzcAog\nICAgIGltcGxlbWVudGF0aW9ucy4KCjEuMi4gV2l0aCBNSzpERUZTWVNURU0g\neW91IGNhbiBtYWtlIGEgc3ltYm9saWMgbGluayBmcm9tCiAgICAgJ2NsLWZh\nZC5zeXN0ZW0nIGFuZCAnY2wtZmFkLXRlc3Quc3lzdGVtJyB0byB5b3VyIGNl\nbnRyYWwgcmVnaXN0cnkKICAgICAod2hpY2ggYnkgZGVmYXVsdCBpcyBpbiAn\nL3Vzci9sb2NhbC9saXNwL1JlZ2lzdHJ5LycpIGFuZCB0aGVuIGlzc3VlCiAg\nICAgdGhlIGNvbW1hbmQKCiAgICAgICAobWs6Y29tcGlsZS1zeXN0ZW0gImNs\nLWZhZCIpCgogICAgIE5vdGUgdGhhdCB0aGlzIHJlbGllcyBvbiBUUlVFTkFN\nRSByZXR1cm5pbmcgdGhlIG9yaWdpbmFsIGZpbGUgYQogICAgIHN5bWJvbGlj\nIGxpbmsgaXMgcG9pbnRpbmcgdG8uIFRoaXMgd2lsbCBvbmx5IHdvcmsgd2l0\naCBBbGxlZ3JvQ0wKICAgICA2LjIgaWYgeW91J3ZlIGFwcGxpZWQgYWxsIHBh\ndGNoZXMgd2l0aCAoU1lTOlVQREFURS1BTExFR1JPKS4KCjEuMy4gWW91IGNh\nbiBhbHNvIHVzZSBBU0RGIGluc3RlYWQgb2YgTUs6REVGU1lTVEVNIGluIGEg\nc2ltaWxhciB3YXkKICAgICAodXNlIHRoZSAuYXNkIGZpbGVzIGluc3RlYWQg\nb2YgdGhlIC5zeXN0ZW0gZmlsZXMpLgoKMS40LiBWaWEgUXVpY2tMaXNwOgoK\nCSAgIChxbDpxdWlja2xvYWQgOmNsLWZhZCkKCjIuIFRlc3QKCkNMLUZBRCBj\nb21lcyB3aXRoIGEgc21hbGwgdGVzdCBzdWl0ZS4gIFRvIHN0YXJ0IGl0IGp1\nc3QgbG9hZCB0aGUgZmlsZQoidGVzdC5saXNwIiBhbmQgZXZhbHVhdGUgKENM\nLUZBRC1URVNUOlRFU1QpLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/edicl/cl-fad/contents/README?ref=master",
+    "git": "https://api.github.com/repos/edicl/cl-fad/git/blobs/3cb156f98a97c642b869b0f236414c6718391d9b",
+    "html": "https://github.com/edicl/cl-fad/blob/master/README"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "852acef0566ca73d544841e37cb4ab008a115248",
+  "size": 204,
+  "url": "https://api.github.com/repos/franciscouzo/franciscouzo.github.io/contents/README.md?ref=master",
+  "html_url": "https://github.com/franciscouzo/franciscouzo.github.io/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/franciscouzo/franciscouzo.github.io/git/blobs/852acef0566ca73d544841e37cb4ab008a115248",
+  "download_url": "https://raw.githubusercontent.com/franciscouzo/franciscouzo.github.io/master/README.md",
+  "type": "file",
+  "content": "IyBbZnJhbmNpc2NvdXpvLmdpdGh1Yi5pb10oaHR0cHM6Ly9mcmFuY2lzY291\nem8uZ2l0aHViLmlvKQoKVGhpcyBpcyBteSBwZXJzb25hbCB3ZWJwYWdlIHRo\nYXQgSSBtYWlubHkgdXNlIGZvciB1cGxvYWRpbmcgSFRNTDUgZGVtb3MsIHlv\ndSBjYW4gZmluZCB0aGUgbGl2ZSB2ZXJzaW9uIFtoZXJlXShodHRwczovL2Zy\nYW5jaXNjb3V6by5naXRodWIuaW8vKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/franciscouzo/franciscouzo.github.io/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/franciscouzo/franciscouzo.github.io/git/blobs/852acef0566ca73d544841e37cb4ab008a115248",
+    "html": "https://github.com/franciscouzo/franciscouzo.github.io/blob/master/README.md"
+  }
+}

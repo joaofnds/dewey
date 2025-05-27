@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "10fcf24ecbc08fa1d858e93b6dd7ca29c4e772c1",
+  "size": 1263,
+  "url": "https://api.github.com/repos/celestefox/base16-i3status-rust/contents/README.md?ref=master",
+  "html_url": "https://github.com/celestefox/base16-i3status-rust/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/celestefox/base16-i3status-rust/git/blobs/10fcf24ecbc08fa1d858e93b6dd7ca29c4e772c1",
+  "download_url": "https://raw.githubusercontent.com/celestefox/base16-i3status-rust/master/README.md",
+  "type": "file",
+  "content": "IyBiYXNlMTYtaTNzdGF0dXMtcnVzdAoKVGhpcyBpcyBhIHJlcG9zaXRvcnkg\ndGhhdCBwcm92aWRlcyBhIFtiYXNlMTZdKGh0dHBzOi8vZ2l0aHViLmNvbS9j\naHJpc2tlbXBzb24vYmFzZTE2KSB0ZW1wbGF0ZSB0byBnZW5lcmF0ZSB0aGVt\nZQpzZXR0aW5ncyBmb3IgW2kzc3RhdHVzLXJ1c3RdKGh0dHBzOi8vZ2l0aHVi\nLmNvbS9ncmVzaGFrZS9pM3N0YXR1cy1ydXN0KS4KClRvIHVzZSwganVzdCBw\naWNrIGEgY29uZmlnIHNuaXBwZXQgZnJvbSBjb2xvcnMvIGFuZCBwdXQgaXQg\naW4geW91ciBpM3N0YXR1cy1ydXN0IGNvbmZpZ3VyYXRpb24sIGhvd2V2ZXIg\neW91IHdhbnQuCgpUaGUgdGhlbWUgaXMgImJhc2VkIiBvbiB0aGUgU29sYXJp\nemVkIERhcmsgYnVpbHRpbiB0aGVtZSBpbiBpM3N0YXR1cy1ydXN0LiBUaGlz\nIGlzIG1vc3RseSBiZWNhdXNlIHRoZSBwbGFpbiB0aGVtZSwKd2hpY2ggb3Ro\nZXJ3aXNlIEkgd291bGQgaGF2ZSB1c2VkLCBkb2Vzbid0IHVzZSB0aGUgcG93\nZXJsaW5lIGNoYXJhY3RlciBmb3IgYSBzZXBhcmF0b3IuCgpUaGUgY29sb3Jz\nIHdlcmUgY2hvc2VuIGJhc2VkIG9uIHdoYXQgW2Jhc2UxNidzIHdlYnNpdGVd\nKGh0dHA6Ly9jaHJpc2tlbXBzb24uY29tL3Byb2plY3RzL2Jhc2UxNi8pIHNh\neXMgYWJvdXQgdGhlCmNvbG9ycyAoYm90aCB0aGUgZXhhbXBsZSBzaGFkZXMg\naW4gdGhlIGxpc3Qgc2F5aW5nIHdoYXQgdGhlIGNvbG9ycyBhcmUgbWVhbnQg\ndG8gYmUgdXNlZCBmb3IgYW5kIF93aGF0XyBpdCBzYXlzIHRoZXkKYXJlIHVz\nZWQgZm9yKSBhbmQgdGhlIGNvbG9ycyBvZiBTb2xhcml6ZWQgdGhhdCB0aGUg\nYnVpbHRpbiB0aGVtZSBjaG9zZS4gVGhpcyBpcyBtb3JlIG9wdGltaXNlZCBm\nb3IgZGFyayB0aGVtZXMsIGFzIGEKcmVzdWx0LCBzbyBJIG1heSBhZGQgYW5v\ndGhlciB0ZW1wbGF0ZSB0aGF0IHNob3VsZCB3b3JrIGJldHRlciBmb3IgbGln\naHQgdGhlbWVzLiBJJ20gYWxzbyAxMDAlIG9wZW4gdG8gc3dpdGNoaW5nIGFy\nb3VuZAp3aGF0IGNvbG9yIGdvZXMgd2hlcmUuCgpBcyBhIGZpbmFsIG5vdGUs\nIGlmIHlvdSB3YW50IHRvIGJlIGFibGUgdG8gZWFzaWx5IHN3aXRjaCwgYmVj\nYXVzZSBpM3N0YXR1cy1ydXN0IGhhcyBubyAiaW5jbHVkZSIgbWVjaGFuaXNt\nLCBJCnJlY29tbWVuZCBjaGVja2luZyBvdXQgW2Jhc2UxNi1idWlsZGVyLXB5\ndGhvbi9weWJhc2UxNl0oaHR0cHM6Ly9naXRodWIuY29tL0luc3BlY3Rvck11\nc3RhY2hlL2Jhc2UxNi1idWlsZGVyLXB5dGhvbikKYW5kIGl0cyBgaW5qZWN0\nYC4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/celestefox/base16-i3status-rust/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/celestefox/base16-i3status-rust/git/blobs/10fcf24ecbc08fa1d858e93b6dd7ca29c4e772c1",
+    "html": "https://github.com/celestefox/base16-i3status-rust/blob/master/README.md"
+  }
+}

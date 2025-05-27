@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9ba5566e7759863d259f55572303bd960c7b7dc2",
+  "size": 744,
+  "url": "https://api.github.com/repos/elixir-nx/nx/contents/README.md?ref=main",
+  "html_url": "https://github.com/elixir-nx/nx/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/elixir-nx/nx/git/blobs/9ba5566e7759863d259f55572303bd960c7b7dc2",
+  "download_url": "https://raw.githubusercontent.com/elixir-nx/nx/main/README.md",
+  "type": "file",
+  "content": "VGhpcyByZXBvc2l0b3J5IGN1cnJlbnRseSBob2xkcyB0aGUgZm9sbG93aW5n\nIHByb2plY3RzOgoKICAqIFtgTnhgXShodHRwczovL2dpdGh1Yi5jb20vZWxp\neGlyLW54L254L3RyZWUvbWFpbi9ueCNyZWFkbWUpIC0gTXVsdGktZGltZW5z\naW9uYWwgYXJyYXlzICh0ZW5zb3JzKSBhbmQgbnVtZXJpY2FsIGRlZmluaXRp\nb25zIGZvciBFbGl4aXIKCiAgKiBbYEVYTEFgXShodHRwczovL2dpdGh1Yi5j\nb20vZWxpeGlyLW54L254L3RyZWUvbWFpbi9leGxhI3JlYWRtZSkgLSBHb29n\nbGUncyBYTEEgKEFjY2VsZXJhdGVkIExpbmVhciBBbGdlYnJhKSBjb21waWxl\nci9iYWNrZW5kIGZvciBOeAoKICAqIFtgVG9yY2h4YF0oaHR0cHM6Ly9naXRo\ndWIuY29tL2VsaXhpci1ueC9ueC90cmVlL21haW4vdG9yY2h4I3JlYWRtZSkg\nLSBMaWJUb3JjaCBiYWNrZW5kIGZvciBOeAoKRWFjaCBoYXMgdGhlaXIgb3du\nIFJFQURNRSwgd2hpY2ggeW91IGNhbiBhY2Nlc3MgYWJvdmUgdG8gbGVhcm4g\nbW9yZS4gVGhleSB3aWxsIGJlIGV4dHJhY3RlZCB0byB0aGVpciBvd24gcmVw\nb3NpdG9yeSBpbiB0aGUgZnV0dXJlLiBFeGFtcGxlcyBhbmQgYmVuY2htYXJr\ncyBhcmUgYXZhaWxhYmxlIGluIHRoZSBgRVhMQWAgcHJvamVjdC4KCltDaGVj\nayBvdXIgb3JnYW5pemF0aW9uIHBhZ2UgZm9yIGEgZ2VuZXJhbCBpbnRyb2R1\nY3Rpb24gdG8gTWFjaGluZSBMZWFybmluZyBpbiBFbGl4aXJdKGh0dHBzOi8v\nZ2l0aHViLmNvbS9lbGl4aXItbngvKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/elixir-nx/nx/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/elixir-nx/nx/git/blobs/9ba5566e7759863d259f55572303bd960c7b7dc2",
+    "html": "https://github.com/elixir-nx/nx/blob/main/README.md"
+  }
+}

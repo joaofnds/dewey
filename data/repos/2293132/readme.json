@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "cf803bbfaae97aa78753f70aecaeadebefc178c3",
+  "size": 435,
+  "url": "https://api.github.com/repos/edicl/drakma/contents/README.md?ref=master",
+  "html_url": "https://github.com/edicl/drakma/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/edicl/drakma/git/blobs/cf803bbfaae97aa78753f70aecaeadebefc178c3",
+  "download_url": "https://raw.githubusercontent.com/edicl/drakma/master/README.md",
+  "type": "file",
+  "content": "LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpE\nUkFLTUEgLSBIVFRQIGNsaWVudCB3cml0dGVuIGluIENvbW1vbiBMaXNwCi0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCkRS\nQUtNQSBpcyBhIEhUVFAgY2xpZW50IHdyaXR0ZW4gaW4gQ29tbW9uIExpc3Au\nICBQbGVhc2UgdmlzaXQgW3RoZQpkb2N1bWVudGF0aW9uIHNpdGVdKGh0dHA6\nLy9lZGljbC5naXRodWIuaW8vZHJha21hLykgZm9yIG1vcmUgaW5mb3JtYXRp\nb24uCgpbIVtHaXR0ZXJdKGh0dHBzOi8vYmFkZ2VzLmdpdHRlci5pbS9Kb2lu\nJTIwQ2hhdC5zdmcpXShodHRwczovL2dpdHRlci5pbS9lZGljbC9kcmFrbWE/\ndXRtX3NvdXJjZT1iYWRnZSZ1dG1fbWVkaXVtPWJhZGdlJnV0bV9jYW1wYWln\nbj1wci1iYWRnZSZ1dG1fY29udGVudD1iYWRnZSkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/edicl/drakma/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/edicl/drakma/git/blobs/cf803bbfaae97aa78753f70aecaeadebefc178c3",
+    "html": "https://github.com/edicl/drakma/blob/master/README.md"
+  }
+}

@@ -1,0 +1,15 @@
+**Repository Data:**
+
+**Name:** dathere/qsv
+
+**Description:** High-performance data wrangling toolkit for querying, slicing, indexing, analyzing, filtering, enriching, transforming, sorting, validating, joining, formatting, and converting tabular data in various formats. Written in Rust, it offers a command line interface with simple, composable commands that are "blazingly fast".
+
+**Primary function and domain:** Solves the problem of processing large datasets quickly and efficiently, particularly for tabular data (CSV, spreadsheets, databases, parquet, etc.). The technical domain is data engineering and data wrangling.
+
+**Core features and capabilities:** Users can perform various operations on their data such as querying, filtering, sorting, validating, joining, formatting, and converting. It also offers enrichment, transformation, and analysis functionalities.
+
+**Technology stack:** The toolkit is written in Rust, with a command line interface for interaction. It supports various file formats including CSV, spreadsheets, databases, parquet, etc.
+
+**Project type:** Application
+
+**Target users:** Data engineers, data scientists, and analysts who work with large datasets and require fast, efficient processing capabilities.

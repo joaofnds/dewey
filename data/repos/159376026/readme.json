@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "fc565cc14e23c627aa1b87dc80cae8c3caf445f8",
+  "size": 1607,
+  "url": "https://api.github.com/repos/cognitect-labs/REBL-distro/contents/README.md?ref=master",
+  "html_url": "https://github.com/cognitect-labs/REBL-distro/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/cognitect-labs/REBL-distro/git/blobs/fc565cc14e23c627aa1b87dc80cae8c3caf445f8",
+  "download_url": "https://raw.githubusercontent.com/cognitect-labs/REBL-distro/master/README.md",
+  "type": "file",
+  "content": "IyBOT1RFOiBSRUJMIGhhcyBiZWVuIHN1cGVyc2VkZWQgYnkgTW9yc2UKCklu\nc3RlYWQgdXNlOiBodHRwczovL2dpdGh1Yi5jb20vbnViYW5rL21vcnNlCgoj\nIGBSRUJMYAoKUkVCTCBpcyBhIGdyYXBoaWNhbCwgaW50ZXJhY3RpdmUgdG9v\nbCBmb3IgYnJvd3NpbmcgQ2xvanVyZSBkYXRhLiBSRUJMIGlzIGV4dHJhY3Rl\nZCBmcm9tIERhdG9taWMgdG9vbHMgZGV2ZWxvcGVkIGJ5IHRoZSBbRGF0b21p\nYyBUZWFtXShodHRwczovL3d3dy5kYXRvbWljLmNvbS8pIGF0IFtDb2duaXRl\nY3RdKGh0dHBzOi8vY29nbml0ZWN0LmNvbSksIGFuZCBpcyBhdmFpbGFibGUg\nZm9yIG5vbi1jb21tZXJjaWFsIHVzZSAocGVyIHRoZSBFVUxBKSBmcmVlIG9m\nIGNoYXJnZS4gV2UgaG9wZSB0aGF0IG1hbnkgQ2xvanVyZSBkZXZlbG9wZXJz\nIHdpbGwgZmluZCBpdCB1c2VmdWwuIAoKIyMgRmVhdHVyZXMKCiogQSB0d28t\ncGFuZSBicm93c2VyL3ZpZXdlciBzeXN0ZW0gZm9yIHZpZXdpbmcgY29sbGVj\ndGlvbnMgYW5kIHRoZWlyIGNvbnRlbnRzCiogTmF2aWdhdGlvbiBpbnRvIGFu\nZCBiYWNrIG91dCBvZiBuZXN0ZWQgY29sbGVjdGlvbnMKKiBBIHN0cnVjdHVy\nZWQgZWRpdG9yIHBhbmUgZm9yIGVudGVyaW5nIGV4cHJlc3Npb25zIHRvIGJl\nIGV2YWx1YXRlZAoqIEEgcm9vdCBicm93c2Ugb2YgYSBoaXN0b3J5IG9mIGV4\ncHJlc3Npb24gZXZhbHVhdGlvbnMKKiBUaGUgYWJpbGl0eSB0byAnd3JhcCcg\nYSBzdGRpbyBiYXNlZCBSRVBMIChlLmcuIENsb2p1cmUncyBuYXRpdmUgUkVQ\nTCkgc28gdGhhdCBpdCBjYW4gbW9uaXRvciBhbmQgZGlzcGxheSB0aGUgaW50\nZXJhY3Rpb25zIHRoZXJlaW4sIHdoaWxlIHN0aWxsIGFsbG93aW5nIHRoZW0g\ndG8gZmxvdyBiYWNrIHRvIHRoZSBob3N0IChlLmcuIHRoZSBlZGl0b3IpCiog\nV2hlbiB1c2VkIHdpdGggbm9uLXN0ZGlvIHJlcGxzIChlLmcuIG5SRVBMKSwg\nY2FuIGJlIGxhdW5jaGVkIGEgbGEgY2FydGUgYW5kIGFjY2VwdHMgdmFsdWVz\nIHRvIGluc3BlY3QgdmlhIGFuIEFQSSBjYWxsCiogVGhlIGFiaWxpdHkgdG8g\nY2FwdHVyZSBuZXN0ZWQgdmFsdWVzIGFzIGRlZnMgaW4gdGhlIHVzZXIgbmFt\nZXNwYWNlCiogVGhlIGFiaWxpdHkgdG8gcnVuIG11bHRpcGxlIGluZGVwZW5k\nZW50IFVJIHdpbmRvd3MKKiBNZXRhZGF0YSB2aWV3aW5nCiogRGF0YWZ5IHN1\ncHBvcnQKKiBFeHRlbnNpYmlsaXR5IHRvIG5ldyBicm93c2VycyBhbmQgdmll\nd2VycwoqIEZ1bGwga2V5Ym9hcmQgY29udHJvbCB2aWEgW2hvdGtleXNdKGh0\ndHBzOi8vZG9jcy5kYXRvbWljLmNvbS9jbG91ZC9vdGhlci10b29scy9SRUJM\nLmh0bWwja2V5YmluZGluZ3MpCgpSRUJMIHJ1bnMgaW4geW91ciBhcHBsaWNh\ndGlvbiBKVk0gcHJvY2VzcywgYW5kIGNhbiBiZSB1c2VkIGF0IGRldi10aW1l\nIHdpdGhvdXQgYWRkaW5nIGFueSBydW50aW1lIGRlcHMuIFRoZSBVSSBpcyB3\ncml0dGVuIGluIEphdmFGWC4KCiMgW0RvY3VtZW50YXRpb25dKGh0dHBzOi8v\nZG9jcy5kYXRvbWljLmNvbS9jbG91ZC9vdGhlci10b29scy9SRUJMLmh0bWwp\nCgpbUkVCTCBEb2N1bWVudGF0aW9uXShodHRwczovL2RvY3MuZGF0b21pYy5j\nb20vY2xvdWQvb3RoZXItdG9vbHMvUkVCTC5odG1sKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/cognitect-labs/REBL-distro/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/cognitect-labs/REBL-distro/git/blobs/fc565cc14e23c627aa1b87dc80cae8c3caf445f8",
+    "html": "https://github.com/cognitect-labs/REBL-distro/blob/master/README.md"
+  }
+}

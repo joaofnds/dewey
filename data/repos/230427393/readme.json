@@ -1,0 +1,18 @@
+{
+  "name": "README.org",
+  "path": "README.org",
+  "sha": "ffcad89fa557f5411995ba6c438b7dbaa878cc9f",
+  "size": 381,
+  "url": "https://api.github.com/repos/jethrokuan/mathpix.el/contents/README.org?ref=master",
+  "html_url": "https://github.com/jethrokuan/mathpix.el/blob/master/README.org",
+  "git_url": "https://api.github.com/repos/jethrokuan/mathpix.el/git/blobs/ffcad89fa557f5411995ba6c438b7dbaa878cc9f",
+  "download_url": "https://raw.githubusercontent.com/jethrokuan/mathpix.el/master/README.org",
+  "type": "file",
+  "content": "KiBNYXRocGl4LmVsCgpbW2ZpbGU6c2NyZWVuc2hvdHMvbWF0aHBpeC5naWZd\nXQoKRW1hY3MgaW50ZXJmYWNlIHRvIE1hdGhwaXguIFJlcXVpcmVzIGEgTWF0\naHBpeCBhcHAgaWQgYW5kIGtleS4gRXhhbXBsZQpwYWNrYWdlIHNldHVwOgoK\nIytiZWdpbl9zcmMgZW1hY3MtbGlzcAogICh1c2UtcGFja2FnZSBtYXRocGl4\nLmVsCiAgICA6c3RyYWlnaHQgKDpob3N0IGdpdGh1YiA6cmVwbyAiamV0aHJv\na3Vhbi9tYXRocGl4LmVsIikKICAgIDpjdXN0b20gKChtYXRocGl4LWFwcC1p\nZCAiYXBwLWlkIikKICAgICAgICAgICAgIChtYXRocGl4LWFwcC1rZXkgImFw\ncC1rZXkiKSkKICAgIDpiaW5kCiAgICAoIkMteCBtIiAuIG1hdGhwaXgtc2Ny\nZWVuc2hvdCkpCgojK2VuZF9zcmMK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jethrokuan/mathpix.el/contents/README.org?ref=master",
+    "git": "https://api.github.com/repos/jethrokuan/mathpix.el/git/blobs/ffcad89fa557f5411995ba6c438b7dbaa878cc9f",
+    "html": "https://github.com/jethrokuan/mathpix.el/blob/master/README.org"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a8b4a52cce50cb0d983db12137c3ceffbf889dd0",
+  "size": 656,
+  "url": "https://api.github.com/repos/zevv/lsofgraph/contents/README.md?ref=master",
+  "html_url": "https://github.com/zevv/lsofgraph/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/zevv/lsofgraph/git/blobs/a8b4a52cce50cb0d983db12137c3ceffbf889dd0",
+  "download_url": "https://raw.githubusercontent.com/zevv/lsofgraph/master/README.md",
+  "type": "file",
+  "content": "CkEgc21hbGwgdXRpbGl0eSB0byBjb252ZXJ0IFVuaXggYGxzb2ZgIG91dHB1\ndCB0byBhIGdyYXBoIHNob3dpbmcgRklGTyBhbmQgVU5JWCBpbnRlcnByb2Nl\nc3MgY29tbXVuaWNhdGlvbi4KCkdlbmVyYXRlIGdyYXBoOgoKYGBgYHNoZWxs\nCnN1ZG8gbHNvZiAtbiAtRiB8IC4vbHNvZmdyYXBoIHwgZG90IC1UanBnID4g\nL3RtcC9hLmpwZwpgYGBgCgpvciBhZGQgYHVuZmxhdHRlbmAgdG8gdGhlIGNo\nYWluIGZvciBhIGJldHRlciBsYXlvdXQ6CgpgYGBgc2hlbGwKc3VkbyBsc29m\nIC1uIC1GIHwgLi9sc29mZ3JhcGggfCB1bmZsYXR0ZW4gLWwgMSAtYyA2IHwg\nZG90IC1UIGpwZyA+IC90bXAvYS5qcGcKYGBgYAoKSXQgc2VlbXMgdGhhdCBM\ndWEgd2FzIGFuIHVuZm9ydHVuYXRlIGNob2ljZSwgc2luY2UgcGVvcGxlIGtl\nZXAgc2VuZGluZyBtZSBsaW5rcyB0byBwb3J0cyBpbiBvdGhlciBsYW5ndWFn\nZXMuIElmIHlvdSBhbHNvIGhhdGUgTHVhLCByYWlzZSB5b3VyIGhhbmQgYW5k\nIGNoZWNrIHRoZSBQeXRob24gcG9ydCBhdCBodHRwczovL2dpdGh1Yi5jb20v\nYWttZS9sc29mZ3JhcGgtcHl0aG9uIG9yIHRoZSBQZXJsIHBvcnQgYXQgaHR0\ncHM6Ly9naXRodWIuY29tL3RlaG1vdGgvbHNvZmdyYXBoLgoKIVtleGFtcGxl\nIG91dHB1dF0oL2V4YW1wbGUuanBnKQoKCgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/zevv/lsofgraph/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/zevv/lsofgraph/git/blobs/a8b4a52cce50cb0d983db12137c3ceffbf889dd0",
+    "html": "https://github.com/zevv/lsofgraph/blob/master/README.md"
+  }
+}

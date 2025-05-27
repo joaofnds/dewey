@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f7903b67f78efe45eeac6159cffb8c3aa4da38c3",
+  "size": 1665,
+  "url": "https://api.github.com/repos/astaxie/build-web-application-with-golang/contents/README.md?ref=master",
+  "html_url": "https://github.com/astaxie/build-web-application-with-golang/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/astaxie/build-web-application-with-golang/git/blobs/f7903b67f78efe45eeac6159cffb8c3aa4da38c3",
+  "download_url": "https://raw.githubusercontent.com/astaxie/build-web-application-with-golang/master/README.md",
+  "type": "file",
+  "content": "IyBNdWx0aXBsZSBMYW5ndWFnZSBWZXJzaW9ucw0KDQoqIFsoSFRNTCAtIFBE\nRikgb24gR2l0Qm9va10oaHR0cHM6Ly9hc3RheGllLmdpdGJvb2tzLmlvL2J1\naWxkLXdlYi1hcHBsaWNhdGlvbi13aXRoLWdvbGFuZykNCiogW0RldXRzY2hd\nKGRlL3ByZWZhY2UubWQpDQoqIFtFbmdsaXNoXShlbi9wcmVmYWNlLm1kKQ0K\nKiBbRXNwYcOxb2xdKGVzL3ByZWZhY2UubWQpDQoqIFtGcmFuw6dhaXNdKGZy\nL3ByZWZhY2UubWQpDQoqIFtQb3J0dWd1w6pzIC0gQnJhc2lsXShwdC1ici9w\ncmVmYWNlLm1kKQ0KKiBb0KDRg9GB0YHQutC40LldKHJ1L3ByZWZhY2UubWQp\nDQoqIFtUw7xya8OnZV0odHIvcHJlZmFjZS5tZCkNCiogW+CmrOCmvuCmguCm\nsuCmvl0oYm4vcHJlZmFjZS5tZCkNCiogW+aXpeacrOiqnl0oamEvcHJlZmFj\nZS5tZCkNCiogW+eugOS9k+S4reaWh10oemgvcHJlZmFjZS5tZCkNCiogW+at\no+mrlOS4reaWh10oemgtdHcvcHJlZmFjZS5tZCkNCiogW9m+2KfYsdiz24xd\nKGZhL3ByZWZhY2UubWQpDQoqIFvguKDguLLguKnguLLguYTguJfguKJdKHRo\nL3ByZWZhY2UubWQpDQoNCiMgRG9uYXRlDQoNCkFsaVBheTogPGltZyBzcmM9\nInpoL2ltYWdlcy9hbGlwYXkucG5nIiBhbHQ9ImFsaXBheSIgd2lkdGg9IjEw\nMCIgaGVpZ2h0PSIxMDAiPg0KDQpFbmdsaXNoIERvbmF0ZTpbZG9uYXRlXSho\ndHRwOi8vYmVlZ28ubWUvZG9uYXRlKQ0KDQojIyBDb21tdW5pdHkNClFR576k\n77yaMTQ4NjQ3NTgwDQoNCkJCU++8mltodHRwOi8vZ29jbi5pby9dKGh0dHA6\nLy9nb2NuLmlvLykNCg0KIyMgQ29udHJpYnV0b3JzDQoNCi0gU2VlIFtjb250\ncmlidXRvcnMgcGFnZV0oaHR0cHM6Ly9naXRodWIuY29tL2FzdGF4aWUvYnVp\nbGQtd2ViLWFwcGxpY2F0aW9uLXdpdGgtZ29sYW5nL2dyYXBocy9jb250cmli\ndXRvcnMpIGZvciBmdWxsIGxpc3Qgb2YgY29udHJpYnV0b3JzLg0KDQojIyBB\nY2tub3dsZWRnbWVudHMNCg0KIC0gW+Wbm+aciOS7veW5s+awkV0oaHR0cHM6\nLy9wbHVzLmdvb2dsZS5jb20vMTEwNDQ1NzY3MzgzMjY5ODE3OTU5KSAocmV2\naWV35Luj56CBKQ0KIC0gW0hvbmcgUnVpcWldKGh0dHBzOi8vZ2l0aHViLmNv\nbS9ob25ncnVpcWkpIChyZXZpZXfku6PnoIEpDQogLSBbQmlhbkppYW5nXSho\ndHRwczovL2dpdGh1Yi5jb20vYm9yZGVyKSAo57yW5YaZZ2/lvIDlj5Hlt6Xl\nhbdWaW3lkoxFbWFjc+eahOiuvue9rikNCiAtIFtPbGluZyBDYXRdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9PbGluZ0NhdCkocmV2aWV35Luj56CBKQ0KIC0gW1dl\nbmxlaSBXdV0obWFpbHRvOnNwYWRlc2FjbkBnbWFpbC5jb20pKOaPkOS+m+S4\ngOS6m+WbvueJh+WxleekuikNCiAtIFtwb2xhcmlzXShodHRwczovL2dpdGh1\nYi5jb20vcG9sYXJpczExMTkpKHJldmlld+S5pikNCiAtIFvpm6jnl5VdKGh0\ndHBzOi8vZ2l0aHViLmNvbS9xeXVoZW4pKHJldmlld+esrOS6jOeroCkNCg0K\nIyMgTGljZW5zZQ0KQm9vayBMaWNlbnNlOiBbQ0MgQlktU0EgMy4wIExpY2Vu\nc2VdKGh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LXNh\nLzMuMC8pDQoNCkNvZGUgTGljZW5zZTogW0JTRCAzLUNsYXVzZSBMaWNlbnNl\nXSg8aHR0cHM6Ly9naXRodWIuY29tL2FzdGF4aWUvYnVpbGQtd2ViLWFwcGxp\nY2F0aW9uLXdpdGgtZ29sYW5nL2Jsb2IvbWFzdGVyL0xJQ0VOU0UubWQ+KQ0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/astaxie/build-web-application-with-golang/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/astaxie/build-web-application-with-golang/git/blobs/f7903b67f78efe45eeac6159cffb8c3aa4da38c3",
+    "html": "https://github.com/astaxie/build-web-application-with-golang/blob/master/README.md"
+  }
+}

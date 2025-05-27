@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "288754c866e13dbc77a1b0bcc55cb09c49703f7d",
+  "size": 1224,
+  "url": "https://api.github.com/repos/vltpkg/vltpkg/contents/README.md?ref=main",
+  "html_url": "https://github.com/vltpkg/vltpkg/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/vltpkg/vltpkg/git/blobs/288754c866e13dbc77a1b0bcc55cb09c49703f7d",
+  "download_url": "https://raw.githubusercontent.com/vltpkg/vltpkg/main/README.md",
+  "type": "file",
+  "content": "IVt2bHRdKGh0dHBzOi8vZ2l0aHViLmNvbS91c2VyLWF0dGFjaG1lbnRzL2Fz\nc2V0cy9hZWM3YzgxNy1iODNmLTRkNzEtYjM0YS00ZTQ4MGI5N2U4MmMpCgoj\nIHZsdCAvdsWNbHQvCgohW3ZsdCBWZXJzaW9uXShodHRwczovL2ltZy5zaGll\nbGRzLmlvL25wbS92L3ZsdD9sb2dvPW5wbSZsYWJlbD1WZXJzaW9uKQohW1Bh\nY2thZ2UgRG93bmxvYWRzXShodHRwczovL2ltZy5zaGllbGRzLmlvL25wbS9k\nbS92bHQ/bG9nbz1ucG0mbGFiZWw9RG93bmxvYWRzKQohW0dpdEh1YiBCcmFu\nY2ggU3RhdHVzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2dpdGh1Yi9jaGVj\na3Mtc3RhdHVzL3ZsdHBrZy92bHRwa2cvbWFpbj9sb2dvPWdpdGh1YiZsYWJl\nbD1HaXRIdWIpCiFbRGlzY29yZCBTZXJ2ZXIgU3RhdHVzXShodHRwczovL2lt\nZy5zaGllbGRzLmlvL2Rpc2NvcmQvMTA5MzM2NjA4MTA2Nzk1NDE3OD9sb2dv\nPWRpc2NvcmQmbGFiZWw9RGlzY29yZCkKWyFbU29ja2V0IFNlY3VyaXR5IFN0\nYXR1c10oaHR0cHM6Ly9zb2NrZXQuZGV2L2FwaS9iYWRnZS9ucG0vcGFja2Fn\nZS92bHQpXShodHRwczovL3NvY2tldC5kZXYvbnBtL3BhY2thZ2Uvdmx0KQoK\nKipEZXZlbG9wLiBSdW4uIERpc3RyaWJ1dGUuKioKClRoaXMgaXMgdGhlIHNv\ndXJjZSBtb25vcmVwbyBmb3IgdGhlIFt2bHRdKGh0dHBzOi8vd3d3LnZsdC5z\naCkgcGFja2FnZQptYW5hZ2VyLgoKIyMjIERvY3VtZW50YXRpb24KCkZ1bGwg\nZG9jdW1lbnRhdGlvbiwgc3RhcnR1cCBndWlkZXMgJiBBUEkgcmVmZXJlbmNl\ncyBjYW4gYmUgZm91bmQgYXQKW2RvY3Mudmx0LnNoXShodHRwczovL2RvY3Mu\ndmx0LnNoKS4KCiMjIyMgRGV2ZWxvcG1lbnQKCmBgYGJhc2gKIyBDbG9uZSB0\naGUgcmVwbwpnaXQgY2xvbmUgZ2l0QGdpdGh1Yi5jb206dmx0cGtnL3ZsdHBr\nZy5naXQKY2Qgdmx0cGtnCgojIEluc3RhbGwgZGVwcyAoYW5kIHJ1biBwcmVw\nYXJlIHNjcmlwdHMpCnBucG0gaW5zdGFsbAoKIyBSdW4gdGhlIGxvY2FsbHkg\nYnVpbHQgQ0xJCnBucG0gdmx0ICMgT1IgLi9ub2RlX21vZHVsZXMvLmJpbi92\nbHQKYGBgCgpTZWUgdGhlIFtjb250cmlidXRpbmcgZ3VpZGVdKC4vQ09OVFJJ\nQlVUSU5HLm1kKSBmb3IgbW9yZSBpbmZvcm1hdGlvbgpvbiBob3cgdG8gYnVp\nbGQgYW5kIGRldmVsb3AgdGhlIHZhcmlvdXMgd29ya3NwYWNlcy4KCiMjIyBM\naWNlbnNlCgpbQlNELTItQ2xhdXNlIFBsdXMgUGF0ZW50IExpY2Vuc2VdKC4v\nTElDRU5TRSkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/vltpkg/vltpkg/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/vltpkg/vltpkg/git/blobs/288754c866e13dbc77a1b0bcc55cb09c49703f7d",
+    "html": "https://github.com/vltpkg/vltpkg/blob/main/README.md"
+  }
+}

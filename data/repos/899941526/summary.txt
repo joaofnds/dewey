@@ -1,0 +1,15 @@
+**Repository Data:**
+
+**Name:** sinclairtarget/git-who
+
+**Description:** A command-line tool for analyzing Git repository authorship, providing insights into contributions of individual authors and components within a codebase. Unlike traditional `git blame`, which focuses on individual lines of code, `git-who` offers a comprehensive view of file tree contributions.
+
+**Primary function and domain:** Solves the problem of understanding who wrote specific components or subsystems in a Git repository, offering a solution for codebase maintenance and collaboration within software development.
+
+**Core features and capabilities:** Offers three subcommands to provide different views of authorship: `table` (default), which summarizes contributions of every author; `tree`, which displays a hierarchical tree structure of file tree contributions; and `diff`, which shows changes in contributions over time.
+
+**Technology stack:** Written in Go, with dependencies on Ruby and the rake gem for building from source.
+
+**Project type:** Tool
+
+**Target users:** Software developers, maintainers, and contributors working within Git-managed projects who seek to understand authorship patterns and contributions across their codebase.

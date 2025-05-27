@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "660fd8124035d438d3b5defbd1f8831cee5e71c7",
+  "size": 1059,
+  "url": "https://api.github.com/repos/madmalik/mononoki/contents/README.md?ref=main",
+  "html_url": "https://github.com/madmalik/mononoki/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/madmalik/mononoki/git/blobs/660fd8124035d438d3b5defbd1f8831cee5e71c7",
+  "download_url": "https://raw.githubusercontent.com/madmalik/mononoki/main/README.md",
+  "type": "file",
+  "content": "IyBtb25vbm9raQoKPiBBIGZvbnQgZm9yIHByb2dyYW1taW5nIGFuZCBjb2Rl\nIHJldmlldy4KCkZvciBhIGNsb3NlciBsb29rIFtodHRwOi8vbWFkbWFsaWsu\nZ2l0aHViLmlvL21vbm9ub2tpL10oaHR0cDovL21hZG1hbGlrLmdpdGh1Yi5p\nby9tb25vbm9raS8pLgoKIyMgRmVhdHVyZXMKCiogQWx0ZXJuYXRlIHN0eWxp\nc3RpYyBzZXQgd2l0aCBkb3R0ZWQgemVybywgY29uZmlndXJhYmxlIHdpdGgg\nYHNzMDFgLgoKIyMgSW5zdGFsbGF0aW9uCgpbRG93bmxvYWQgbW9ub25va2ku\nemlwXShodHRwczovL2dpdGh1Yi5jb20vbWFkbWFsaWsvbW9ub25va2kvcmVs\nZWFzZXMvZG93bmxvYWQvMS42L21vbm9ub2tpLnppcCkgYW5kIHVucGFjayBp\ndC4KKiBbbWFjT1NdKGh0dHA6Ly9zdXBwb3J0LmFwcGxlLmNvbS9rYi9IVDI1\nMDkpLCBhbHRlcm5hdGl2ZWx5IHRoZXJlIGlzIGFsc28gYSBbaG9tZWJyZXcg\nZm9ybXVsYV0oaHR0cHM6Ly9naXRodWIuY29tL0hvbWVicmV3L2hvbWVicmV3\nLWNhc2stZm9udHMvYmxvYi9tYXN0ZXIvQ2Fza3MvZm9udC1tb25vbm9raS5y\nYikuCiogW1dpbmRvd3NdKGh0dHBzOi8vc3VwcG9ydC5taWNyb3NvZnQuY29t\nL2VuLXVzL29mZmljZS9hZGQtYS1mb250LWI3YzVmMTdjLTQ0MjYtNGI1My05\nNjdmLTQ1NTMzOWM1NjRjMSkKKiBMaW51eC9Vbml4IC0gZGlzdHJvIGRlcGVu\nZGVudCwgaWYgeW91IGhhdmUgYSBmb250IG1hbmFnZXIgaW5zdGFsbGVkIG9u\nIHlvdXIgc3lzdGVtLCBvcGVuIHRoZSBmb250IGZpbGUgYW5kIGhpdCAiSW5z\ndGFsbCIuIEFsdGVybmF0aXZlbHksIHRoZXJlIGFyZSBbbW9ub25va2ktcGFj\na2FnZXNdKGh0dHBzOi8vcmVwb2xvZ3kub3JnL3Byb2plY3QvZm9udHM6bW9u\nb25va2kvdmVyc2lvbnMpIGluIG1hbnkgb2YgdGhlIHBhY2thZ2UgcmVwb3Ms\nIGlmIHlvdSBwcmVmZXIgaW5zdGFsbGluZyB2aWEgcGFja2FnZSBtYW5hZ2Vy\nLgoKIyMgQ3JlZGl0CgpCb3ggZHJhd2luZyBjaGFyYWN0ZXJzIGNyZWF0ZWQg\nd2l0aCBbYm94IGRyYXdpbmddKGh0dHBzOi8vZ2l0aHViLmNvbS9hZG9iZS10\neXBlLXRvb2xzL2JveC1kcmF3aW5nKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/madmalik/mononoki/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/madmalik/mononoki/git/blobs/660fd8124035d438d3b5defbd1f8831cee5e71c7",
+    "html": "https://github.com/madmalik/mononoki/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.org",
+  "path": "README.org",
+  "sha": "14fe6245f00c7b6452764867485b92417cfbc163",
+  "size": 1586,
+  "url": "https://api.github.com/repos/cofi/evil-numbers/contents/README.org?ref=master",
+  "html_url": "https://github.com/cofi/evil-numbers/blob/master/README.org",
+  "git_url": "https://api.github.com/repos/cofi/evil-numbers/git/blobs/14fe6245f00c7b6452764867485b92417cfbc163",
+  "download_url": "https://raw.githubusercontent.com/cofi/evil-numbers/master/README.org",
+  "type": "file",
+  "content": "KiBFdmlsIE51bWJlcnMKICAtIEluY3JlbWVudCAvIERlY3JlbWVudCBiaW5h\ncnksIG9jdGFsLCBkZWNpbWFsIGFuZCBoZXggbGl0ZXJhbHMKCiAgLSB3b3Jr\ncyBsaWtlIEMtYS9DLXggaW4gdmltLCBpLmUuIHNlYXJjaGVzIGZvciBudW1i\nZXIgdXAgdG8gZW9sIGFuZCB0aGVuCiAgICBpbmNyZW1lbnRzIG9yIGRlY3Jl\nbWVudHMgYW5kIGtlZXAgemVybyBwYWRkaW5nIHVwICh1bmxpa2UgaW4gdmlt\nKQoKICAtIFdoZW4gYSByZWdpb24gaXMgYWN0aXZlLCBhcyBpbiBldmlsJ3Mg\ndmlzdWFsIG1vZGUsIGFsbCB0aGUKICAgIG51bWJlcnMgd2l0aGluIHRoYXQg\ncmVnaW9uIHdpbGwgYmUgaW5jcmVtZW50ZWQvZGVjcmVtZW50ZWQgKHVubGlr\nZQogICAgaW4gdmltKQoKKiogRGV0ZWN0ZWQgTGl0ZXJhbHMKICAgIC0gYmlu\nYXJ5LCBlLmcuID0wYjAxMDE9LCA9MEIwMTAxPQogICAgLSBvY3RhbCwgZS5n\nLiA9MG83NTU9LCA9ME83MDA9CiAgICAtIGhleGFkZWNpbWFsLCBlLmcuID0w\neERFQURCRUVGPSwgPTBYQ0FGRT0KCioqIEluc3RhbGwKICAgUHV0IGluID1s\nb2FkLXBhdGg9LCA9KHJlcXVpcmUgJ2V2aWwtbnVtYmVycyk9IGFuZCBiaW5k\nLCBmb3IgZXhhbXBsZToKCiAgICMrQkVHSU5fU1JDIGVtYWNzLWxpc3AKICAg\nICAoZ2xvYmFsLXNldC1rZXkgKGtiZCAiQy1jICsiKSAnZXZpbC1udW1iZXJz\nL2luYy1hdC1wdCkKICAgICAoZ2xvYmFsLXNldC1rZXkgKGtiZCAiQy1jIC0i\nKSAnZXZpbC1udW1iZXJzL2RlYy1hdC1wdCkKICAgIytFTkRfU1JDCgogICBv\nciBvbmx5IGluIGV2aWwncyBub3JtYWwgc3RhdGU6CgogICAjK0JFR0lOX1NS\nQyBlbWFjcy1saXNwCiAgICAoZGVmaW5lLWtleSBldmlsLW5vcm1hbC1zdGF0\nZS1tYXAgKGtiZCAiQy1jICsiKSAnZXZpbC1udW1iZXJzL2luYy1hdC1wdCkK\nICAgIChkZWZpbmUta2V5IGV2aWwtbm9ybWFsLXN0YXRlLW1hcCAoa2JkICJD\nLWMgLSIpICdldmlsLW51bWJlcnMvZGVjLWF0LXB0KQogICAjK0VORF9TUkMK\nCiAgIEZvciB3aW5kb3cgc3lzdGVtIHVzZXJzIHRoZSBrZXlwYWQgPSs9IGFu\nZCA9LT0gcHJlc2VudCBhbiBhbHRlcm5hdGl2ZSB0aGF0IGNhbiBiZQogICBk\naXJlY3RseSBib3VuZCB3aXRob3V0IHNoYWRvd2luZyB0aGUgcmVndWxhciA9\nKz0gYW5kID0tPToKCiAgICMrQkVHSU5fU1JDIGVtYWNzLWxpc3AKICAgKGRl\nZmluZS1rZXkgZXZpbC1ub3JtYWwtc3RhdGUtbWFwIChrYmQgIjxrcC1hZGQ+\nIikgJ2V2aWwtbnVtYmVycy9pbmMtYXQtcHQpCiAgIChkZWZpbmUta2V5IGV2\naWwtbm9ybWFsLXN0YXRlLW1hcCAoa2JkICI8a3Atc3VidHJhY3Q+IikgJ2V2\naWwtbnVtYmVycy9kZWMtYXQtcHQpCiAgICMrRU5EX1NSQwoKKiogVXNhZ2UK\nICAgUG9zaXRpb24gY3Vyc29yIG9uIGxpdGVyYWwgYW5kIHBsYXkgd2l0aCB5\nb3VyIG51bWJlcnMhCgoqKiBLbm93biBCdWdzCiAgIFNlZSBodHRwOi8vZ2l0\naHViLmNvbS9jb2ZpL2V2aWwtbnVtYmVycy9pc3N1ZXMKCioqIENvbnRyaWJ1\ndG9ycwogICAtIE1hdHRoZXcgRmlkbGVyIDxtYXR0aGV3LmZpZGxlckBnbWFp\nbC5jb20+CiAgIC0gTWljaGFlbCBNYXJrZXJ0IDxtYXJrZXJ0Lm1pY2hhZWxA\nZ21haWwuY29tPgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/cofi/evil-numbers/contents/README.org?ref=master",
+    "git": "https://api.github.com/repos/cofi/evil-numbers/git/blobs/14fe6245f00c7b6452764867485b92417cfbc163",
+    "html": "https://github.com/cofi/evil-numbers/blob/master/README.org"
+  }
+}

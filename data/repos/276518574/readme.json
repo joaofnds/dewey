@@ -1,0 +1,18 @@
+{
+  "name": "readme.md",
+  "path": "readme.md",
+  "sha": "0754f227cfefa7e79ab380d34f946055883921e2",
+  "size": 1177,
+  "url": "https://api.github.com/repos/OpenAnnePro/AnnePro2-Shine/contents/readme.md?ref=master",
+  "html_url": "https://github.com/OpenAnnePro/AnnePro2-Shine/blob/master/readme.md",
+  "git_url": "https://api.github.com/repos/OpenAnnePro/AnnePro2-Shine/git/blobs/0754f227cfefa7e79ab380d34f946055883921e2",
+  "download_url": "https://raw.githubusercontent.com/OpenAnnePro/AnnePro2-Shine/master/readme.md",
+  "type": "file",
+  "content": "IyBBbm5lIFBybyAyIFNoaW5lIQoKVGhpcyBpcyB0aGUgY3VzdG9tIExFRCBm\naXJtd2FyZSB0aGF0IGdvZXMgYWxvbmcgd2l0aCB0aGUgY3VzdG9tClFNSyBm\naXJtd2FyZSBmb3IgQW5uZSBQcm8gMi4gCgpUaGlzIGZpcm13YXJlIGlzIHN0\naWxsIGluIGVhcmx5IGRldmVsb3BtZW50LiBBbmQgd2lsbCBwcm9iYWJseSwK\nYnV0IGl0IHByb3ZpZGVzIHRoZSBmbGV4aWJpbGl0eSBmb3IgY3JlYXRpbmcg\nY3VzdG9tIGVmZmVjdHMuCgojIEJ1aWxkIGFuZCBGbGFzaAoKKipXYXJuaW5n\nOiBUaGlzIHdpbGwgbm90IHdvcmsgd2l0aCB0aGUgT2JpbnMgU3RvY2sgZmly\nbXdhcmUqKgoKVG8gYnVpbGQgYm90aCBDMTUgYW5kIEMxOCB2ZXJzaW9ucyBy\ndW4KCmBtYWtlYAoKdG8gYnVpbGQganVzdCBDMTUgcnVuCgpgbWFrZSBDMTVg\nCgp0byBidWlsZCBqdXN0IEMxOCBydW4KCmBtYWtlIEMxOGAKClRoZSByZXN1\nbHRpbmcgYC5iaW5gIGZpbGVzIHdpbGwgYmUgaW4gdGhlIGBidWlsZGAgZGly\nZWN0b3J5Cm5hbWVkIGBhbm5lcHJvMi1zaGluZS1DMTUuYmluYCBhbmQgYGFu\nbmVwcm8yLXNoaW5lLUMxOC5iaW5gCnJlc3BlY3RpdmVseQoKCiMgRGVidWdn\naW5nCgpZb3UgY2FuIGRlYnVnIHRoZSBjaGlwIHVzaW5nIGpsaW5rIGRlYnVn\nZ2VyIG9yLCBpbiBhIGxpbWl0ZWQgd2F5IHVzaW5nIGEgQmxhY2sKTWFnaWMg\nUHJvYmUgKEJNUCkgZGVidWdnZXIgLSB3aGljaCBjYW4gYmUgZmxhc2hlZCBv\nbnRvIGEgY2hlYXAgYW5kIGF2YWlsYWJsZSBTVE0KZXZhbHVhdGlvbiBib2Fy\nZHMuCgpMRUQgY2hpcCBpcyB0byB0aGUgbGVmdCBmcm9tIHRoZSBzcGFjZWJh\nciBzd2l0Y2ggYW5kIGhhcyA1IHBhZHMgdG8gc29sZGVyIHRoZQpTV0QgcG9y\ndCwgZnJvbSB0aGUgbGVmdDogVW51c2VkPywgcmVzZXQsIGdyb3VuZCwgY2xr\nLCBpby4KCkJNUCBjYW4gc3RvcCB0aGUgcHJvZ3JhbSBhbmQgaW52ZXN0aWdh\ndGUgdGhlIGN1cnJlbnQgdmFyaWFibGVzLCBidXQgY2FuJ3Qgc2V0CmJyZWFr\ncG9pbnRzIG9yIHN0ZXAuCgojIENvbnRyaWJ1dGUKClRoYW5rcyB0byBAU3Rh\nbmxleTAwIG9uIHRoZSBBbm5lIFBybyBEZXYgZGlzY29yZCBmb3IgaW1wbGVt\nZW50aW5nCnRoZSBrZXkgbWFwcGluZyBmb3IgdGhlIEMxOCByZXZpc2lvbiwg\nYW5kIEBSdXN0eSBmb3IgbWFwcGluZyBvdXQKdGhlIHBoeXNpY2FsIGNvbm5l\nY3Rpb24uCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/OpenAnnePro/AnnePro2-Shine/contents/readme.md?ref=master",
+    "git": "https://api.github.com/repos/OpenAnnePro/AnnePro2-Shine/git/blobs/0754f227cfefa7e79ab380d34f946055883921e2",
+    "html": "https://github.com/OpenAnnePro/AnnePro2-Shine/blob/master/readme.md"
+  }
+}

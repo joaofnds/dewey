@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "ebb5ffcb64e3a15b0b082c38b656d263a21ecc5a",
+  "size": 1686,
+  "url": "https://api.github.com/repos/rejeep/el-mock.el/contents/README.md?ref=master",
+  "html_url": "https://github.com/rejeep/el-mock.el/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/rejeep/el-mock.el/git/blobs/ebb5ffcb64e3a15b0b082c38b656d263a21ecc5a",
+  "download_url": "https://raw.githubusercontent.com/rejeep/el-mock.el/master/README.md",
+  "type": "file",
+  "content": "IyBFbCBtb2NrCgpbIVtCdWlsZCBTdGF0dXNdKGh0dHBzOi8vZ2l0aHViLmNv\nbS9yZWplZXAvZWwtbW9jay5lbC9hY3Rpb25zL3dvcmtmbG93cy9tYWluLnlt\nbC9iYWRnZS5zdmcpXShodHRwczovL2dpdGh1Yi5jb20vcmVqZWVwL2VsLW1v\nY2suZWwvYWN0aW9ucy93b3JrZmxvd3MvbWFpbi55bWwpClshW0NvdmVyYWdl\nIFN0YXR1c10oaHR0cHM6Ly9jb3ZlcmFsbHMuaW8vcmVwb3MvcmVqZWVwL2Vs\nLW1vY2suZWwvYmFkZ2Uuc3ZnKV0oaHR0cHM6Ly9jb3ZlcmFsbHMuaW8vci9y\nZWplZXAvZWwtbW9jay5lbCkKWyFbTUVMUEFdKGh0dHA6Ly9tZWxwYS5vcmcv\ncGFja2FnZXMvZWwtbW9jay1iYWRnZS5zdmcpXShodHRwOi8vbWVscGEub3Jn\nLyMvZWwtbW9jaykKWyFbTUVMUEEgc3RhYmxlXShodHRwOi8vc3RhYmxlLm1l\nbHBhLm9yZy9wYWNrYWdlcy9lbC1tb2NrLWJhZGdlLnN2ZyldKGh0dHA6Ly9z\ndGFibGUubWVscGEub3JnLyMvZWwtbW9jaykKWyFbVGFnIFZlcnNpb25dKGh0\ndHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL3RhZy9yZWplZXAvZWwtbW9j\nay5lbC5zdmcpXShodHRwczovL2dpdGh1Yi5jb20vcmVqZWVwL2VsLW1vY2su\nZWwvdGFncykKWyFbTGljZW5zZV0oaHR0cDovL2ltZy5zaGllbGRzLmlvLzps\naWNlbnNlLWdwbDMtYmx1ZS5zdmcpXShodHRwOi8vd3d3LmdudS5vcmcvbGlj\nZW5zZXMvZ3BsLTMuMC5odG1sKQoKXyoqTk9URSoqOiBFbCBtb2NrIGhhcyBt\nb3ZlZCBmcm9tCjxodHRwOi8vd3d3LmVtYWNzd2lraS5vcmcvZW1hY3MvZWwt\nbW9jay5lbD4gdG8KPGh0dHBzOi8vZ2l0aHViLmNvbS9yZWplZXAvZWwtbW9j\nay5lbD4gYW5kIGl0cyBuZXcgbWFpbnRhaW5lciBpcwpbQHJlamVlcF0oaHR0\ncHM6Ly9naXRodWIuY29tL3JlamVlcCkuXwoKRWwgbW9jayBpcyBhIG1vY2tp\nbmcgbGlicmFyeSBmb3IgRW1hY3MuIAoKIyMgSG93IHRvIHVzZSBpdApBZGQg\ndGhpcyB0byB5b3VyIHRlc3QtaGVscGVyLCBbZm9yIGluc3RhbmNlXShodHRw\nczovL2dpdGh1Yi5jb20vcmVqZWVwL3Byb2RpZ3kuZWwvYmxvYi83MDBlYjE1\nMjkzMjYwZmRmYTJmYzBjZmYzOGRmNjAwNjkzYjdlNGU1L3Rlc3QvdGVzdC1o\nZWxwZXIuZWwjTDEwNy1MMTA5KQpgYGBlbWFjcy1saXNwCihyZXF1aXJlICdl\nbC1tb2NrKQpgYGAKCkFuIGV4YW1wbGUgb2YgYSBzaW1wbGUgbW9jayB0aGF0\nIGRpc3BsYXlzICIvbW9ja2VkL2ZpbGUvbmFtZS5lbCI6CmBgYGVtYWNzLWxp\nc3AKKHdpdGgtbW9jawogIChzdHViIGJ1ZmZlci1maWxlLW5hbWUgPT4gIi9t\nb2NrZWQvZmlsZS9uYW1lLmVsIikKICAoZGlzcGxheS1tZXNzYWdlLW9yLWJ1\nZmZlciAoYnVmZmVyLWZpbGUtbmFtZSkpKQpgYGAKCiMjIERvY3VtZW50YXRp\nb24KCkZpbmQgdGhlIGRvY3VtZW50YXRpb24gYXQgYE0teCBkZXNjcmliZS1m\ndW5jdGlvbiBSRVQgd2l0aC1tb2NrIFJFVGAKYW5kIGBNLXggZGVzY3JpYmUt\nZnVuY3Rpb24gUkVUIG1vY2tsZXQgUkVUYC4KClRoZSBvbGQgZG9jdW1lbnRh\ndGlvbiBpcyBhdCBodHRwczovL3d3dy5lbWFjc3dpa2kub3JnL2VtYWNzL0Vt\nYWNzTGlzcE1vY2sKCgojIyBDb250cmlidXRpb24KCkJlIHN1cmUgdG8hCgpJ\nbnN0YWxsIFtDYXNrXShodHRwczovL2dpdGh1Yi5jb20vY2Fzay9jYXNrKSBp\nZiB5b3UgaGF2ZW4ndCBhbHJlYWR5LgoKUnVuIHRoZSB1bml0IHRlc3RzIHdp\ndGg6CgogICAgJCBtYWtlIHRlc3QK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rejeep/el-mock.el/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/rejeep/el-mock.el/git/blobs/ebb5ffcb64e3a15b0b082c38b656d263a21ecc5a",
+    "html": "https://github.com/rejeep/el-mock.el/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "54f01c74892d5f76e7f9c5f88cd982d2222dc033",
+  "size": 606,
+  "url": "https://api.github.com/repos/elm/compiler/contents/README.md?ref=master",
+  "html_url": "https://github.com/elm/compiler/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/elm/compiler/git/blobs/54f01c74892d5f76e7f9c5f88cd982d2222dc033",
+  "download_url": "https://raw.githubusercontent.com/elm/compiler/master/README.md",
+  "type": "file",
+  "content": "IyBFbG0KCkEgZGVsaWdodGZ1bCBsYW5ndWFnZSBmb3IgcmVsaWFibGUgd2Vi\nYXBwcy4KCkNoZWNrIG91dCB0aGUgW0hvbWUgUGFnZV0oaHR0cDovL2VsbS1s\nYW5nLm9yZy8pLCBbVHJ5IE9ubGluZV0oaHR0cDovL2VsbS1sYW5nLm9yZy90\ncnkpLCBvciBbVGhlIE9mZmljaWFsIEd1aWRlXShodHRwOi8vZ3VpZGUuZWxt\nLWxhbmcub3JnLykKCgo8YnI+CgojIyBJbnN0YWxsCgrinKggW0luc3RhbGxd\nKGh0dHBzOi8vZ3VpZGUuZWxtLWxhbmcub3JnL2luc3RhbGwvZWxtLmh0bWwp\nIOKcqAoKRm9yIG11bHRpcGxlIHZlcnNpb25zLCBwcmV2aW91cyB2ZXJzaW9u\ncywgYW5kIHVuaW5zdGFsbGF0aW9uLCBzZWUgdGhlIGluc3RydWN0aW9ucyBb\naGVyZV0oaHR0cHM6Ly9naXRodWIuY29tL2VsbS9jb21waWxlci9ibG9iL21h\nc3Rlci9pbnN0YWxsZXJzL1JFQURNRS5tZCkuCgo8YnI+CgojIyBIZWxwCgpJ\nZiB5b3UgYXJlIHN0dWNrLCBhc2sgYXJvdW5kIG9uIFt0aGUgRWxtIHNsYWNr\nIGNoYW5uZWxdW3NsYWNrXS4gRm9sa3MgYXJlIGZyaWVuZGx5IGFuZCBoYXBw\neSB0byBoZWxwIHdpdGggcXVlc3Rpb25zIQoKW3NsYWNrXTogaHR0cDovL2Vs\nbWxhbmcuaGVyb2t1YXBwLmNvbS8K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/elm/compiler/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/elm/compiler/git/blobs/54f01c74892d5f76e7f9c5f88cd982d2222dc033",
+    "html": "https://github.com/elm/compiler/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "aee495886d8927556491eb020582c81c5a3b9ca9",
+  "size": 1047,
+  "url": "https://api.github.com/repos/developit/redaxios/contents/README.md?ref=master",
+  "html_url": "https://github.com/developit/redaxios/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/developit/redaxios/git/blobs/aee495886d8927556491eb020582c81c5a3b9ca9",
+  "download_url": "https://raw.githubusercontent.com/developit/redaxios/master/README.md",
+  "type": "file",
+  "content": "IyByZWRheGlvcwoKW0F4aW9zXSBoYXMgYSBncmVhdCBBUEkgdGhhdCBkZXZl\nbG9wZXJzIGxvdmUuIFJlZGF4aW9zIHByb3ZpZGVzIHRoYXQgQVBJIGluICoq\nODAwIGJ5dGVzKiosIHVzaW5nIG5hdGl2ZSBgZmV0Y2goKWAuCgpGb3IgdGhv\nc2Ugc2VhcmNoaW5nIGZvciB3YXlzIHRvIHNoYXZlIGEgZmV3IGtpbG9ieXRl\ncyBvZmYgb2YgdGhlaXIgYnVuZGxlcywgdGhhdCdzIGxlc3MgdGhhbiAxLzV0\naCBvZiB0aGUgc2l6ZS4gVGhpcyBpcyBtYWRlIHBvc3NpYmxlIGJ5IHVzaW5n\nIHRoZSBicm93c2VyJ3MgbmF0aXZlIFtGZXRjaCBBUEldW2ZldGNoXSwgd2hp\nY2ggaXMgW3N1cHBvcnRlZCBpbiBhbGwgbW9kZXJuIGJyb3dzZXJzXShodHRw\nczovL2Nhbml1c2UuY29tLyNmZWF0PWZldGNoKSBhbmQgcG9seWZpbGxlZCBi\neSBtb3N0IHRvb2xzIGluY2x1ZGluZyBOZXh0LmpzLCBDcmVhdGUgUmVhY3Qg\nQXBwIGFuZCBQcmVhY3QgQ0xJLgoKIyMjIENhbiBJIGp1c3QgdXNlIEF4aW9z\nPwoKWWVzISBBeGlvcyBpcyBhbiBleGNlbGxlbnQgbW9kdWxlIGFuZCB5b3Ug\nc2hvdWxkIHVzZSBpdCEgUmVkYXhpb3MgZXhpc3RzIHNvIHRoYXQgeW91IGNh\nbiB1c2UgdGhhdCBzYW1lIEFQSSBpbiBjYXNlcyB3aGVyZSBpdCdzIGRpZmZp\nY3VsdCB0byBqdXN0aWZ5IHRoZSBkZXBlbmRlbmN5LiBJbnN0ZWFkIG9mIGhh\ndmluZyB0byBjaG9vc2UgYmV0d2VlbiBBeGlvcyBhbmQgRmV0Y2gsIFJlZGF4\naW9zIHByb3ZpZGVzIGEgbWlkZGxlLWdyb3VuZCBiZXR3ZWVuIHRoZSB0d28u\nCgpbYXhpb3NdOiBodHRwczovL2dpdGh1Yi5jb20vYXhpb3MvYXhpb3MKW2Zl\ndGNoXTogaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9j\ncy9XZWIvQVBJL0ZldGNoX0FQSS9Vc2luZ19GZXRjaAoKIyMjIFVzYWdlCgpg\nYGBqcwppbXBvcnQgYXhpb3MgZnJvbSAncmVkYXhpb3MnOwovLyB1c2UgYXMg\neW91IHdvdWxkIG5vcm1hbGx5CmBgYAoKUmVmZXIgdG8gdGhlIFtBeGlvcyBE\nb2N1bWVudGF0aW9uXShodHRwczovL2dpdGh1Yi5jb20vYXhpb3MvYXhpb3Mj\nYXhpb3MtYXBpKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/developit/redaxios/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/developit/redaxios/git/blobs/aee495886d8927556491eb020582c81c5a3b9ca9",
+    "html": "https://github.com/developit/redaxios/blob/master/README.md"
+  }
+}

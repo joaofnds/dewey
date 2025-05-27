@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "524d368f2ae86003af09b063259ec810da9ef7f7",
+  "size": 701,
+  "url": "https://api.github.com/repos/adobe-fonts/source-code-pro/contents/README.md?ref=release",
+  "html_url": "https://github.com/adobe-fonts/source-code-pro/blob/release/README.md",
+  "git_url": "https://api.github.com/repos/adobe-fonts/source-code-pro/git/blobs/524d368f2ae86003af09b063259ec810da9ef7f7",
+  "download_url": "https://raw.githubusercontent.com/adobe-fonts/source-code-pro/release/README.md",
+  "type": "file",
+  "content": "IyBTb3VyY2UgQ29kZSBQcm8KCltTb3VyY2UgQ29kZSBQcm9dKGh0dHA6Ly9h\nZG9iZS1mb250cy5naXRodWIuaW8vc291cmNlLWNvZGUtcHJvLykKaXMgYSBz\nZXQgb2YgT3BlblR5cGUgZm9udHMgdGhhdCBoYXZlIGJlZW4gZGVzaWduZWQg\ndG8gd29yayB3ZWxsCmluIHVzZXIgaW50ZXJmYWNlIChVSSkgZW52aXJvbm1l\nbnRzLgoKIyMgT3BlbiBzb3VyY2UgZmlsZXMKClRoZSBmb250cycgc291cmNl\nIGZpbGVzIGFuZCBidWlsZCBpbnN0cnVjdGlvbnMgYXJlIGF2YWlsYWJsZSBp\nbiB0aGUgW3JlcG9zaXRvcnkncyBgbWFpbmAgYnJhbmNoXShodHRwczovL2dp\ndGh1Yi5jb20vYWRvYmUtZm9udHMvc291cmNlLWNvZGUtcHJvL3RyZWUvbWFp\nbikuCgojIyBHZXR0aW5nIGludm9sdmVkCgpbT3BlbiBhbiBpc3N1ZV0oaHR0\ncHM6Ly9naXRodWIuY29tL2Fkb2JlLWZvbnRzL3NvdXJjZS1jb2RlLXByby9p\nc3N1ZXMpIG9yIHNlbmQgYSBzdWdnZXN0aW9uIHRvIFNvdXJjZSBDb2RlJ3Mg\nZGVzaWduZXIgW1BhdWwgRC4gSHVudF0obWFpbHRvOm9wZW5zb3VyY2Vmb250\nc0BhZG9iZS5jb20/c3ViamVjdD1bR2l0SHViXSUyMFNvdXJjZSUyMENvZGUl\nMjBQcm8pLCBmb3IgY29uc2lkZXJhdGlvbi4KCiMjIFJlbGVhc2VzCgoqIFtM\nYXRlc3QgcmVsZWFzZV0oLi4vLi4vcmVsZWFzZXMvbGF0ZXN0KQoqIFtBbGwg\ncmVsZWFzZXNdKC4uLy4uL3JlbGVhc2VzKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/adobe-fonts/source-code-pro/contents/README.md?ref=release",
+    "git": "https://api.github.com/repos/adobe-fonts/source-code-pro/git/blobs/524d368f2ae86003af09b063259ec810da9ef7f7",
+    "html": "https://github.com/adobe-fonts/source-code-pro/blob/release/README.md"
+  }
+}

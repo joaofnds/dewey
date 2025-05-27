@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "6de2ebd5cfcf1e39df629af50c531a17c5c42556",
+  "size": 1571,
+  "url": "https://api.github.com/repos/eradman/entr/contents/README.md?ref=master",
+  "html_url": "https://github.com/eradman/entr/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/eradman/entr/git/blobs/6de2ebd5cfcf1e39df629af50c531a17c5c42556",
+  "download_url": "https://raw.githubusercontent.com/eradman/entr/master/README.md",
+  "type": "file",
+  "content": "RXZlbnQgTm90aWZ5IFRlc3QgUnVubmVyCj09PT09PT09PT09PT09PT09PT09\nPT09PQoKQSB1dGlsaXR5IGZvciBydW5uaW5nIGFyYml0cmFyeSBjb21tYW5k\ncyB3aGVuIGZpbGVzIGNoYW5nZS4gVXNlcyBrcXVldWUoMikgb3IKaW5vdGlm\neSg3KSB0byBhdm9pZCBwb2xsaW5nLiAgYGVudHJgIHdhcyB3cml0dGVuIHRv\nIGZhY2lsaXRhdGUgcmFwaWQgZmVlZGJhY2sKb24gdGhlIGNvbW1hbmQgbGlu\nZS4KClNvdXJjZSBJbnN0YWxsYXRpb24gLSBCU0QsIE1hYyBPUywgYW5kIExp\nbnV4Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t\nLS0tCgogICAgLi9jb25maWd1cmUKICAgIG1ha2UgdGVzdAogICAgbWFrZSBp\nbnN0YWxsCgpUbyBzZWUgYXZhaWxhYmxlIGJ1aWxkIG9wdGlvbnMgcnVuIGAu\nL2NvbmZpZ3VyZSAtaGAKCkRvY2tlciBhbmQgV1NMCi0tLS0tLS0tLS0tLS0t\nCgpJbmNvbXBsZXRlIGlub3RpZnkgc3VwcG9ydCBvbiBfV2luZG93cyBTdWJz\neXN0ZW0gZm9yIExpbnV4XyBhbmQgX0RvY2tlciBmb3IgTWFjXwptYXkgY2F1\nc2UgYGVudHJgIHRvIHJlc3BvbmQgaW5jb3JyZWN0bHkuIFNldHRpbmcgdGhl\nIGVudmlyb25tZW50IHZhcmlhYmxlCmBFTlRSX0lOT1RJRllfV09SS0FST1VO\nRGAgZW5hYmxlcyBgZW50cmAgdG8gb3BlcmF0ZSBpbiB0aGVzZSBlbnZpcm9u\nbWVudHMuCgpMaW51eCBGZWF0dXJlcwotLS0tLS0tLS0tLS0tLQoKU3ltbGlu\na3MgY2FuIGJlIG1vbml0b3JlZCBmb3IgY2hhbmdlcyBieSBzZXR0aW5nIHRo\nZSBlbnZpcm9ubWVudCB2YXJpYWJsZQpgRU5UUl9JTk9USUZZX1NZTUxJTktg\nLgoKTWFuIFBhZ2UgRXhhbXBsZXMKLS0tLS0tLS0tLS0tLS0tLS0KClJlYnVp\nbGQgYSBwcm9qZWN0IGlmIHNvdXJjZSBmaWxlcyBjaGFuZ2UsIGxpbWl0aW5n\nIG91dHB1dCB0byB0aGUgZmlyc3QgMjAgbGluZXM6CgogICAgJCBmaW5kIHNy\nYy8gfCBlbnRyIC1zICdtYWtlIHwgaGVhZCAtbiAyMCcKCkxhdW5jaCBhbmQg\nYXV0by1yZWxvYWQgYSBub2RlLmpzIHNlcnZlcjoKCiAgICAkIGxzICouanMg\nfCBlbnRyIC1yIG5vZGUgYXBwLmpzCgpDbGVhciB0aGUgc2NyZWVuIGFuZCBy\ndW4gYSBxdWVyeSBhZnRlciB0aGUgU1FMIHNjcmlwdCBpcyB1cGRhdGVkOgoK\nICAgICQgZWNobyBteS5zcWwgfCBlbnRyIC1jcCBwc3FsIC1mIC9fCgpSZWJ1\naWxkIHByb2plY3QgaWYgYSBzb3VyY2UgZmlsZSBpcyBtb2RpZmllZCBvciBh\nZGRlZCB0byB0aGUgc3JjLyBkaXJlY3Rvcnk6CgogICAgJCB3aGlsZSBzbGVl\ncCAwLjE7IGRvIGxzIHNyYy8qLnJiIHwgZW50ciAtZCBtYWtlOyBkb25lCgpB\ndXRvLXJlbG9hZCBhIHdlYiBzZXJ2ZXIsIG9yIHRlcm1pbmF0ZSBpZiB0aGUg\nc2VydmVyIGV4aXRzCgogICAgJCBscyAqIHwgZW50ciAtcnogLi9odHRwZAoK\nTmV3cwotLS0tCgpOb3RpZmljYXRpb24gb2YgbmV3IHJlbGVhc2VzIGFyZSBw\ncm92aWRlZCBieSBhbgpbQXRvbSBmZWVkXShodHRwczovL2dpdGh1Yi5jb20v\nZXJhZG1hbi9lbnRyL3JlbGVhc2VzLmF0b20pLAphbmQgcmVsZWFzZSBoaXN0\nb3J5IGlzIGNvdmVyZWQgaW4gdGhlIFtORVdTXShORVdTKSBmaWxlLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/eradman/entr/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/eradman/entr/git/blobs/6de2ebd5cfcf1e39df629af50c531a17c5c42556",
+    "html": "https://github.com/eradman/entr/blob/master/README.md"
+  }
+}

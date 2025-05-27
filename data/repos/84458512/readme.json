@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "f0df63feb0e5c4a9af6c619e2ef0fcaee7f5ef2d",
+  "size": 453,
+  "url": "https://api.github.com/repos/RedisGraph/RedisGraph/contents/README.md?ref=master",
+  "html_url": "https://github.com/RedisGraph/RedisGraph/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/RedisGraph/RedisGraph/git/blobs/f0df63feb0e5c4a9af6c619e2ef0fcaee7f5ef2d",
+  "download_url": "https://raw.githubusercontent.com/RedisGraph/RedisGraph/master/README.md",
+  "type": "file",
+  "content": "IyBSZWRpc0dyYXBoCiMjIEEgZ3JhcGggZGF0YWJhc2UgbW9kdWxlIGZvciBS\nZWRpcwoKLS0tCiMjIyBSZWRpc0dyYXBoIGlzIG5vIGxvbmdlciBtYWludGFp\nbmVkLgoKIyMjIFdlIGFyZSBncmF0ZWZ1bCB0byB0aGUgUmVkaXNHcmFwaCBj\nb21tdW5pdHkgZm9yIHRoZWlyIGludGVyZXN0IGFuZCBzdXBwb3J0LgoKIyMj\nIFlvdSBjYW4gcmVhZCBtb3JlIGFib3V0IHRoZSBlbmQgb2YgbGlmZSBvZiBS\nZWRpc0dyYXBoIFtoZXJlXShodHRwczovL3JlZGlzLmNvbS9ibG9nL3JlZGlz\nZ3JhcGgtZW9sLykuCi0tLQoKIyMgTGljZW5zZQoKTGljZW5zZWQgdW5kZXIg\neW91ciBjaG9pY2Ugb2YgdGhlIFJlZGlzIFNvdXJjZSBBdmFpbGFibGUgTGlj\nZW5zZSAyLjAgKFJTQUx2Mikgb3IgdGhlIFNlcnZlciBTaWRlIFB1YmxpYyBM\naWNlbnNlIHYxIChTU1BMdjEpLiBTZWUgW0xJQ0VOU0VdKExJQ0VOU0UudHh0\nKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/RedisGraph/RedisGraph/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/RedisGraph/RedisGraph/git/blobs/f0df63feb0e5c4a9af6c619e2ef0fcaee7f5ef2d",
+    "html": "https://github.com/RedisGraph/RedisGraph/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "af999d63a42e679f14c1c8b252b216968d73539f",
+  "size": 1115,
+  "url": "https://api.github.com/repos/livebook-dev/kino_db/contents/README.md?ref=main",
+  "html_url": "https://github.com/livebook-dev/kino_db/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/livebook-dev/kino_db/git/blobs/af999d63a42e679f14c1c8b252b216968d73539f",
+  "download_url": "https://raw.githubusercontent.com/livebook-dev/kino_db/main/README.md",
+  "type": "file",
+  "content": "IyBLaW5vREIKClshW0RvY3NdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFk\nZ2UvaGV4LnBtLWRvY3MtOGU3Y2U2LnN2ZyldKGh0dHBzOi8vaGV4ZG9jcy5w\nbS9raW5vX2RiKQpbIVtBY3Rpb25zIFN0YXR1c10oaHR0cHM6Ly9naXRodWIu\nY29tL2xpdmVib29rLWRldi9raW5vX2RiL3dvcmtmbG93cy9UZXN0L2JhZGdl\nLnN2ZyldKGh0dHBzOi8vZ2l0aHViLmNvbS9saXZlYm9vay1kZXYva2lub19k\nYi9hY3Rpb25zKQoKRGF0YWJhc2UgaW50ZWdyYXRpb25zIHdpdGggW0tpbm9d\nKGh0dHBzOi8vZ2l0aHViLmNvbS9saXZlYm9vay1kZXYva2lubykKZm9yIFtM\naXZlYm9va10oaHR0cHM6Ly9naXRodWIuY29tL2xpdmVib29rLWRldi9saXZl\nYm9vaykuCgojIyBJbnN0YWxsYXRpb24KClRvIGJyaW5nIEtpbm9EQiB0byBM\naXZlYm9vayBhbGwgeW91IG5lZWQgdG8gZG8gaXMgYE1peC5pbnN0YWxsLzJg\nOgoKYGBgZWxpeGlyCk1peC5pbnN0YWxsKFsKICB7Omtpbm9fZGIsICJ+PiAw\nLjMuMCJ9Cl0pCmBgYAoKIyMgTGljZW5zZQoKQ29weXJpZ2h0IChDKSAyMDIy\nIERhc2hiaXQKCkxpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwg\nVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwp5b3UgbWF5IG5vdCB1c2Ug\ndGhpcyBmaWxlIGV4Y2VwdCBpbiBjb21wbGlhbmNlIHdpdGggdGhlIExpY2Vu\nc2UuCllvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdCBb\naHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wXSho\ndHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5zZXMvTElDRU5TRS0yLjApCgpV\nbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRv\nIGluIHdyaXRpbmcsIHNvZnR3YXJlCmRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBM\naWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCldJ\nVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBl\naXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgpTZWUgdGhlIExpY2Vuc2UgZm9y\nIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMg\nYW5kCmxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/livebook-dev/kino_db/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/livebook-dev/kino_db/git/blobs/af999d63a42e679f14c1c8b252b216968d73539f",
+    "html": "https://github.com/livebook-dev/kino_db/blob/main/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9b7355760e1081c12c44626187a3062818e99759",
+  "size": 775,
+  "url": "https://api.github.com/repos/technomancy/leiningen/contents/README.md?ref=github",
+  "html_url": "https://github.com/technomancy/leiningen/blob/github/README.md",
+  "git_url": "https://api.github.com/repos/technomancy/leiningen/git/blobs/9b7355760e1081c12c44626187a3062818e99759",
+  "download_url": "https://raw.githubusercontent.com/technomancy/leiningen/github/README.md",
+  "type": "file",
+  "content": "IyBMZWluaW5nZW4KCjxpbWcgc3JjPSJodHRwczovL2xlaW5pbmdlbi5vcmcv\naW1nL2xlaW5pbmdlbi5qcGciCiBhbHQ9IkxlaW5pbmdlbiBsb2dvIiB0aXRs\nZT0iVGhlIG1hbiBoaW1zZWxmIiBhbGlnbj0icmlnaHQiIC8+CgpMZWluaW5n\nZW4gaXMgZm9yIGF1dG9tYXRpbmcgQ2xvanVyZSBwcm9qZWN0cyB3aXRob3V0\nIHNldHRpbmcgeW91ciBoYWlyIG9uIGZpcmUuCgojIyBSZWxvY2F0aW9uIG5v\ndGljZSEKClRoZSBjYW5vbmljYWwgcmVwb3NpdG9yeSBmb3IgTGVpbmluZ2Vu\nIGlzIFtvbgpDb2RlYmVyZ10oaHR0cHM6Ly9jb2RlYmVyZy5vcmcvbGVpbmlu\nZ2VuL2xlaW5pbmdlbikgYnV0IHdlIG1haW50YWluIFthCm1pcnJvciBvbiBH\naXRIdWJdKGh0dHBzOi8vZ2l0aHViLmNvbS90ZWNobm9tYW5jeS9sZWluaW5n\nZW4pIGZvciB0aGUKdGltZSBiZWluZyBpbiBvcmRlciB0byBlYXNlIHRoZSB0\ncmFuc2l0aW9uLiBQbGVhc2UgdXBkYXRlIHlvdXIgbGlua3MKYW5kIGdpdCBy\nZW1vdGVzLgoKVGhlIHJlcG8gb24gZ2l0aHViIHdpbGwgYmUgbGVmdCBhcm91\nbmQgZm9yIGEgdGltZSBhcyBhIGNvbnZlbmllbmNlCm9mZmVyZWQgdG8gdGhv\nc2Ugd2hvIGhhdmVuJ3QgeWV0IGNyZWF0ZWQgYSBDb2RlYmVyZyBhY2NvdW50\nLiBZb3UgY2FuCnN0aWxsIG9wZW4gaXNzdWVzIGhlcmUgYW5kIHN1Ym1pdCBw\ndWxsIHJlcXVlc3RzLiBIb3dldmVyLCBiZSBzdXJlIHRvCmJyYW5jaCBmcm9t\nIGBtYWluYCBmb3IgeW91ciBwdWxsIHJlcXVlc3RzIGluc3RlYWQgb2YgdGhp\ncyBicmFuY2ghCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/technomancy/leiningen/contents/README.md?ref=github",
+    "git": "https://api.github.com/repos/technomancy/leiningen/git/blobs/9b7355760e1081c12c44626187a3062818e99759",
+    "html": "https://github.com/technomancy/leiningen/blob/github/README.md"
+  }
+}

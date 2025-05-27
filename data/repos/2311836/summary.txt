@@ -1,0 +1,1 @@
+`evil-numbers` is an Emacs Lisp plugin providing functionality to increment and decrement numerical values within the Emacs text editor. This tool allows users to efficiently modify numerical data directly in their Emacs buffers. Developed in Emacs Lisp, this project is a plugin designed to extend Emacs's editing capabilities, enhancing developer productivity for Emacs users.

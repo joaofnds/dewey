@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a942eb5397006f6a147e485c074ea8e3f8cb2e59",
+  "size": 1568,
+  "url": "https://api.github.com/repos/hashicorp/golang-lru/contents/README.md?ref=main",
+  "html_url": "https://github.com/hashicorp/golang-lru/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/hashicorp/golang-lru/git/blobs/a942eb5397006f6a147e485c074ea8e3f8cb2e59",
+  "download_url": "https://raw.githubusercontent.com/hashicorp/golang-lru/main/README.md",
+  "type": "file",
+  "content": "Z29sYW5nLWxydQo9PT09PT09PT09CgpUaGlzIHByb3ZpZGVzIHRoZSBgbHJ1\nYCBwYWNrYWdlIHdoaWNoIGltcGxlbWVudHMgYSBmaXhlZC1zaXplCnRocmVh\nZCBzYWZlIExSVSBjYWNoZS4gSXQgaXMgYmFzZWQgb24gdGhlIGNhY2hlIGlu\nIEdyb3VwY2FjaGUuCgpEb2N1bWVudGF0aW9uCj09PT09PT09PT09PT0KCkZ1\nbGwgZG9jcyBhcmUgYXZhaWxhYmxlIG9uIFtHbyBQYWNrYWdlc10oaHR0cHM6\nLy9wa2cuZ28uZGV2L2dpdGh1Yi5jb20vaGFzaGljb3JwL2dvbGFuZy1scnUv\ndjIpCgpMUlUgY2FjaGUgZXhhbXBsZQo9PT09PT09PT09PT09PT09PQoKYGBg\nZ28KcGFja2FnZSBtYWluCgppbXBvcnQgKAoJImZtdCIKCSJnaXRodWIuY29t\nL2hhc2hpY29ycC9nb2xhbmctbHJ1L3YyIgopCgpmdW5jIG1haW4oKSB7Cgls\nLCBfIDo9IGxydS5OZXdbaW50LCBhbnldKDEyOCkKCWZvciBpIDo9IDA7IGkg\nPCAyNTY7IGkrKyB7CgkJbC5BZGQoaSwgbmlsKQoJfQoJaWYgbC5MZW4oKSAh\nPSAxMjggewoJCXBhbmljKGZtdC5TcHJpbnRmKCJiYWQgbGVuOiAldiIsIGwu\nTGVuKCkpKQoJfQp9CmBgYAoKRXhwaXJhYmxlIExSVSBjYWNoZSBleGFtcGxl\nCj09PT09PT09PT09PT09PT09PT09PT09PT09PQoKYGBgZ28KcGFja2FnZSBt\nYWluCgppbXBvcnQgKAoJImZtdCIKCSJ0aW1lIgoKCSJnaXRodWIuY29tL2hh\nc2hpY29ycC9nb2xhbmctbHJ1L3YyL2V4cGlyYWJsZSIKKQoKZnVuYyBtYWlu\nKCkgewoJLy8gbWFrZSBjYWNoZSB3aXRoIDEwbXMgVFRMIGFuZCA1IG1heCBr\nZXlzCgljYWNoZSA6PSBleHBpcmFibGUuTmV3TFJVW3N0cmluZywgc3RyaW5n\nXSg1LCBuaWwsIHRpbWUuTWlsbGlzZWNvbmQqMTApCgoKCS8vIHNldCB2YWx1\nZSB1bmRlciBrZXkxLgoJY2FjaGUuQWRkKCJrZXkxIiwgInZhbDEiKQoKCS8v\nIGdldCB2YWx1ZSB1bmRlciBrZXkxCglyLCBvayA6PSBjYWNoZS5HZXQoImtl\neTEiKQoKCS8vIGNoZWNrIGZvciBPSyB2YWx1ZQoJaWYgb2sgewoJCWZtdC5Q\ncmludGYoInZhbHVlIGJlZm9yZSBleHBpcmF0aW9uIGlzIGZvdW5kOiAldiwg\ndmFsdWU6ICVxXG4iLCBvaywgcikKCX0KCgkvLyB3YWl0IGZvciBjYWNoZSB0\nbyBleHBpcmUKCXRpbWUuU2xlZXAodGltZS5NaWxsaXNlY29uZCAqIDEyKQoK\nCS8vIGdldCB2YWx1ZSB1bmRlciBrZXkxIGFmdGVyIGtleSBleHBpcmF0aW9u\nCglyLCBvayA9IGNhY2hlLkdldCgia2V5MSIpCglmbXQuUHJpbnRmKCJ2YWx1\nZSBhZnRlciBleHBpcmF0aW9uIGlzIGZvdW5kOiAldiwgdmFsdWU6ICVxXG4i\nLCBvaywgcikKCgkvLyBzZXQgdmFsdWUgdW5kZXIga2V5Miwgd291bGQgZXZp\nY3Qgb2xkIGVudHJ5IGJlY2F1c2UgaXQgaXMgYWxyZWFkeSBleHBpcmVkLgoJ\nY2FjaGUuQWRkKCJrZXkyIiwgInZhbDIiKQoKCWZtdC5QcmludGYoIkNhY2hl\nIGxlbjogJWRcbiIsIGNhY2hlLkxlbigpKQoJLy8gT3V0cHV0OgoJLy8gdmFs\ndWUgYmVmb3JlIGV4cGlyYXRpb24gaXMgZm91bmQ6IHRydWUsIHZhbHVlOiAi\ndmFsMSIKCS8vIHZhbHVlIGFmdGVyIGV4cGlyYXRpb24gaXMgZm91bmQ6IGZh\nbHNlLCB2YWx1ZTogIiIKCS8vIENhY2hlIGxlbjogMQp9CmBgYAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/hashicorp/golang-lru/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/hashicorp/golang-lru/git/blobs/a942eb5397006f6a147e485c074ea8e3f8cb2e59",
+    "html": "https://github.com/hashicorp/golang-lru/blob/main/README.md"
+  }
+}

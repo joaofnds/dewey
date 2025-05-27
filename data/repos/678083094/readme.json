@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "4a215be25a70e09bc90d1f245f3c61cb2488f623",
+  "size": 778,
+  "url": "https://api.github.com/repos/opentofu/manifesto/contents/README.md?ref=main",
+  "html_url": "https://github.com/opentofu/manifesto/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/opentofu/manifesto/git/blobs/4a215be25a70e09bc90d1f245f3c61cb2488f623",
+  "download_url": "https://raw.githubusercontent.com/opentofu/manifesto/main/README.md",
+  "type": "file",
+  "content": "IyBPcGVuVEYgTWFuaWZlc3RvCgpPcGVuVEYncyBnb2FsIGlzIHRvIGVuc3Vy\nZSBUZXJyYWZvcm0gcmVtYWlucyB0cnVseSBvcGVuIHNvdXJjZSBhbmQgcHJv\ncG9zZXMgcmV0dXJuaW5nIGl0IHRvIGEgZnVsbHkgb3BlbiBsaWNlbnNlLiBX\nZSB1cmdlIEhhc2hpQ29ycCB0byByZWNvbnNpZGVyIGFuZCBzd2l0Y2ggVGVy\ncmFmb3JtIGJhY2sgdG8gYW4gb3BlbiBzb3VyY2UgbGljZW5zZSwgYXZvaWRp\nbmcgZnJhZ21lbnRhdGlvbiBvZiB0aGUgY29tbXVuaXR5LgoKRm9yIGZ1cnRo\nZXIgZGV0YWlscyBhbmQgdGhlIGZ1bGwgdGV4dCBvZiB0aGUgbWFuaWZlc3Rv\nLCB5b3UgY2FuIHZpc2l0IHRoZSBbT3BlblRGIHdlYnNpdGVdKGh0dHBzOi8v\nb3BlbnRmLm9yZykuCgojIyBUaGUgT3BlblRGIGZvcmsKClRoZSBPcGVuVEYg\ncmVwbyBpcyBub3cgcHVibGljbHkgYXZhaWxhYmxlIGF0IGh0dHBzOi8vZ2l0\naHViLmNvbS9vcGVudGZmb3VuZGF0aW9uL29wZW50Zi4gRm9yIG1vcmUgY29u\ndGV4dCBvbiB0aGUgY3VycmVudCBzdGF0dXMgb2YgdGhlIGZvcmssIHRoZSBy\nb2FkbWFwLCBhbmQgdGhlIHBhdGggdG8gYSBzdGFibGUgcmVsZWFzZSwgc2Vl\nIGh0dHBzOi8vb3BlbnRmLm9yZy9mb3JrLgoKIyMgQ29udGFjdAoKSWYgeW91\nIGhhdmUgcXVlc3Rpb25zIG9yIGZlZWRiYWNrIHRvIHNoYXJlLCB5b3UgY2Fu\nIHJlYWNoIHRoZSB0ZWFtIGJlaGluZCB0aGlzIG1hbmlmZXN0byBieSBlbWFp\nbGluZyB1cyBhdCBbcGxlZGdlQG9wZW50Zi5vcmddKG1haWx0bzpwbGVkZ2VA\nb3BlbnRmLm9yZykuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/opentofu/manifesto/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/opentofu/manifesto/git/blobs/4a215be25a70e09bc90d1f245f3c61cb2488f623",
+    "html": "https://github.com/opentofu/manifesto/blob/main/README.md"
+  }
+}

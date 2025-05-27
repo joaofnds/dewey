@@ -1,0 +1,1 @@
+`marqueeo` is an Emacs Lisp package that integrates a visual representation of Mario into the Emacs header line. This plugin enhances the Emacs user interface by providing a dynamic visual element within the editor's header, improving customization options. It leverages Emacs Lisp, indicating its direct integration within the Emacs text editor environment as an extension.

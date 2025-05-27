@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "592aa3e073dc24302a8bdfb077d77bcfe77df060",
+  "size": 23,
+  "url": "https://api.github.com/repos/mateusfdl/exercism/contents/README.md?ref=master",
+  "html_url": "https://github.com/mateusfdl/exercism/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/mateusfdl/exercism/git/blobs/592aa3e073dc24302a8bdfb077d77bcfe77df060",
+  "download_url": "https://raw.githubusercontent.com/mateusfdl/exercism/master/README.md",
+  "type": "file",
+  "content": "4ouLfCDil4kgzZ/KliDil4kgfOKLjAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mateusfdl/exercism/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/mateusfdl/exercism/git/blobs/592aa3e073dc24302a8bdfb077d77bcfe77df060",
+    "html": "https://github.com/mateusfdl/exercism/blob/master/README.md"
+  }
+}

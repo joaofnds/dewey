@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "e18e1adba13aa590034e647ee55a312070cfb59f",
+  "size": 1465,
+  "url": "https://api.github.com/repos/herrbischoff/awesome-macos-command-line/contents/README.md?ref=main",
+  "html_url": "https://github.com/herrbischoff/awesome-macos-command-line/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/herrbischoff/awesome-macos-command-line/git/blobs/e18e1adba13aa590034e647ee55a312070cfb59f",
+  "download_url": "https://raw.githubusercontent.com/herrbischoff/awesome-macos-command-line/main/README.md",
+  "type": "file",
+  "content": "IyBBd2Vzb21lIG1hY09TIENvbW1hbmQgTGluZSAvIEF3ZXNvbWUgQ29tbWFu\nZC1MaW5lIEFwcHMKCkR1ZSB0byBwZXJzb25hbCBjaGFuZ2VzLCBHaXRIdWIg\nY2hhbmdlcywgYSBkZXNpcmUgb2Ygbm90IHdhbnRpbmcgdG8gY29udGludWUg\ndG8gCmRlYWwgd2l0aCBtb3N0bHkgdmVyeSBsb3ctZWZmb3J0IGNvbnRyaWJ1\ndGlvbnMsIGVudGl0bGVkIGJlaGF2aW9yIGFuZCBsb3cgCnF1YWxpdHksIEkn\ndmUgcGVybWFuZW50bHkgbW92ZWQgdGhlc2UgcHJvamVjdHMgdG8gbXkgcGVy\nc29uYWwgR2l0IGluc3RhbmNlLCAKd2hlcmUgdGhleSB3aWxsIGxpdmUgZnJv\nbSBub3cgb24uCgo8aHR0cHM6Ly9naXQuaGVycmJpc2Nob2ZmLmNvbS9hd2Vz\nb21lLW1hY29zLWNvbW1hbmQtbGluZS9hYm91dC8+ICAKPGh0dHBzOi8vZ2l0\nLmhlcnJiaXNjaG9mZi5jb20vYXdlc29tZS1jb21tYW5kLWxpbmUtYXBwcy9h\nYm91dC8+CgpUaGlzIGlzIG5vdCBsZWFzdCBiZWNhdXNlIG9mIGEgc3Vic3Rh\nbnRpYWxseSBsYWNraW5nIHJlYWRpbmVzcyB0byBkb25hdGUgZXZlbiBhIApz\naW5nbGUgZG9sbGFyIOKAlCBkZXNwaXRlIGh1bmRyZWRzIG9mIGRhaWx5IHZp\nc2l0b3JzIGFuZCBhbG1vc3QgMzBrIGNvbWJpbmVkIApzdGFycy4gSW5zdGVh\nZCwgdGhlc2UgcmVwb3NpdG9yaWVzIGFyZSBiZWluZyBsaW5rZWQgdG8gZnJv\nbSBsYXJnZSBjb3Jwb3JhdGUgCmludHJhbmV0cyBhcyBhIGZyZWUgc291cmNl\nIG9mIGtub3dsZWRnZSwgYXQgdGltZXMgZXZlbiBmcm9tIGluc2lkZSBBcHBs\nZS4gVGhlcmUgCmhhdmUgYmVlbiB0d28gbm90YWJsZSBleGNlcHRpb25zIG92\nZXIgdGhlIGxhc3Qgc2l4IHllYXJzOiBvbmUgZG9uYXRpb24gdG8gdGhlIApO\nR08gb2YgYSBkZWFyIGZyaWVuZCBhbmQgYSBzaW5nbGUgR2l0SHViIHNwb25z\nb3IgZm9yIGEgY291cGxlIG9mIG1vbnRocy4gMTAwJSAKd2VyZSBmb3J3YXJk\nZWQgdG8gdGhlIE5HTyBhcyB3ZWxsLiBNeSB0aGFua3MgZ28gb3V0IHRvIHlv\ndSwgeW91IGtub3cgd2hvIHlvdSAKYXJlLgoKQXZhaWxhYmxlIHVuZGVyIHRo\nZSBzYW1lIGxpY2Vuc2UgaXQgaGFzIGFsd2F5cyBiZWVuLCB5b3UgY2FuIHN0\naWxsIGNvbnRyaWJ1dGUgCmFuZCBhcmUgZW5jb3VyYWdlZCB0byBkbyBzbyBi\neSBzZW5kaW5nIGEgYGdpdCBhbWAgc3R5bGUgcGF0Y2ggdmlhIGVtYWlsLiBU\naGlzIAppcyBpbnRlbnRpb25hbCB0byBrZWVwIHRoZSBsYXp5IG9uZXMgb3V0\nIGFuZCBJIG11Y2ggcHJlZmVyIHdvcmtpbmcgbW9zdGx5IGluIAp0aGUgc2hl\nbGwuIFBsZWFzZSBpbnZlc3QgdGhlIGZpdmUgbWludXRlcyB0byBmaWd1cmUg\nb3V0IGhvdyB0byBpZiB5b3UgdGhpbmsgCnlvdXIgY29udHJpYnV0aW9uIG1h\ndHRlcnMuIFlvdSBjYW4gY2xvbmUgdGhpcyByZXBvc2l0b3J5LCB5b3UgY2Fu\nIGZpbmQgb3V0IG15IAplbWFpbCBhZGRyZXNzLgoKQm9udXMgbGluazogPGh0\ndHBzOi8vZ2l0LXNlbmQtZW1haWwuaW8+Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/herrbischoff/awesome-macos-command-line/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/herrbischoff/awesome-macos-command-line/git/blobs/e18e1adba13aa590034e647ee55a312070cfb59f",
+    "html": "https://github.com/herrbischoff/awesome-macos-command-line/blob/main/README.md"
+  }
+}

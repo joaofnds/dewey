@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "aeedbf63f250f6b1c0651c6e0ba48d01dc677e48",
+  "size": 1500,
+  "url": "https://api.github.com/repos/matuzo/HTMHell/contents/README.md?ref=master",
+  "html_url": "https://github.com/matuzo/HTMHell/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/matuzo/HTMHell/git/blobs/aeedbf63f250f6b1c0651c6e0ba48d01dc677e48",
+  "download_url": "https://raw.githubusercontent.com/matuzo/HTMHell/master/README.md",
+  "type": "file",
+  "content": "IyBIVE1IZWxsIC0gTWFya3VwIEZyb20gSGVsbAoKQSBjb2xsZWN0aW9uIG9m\nIGJhZCBwcmFjdGljZXMgaW4gSFRNTCwgY29waWVkIGZyb20gcmVhbCB3ZWJz\naXRlcy4KCjxodHRwczovL3d3dy5odG1oZWxsLmRldj4KCiMjIENvbnRyaWJ1\ndGluZwoKIyMjIFJ1bGVzCgoqIFBsZWFzZSBvbmx5IGNvbnRyaWJ1dGUgZXhh\nbXBsZXMgeW91IGNvcHkgZnJvbSBwcm9kdWN0aW9uIHdlYnNpdGVzLiAgCiog\nUmVtb3ZlIGF0dHJpYnV0ZXMgdGhhdCBkb27igJl0IGFkZCBhbnkgdmFsdWUu\nCiogUmVtb3ZlIGFueSBwb2ludGVycyB0aGF0IHNob3cgd2hlcmUgeW91J3Zl\nIGNvcGllZCB0aGUgY29kZS4gV2UgZG9u4oCZdCB3YW50IHRvIGJsYW1lIGFu\neW9uZS4KKiBPbmx5IGNvcHkgY29kZSBmcm9tICptb2Rlcm4qIHdlYnNpdGVz\nLgoKIyMjIEJhc2ljcwoKKipOb3RlOioqIFBsZWFzZSBlbnN1cmUgeW91IGhh\ndmUgW0VkaXRvckNvbmZpZ10oaHR0cHM6Ly9lZGl0b3Jjb25maWcub3JnKSBp\nbnN0YWxsZWQgaW4geW91ciBlZGl0b3IgYmVmb3JlIGNvbnRyaWJ1dGluZyBh\nbnkgZmlsZSBjaGFuZ2VzLiBJdCdsbCBoZWxwIHVzIG1haW50YWluIGEgY29u\nc2lzdGVudCB1c2Ugb2Ygd2hpdGVzcGFjZSBpbiB0aGlzIHJlcG8ncyBmaWxl\ncy4KCjEuIEZvcmsgdGhpcyByZXBvIGFuZCBpbnN0YWxsIHRoZSBkZXBlbmRl\nbmNpZXMuCiAgYGBgCiAgbnBtIGluc3RhbGwKICBgYGAKCjIuIFJ1biB0aGUg\ncHJvamVjdAogIGBgYAogIG5wbSBydW4gc3RhcnQKICBgYGAKMy4gVGFrZSBz\nY3JlZW5zaG90CldoaWxlIHRoZSBzZXJ2ZXIgaXMgc3RpbGwgcnVubmluZywg\ncnVuIHRoZSBmb2xsb3dpbmcgY29tbWFuZCB0byB0YWtlIGEgc2NyZWVuc2hv\ndCBvZiB5b3VyIGNvZGUuCmBgYApucG0gcnVuIHNjcmVlbnNob3QKYGBgCgo0\nLiBQdXNoIGFuZCBjcmVhdGUgYSBwdWxsIHJlcXVlc3QuCgoKIyMjIEFkZGlu\nZyBhdXRob3JzCgpBZGQgYW4gYXV0aG9yIGluIGAuL2hlbGwvX2RhdGEvYXV0\naG9ycy5qc2AgaWYgdGhleSdyZSBub3QgbGlzdGVkLgoKYGBgCnsKICAiaWQi\nOiAiVU5JUVVFIElEIiwKICAibmFtZSI6ICJESVNQTEFZIE5BTUUiLAogICJs\naW5rIjogIldFQlNJVEUvVFdJVFRFUi9HSVRIVUIiCn0KYGBgCgojIyMgQWRk\naW5nIGEgc3VibWlzc2lvbgoKQWRkIGEgc3VibWlzc2lvbiBpbiBgLi9oZWxs\nL2VudHJpZXNgIGJ5IGNvcHlpbmcgYW55IG90aGVyIG1hcmtkb3duIGZpbGUg\naW4gdGhpcyBmb2xkZXIuCgoxLiBTaG93IGJhZCBjb2RlCjIuIEV4cGxhaW4g\naG93IHRvIGZpeCBpdAozLiBTaG93IGdvb2QgY29kZQoKIyMgU25pcHBldHMK\nCknigJltIGFmcmFpZCB0aGF0IG1hbnkgc3VnZ2VzdGlvbnMgd2lsbCByZWN1\nci4gVG8gYXZvaWQgZHVwbGljYXRlIGNvbnRlbnQsIHRoZXJl4oCZcyBhIGZp\nbGUgd2l0aCBzbmlwcGV0cyBpbiBgaGVsbC9fZGF0YS9zbmlwcGV0cy5qc2Ag\ndGhhdCB5b3UgY2FuIHVzZSBsaWtlIHRoaXM6CgpgYGAKe3sgc25pcHBldHMu\nc3Jfb25seSB9fQpgYGAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/matuzo/HTMHell/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/matuzo/HTMHell/git/blobs/aeedbf63f250f6b1c0651c6e0ba48d01dc677e48",
+    "html": "https://github.com/matuzo/HTMHell/blob/master/README.md"
+  }
+}

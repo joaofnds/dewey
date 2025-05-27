@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "9f1bfb75981e7b1ec6df330617145721c8297972",
+  "size": 1439,
+  "url": "https://api.github.com/repos/KeitaNakamura/neodark.vim/contents/README.md?ref=master",
+  "html_url": "https://github.com/KeitaNakamura/neodark.vim/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/KeitaNakamura/neodark.vim/git/blobs/9f1bfb75981e7b1ec6df330617145721c8297972",
+  "download_url": "https://raw.githubusercontent.com/KeitaNakamura/neodark.vim/master/README.md",
+  "type": "file",
+  "content": "IVtoZWFkZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9LZWl0YU5ha2FtdXJhL25l\nb2RhcmsudmltL2Jsb2IvbWFzdGVyL2ltZy9oZWFkZXIucG5nKQoKIyMgSW5z\ndGFsbGF0aW9uCgpgYGB2aW0KUGx1ZyAnS2VpdGFOYWthbXVyYS9uZW9kYXJr\nLnZpbScgIiB2aW0tcGx1ZwpzZXQgdGVybWd1aWNvbG9ycyAgICAgICAgICAg\nICAgICAiIHJlY29tbWVuZGVkCmNvbG9yc2NoZW1lIG5lb2RhcmsKYGBgCgoj\nIyBPcHRpb25zCgo+ICoqTk9URToqKiBBbGwgb3B0aW9ucyBtdXN0IGJlIGJl\nZm9yZSBzZXR0aW5nIGBjb2xvcnNjaGVtZWAKClRvIHVzZSB5b3VyIGRlZmF1\nbHQgdGVybWluYWwgYmFja2dyb3VuZDoKYGBgdmltCmxldCBnOm5lb2Rhcmsj\ndGVybWluYWxfdHJhbnNwYXJlbnQgPSAxICIgZGVmYXVsdDogMApgYGAKCklm\nIHlvdSB3YW50IHNvbGlkIHZlcnRpY2FsIHNwbGl0IG1hdGNoaW5nIHRoZSBz\ndGF0dXNsaW5lOgpgYGB2aW0KbGV0IGc6bmVvZGFyayNzb2xpZF92ZXJ0c3Bs\naXQgPSAxICIgZGVmYXVsdDogMApgYGAKClRvIHVzZSAqaXRhbGljcyo6CiBg\nYGB2aW0KIGxldCBnOm5lb2RhcmsjaXRhbGljcyA9IDEgIiBkZWZhdWx0OiAw\nCiBgYGAKCiMjIFN0YXR1cyBiYXIKClthaXJsaW5lXShodHRwczovL2dpdGh1\nYi5jb20vdmltLWFpcmxpbmUvdmltLWFpcmxpbmUpIGFuZCBbbGlnaHRsaW5l\nXShodHRwczovL2dpdGh1Yi5jb20vaXRjaHlueS9saWdodGxpbmUudmltKSB0\naGVtZXMgYXJlIGFsc28gaW5jbHVkZWQuIEZvciBsaWdodGxpbmUsCgpgYGB2\naW0KbGV0IGc6bGlnaHRsaW5lID0ge30KbGV0IGc6bGlnaHRsaW5lLmNvbG9y\nc2NoZW1lID0gJ25lb2RhcmsnCmBgYAoKRm9yIGFpcmxpbmUsIGp1c3QgdXNl\nIQoKIyMgVGVybWluYWwgdGhlbWVzCgpDdXN0b20gdGVybWluYWwgdGhlbWVz\nIGFyZSBhbHNvIGF2YWlsYWJsZSAoc2VlIGB0ZXJtYCBmb2xkZXIpLgpJZiB5\nb3UgdXNlIGEgdGVybWluYWwgd2hpY2ggZG9lc24ndCBzdXBwb3J0IHRydWUg\nY29sb3IgbGlrZSBUZXJtaW5hbC5hcHAsIHlvdQpjYW4gZ2V0IGEgdHJ1ZSBj\nb2xvciBzY2hlbWUgYnkgZW5hYmxpbmcgYGc6bmVvZGFyayN1c2VfY3VzdG9t\nX3Rlcm1pbmFsX3RoZW1lYC4KCmBgYHZpbQpsZXQgZzpuZW9kYXJrI3VzZV9j\ndXN0b21fdGVybWluYWxfdGhlbWUgPSAxICIgZGVmYXVsdDogMApgYGAKCiMj\nIEluc3BpcmF0aW9uIGFuZCBzcGVjaWFsIHRoYW5rcwoKKiBbdHlyYW5uaWNh\nbHRvdWNhbi92aW0tZGVlcC1zcGFjZV0oaHR0cHM6Ly9naXRodWIuY29tL3R5\ncmFubmljYWx0b3VjYW4vdmltLWRlZXAtc3BhY2UpCiogW3R5cmFubmljYWx0\nb3VjYW4vdmltLXF1YW50dW1dKGh0dHBzOi8vZ2l0aHViLmNvbS90eXJhbm5p\nY2FsdG91Y2FuL3ZpbS1xdWFudHVtKQoqIFtqb3NoZGljay9vbmVkYXJrLnZp\nbV0oaHR0cHM6Ly9naXRodWIuY29tL2pvc2hkaWNrL29uZWRhcmsudmltKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/KeitaNakamura/neodark.vim/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/KeitaNakamura/neodark.vim/git/blobs/9f1bfb75981e7b1ec6df330617145721c8297972",
+    "html": "https://github.com/KeitaNakamura/neodark.vim/blob/master/README.md"
+  }
+}

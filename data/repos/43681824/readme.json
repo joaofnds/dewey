@@ -1,0 +1,18 @@
+{
+  "name": "README.rst",
+  "path": "README.rst",
+  "sha": "20db8b20d1a11bf011d69e50c96183099e664f3f",
+  "size": 958,
+  "url": "https://api.github.com/repos/varnishcache/varnish-cache/contents/README.rst?ref=master",
+  "html_url": "https://github.com/varnishcache/varnish-cache/blob/master/README.rst",
+  "git_url": "https://api.github.com/repos/varnishcache/varnish-cache/git/blobs/20db8b20d1a11bf011d69e50c96183099e664f3f",
+  "download_url": "https://raw.githubusercontent.com/varnishcache/varnish-cache/master/README.rst",
+  "type": "file",
+  "content": "Li4KCUNvcHlyaWdodCAoYykgMjAxNi0yMDIwIFZhcm5pc2ggU29mdHdhcmUg\nQVMKCVNQRFgtTGljZW5zZS1JZGVudGlmaWVyOiBCU0QtMi1DbGF1c2UKCVNl\nZSBMSUNFTlNFIGZpbGUgZm9yIGZ1bGwgdGV4dCBvZiBsaWNlbnNlCgpWYXJu\naXNoIENhY2hlCj09PT09PT09PT09PT0KClRoaXMgaXMgVmFybmlzaCBDYWNo\nZSwgdGhlIGhpZ2gtcGVyZm9ybWFuY2UgSFRUUCBhY2NlbGVyYXRvci4KCkRv\nY3VtZW50YXRpb24gYW5kIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gYWJvdXQg\nVmFybmlzaCBpcyBhdmFpbGFibGUgb24KaHR0cHM6Ly93d3cudmFybmlzaC1j\nYWNoZS5vcmcvCgpUZWNobmljYWwgcXVlc3Rpb25zIGFib3V0IFZhcm5pc2gg\nYW5kIHRoaXMgcmVsZWFzZSBzaG91bGQgYmUgYWRkcmVzc2VkCnRvIDx2YXJu\naXNoLW1pc2NAdmFybmlzaC1jYWNoZS5vcmc+LgoKUGxlYXNlIHNlZSBDT05U\nUklCVVRJTkcgZm9yIGhvdyB0byBjb250cmlidXRlIHBhdGNoZXMgYW5kIHJl\ncG9ydCBidWdzLgoKRm9yIHF1ZXN0aW9ucyBhYm91dCBjb21tZXJjaWFsIHN1\ncHBvcnQgYW5kIHNlcnZpY2VzIHJlbGF0ZWQgdG8gVmFybmlzaApzZWUgdGhl\nIGBWYXJuaXNoIEhUVFAgQ2FjaGUgQnVzaW5lc3MgcGFnZQo8aHR0cHM6Ly92\nYXJuaXNoLWNhY2hlLm9yZy9idXNpbmVzcy9pbmRleC5odG1sPmBfIC4KCi4u\nIHxjY2liYWRnZXwgaW1hZ2U6OiBodHRwczovL2NpcmNsZWNpLmNvbS9naC92\nYXJuaXNoY2FjaGUvdmFybmlzaC1jYWNoZS90cmVlL21hc3Rlci5zdmc/c3R5\nbGU9c3ZnCiAgICA6dGFyZ2V0OiBodHRwczovL2NpcmNsZWNpLmNvbS9naC92\nYXJuaXNoY2FjaGUvdmFybmlzaC1jYWNoZS90cmVlL21hc3RlcgouLiBfdnRl\nc3Q6IGh0dHBzOi8vdmFybmlzaC1jYWNoZS5vcmcvdnRlc3QvCgpDaXJjbGVD\nSSB0ZXN0czogfGNjaWJhZGdlfAoKTW9yZSBwbGF0Zm9ybXMgYXJlIHRlc3Rl\nZCB2aWEgdnRlc3RfCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/varnishcache/varnish-cache/contents/README.rst?ref=master",
+    "git": "https://api.github.com/repos/varnishcache/varnish-cache/git/blobs/20db8b20d1a11bf011d69e50c96183099e664f3f",
+    "html": "https://github.com/varnishcache/varnish-cache/blob/master/README.rst"
+  }
+}

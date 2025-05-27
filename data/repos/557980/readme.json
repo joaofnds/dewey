@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "457658b21e86510c7cce41d4e9a16635b046a991",
+  "size": 1649,
+  "url": "https://api.github.com/repos/socketio/socket.io/contents/README.md?ref=main",
+  "html_url": "https://github.com/socketio/socket.io/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/socketio/socket.io/git/blobs/457658b21e86510c7cce41d4e9a16635b046a991",
+  "download_url": "https://raw.githubusercontent.com/socketio/socket.io/main/README.md",
+  "type": "file",
+  "content": "IyBzb2NrZXQuaW8KClshW0xhdGVzdCBOUE0gdmVyc2lvbl0oaHR0cHM6Ly9p\nbWcuc2hpZWxkcy5pby9ucG0vdi9zb2NrZXQuaW8uc3ZnKV0oaHR0cHM6Ly93\nd3cubnBtanMuY29tL3BhY2thZ2Uvc29ja2V0LmlvKQpbIVtCdWlsZCBzdGF0\ndXNdKGh0dHBzOi8vZ2l0aHViLmNvbS9zb2NrZXRpby9zb2NrZXQuaW8vYWN0\naW9ucy93b3JrZmxvd3MvY2kueW1sL2JhZGdlLnN2Zz9icmFuY2g9bWFpbild\nKGh0dHBzOi8vZ2l0aHViLmNvbS9zb2NrZXRpby9zb2NrZXQuaW8vYWN0aW9u\ncy93b3JrZmxvd3MvY2kueW1sKQpbIVtEb3dubG9hZHMgcGVyIG1vbnRoXSho\ndHRwczovL2ltZy5zaGllbGRzLmlvL25wbS9kbS9zb2NrZXQuaW8uc3ZnKV0o\nKGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL3NvY2tldC5pbykpCgoj\nIyBHZXR0aW5nIFN0YXJ0ZWQKClBsZWFzZSBjaGVjayBvdXIgZG9jdW1lbnRh\ndGlvbiBbaGVyZV0oaHR0cHM6Ly9zb2NrZXQuaW8pLgoKIyMgUXVlc3Rpb25z\nCgpPdXIgW2lzc3VlcyBsaXN0XShodHRwczovL2dpdGh1Yi5jb20vc29ja2V0\naW8vc29ja2V0LmlvL2lzc3VlcykgaXMgZXhjbHVzaXZlbHkgcmVzZXJ2ZWQg\nZm9yIGJ1ZyByZXBvcnRzIGFuZCBmZWF0dXJlIHJlcXVlc3RzLiBGb3IgdXNh\nZ2UgcXVlc3Rpb25zLCBwbGVhc2UgdXNlIHRoZSBmb2xsb3dpbmcgcmVzb3Vy\nY2VzOgoKLSByZWFkIG91ciBbZG9jdW1lbnRhdGlvbl0oaHR0cHM6Ly9zb2Nr\nZXQuaW8vZG9jcy92NC8pCi0gY2hlY2sgb3VyIFt0cm91Ymxlc2hvb3Rpbmcg\nZ3VpZGVdKGh0dHBzOi8vc29ja2V0LmlvL2RvY3MvdjQvdHJvdWJsZXNob290\naW5nLWNvbm5lY3Rpb24taXNzdWVzLykKLSBsb29rIGZvci9hc2sgcXVlc3Rp\nb25zIG9uIFtTdGFjayBPdmVyZmxvd10oaHR0cHM6Ly9zdGFja292ZXJmbG93\nLmNvbS9xdWVzdGlvbnMvdGFnZ2VkL3NvY2tldC5pbykKLSBjcmVhdGUgYSBu\nZXcgW2Rpc2N1c3Npb25dKGh0dHBzOi8vZ2l0aHViLmNvbS9zb2NrZXRpby9z\nb2NrZXQuaW8vZGlzY3Vzc2lvbnMvbmV3P2NhdGVnb3J5PXEtYSkKCiMjIFNl\nY3VyaXR5CgpJZiB5b3UgdGhpbmsgdGhhdCB5b3UgaGF2ZSBmb3VuZCBhIHNl\nY3VyaXR5IHZ1bG5lcmFiaWxpdHkgaW4gb3VyIHByb2plY3QsIHBsZWFzZSBk\nbyBub3QgY3JlYXRlIGFuIGlzc3VlIGluIHRoaXMgR2l0SHViIHJlcG9zaXRv\ncnksIGJ1dCByYXRoZXIgcmVmZXIgdG8gb3VyIFtTZWN1cml0eSBQb2xpY3ld\nKC4vU0VDVVJJVFkubWQpLgoKIyMgSXNzdWVzIGFuZCBjb250cmlidXRpb24K\nClBsZWFzZSBtYWtlIHN1cmUgdG8gcmVhZCBvdXIgW0NvbnRyaWJ1dGluZyBH\ndWlkZV0oLi9DT05UUklCVVRJTkcubWQpIGJlZm9yZSBjcmVhdGluZyBhbiBp\nc3N1ZSBvciBtYWtpbmcgYSBwdWxsIHJlcXVlc3QuCgpUaGFua3MgdG8gZXZl\ncnlvbmUgd2hvIGhhcyBhbHJlYWR5IGNvbnRyaWJ1dGVkIHRvIFNvY2tldC5J\nTyEKCjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9zb2NrZXRpby9zb2Nr\nZXQuaW8vZ3JhcGhzL2NvbnRyaWJ1dG9ycyI+PGltZyBzcmM9Imh0dHBzOi8v\nb3BlbmNvbGxlY3RpdmUuY29tL3NvY2tldGlvL2NvbnRyaWJ1dG9ycy5zdmc/\nd2lkdGg9ODkwIiAvPjwvYT4KCiMjIExpY2Vuc2UKCltNSVRdKGh0dHBzOi8v\nb3BlbnNvdXJjZS5vcmcvbGljZW5zZXMvTUlUKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/socketio/socket.io/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/socketio/socket.io/git/blobs/457658b21e86510c7cce41d4e9a16635b046a991",
+    "html": "https://github.com/socketio/socket.io/blob/main/README.md"
+  }
+}

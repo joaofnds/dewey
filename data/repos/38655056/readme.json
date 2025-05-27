@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "224f3ad01477871380e96ce1cf38cb8f09520c57",
+  "size": 1053,
+  "url": "https://api.github.com/repos/rust-lang/mdBook/contents/README.md?ref=master",
+  "html_url": "https://github.com/rust-lang/mdBook/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/rust-lang/mdBook/git/blobs/224f3ad01477871380e96ce1cf38cb8f09520c57",
+  "download_url": "https://raw.githubusercontent.com/rust-lang/mdBook/master/README.md",
+  "type": "file",
+  "content": "IyBtZEJvb2sKClshW0NJIFN0YXR1c10oaHR0cHM6Ly9naXRodWIuY29tL3J1\nc3QtbGFuZy9tZEJvb2svYWN0aW9ucy93b3JrZmxvd3MvbWFpbi55bWwvYmFk\nZ2Uuc3ZnKV0oaHR0cHM6Ly9naXRodWIuY29tL3J1c3QtbGFuZy9tZEJvb2sv\nYWN0aW9ucy93b3JrZmxvd3MvbWFpbi55bWwpClshW2NyYXRlcy5pb10oaHR0\ncHM6Ly9pbWcuc2hpZWxkcy5pby9jcmF0ZXMvdi9tZGJvb2suc3ZnKV0oaHR0\ncHM6Ly9jcmF0ZXMuaW8vY3JhdGVzL21kYm9vaykKWyFbTElDRU5TRV0oaHR0\ncHM6Ly9pbWcuc2hpZWxkcy5pby9naXRodWIvbGljZW5zZS9ydXN0LWxhbmcv\nbWRCb29rLnN2ZyldKExJQ0VOU0UpCgptZEJvb2sgaXMgYSB1dGlsaXR5IHRv\nIGNyZWF0ZSBtb2Rlcm4gb25saW5lIGJvb2tzIGZyb20gTWFya2Rvd24gZmls\nZXMuCgpDaGVjayBvdXQgdGhlICoqW1VzZXIgR3VpZGVdKiogZm9yIGEgbGlz\ndCBvZiBmZWF0dXJlcyBhbmQgaW5zdGFsbGF0aW9uIGFuZCB1c2FnZSBpbmZv\ncm1hdGlvbi4KVGhlIFVzZXIgR3VpZGUgYWxzbyBzZXJ2ZXMgYXMgYSBkZW1v\nbnN0cmF0aW9uIHRvIHNob3djYXNlIHdoYXQgYSBib29rIGxvb2tzIGxpa2Uu\nCgpJZiB5b3UgYXJlIGludGVyZXN0ZWQgaW4gY29udHJpYnV0aW5nIHRvIHRo\nZSBkZXZlbG9wbWVudCBvZiBtZEJvb2ssIGNoZWNrIG91dCB0aGUgW0NvbnRy\naWJ1dGlvbiBHdWlkZV0uCgojIyBMaWNlbnNlCgpBbGwgdGhlIGNvZGUgaW4g\ndGhpcyByZXBvc2l0b3J5IGlzIHJlbGVhc2VkIHVuZGVyIHRoZSAqKipNb3pp\nbGxhIFB1YmxpYyBMaWNlbnNlIHYyLjAqKiosIGZvciBtb3JlIGluZm9ybWF0\naW9uIHRha2UgYSBsb29rIGF0IHRoZSBbTElDRU5TRV0gZmlsZS4KCltVc2Vy\nIEd1aWRlXTogaHR0cHM6Ly9ydXN0LWxhbmcuZ2l0aHViLmlvL21kQm9vay8K\nW2NvbnRyaWJ1dGlvbiBndWlkZV06IGh0dHBzOi8vZ2l0aHViLmNvbS9ydXN0\nLWxhbmcvbWRCb29rL2Jsb2IvbWFzdGVyL0NPTlRSSUJVVElORy5tZApbTElD\nRU5TRV06IGh0dHBzOi8vZ2l0aHViLmNvbS9ydXN0LWxhbmcvbWRCb29rL2Js\nb2IvbWFzdGVyL0xJQ0VOU0UK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rust-lang/mdBook/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/rust-lang/mdBook/git/blobs/224f3ad01477871380e96ce1cf38cb8f09520c57",
+    "html": "https://github.com/rust-lang/mdBook/blob/master/README.md"
+  }
+}

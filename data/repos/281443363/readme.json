@@ -1,0 +1,18 @@
+{
+  "name": "readme.md",
+  "path": "readme.md",
+  "sha": "d377f5e316c0866a334b7bb3bd23d9a980cac58b",
+  "size": 388,
+  "url": "https://api.github.com/repos/sindresorhus/css-in-readme-like-wat/contents/readme.md?ref=main",
+  "html_url": "https://github.com/sindresorhus/css-in-readme-like-wat/blob/main/readme.md",
+  "git_url": "https://api.github.com/repos/sindresorhus/css-in-readme-like-wat/git/blobs/d377f5e316c0866a334b7bb3bd23d9a980cac58b",
+  "download_url": "https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md",
+  "type": "file",
+  "content": "PGRpdiBhbGlnbj0iY2VudGVyIj4KCTxicj4KCTxhIGhyZWY9Imh0dHBzOi8v\nZ2l0aHViLmNvbS9zaW5kcmVzb3JodXMvY3NzLWluLXJlYWRtZS1saWtlLXdh\ndC9ibGFtZS9tYWluL2hlYWRlci5zdmciPgoJCTxwaWN0dXJlPgoJCSAgPHNv\ndXJjZSBtZWRpYT0iKG1pbi13aWR0aDogNzIwcHgpIiBzcmNzZXQ9ImhlYWRl\nci5zdmciPgoJCSAgPGltZyBzcmM9ImhlYWRlci1tb2JpbGUuc3ZnIiB3aWR0\naD0iODAwIiBoZWlnaHQ9IjQwMCIgYWx0PSJDbGljayB0byBzZWUgdGhlIHNv\ndXJjZSI+CgkJPC9waWN0dXJlPgoJPC9hPgoJPGJyPgo8L2Rpdj4KPGJyPgo8\nYnI+CkV4cGxhbmF0aW9uOiBodHRwczovL2Nzcy10cmlja3MuY29tL2N1c3Rv\nbS1zdHlsZXMtaW4tZ2l0aHViLXJlYWRtZXMvCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sindresorhus/css-in-readme-like-wat/contents/readme.md?ref=main",
+    "git": "https://api.github.com/repos/sindresorhus/css-in-readme-like-wat/git/blobs/d377f5e316c0866a334b7bb3bd23d9a980cac58b",
+    "html": "https://github.com/sindresorhus/css-in-readme-like-wat/blob/main/readme.md"
+  }
+}

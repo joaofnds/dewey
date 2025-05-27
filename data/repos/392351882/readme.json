@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "1cfd7a6d6bc9abbfd907a13995b68ea3db67e805",
+  "size": 893,
+  "url": "https://api.github.com/repos/hrsh7th/cmp-path/contents/README.md?ref=main",
+  "html_url": "https://github.com/hrsh7th/cmp-path/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/hrsh7th/cmp-path/git/blobs/1cfd7a6d6bc9abbfd907a13995b68ea3db67e805",
+  "download_url": "https://raw.githubusercontent.com/hrsh7th/cmp-path/main/README.md",
+  "type": "file",
+  "content": "IyBjbXAtcGF0aAoKbnZpbS1jbXAgc291cmNlIGZvciBmaWxlc3lzdGVtIHBh\ndGhzLgoKIyBTZXR1cAoKYGBgbHVhCnJlcXVpcmUnY21wJy5zZXR1cCB7CiAg\nc291cmNlcyA9IHsKICAgIHsgbmFtZSA9ICdwYXRoJyB9CiAgfQp9CmBgYAoK\nCiMjIENvbmZpZ3VyYXRpb24KClRoZSBiZWxvdyBzb3VyY2UgY29uZmlndXJh\ndGlvbiBvcHRpb25zIGFyZSBhdmFpbGFibGUuIFRvIHNldCBhbnkgb2YgdGhl\nc2Ugb3B0aW9ucywgZG86CgpgYGBsdWEKY21wLnNldHVwKHsKICBzb3VyY2Vz\nID0gewogICAgewogICAgICBuYW1lID0gJ3BhdGgnLAogICAgICBvcHRpb24g\nPSB7CiAgICAgICAgLS0gT3B0aW9ucyBnbyBpbnRvIHRoaXMgdGFibGUKICAg\nICAgfSwKICAgIH0sCiAgfSwKfSkKYGBgCgoKIyMjIHRyYWlsaW5nX3NsYXNo\nICh0eXBlOiBib29sZWFuKQoKX0RlZmF1bHQ6XyBgZmFsc2VgCgpTcGVjaWZ5\nIGlmIGNvbXBsZXRlZCBkaXJlY3RvcnkgbmFtZXMgc2hvdWxkIGluY2x1ZGUg\nYSB0cmFpbGluZyBzbGFzaC4gRW5hYmxpbmcgdGhpcyBvcHRpb24gbWFrZXMg\ndGhpcyBzb3VyY2UgYmVoYXZlIGxpa2UgVmltJ3MgYnVpbHQtaW4gcGF0aCBj\nb21wbGV0aW9uLgoKIyMjIGxhYmVsX3RyYWlsaW5nX3NsYXNoICh0eXBlOiBi\nb29sZWFuKQoKX0RlZmF1bHQ6XyBgdHJ1ZWAKClNwZWNpZnkgaWYgZGlyZWN0\nb3J5IG5hbWVzIGluIHRoZSBjb21wbGV0aW9uIG1lbnUgc2hvdWxkIGluY2x1\nZGUgYSB0cmFpbGluZyBzbGFzaC4KCiMjIyBnZXRfY3dkICh0eXBlOiBmdW5j\ndGlvbikKCl9EZWZhdWx0Ol8gcmV0dXJucyB0aGUgY3VycmVudCB3b3JraW5n\nIGRpcmVjdG9yeSBvZiB0aGUgY3VycmVudCBidWZmZXIKClNwZWNpZmllcyB0\naGUgYmFzZSBkaXJlY3RvcnkgZm9yIHJlbGF0aXZlIHBhdGhzLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/hrsh7th/cmp-path/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/hrsh7th/cmp-path/git/blobs/1cfd7a6d6bc9abbfd907a13995b68ea3db67e805",
+    "html": "https://github.com/hrsh7th/cmp-path/blob/main/README.md"
+  }
+}

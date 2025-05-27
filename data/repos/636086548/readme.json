@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "7006e2a9d87471c6820c2593c6eaa8c08e9e29f7",
+  "size": 1116,
+  "url": "https://api.github.com/repos/slowlydev/f1-dash/contents/README.md?ref=main",
+  "html_url": "https://github.com/slowlydev/f1-dash/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/slowlydev/f1-dash/git/blobs/7006e2a9d87471c6820c2593c6eaa8c08e9e29f7",
+  "download_url": "https://raw.githubusercontent.com/slowlydev/f1-dash/main/README.md",
+  "type": "file",
+  "content": "PHAgYWxpZ249ImNlbnRlciI+CiAgPHBpY3R1cmU+CiAgICA8c291cmNlIG1l\nZGlhPSIocHJlZmVycy1jb2xvci1zY2hlbWU6IGRhcmspIiBzcmNzZXQ9Ii4v\nZGFzaC9wdWJsaWMvdGFnLWxvZ28ucG5nIiB3aWR0aD0iMjAwIj4KICAgIDxp\nbWcgYWx0PSJmMS1kYXNoIiBzcmM9Ii4vZGFzaC9wdWJsaWMvdGFnLWxvZ28u\ncG5nIiB3aWR0aD0iMjAwIj4KICA8L3BpY3R1cmU+CjwvcD4KCjxoMSBhbGln\nbj0iY2VudGVyIj5SZWFsLXRpbWUgRm9ybXVsYSAxIHRlbGVtZXRyeSBhbmQg\ndGltaW5nPC9oMT4KCiMjIGYxLWRhc2gKCkEgcmVhbC10aW1lIEYxIGRhc2hi\nb2FyZCB0aGF0IHNob3dzIHRoZSBsZWFkZXIgYm9hcmQsIHRpcmVzLCBnYXBz\nLCBsYXBzLCBtaW5pIHNlY3RvcnMgYW5kIG11Y2ggbW9yZS4KCiMjIENvbnRy\naWJ1dGluZwoKSSByZWFsbHkgYXBwcmVjaWF0ZSB5b3VyIGludGVyZXN0IGlu\nIGNvbnRyaWJ1dGluZyB0byB0aGlzIHByb2plY3QuIEkgcmVjb21tZW5kIGNo\nZWNraW5nIG91dCB0aGUgR2l0SHViIGlzc3VlcyBtYXJrZWQgYXMgIkdvb2Qg\nRmlyc3QgSXNzdWUiIHRvIGdldCBzdGFydGVkLiBBbHNvLCBwbGVhc2UgcmVh\nZCBbYENPTlRSSUJVVElORy5tZGBdKENPTlRSSUJVVElORy5tZCkgdG8gbGVh\ncm4gaG93IHRvIGNvbnRyaWJ1dGUgYW5kIHNldCB1cCBmMS1kYXNoIG9uIHlv\ndXIgbG9jYWwgbWFjaGluZSBmb3IgZGV2ZWxvcG1lbnQuCgojIyBTdXBwb3J0\naW5nCgpJZiB5b3UnZCBsaWtlIHRvIHN1cHBvcnQgdGhpcyBwcm9qZWN0IGFu\nZCBoZWxwIG1lIGRlZGljYXRlIG1vcmUgdGltZSB0byBpdCwgeW91IGNhbiBb\nYnV5IG1lIGEgY29mZmVlXShodHRwczovL3d3dy5idXltZWFjb2ZmZWUuY29t\nL3Nsb3dseWRldikuCgojIyBOb3RpY2UKClRoaXMgcHJvamVjdC93ZWJzaXRl\nIGlzIHVub2ZmaWNpYWwgYW5kIGlzIG5vdCBhc3NvY2lhdGVkIGluIGFueSB3\nYXkgd2l0aCB0aGUgRm9ybXVsYSAxIGNvbXBhbmllcy4gRjEsIEZPUk1VTEEg\nT05FLCBGT1JNVUxBIDEsIEZJQSBGT1JNVUxBIE9ORSBXT1JMRCBDSEFNUElP\nTlNISVAsIEdSQU5EIFBSSVggYW5kIHJlbGF0ZWQgbWFya3MgYXJlIHRyYWRl\nIG1hcmtzIG9mIEZvcm11bGEgT25lIExpY2Vuc2luZyBCLlYu\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/slowlydev/f1-dash/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/slowlydev/f1-dash/git/blobs/7006e2a9d87471c6820c2593c6eaa8c08e9e29f7",
+    "html": "https://github.com/slowlydev/f1-dash/blob/main/README.md"
+  }
+}

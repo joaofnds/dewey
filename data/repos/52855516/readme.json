@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "413de2521c7b94a0d5e59e8cf69dd0722a18e051",
+  "size": 479,
+  "url": "https://api.github.com/repos/Homebrew/homebrew-core/contents/README.md?ref=master",
+  "html_url": "https://github.com/Homebrew/homebrew-core/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/Homebrew/homebrew-core/git/blobs/413de2521c7b94a0d5e59e8cf69dd0722a18e051",
+  "download_url": "https://raw.githubusercontent.com/Homebrew/homebrew-core/master/README.md",
+  "type": "file",
+  "content": "IyBIb21lYnJldyBDb3JlCgpDb3JlIGZvcm11bGFlIGZvciB0aGUgSG9tZWJy\nZXcgcGFja2FnZSBtYW5hZ2VyLgoKIFtIb21lYnJldy9kaXNjdXNzaW9ucyAo\nZm9ydW0pXShodHRwczovL2dpdGh1Yi5jb20vb3Jncy9Ib21lYnJldy9kaXNj\ndXNzaW9ucykKCiMjIEhvdyBkbyBJIGluc3RhbGwgdGhlc2UgZm9ybXVsYWU/\nCgpKdXN0IGBicmV3IGluc3RhbGwgPGZvcm11bGE+YC4gVGhpcyBpcyB0aGUg\nZGVmYXVsdCB0YXAgZm9yIEhvbWVicmV3IGFuZCBpcyBpbnN0YWxsZWQgYnkg\nZGVmYXVsdC4KCiMjIE1vcmUgRG9jdW1lbnRhdGlvbiwgVHJvdWJsZXNob290\naW5nLCBDb250cmlidXRpbmcsIFNlY3VyaXR5LCBDb21tdW5pdHksIERvbmF0\naW9ucywgTGljZW5zZSBhbmQgU3BvbnNvcnMKClNlZSB0aGVzZSBzZWN0aW9u\ncyBpbiBbSG9tZWJyZXcvYnJldydzIFJFQURNRV0oaHR0cHM6Ly9naXRodWIu\nY29tL0hvbWVicmV3L2JyZXcjaG9tZWJyZXcpLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Homebrew/homebrew-core/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/Homebrew/homebrew-core/git/blobs/413de2521c7b94a0d5e59e8cf69dd0722a18e051",
+    "html": "https://github.com/Homebrew/homebrew-core/blob/master/README.md"
+  }
+}

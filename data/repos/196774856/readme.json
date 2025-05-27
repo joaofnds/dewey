@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "a9e8e49742591f6b41aed802c812ee736ec4b67f",
+  "size": 382,
+  "url": "https://api.github.com/repos/knutsynstad/fortune500/contents/README.md?ref=master",
+  "html_url": "https://github.com/knutsynstad/fortune500/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/knutsynstad/fortune500/git/blobs/a9e8e49742591f6b41aed802c812ee736ec4b67f",
+  "download_url": "https://raw.githubusercontent.com/knutsynstad/fortune500/master/README.md",
+  "type": "file",
+  "content": "IyBWaXN1YWxpemluZyB0aGUgU3BhY2Ugb2YgTG9nb3Mgb2YgdGhlIEZvcnR1\nbmUgNTAwClVzaW5nIG1hY2hpbmUgbGVhcm5pbmcgdG8gZXhwbG9yZSB2aXN1\nYWwgc2ltaWxhcml0eSBpbiB0aGUgbG9nb3Mgb2YgdGhlIEZvcnR1bmUgNTAw\nLgoKCiMjIENvbW1hbmRzCgpDbG9uZSB0aGUgcmVwb3NpdG9yeToKYGBgCmdp\ndCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20va251dHN5bnN0YWQvZm9ydHVu\nZTUwMC5naXQKYGBgCgpJbnN0YWxsIGRlcGVuZGVuY2llczoKYGBgYmFzaApu\ncG0gaW5zdGFsbApgYGAKClJ1biBkZXZlbG9wbWVudCBzZXJ2ZXI6CmBgYGJh\nc2gKbnBtIHJ1biBzZXJ2ZXIKYGBgCgpSdW4gYnVpbGQgc2NyaXB0OgpgYGBi\nYXNoCm5wbSBydW4gYnVpbGQKYGBgCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/knutsynstad/fortune500/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/knutsynstad/fortune500/git/blobs/a9e8e49742591f6b41aed802c812ee736ec4b67f",
+    "html": "https://github.com/knutsynstad/fortune500/blob/master/README.md"
+  }
+}

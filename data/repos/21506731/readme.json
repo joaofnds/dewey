@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "ec46421b2c8bf156e4ee3e55164f58c43c739ad2",
+  "size": 73,
+  "url": "https://api.github.com/repos/clarkgrubb/hyperpolyglot/contents/README.md?ref=master",
+  "html_url": "https://github.com/clarkgrubb/hyperpolyglot/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/clarkgrubb/hyperpolyglot/git/blobs/ec46421b2c8bf156e4ee3e55164f58c43c739ad2",
+  "download_url": "https://raw.githubusercontent.com/clarkgrubb/hyperpolyglot/master/README.md",
+  "type": "file",
+  "content": "IyBTVU1NQVJZCgpTb3VyY2UgY29kZSBhbmQgbWFya3VwIGZvciB0aGUgc2l0\nZSBodHRwOi8vaHlwZXJwb2x5Z2xvdC5vcmcuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/clarkgrubb/hyperpolyglot/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/clarkgrubb/hyperpolyglot/git/blobs/ec46421b2c8bf156e4ee3e55164f58c43c739ad2",
+    "html": "https://github.com/clarkgrubb/hyperpolyglot/blob/master/README.md"
+  }
+}

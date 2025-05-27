@@ -1,0 +1,15 @@
+**Repository Data:**
+
+**Name:** usebruno/bruno
+
+**Description:** Bruno is an open-source API client aimed at revolutionizing API testing and exploration. It stores collections directly in a local folder using a custom text markup language, Bru, for API request information. Offline-only with Git collaboration support, Bruno prioritizes data privacy by not offering cloud sync.
+
+**Primary function and domain:** Bruno solves the problem of managing and testing APIs locally without relying on cloud services. It operates within the web development domain.
+
+**Core features and capabilities:** Users can create, edit, and manage API collections in a local folder using a custom text markup language (Bru). Collaboration is possible via Git.
+
+**Technology stack:** JavaScript, Bru (custom text markup language)
+
+**Project type:** Application
+
+**Target users:** Web developers, API testers, and anyone requiring an offline-only API client.

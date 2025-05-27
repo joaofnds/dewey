@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "96b637ed543e37b9c1a55f29d321119975df220f",
+  "size": 304,
+  "url": "https://api.github.com/repos/hsgw/plaid/contents/README.md?ref=master",
+  "html_url": "https://github.com/hsgw/plaid/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/hsgw/plaid/git/blobs/96b637ed543e37b9c1a55f29d321119975df220f",
+  "download_url": "https://raw.githubusercontent.com/hsgw/plaid/master/README.md",
+  "type": "file",
+  "content": "UGxhaWQKPT09PT09PT09PT09PT09CgohW3BsYWlkXSguL2RvYy9pbWcvcGxh\naWQuanBnKQoKVGhlIDR4MTIgb3J0aG9saW5lYXIga2V5Ym9hcmQga2l0IG1h\nZGUgYnkgdGhyb3VnaCBob2xlIGNvbXBvbmVudHMgb25seS4gCgpBdG1lZ2Ez\nMjhwIHdpdGggVlVTQiBvbiBbUU1LIGZpcm13YXJlXShodHRwczovL2dpdGh1\nYi5jb20vcW1rL3Fta19maXJtd2FyZSkuCgpbQnVpbGQgZ3VpZGUgYW5kIGJv\nbSBpcyBoZXJlXSguL2RvYykKW+ODk+ODq+ODieOCrOOCpOODieOBqOODkeOD\nvOODhOODquOCueODiOOBr+OBk+OBoeOCiV0oLi9kb2MpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/hsgw/plaid/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/hsgw/plaid/git/blobs/96b637ed543e37b9c1a55f29d321119975df220f",
+    "html": "https://github.com/hsgw/plaid/blob/master/README.md"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "readme.md",
+  "path": "readme.md",
+  "sha": "8e1c27f630b4c64dd5b1551ef94c815a924e58ac",
+  "size": 570,
+  "url": "https://api.github.com/repos/OpenAnnePro/AnnePro2-Tools/contents/readme.md?ref=master",
+  "html_url": "https://github.com/OpenAnnePro/AnnePro2-Tools/blob/master/readme.md",
+  "git_url": "https://api.github.com/repos/OpenAnnePro/AnnePro2-Tools/git/blobs/8e1c27f630b4c64dd5b1551ef94c815a924e58ac",
+  "download_url": "https://raw.githubusercontent.com/OpenAnnePro/AnnePro2-Tools/master/readme.md",
+  "type": "file",
+  "content": "IyBBbm5lIFBybyAyIFRvb2xzCgpUaGlzIGlzIGFuIGFsdGVybmF0aXZlIGZp\ncm13YXJlIHVwZGF0ZSB0b29sIGZvciB0aGUgQW5uZSBQcm8gMi4KSXQgYWxs\nb3dzIHlvdSB0byBmbGFzaCBjdXN0b20gZmlybXdhcmUgb250byB0aGUgQW5u\nZSBQcm8gMi4KQ3VycmVudGx5IG9ubHkgdGhlIG1haW4gTUNVIGhhcyBiZWVu\nIHRlc3RlZCB0byB3b3JrLgoKUGxlYXNlIHB1dCB0aGUga2V5Ym9hcmQgaW50\nbyBJQVAgbW9kZSBieSBob2xkaW5nIGRvd24gYGVzY2Agd2hpbGUKcGx1Z2dp\nbmcgaXQgaW4gdG8gdGhlIGNvbXB1dGVyIGJlZm9yZSBydW5uaW5nIHRoaXMg\ndG9vbC4KClRvIGJ1aWxkCmBgYGJhc2gKY2FyZ28gYnVpbGQgLS1yZWxlYXNl\nCmBgYAoKVG8gZmxhc2ggZmlsZSBjYWxsZWQgYS5iaW4geW91IGNhbiBpbnZv\na2UKCmBgYGJhc2gKLi90YXJnZXQvcmVsZWFzZS9hbm5lcHJvMl90b29scyBh\nLmJpbgpgYGAKCkJ5IGRlZmF1bHQsIHRoZSBmbGFzaGVyIHdpbGwgbG9vayBm\nb3IgMDRkOTo4MDA4IChEZWZhdWx0IEFubmUgUHJvIDIgSUFQKQphbmQgZmxh\nc2ggYmluYXJ5IHN0YXJ0aW5nIGF0IDB4NDAwMC4g\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/OpenAnnePro/AnnePro2-Tools/contents/readme.md?ref=master",
+    "git": "https://api.github.com/repos/OpenAnnePro/AnnePro2-Tools/git/blobs/8e1c27f630b4c64dd5b1551ef94c815a924e58ac",
+    "html": "https://github.com/OpenAnnePro/AnnePro2-Tools/blob/master/readme.md"
+  }
+}

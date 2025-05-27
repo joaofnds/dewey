@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "3d96fd893bdc59c45aa66d48fd6ccbaaba93c5f1",
+  "size": 366,
+  "url": "https://api.github.com/repos/syncsynchalt/illustrated-tls12/contents/README.md?ref=master",
+  "html_url": "https://github.com/syncsynchalt/illustrated-tls12/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/syncsynchalt/illustrated-tls12/git/blobs/3d96fd893bdc59c45aa66d48fd6ccbaaba93c5f1",
+  "download_url": "https://raw.githubusercontent.com/syncsynchalt/illustrated-tls12/master/README.md",
+  "type": "file",
+  "content": "IyBUaGUgSWxsdXN0cmF0ZWQgVExTIENvbm5lY3Rpb24KClB1Ymxpc2hlZCBh\ndCBodHRwczovL3Rscy54YXJncy5vcmcKCi0gYHNpdGUvYDogcGFnZSBzb3Vy\nY2UgZm9yIHRoZSBmaW5pc2hlZCBwcm9kdWN0Ci0gYHNlcnZlci9tYWluLmdv\nYDogc2VydmVyIGNvZGUKLSBgY2xpZW50L21haW4uZ29gOiBjbGllbnQgY29k\nZQotIGB0bHNjb3B5L2A6IGNvcHkgb2YgZ29sYW5nJ3MgYGNyeXB0by90bHMv\nYCBsaWIsIGZvciBlYXNlIG9mIGV4dHJhY3Rpbmcgc2VjcmV0IHZhbHVlcwot\nIGBjYXB0dXJlcy9gOiBQQ0FQIGFuZCBrZXlsb2cgZmlsZXMKClNlZSBhbHNv\nIGh0dHBzOi8vZ2l0aHViLmNvbS9zeW5jc3luY2hhbHQvaWxsdXN0cmF0ZWQt\ndGxzMTMK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/syncsynchalt/illustrated-tls12/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/syncsynchalt/illustrated-tls12/git/blobs/3d96fd893bdc59c45aa66d48fd6ccbaaba93c5f1",
+    "html": "https://github.com/syncsynchalt/illustrated-tls12/blob/master/README.md"
+  }
+}

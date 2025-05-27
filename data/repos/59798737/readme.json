@@ -1,0 +1,18 @@
+{
+  "name": "readme.md",
+  "path": "readme.md",
+  "sha": "c29cb67660f8cd08ab6f541a53ff81aafce873ea",
+  "size": 373,
+  "url": "https://api.github.com/repos/components-ai/randoma11y/contents/readme.md?ref=main",
+  "html_url": "https://github.com/components-ai/randoma11y/blob/main/readme.md",
+  "git_url": "https://api.github.com/repos/components-ai/randoma11y/git/blobs/c29cb67660f8cd08ab6f541a53ff81aafce873ea",
+  "download_url": "https://raw.githubusercontent.com/components-ai/randoma11y/main/readme.md",
+  "type": "file",
+  "content": "IyBbcmFuZG9tYTExeS5jb21dKGh0dHBzOi8vcmFuZG9tYTExeS5jb20pCgoh\nW1NjcmVlbnNob3Qgb2YgYXBwXShodHRwczovL3VzZXItaW1hZ2VzLmdpdGh1\nYnVzZXJjb250ZW50LmNvbS8xNDI0NTczLzEwMTI0NzAwMS1mMjg5MGYwMC0z\nNmQzLTExZWItOWRiZi04NjRhNTA3NzI5NDMucG5nKQoKR2V0IHJhbmRvbSwg\nYWNjZXNzaWJsZSBjb2xvciBjb21iaW5hdGlvbnMgYW5kIHRyYWluCnRoZSBy\nb2JvdHMgYnkgdm90aW5nLgoKIyMgSW5zdGFsbGF0aW9uCgpgYGBzaApnaXQg\nY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2NvbXBvbmVudHMtYWkvcmFuZG9t\nYTExeQpjZCByYW5kb21hMTF5Cnlhcm4KYGBgCgojIyBVc2FnZQoKYGBgc2gK\neWFybiBkZXYKYGBgCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/components-ai/randoma11y/contents/readme.md?ref=main",
+    "git": "https://api.github.com/repos/components-ai/randoma11y/git/blobs/c29cb67660f8cd08ab6f541a53ff81aafce873ea",
+    "html": "https://github.com/components-ai/randoma11y/blob/main/readme.md"
+  }
+}

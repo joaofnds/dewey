@@ -1,0 +1,17 @@
+**Repository Data:**
+
+**Name:** rhasspy/piper
+
+**Description:** A fast, local C++ neural text-to-speech (TTS) system optimized for the Raspberry Pi 4, featuring high-quality voices trained with VITS and exported to onnxruntime. The system supports a wide range of languages and is intended for text-to-speech research.
+
+**Primary function and domain:** Solves the problem of generating natural-sounding speech from text in various languages, primarily within the Machine Learning (ML) domain.
+
+**Core features and capabilities:** Users can synthesize speech from text using a variety of voices, each requiring an .onnx model file and a corresponding .onnx.json config file. The system is optimized for speed and performance on the Raspberry Pi 4.
+
+**Technology stack:** C++, onnxruntime, VITS (for voice training).
+
+**Project type:** Application.
+
+**Requirements:** Users can run Piper with Python or download binary releases for different architectures, including amd64, arm64, and armv7. Building from source requires the piper-phonemize library.
+
+**Target users:** Researchers, developers, and enthusiasts working on text-to-speech projects, particularly those focused on the Raspberry Pi platform.

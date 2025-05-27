@@ -1,0 +1,18 @@
+{
+  "name": "readme.md",
+  "path": "readme.md",
+  "sha": "dd19a4bcd2cdac13d47e5d1e06684eee0c9f0503",
+  "size": 425,
+  "url": "https://api.github.com/repos/lucydsl/liblucy/contents/readme.md?ref=main",
+  "html_url": "https://github.com/lucydsl/liblucy/blob/main/readme.md",
+  "git_url": "https://api.github.com/repos/lucydsl/liblucy/git/blobs/dd19a4bcd2cdac13d47e5d1e06684eee0c9f0503",
+  "download_url": "https://raw.githubusercontent.com/lucydsl/liblucy/main/readme.md",
+  "type": "file",
+  "content": "IyBsaWJsdWN5CgpfX2xpYmx1Y3lfXyBpcyB0aGUgY29yZSBwaWVjZSBvZiBb\nTHVjeV0oaHR0cHM6Ly9sdWN5bGFuZy5vcmcvKSB0aGUgRFNMLiBJdCBjb250\nYWlucyB0aGUgY29yZSBjb21waWxlciB0aGF0IGlzIGNvbXBpbGVkIHRvIHdh\nc20gZm9yIHVzYWdlIGluIEphdmFTY3JpcHQgZW52aXJvbm1lbnRzIHN1Y2gg\nYXMgTm9kZS5qcy4gSXQgYWxzbyBpbmNsdWRlcyB0aGUgQ0xJIGNvbXBpbGVy\nLCBgbHVjeWNgLgoKIyMgQ29udHJpYnV0aW5nCgpTZWUgdGhlIFtjb250cmli\ndXRpbmcgcGFnZV0oaHR0cHM6Ly9sdWN5bGFuZy5vcmcvZG9jcy9jb250cmli\ndXRpbmcvKSBmb3IgaW5mb3JtYXRpb24gb24gaG93IHRvIGJ1aWxkIGxpYmx1\nY3kgYW5kIHRoZSB3b3JrZmxvdyBmb3IgbWFraW5nIGNoYW5nZXMuCgojIyBM\naWNlbnNlCgpCU0QtMi1DbGF1c2U=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/lucydsl/liblucy/contents/readme.md?ref=main",
+    "git": "https://api.github.com/repos/lucydsl/liblucy/git/blobs/dd19a4bcd2cdac13d47e5d1e06684eee0c9f0503",
+    "html": "https://github.com/lucydsl/liblucy/blob/main/readme.md"
+  }
+}

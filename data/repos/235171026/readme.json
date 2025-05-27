@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "71ae01c90b8ccc53732d58a570cb4e81d5720bf4",
+  "size": 277,
+  "url": "https://api.github.com/repos/tsoding/mmap/contents/README.md?ref=master",
+  "html_url": "https://github.com/tsoding/mmap/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/tsoding/mmap/git/blobs/71ae01c90b8ccc53732d58a570cb4e81d5720bf4",
+  "download_url": "https://raw.githubusercontent.com/tsoding/mmap/master/README.md",
+  "type": "file",
+  "content": "IyBtbWFwCgpTb3VyY2UgY29kZSBmcm9tIHRoZSBtbWFwICJsZWN0dXJlIjog\naHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1zRllGdUJ6dTlPdwoK\nIyMgUXVpY2sgU3RhcnQKCkluc3RhbGwgW2djY10oaHR0cHM6Ly9nY2MuZ251\nLm9yZy8pIGFuZCBbbmFzbV0oaHR0cHM6Ly93d3cubmFzbS51cy8pLiBCb3Ro\nIGFyZSBwcm9iYWJseSBhdmFpbGFibGUgaW4geW91ciBMaW51eCBkaXN0cm8g\ncmVwby4gU2ltcGxlIGAkIG1ha2VgIHNob3VsZCBqdXN0IGJ1aWxkIGV2ZXJ5\ndGhpbmcuCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tsoding/mmap/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/tsoding/mmap/git/blobs/71ae01c90b8ccc53732d58a570cb4e81d5720bf4",
+    "html": "https://github.com/tsoding/mmap/blob/master/README.md"
+  }
+}

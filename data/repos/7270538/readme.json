@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "3bdcc2db3cf5639da94771fd2433c30ed34018e6",
+  "size": 887,
+  "url": "https://api.github.com/repos/ankitects/anki/contents/README.md?ref=main",
+  "html_url": "https://github.com/ankitects/anki/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/ankitects/anki/git/blobs/3bdcc2db3cf5639da94771fd2433c30ed34018e6",
+  "download_url": "https://raw.githubusercontent.com/ankitects/anki/main/README.md",
+  "type": "file",
+  "content": "IyBBbmtpCgpbIVtCdWlsZCBzdGF0dXNdKGh0dHBzOi8vYmFkZ2UuYnVpbGRr\naXRlLmNvbS9jOWVkZjAyMGE0YWVjOTc2Zjk4MzVlNTQ3NTFjYzU0MDlkODQz\nYWRiYjY2ZDA0M2JkMy5zdmc/YnJhbmNoPW1haW4pXShodHRwczovL2J1aWxk\na2l0ZS5jb20vYW5raXRlY3RzL2Fua2ktY2kpCgpUaGlzIHJlcG8gY29udGFp\nbnMgdGhlIHNvdXJjZSBjb2RlIGZvciB0aGUgY29tcHV0ZXIgdmVyc2lvbiBv\nZgpbQW5raV0oaHR0cHM6Ly9hcHBzLmFua2l3ZWIubmV0KS4KCiMgQWJvdXQK\nCkFua2kgaXMgYSBzcGFjZWQgcmVwZXRpdGlvbiBwcm9ncmFtLiBQbGVhc2Ug\nc2VlIHRoZSBbd2Vic2l0ZV0oaHR0cHM6Ly9hcHBzLmFua2l3ZWIubmV0KSB0\nbyBsZWFybiBtb3JlLgoKIyBHZXR0aW5nIFN0YXJ0ZWQKCiMjIyBBbmtpIEJl\ndGFzCgpJZiB5b3UnZCBsaWtlIHRvIHRyeSBkZXZlbG9wbWVudCBidWlsZHMg\nb2YgQW5raSBidXQgZG9uJ3QgZmVlbCBjb21mb3J0YWJsZQpidWlsZGluZyB0\naGUgY29kZSwgcGxlYXNlIHNlZSBbQW5raSBiZXRhc10oaHR0cHM6Ly9iZXRh\ncy5hbmtpd2ViLm5ldC8pCgojIyMgRGV2ZWxvcGluZwoKRm9yIG1vcmUgaW5m\nb3JtYXRpb24gb24gYnVpbGRpbmcgYW5kIGRldmVsb3BpbmcsIHBsZWFzZSBz\nZWUgW0RldmVsb3BtZW50XSguL2RvY3MvZGV2ZWxvcG1lbnQubWQpLgoKIyMj\nIENvbnRyaWJ1dGluZwoKV2FudCB0byBjb250cmlidXRlIHRvIEFua2k/IENo\nZWNrIG91dCB0aGUgW0NvbnRyaWJ1dGlvbiBHdWlkZWxpbmVzXSguL2RvY3Mv\nY29udHJpYnV0aW5nLm1kKS4KCiMjIyBBbmtpIENvbnRyaWJ1dG9ycwoKW0NP\nTlRSSUJVVE9SU10oLi9DT05UUklCVVRPUlMpCgojIExpY2Vuc2UKCkFua2kn\ncyBsaWNlbnNlOiBbTElDRU5TRV0oLi9MSUNFTlNFKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ankitects/anki/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/ankitects/anki/git/blobs/3bdcc2db3cf5639da94771fd2433c30ed34018e6",
+    "html": "https://github.com/ankitects/anki/blob/main/README.md"
+  }
+}

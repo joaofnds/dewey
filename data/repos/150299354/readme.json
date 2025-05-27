@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "6f574704b024928d22e64f39b9627b02e1e34507",
+  "size": 1257,
+  "url": "https://api.github.com/repos/tupleapp/pair-programming-guide/contents/README.md?ref=master",
+  "html_url": "https://github.com/tupleapp/pair-programming-guide/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/tupleapp/pair-programming-guide/git/blobs/6f574704b024928d22e64f39b9627b02e1e34507",
+  "download_url": "https://raw.githubusercontent.com/tupleapp/pair-programming-guide/master/README.md",
+  "type": "file",
+  "content": "IyMgQWNjZXNzaW5nIHRoZSBndWlkZQoKVGhlIFR1cGxlIHBhaXIgcHJvZ3Jh\nbW1pbmcgZ3VpZGUgaXMgYXZhaWxhYmxlIGF0IHRoZSBmb2xsb3dpbmcgVVJM\ncywgc28geW91IGNhbiBwaWNrIHRoZSBvbmUgdGhhdCBiZXN0IG1hdGNoZXMg\neW91ciBjb250ZXh0LgoKLSBbcGFpcnByb2dyYW1taW5nZ3VpZGUuY29tXSho\ndHRwczovL3BhaXJwcm9ncmFtbWluZ2d1aWRlLmNvbSkKLSBbbGVhcm50b3Bh\naXIuY29tXShodHRwczovL2xlYXJudG9wYWlyLmNvbSkKLSBbdHVwbGUuYXBw\nL3BhaXItcHJvZ3JhbW1pbmctZ3VpZGVdKGh0dHBzOi8vdHVwbGUuYXBwL3Bh\naXItcHJvZ3JhbW1pbmctZ3VpZGUpCgojIyBHZXR0aW5nIHN0YXJ0ZWQKCjEu\nIEluc3RhbGwgdGhlIGRlcHM6IGB5YXJuICYmIGJ1bmRsZSBpbnN0YWxsYC4K\nCjIuIFJ1biBwb3N0Y3NzIHRvIGNvbXBpbGUgdGFpbHdpbmQ6IGB5YXJuIGJ1\naWxkYC4KCjMuIFRlbGwgamVreWxsIHRvIHNlcnZlIHRoZSBzaXRlOiBgamVr\neWxsIHNlcnZlYC4KCgojIyBEZXZlbG9waW5nCgpJZiB5b3UncmUgZ29pbmcg\ndG8gYmUgZWRpdGluZyBzdHlsZXMsIHlvdSBwcm9iYWJseSB3YW50IHRvIHJ1\nbiBgeWFybiB3YXRjaGAsCndoaWNoIHdpbGwgcmVidWlsZCB0YWlsd2luZCB3\naGVuIHJlbGV2YW50IGZpbGVzIGNoYW5nZS4KCk90aGVyd2lzZSwgeW91IHBy\nb2JhYmx5IGp1c3Qgd2FudCBgamVreWxsIHNlcnZlYCwgd2hpY2ggd2lsbCBy\nZWJ1aWxkIHRoZSBodG1sCmFzIHlvdSBjaGFuZ2UgdGhlIG1hcmtkb3duLCBh\nbmQgYWxzbyBob3N0cyBhIHNlcnZlciBmb3IgeW91IG9uCmBsb2NhbGhvc3Q6\nNDAwMGAuCgojIyBEZXBsb3lpbmcKClRoZSBzaXRlIGlzIGRlcGxveWVkIGF1\ndG9tYXRpY2FsbHkgYnkgTmV0bGlmeSB3aGVuIHRoaW5ncyBhcmUgcHVzaGVk\nIHRvIG1hc3Rlci4KCkl0IHJ1bnMgdGhlIGFib3ZlIHN0ZXBzIGFuZCB0aGVu\nIGRlcGxveXMuCgpDb25maWd1cmUgTmV0bGlmeSB0aGluZ3MgaGVyZToKCmh0\ndHBzOi8vYXBwLm5ldGxpZnkuY29tL3NpdGVzL3BhaXItcHJvZ3JhbW1pbmct\nZ3VpZGUvb3ZlcnZpZXcKCgojIyBDb250ZW50IGlkZWFzCgotIENhc2Ugc3R1\nZGllcyBvZiBjb21wYW5pZXMgd2hvIHN0YXJ0ZWQgcGFpcmluZwotIExpbmsg\ncGFpcnByb2dyYW13aXRoLm1lCi0gUGFpcmluZyBpbiBhbiBpbnRlcnZpZXcg\nKGFkdmljZSBmb3IgYm90aCBzaWRlcykKLSBLZXlDYXN0cgotIFplcm8gdG8g\ncGFpcmluZwotIE1vYmJpbmcgKGFkZCB0byBzdHlsZXMgYXJ0aWNsZSkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tupleapp/pair-programming-guide/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/tupleapp/pair-programming-guide/git/blobs/6f574704b024928d22e64f39b9627b02e1e34507",
+    "html": "https://github.com/tupleapp/pair-programming-guide/blob/master/README.md"
+  }
+}

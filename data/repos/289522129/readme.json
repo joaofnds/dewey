@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "af643ff05419decc2c6a68dcee93fdfb7cf56c7d",
+  "size": 682,
+  "url": "https://api.github.com/repos/angelikatyborska/mazes/contents/README.md?ref=main",
+  "html_url": "https://github.com/angelikatyborska/mazes/blob/main/README.md",
+  "git_url": "https://api.github.com/repos/angelikatyborska/mazes/git/blobs/af643ff05419decc2c6a68dcee93fdfb7cf56c7d",
+  "download_url": "https://raw.githubusercontent.com/angelikatyborska/mazes/main/README.md",
+  "type": "file",
+  "content": "IyBNYXplcwoKQSBtYXplIGdlbmVyYXRvci4gRGVwbG95ZWQgYXQgW21hemVz\nLmFuZ2VsaWthLm1lXShodHRwczovL21hemVzLmFuZ2VsaWthLm1lLykuCgoj\nIyBTZXR1cAoKVG8gc3RhcnQgeW91ciBQaG9lbml4IHNlcnZlcjoKCiAgKiBJ\nbnN0YWxsIEVsaXhpciwgRXJsYW5nLCBhbmQgTm9kZUpTIHdpdGggYGFzZGYg\naW5zdGFsbGAKICAqIEluc3RhbGwgZGVwZW5kZW5jaWVzIHdpdGggYG1peCBk\nZXBzLmdldGAKICAqIEluc3RhbGwgTm9kZS5qcyBkZXBlbmRlbmNpZXMgd2l0\naCBgbnBtIGluc3RhbGxgIGluc2lkZSB0aGUgYGFzc2V0c2AgZGlyZWN0b3J5\nCiAgKiBTdGFydCBQaG9lbml4IGVuZHBvaW50IHdpdGggYG1peCBwaHguc2Vy\ndmVyYAoKTm93IHlvdSBjYW4gdmlzaXQgW2Bsb2NhbGhvc3Q6NTAwMGBdKGh0\ndHA6Ly9sb2NhbGhvc3Q6NTAwMCkgZnJvbSB5b3VyIGJyb3dzZXIuCgojIyBU\nZXN0cwoKVGhlIHVuaXQgdGVzdHMgcmVxdWlyZSBhIEhUTWwgdmFsaWRhdG9y\nIHNlcnZlciBydW5uaW5nIGF0IGBsb2NhbGhvc3Q6ODg4OGAgKHNlZSBbdm51\nLWVsaXhpcl0oaHR0cHM6Ly9naXRodWIuY29tL2FuZ2VsaWthdHlib3Jza2Ev\ndm51LWVsaXhpcikpLiBTdGFydCBpdCB3aXRoOgpgYGAKZG9ja2VyIHJ1biAt\naXQgLS1ybSAtcCA4ODg4Ojg4ODggdmFsaWRhdG9yL3ZhbGlkYXRvcjpsYXRl\nc3QKYGBgCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/angelikatyborska/mazes/contents/README.md?ref=main",
+    "git": "https://api.github.com/repos/angelikatyborska/mazes/git/blobs/af643ff05419decc2c6a68dcee93fdfb7cf56c7d",
+    "html": "https://github.com/angelikatyborska/mazes/blob/main/README.md"
+  }
+}

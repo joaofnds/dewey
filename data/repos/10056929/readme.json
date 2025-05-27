@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "1ba961dc504a32c1a602422f85dea1795460f8d8",
+  "size": 851,
+  "url": "https://api.github.com/repos/fabrizioschiavi/pragmatapro/contents/README.md?ref=master",
+  "html_url": "https://github.com/fabrizioschiavi/pragmatapro/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/fabrizioschiavi/pragmatapro/git/blobs/1ba961dc504a32c1a602422f85dea1795460f8d8",
+  "download_url": "https://raw.githubusercontent.com/fabrizioschiavi/pragmatapro/master/README.md",
+  "type": "file",
+  "content": "IyMgUHJhZ21hdGFQcm8KClByYWdtYXRhUHJv4oSiIGlzIGEgY29uZGVuc2Vk\nIG1vbm9zcGFjZWQgYW5kIG1vZHVsYXJzcGFjZWQgZm9udCBvcHRpbWl6ZWQg\nZm9yIHNjcmVlbiwgZGVzaWduZWQgYnkgRmFicml6aW8gU2NoaWF2aSB0byBi\nZSB0aGUgaWRlYWwgZm9udCBmb3IgY29kaW5nLCBtYXRoIGFuZCBlbmdpbmVl\ncmluZy4KVGhlIFByYWdtYXRhUHJvIFJlZ3VsYXIgdmVyc2lvbiBub3cgaW5j\nbHVkZXMgb3ZlciAxOCwwMDAgZ2x5cGhzLCB3aGlsZSB0aGUgQm9sZCwgSXRh\nbGljLCBhbmQgQm9sZCBJdGFsaWMgc3R5bGVzIGVhY2ggZmVhdHVyZSBtb3Jl\nIHRoYW4gMTcsMDAwIGNoYXJhY3RlcnMuCgpEaXNjb3ZlciBtb3JlIGFib3V0\nIFByYWdtYXRhUHJv4oSiIHZpc2l0aW5nIGl0cyBvZmZpY2lhbCBbd2ViIHBh\nZ2VdKGh0dHBzOi8vZnNkLml0L3Nob3AvZm9udHMvcHJhZ21hdGFwcm8vKS4K\nClRoZSBQcmFnbWF0YVByb+KEoiBWYXJpYWJsZSBGb250IHZlcnNpb24gaXMg\nYXZhaWxhYmxlIFtoZXJlXShodHRwczovL2ZzZC5pdC9zaG9wL2ZvbnRzL3By\nYWdtYXRhcHJvLXZhcmlhYmxlLykKClRoaXMgcmVwb3NpdG9yeSBpcyB2ZXJ5\nIHVzZWZ1bCB0byBjb2xsZWN0IGlzc3VlcyBhbmQgc3VnZ2VzdGlvbnMgd2l0\naCB0aGUgZ29hbCB0byBpbXByb3ZlIGJldHRlciBhcyBwb3NzaWJsZSB0aGlz\nIHR5cGVmYWNlIGZhbWlseS4KCk1hbnkgdGhhbmtzIQpGYWJyaXppbyBTY2hp\nYXZpCgoKCiFbQWxsIGNoYXJzIG9mIFByYWdtYXRhUHJvIFJlZ3VsYXJdKHVz\nZWZ1bF9maWxlcy9BbGxfY2hhcnMucG5nKQoKCgohW1ByYWdtYXRhUHJvIEhh\nbmRib29rXSh1c2VmdWxfZmlsZXMvSGFuZGJvb2sucG5nKQoKCgoKCgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/fabrizioschiavi/pragmatapro/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/fabrizioschiavi/pragmatapro/git/blobs/1ba961dc504a32c1a602422f85dea1795460f8d8",
+    "html": "https://github.com/fabrizioschiavi/pragmatapro/blob/master/README.md"
+  }
+}

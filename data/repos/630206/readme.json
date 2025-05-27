@@ -1,0 +1,18 @@
+{
+  "name": "README.markdown",
+  "path": "README.markdown",
+  "sha": "76f1091d8e5483be5d4ecb7217fa2884887431ba",
+  "size": 270,
+  "url": "https://api.github.com/repos/alexmchale/try.redis/contents/README.markdown?ref=master",
+  "html_url": "https://github.com/alexmchale/try.redis/blob/master/README.markdown",
+  "git_url": "https://api.github.com/repos/alexmchale/try.redis/git/blobs/76f1091d8e5483be5d4ecb7217fa2884887431ba",
+  "download_url": "https://raw.githubusercontent.com/alexmchale/try.redis/master/README.markdown",
+  "type": "file",
+  "content": "VHJ5IFJlZGlzCj09PT09PT09PQoKW1RyeSBSZWRpc10oaHR0cDovL3RyeS5y\nZWRpcy5pbykgaXMgYSBkZW1vbnN0cmF0aW9uIG9mIHRoZSBSZWRpcyBkYXRh\nIHN0cnVjdHVyZSBzZXJ2ZXIuCgojIyMgU2luY2UgSmFudWFyeSAyMDEzIHRo\naXMgcHJvamVjdCBpcyBtYWludGFpbmVkIGJ5IFtAYmFkYm95XShodHRwOi8v\nZ2l0aHViLmNvbS9iYWRib3kpLiBIZWFkIG92ZXIgdG8gW2JhZGJveS90cnku\ncmVkaXNdKGh0dHBzOi8vZ2l0aHViLmNvbS9iYWRib3kvdHJ5LnJlZGlzKS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/alexmchale/try.redis/contents/README.markdown?ref=master",
+    "git": "https://api.github.com/repos/alexmchale/try.redis/git/blobs/76f1091d8e5483be5d4ecb7217fa2884887431ba",
+    "html": "https://github.com/alexmchale/try.redis/blob/master/README.markdown"
+  }
+}
