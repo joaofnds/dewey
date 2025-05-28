@@ -95,18 +95,18 @@ label_namer = LabelNamer(
 )
 
 repos = repo_fetcher.run(USERNAME)
-texts = [repo.summary() for repo in repos]
 summary_generator.run(repos)
 embeddings = embedder.run(repos)
 reduced_embeddings = reducer.run(embeddings)
 labels = clusterer.run(reduced_embeddings)
-label_to_name = label_namer.run(labels, texts)
+summaries = [repo.summary() for repo in repos]
+label_to_name = label_namer.run(labels, summaries)
 
 plot(
     dimensions=UMAP_COMPONENTS,
     embeddings=reduced_embeddings,
     labels=[label_to_name.get(label, f"Cluster {label}") for label in labels],
-    texts=texts,
+    texts=summaries,
     ids=[repo.full_name() for repo in repos],
     label_cutoff=50,
     text_cutoff=50,
