@@ -1,4 +1,3 @@
-import json
 import logging
 import pickle
 from hashlib import blake2b
@@ -6,14 +5,14 @@ from os import path
 
 import numpy as np
 
-from lib.ollama import Ollama
+from lib.llm import LLM
 
 
 class LabelNamer:
     def __init__(
         self,
         logger: logging.Logger,
-        llm: Ollama,
+        llm: LLM,
         samples_per_cluster: int,
     ):
         self.logger = logger

@@ -1,11 +1,11 @@
 from logging import Logger
 
-from lib.ollama import Ollama
+from lib.llm import LLM
 from lib.repo_data import RepoData
 
 
 class GenerateSummaries:
-    def __init__(self, logger: Logger, llm: Ollama):
+    def __init__(self, logger: Logger, llm: LLM):
         self.logger = logger
         self.llm = llm
         self.max_readme_length = 4000
