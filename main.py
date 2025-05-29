@@ -75,7 +75,6 @@ summaries = [repo.summary() for repo in repos]
 label_to_name = label_namer.run(labels, summaries)
 
 plot(
-    dimensions=reduced_embeddings.shape[1],
     embeddings=reduced_embeddings,
     labels=[label_to_name.get(label, f"Cluster {label}") for label in labels],
     texts=summaries,

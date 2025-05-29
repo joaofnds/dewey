@@ -8,7 +8,6 @@ OUTPUT_HTML_FILE = "cluster_visualization.html"
 
 
 def plot(
-    dimensions: int,
     embeddings: np.ndarray,
     labels: list[str],
     texts: list[str],
@@ -20,12 +19,14 @@ def plot(
     labels = [label[:label_cutoff] if len(label) > label_cutoff else label for label in labels]
     texts = [text[:text_cutoff] if len(text) > text_cutoff else text for text in texts]
 
-    assert dimensions in (2, 3), "Dimensions must be either 2 or 3."
+    dimensions = embeddings.shape[1]
 
     if dimensions == 2:
         fig = visualize_clusters_2d(embeddings, labels, texts, ids)
     elif dimensions == 3:
         fig = visualize_clusters_3d(embeddings, labels, texts, ids)
+    else:
+        raise ValueError("Dimensions must be either 2 or 3.")
 
     fig.write_html(output_file)
 
