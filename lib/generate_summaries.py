@@ -1,6 +1,8 @@
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from logging import Logger
 
+from tqdm import tqdm
+
 from lib.llm import LLM
 from lib.repo_data import RepoData
 
@@ -56,18 +58,19 @@ Generate the abstract:"""
         self.logger.info(f"Processing {len(repos)} repositories...")
 
         with ThreadPoolExecutor(max_workers=self.workers) as executor:
-            future_to_repo = {executor.submit(self.process_repo, repo): repo for repo in repos}
-            total = len(repos)
+            futures = {executor.submit(self.process_repo, repo) for repo in repos}
 
-            for i, future in enumerate(as_completed(future_to_repo), 1):
+            for future in tqdm(
+                as_completed(futures),
+                total=len(repos),
+                desc="Generating summaries",
+            ):
                 future.result()
-                self.logger.info(f"Processed {i}/{total} repositories")
 
         self.logger.info("Processing complete!")
 
     def process_repo(self, repo: RepoData):
         if repo.summary_exists() and not self.overwrite:
-            self.logger.info(f"Skipping {repo.full_name()} - summary already exists.")
             return
 
         prompt = self.summary_prompt(repo)
