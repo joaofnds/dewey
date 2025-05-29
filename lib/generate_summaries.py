@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from logging import Logger
 
 from lib.llm import LLM
@@ -5,8 +6,16 @@ from lib.repo_data import RepoData
 
 
 class GenerateSummaries:
-    def __init__(self, logger: Logger, llm: LLM):
+    def __init__(
+        self,
+        logger: Logger,
+        workers: int,
+        overwrite: bool,
+        llm: LLM,
+    ):
         self.logger = logger
+        self.workers = workers
+        self.overwrite = overwrite
         self.llm = llm
         self.max_readme_length = 4000
         self.prompt_template = """Generate a technical abstract for this GitHub repository. This abstract will be used for vector embedding and clustering, so focus on distinctive technical characteristics.
@@ -46,18 +55,26 @@ Generate the abstract:"""
     def run(self, repos: list[RepoData]):
         self.logger.info(f"Processing {len(repos)} repositories...")
 
-        for i, repo in enumerate(repos, 1):
-            if repo.summary_exists():
-                self.logger.info(f"[{i}/{len(repos)}] ✅ Summary already exists for repo {repo.id}")
-            else:
-                self.logger.info(f"[{i}/{len(repos)}] 🔄 Generating summary for repo {repo.id}...")
-                summary = self.llm.generate(self.repo_summary_prompt(repo))
-                self.logger.info(f"[{i}/{len(repos)}] ✅ Generated summary for repo {repo.id}")
-                repo.write_summary(summary)
+        with ThreadPoolExecutor(max_workers=self.workers) as executor:
+            future_to_repo = {executor.submit(self.process_repo, repo): repo for repo in repos}
+            total = len(repos)
+
+            for i, future in enumerate(as_completed(future_to_repo), 1):
+                future.result()
+                self.logger.info(f"Processed {i}/{total} repositories")
 
         self.logger.info("Processing complete!")
 
-    def repo_summary_prompt(self, repo_data: RepoData) -> str:
+    def process_repo(self, repo: RepoData):
+        if repo.summary_exists() and not self.overwrite:
+            self.logger.info(f"Skipping {repo.full_name()} - summary already exists.")
+            return
+
+        prompt = self.summary_prompt(repo)
+        summary = self.llm.generate(prompt)
+        repo.write_summary(summary)
+
+    def summary_prompt(self, repo_data: RepoData) -> str:
         repo = repo_data.repo_json()
 
         return self.prompt_template.format(

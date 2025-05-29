@@ -55,6 +55,8 @@ repo_fetcher = RepoFetcher(
 )
 summary_generator = GenerateSummaries(
     logger=logger,
+    overwrite=False,
+    workers=1,
     llm=Ollama(
         model=SUMMARY_LLM_MODEL,
         base_url=SUMMARY_LLM_BASE_URL,
