@@ -23,16 +23,17 @@ Dewey is a sophisticated tool that automatically discovers, analyzes, and visual
 
 ## 📋 Requirements
 
-- [UV](https://docs.astral.sh/uv/) - Modern Python package manager
-- [Ollama](https://ollama.com/) - Local LLM runtime
+- [mise](https://mise.jdx.dev/environments/) - tool version manager
 - GitHub Personal Access Token
-- Python 3.13+
 
 ## 🛠️ Setup
 
 ### 1. Install Dependencies
 
 ```bash
+# Install tools (python, uv, and ollama)
+mise install
+
 # Create and activate virtual environment
 uv venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
@@ -44,8 +45,8 @@ uv sync
 ### 2. Set Up Ollama
 
 ```bash
-# Install and start Ollama
-ollama serve
+# Start Ollama
+ollama start
 
 # Pull the Mistral model (in another terminal)
 ollama pull mistral
@@ -55,7 +56,7 @@ ollama pull mistral
 
 ```bash
 # Set your GitHub token
-export GITHUB_TOKEN="your_github_personal_access_token"
+echo "GITHUB_TOKEN=your_github_personal_access_token" > .env
 ```
 
 ### 4. Run Dewey

@@ -6,3 +6,4 @@ ids.txt
 *.npy
 *.pkl
 *.html
+.env
