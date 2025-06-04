@@ -1,9 +1,1 @@
-**Abstract:**
-
-`dashbitco/flow` is an Elixir library for parallel computation flows built on top of GenStage. It enables developers to execute computations on collections in a parallel manner using multiple GenStage processes. The primary function of this library lies in solving data processing problems that require high-performance, concurrent execution.
-
-Key features include the ability to express computations similar to Elixir's Enum and Stream modules, with the added benefit of parallel execution for improved performance. Users can leverage pipelines to perform complex transformations on large datasets efficiently.
-
-The technology stack consists of Elixir (version 1.7 and above) and Erlang/OTP 22+. The library is designed as a computational flow, making it a valuable addition to any Elixir project requiring parallel processing capabilities.
-
-Target users include Elixir developers seeking to optimize their data processing workflows for improved performance without sacrificing readability or maintainability. By leveraging the power of GenStage and Elixir's concurrency model, `dashbitco/flow` offers a unique solution for handling large-scale data processing tasks in an efficient manner.
+Flow is a parallel computation library for Elixir that enables developers to perform collection processing operations similar to Enum and Stream modules, but with concurrent execution across multiple GenStage processes. Built on top of Elixir's GenStage framework, it targets backend developers working with data processing, stream processing, and high-throughput applications who need to leverage BEAM VM's actor model for parallel computation. The library provides functional programming constructs like map, reduce, and partition operations that automatically distribute work across multiple stages, making it particularly valuable for processing large datasets, log analysis, and real-time data transformation pipelines where performance and fault-tolerance are critical requirements in concurrent systems.

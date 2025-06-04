@@ -1,11 +1,1 @@
-**Repository Data:** google/re2
-
-   This C++ library, RE2, offers a fast and safe alternative to traditional backtracking regular expression engines like PCRE, Perl, and Python. It is designed for vector embedding and clustering applications within the domain of machine learning and data processing.
-
-   Core features include pattern matching, search, replace, and split operations on strings, with support for various Unicode properties and character classes. RE2's thread-friendliness allows it to handle multiple regular expression tasks concurrently without performance degradation.
-
-   The technology stack includes C++ as the native language, Abseil (for dependency management), GoogleTest (for testing), and Benchmark (for benchmarking).
-
-   As a library, RE2 can be integrated into various projects, including those written in Python, C, D, Erlang, Node.js, OCaml, Perl, R, Ruby, and WebAssembly, through provided wrappers.
-
-   RE2 is primarily used by developers working on text processing tasks that require efficient regular expression handling, such as data preprocessing for machine learning applications or natural language processing.
+RE2 is a C++ regular expression library designed as a high-performance, memory-safe alternative to traditional backtracking regex engines found in PCRE, Perl, and Python. Built with Abseil dependencies and tested using GoogleTest and Benchmark frameworks, RE2 provides deterministic linear-time pattern matching that prevents catastrophic backtracking and ReDoS (Regular Expression Denial of Service) attacks. The library targets software developers across domains requiring robust text processing, including web development, systems programming, security applications, and data parsing workflows. RE2 offers native C++ APIs with extensive language bindings for Python, Node.js, Ruby, Perl, OCaml, and other platforms, making it suitable for performance-critical applications where regex safety and predictable execution time are essential requirements.

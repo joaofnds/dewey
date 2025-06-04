@@ -1,15 +1,1 @@
-**Repository Data:**
-
-**Name:** dathere/qsv
-
-**Description:** High-performance data wrangling toolkit for querying, slicing, indexing, analyzing, filtering, enriching, transforming, sorting, validating, joining, formatting, and converting tabular data in various formats. Written in Rust, it offers a command line interface with simple, composable commands that are "blazingly fast".
-
-**Primary function and domain:** Solves the problem of processing large datasets quickly and efficiently, particularly for tabular data (CSV, spreadsheets, databases, parquet, etc.). The technical domain is data engineering and data wrangling.
-
-**Core features and capabilities:** Users can perform various operations on their data such as querying, filtering, sorting, validating, joining, formatting, and converting. It also offers enrichment, transformation, and analysis functionalities.
-
-**Technology stack:** The toolkit is written in Rust, with a command line interface for interaction. It supports various file formats including CSV, spreadsheets, databases, parquet, etc.
-
-**Project type:** Application
-
-**Target users:** Data engineers, data scientists, and analysts who work with large datasets and require fast, efficient processing capabilities.
+qsv is a high-performance command-line data processing toolkit written in Rust, designed for data engineers and data scientists working with tabular data formats including CSV, Excel, Parquet, and database exports. The tool provides over 100+ composable commands for data wrangling operations such as filtering, joining, transforming, validating, geocoding, and statistical analysis, leveraging Rust's performance characteristics and the Polars dataframe library for memory-efficient processing. It integrates with PostgreSQL, SQLite databases, supports Luau scripting for custom transformations, and includes specialized features for open data workflows including CKAN/DCAT metadata handling. The toolkit targets data professionals who need fast, reliable data preprocessing capabilities in CLI environments, offering an alternative to traditional tools like pandas or R for large-scale data manipulation tasks with sub-second processing times on million-row datasets.

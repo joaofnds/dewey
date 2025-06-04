@@ -1,10 +1,1 @@
-Fast EDN is a high-performance Clojure library that provides a drop-in replacement for `clojure.edn/read-string`, offering 6x faster EDN parsing speeds compared to the standard implementation. This library is particularly useful in data processing, machine learning, and other domains where large-scale data manipulation is required.
-
-Key features include:
-1. Significantly improved parsing speed, achieving JSON-like performance for EDN files of similar size.
-2. Consistent error reporting with location information in exceptions for easier debugging.
-3. Optional line number/column information for enhanced exception context at the cost of slight performance degradation.
-4. Compatibility with existing Clojure projects, serving as a drop-in replacement for clojure.edn.
-5. Written in Clojure, leveraging its powerful functional programming capabilities and seamless integration with the JVM ecosystem.
-
-Fast EDN is ideal for developers working on data-intensive projects in the Clojure domain who require fast and reliable parsing of large EDN files.
+fast-edn is a high-performance EDN (Extensible Data Notation) parser for Clojure applications that serves as a drop-in replacement for the standard clojure.edn library, delivering 6x faster parsing speeds. Targeting Clojure developers working with data serialization and configuration management, the library achieves JSON-equivalent parsing performance by eliminating character-by-character reading and regex dependencies that bottleneck the standard implementation. The parser maintains 100% compatibility with clojure.edn while providing enhanced error reporting with location context and line/column information. It supports reading from multiple input sources including strings, InputStreams, Files, and byte arrays, making it valuable for web applications, data processing pipelines, and any Clojure system requiring efficient EDN parsing for configuration files, API responses, or inter-service communication.

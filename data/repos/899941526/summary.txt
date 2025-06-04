@@ -1,15 +1,1 @@
-**Repository Data:**
-
-**Name:** sinclairtarget/git-who
-
-**Description:** A command-line tool for analyzing Git repository authorship, providing insights into contributions of individual authors and components within a codebase. Unlike traditional `git blame`, which focuses on individual lines of code, `git-who` offers a comprehensive view of file tree contributions.
-
-**Primary function and domain:** Solves the problem of understanding who wrote specific components or subsystems in a Git repository, offering a solution for codebase maintenance and collaboration within software development.
-
-**Core features and capabilities:** Offers three subcommands to provide different views of authorship: `table` (default), which summarizes contributions of every author; `tree`, which displays a hierarchical tree structure of file tree contributions; and `diff`, which shows changes in contributions over time.
-
-**Technology stack:** Written in Go, with dependencies on Ruby and the rake gem for building from source.
-
-**Project type:** Tool
-
-**Target users:** Software developers, maintainers, and contributors working within Git-managed projects who seek to understand authorship patterns and contributions across their codebase.
+`git-who` is a command-line tool written in Go that extends Git's blame functionality to analyze authorship across entire file trees and codebases rather than individual lines. It operates in the software development and version control domain, providing three subcommands: `table` for tabular author contribution summaries, `tree` for hierarchical file tree visualization with authorship annotations, and additional analysis modes. The tool processes Git commit history to identify primary contributors to components, subsystems, or specific paths within repositories, supporting revision ranges, branch filtering, and multiple sorting metrics (commits, lines modified, files touched, chronological). It targets software developers, engineering managers, and technical leads who need to understand code ownership, maintenance responsibilities, and contribution patterns across large codebases for purposes like code reviews, team assignments, or legacy system analysis.
