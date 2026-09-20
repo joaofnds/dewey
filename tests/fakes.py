@@ -1,5 +1,11 @@
 from collections import deque
-from typing import Any
+from hashlib import blake2b
+from typing import TYPE_CHECKING, Any
+
+import numpy as np
+
+if TYPE_CHECKING:
+    from numpy.typing import NDArray
 
 
 class FakeGitHub:
@@ -47,3 +53,24 @@ class FakeLLM:
             return self.responses.popleft()
 
         return f"response {len(self.prompts)}"
+
+
+class FakeEmbedder:
+    def __init__(self, model_name: str = "fake-embedder", dimensions: int = 8) -> None:
+        self.model_name = model_name
+        self.dimensions = dimensions
+        self.calls: list[list[str]] = []
+
+    def reset(self) -> None:
+        self.calls.clear()
+
+    def embed(self, texts: list[str]) -> NDArray[np.float32]:
+        self.calls.append(list(texts))
+
+        return np.stack([self.vector(text) for text in texts]).astype(np.float32)
+
+    def vector(self, text: str) -> NDArray[np.float32]:
+        seed = int.from_bytes(blake2b(text.encode(), digest_size=4).digest(), "big")
+        vector = np.random.default_rng(seed).standard_normal(self.dimensions).astype(np.float32)
+
+        return vector / np.linalg.norm(vector)

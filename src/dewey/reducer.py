@@ -1,41 +1,37 @@
-from logging import Logger
+from dataclasses import dataclass
+from typing import TYPE_CHECKING
 
 import numpy as np
 from umap import UMAP
 
+if TYPE_CHECKING:
+    from logging import Logger
+
+    from numpy.typing import NDArray
+
+
+@dataclass(frozen=True)
+class UmapSettings:
+    n_neighbors: int
+    metric: str
+    n_epochs: int
+
 
 class Reducer:
-    def __init__(
-        self,
-        logger: Logger,
-        random_state: int,
-        umap_components: int,
-        umap_n_neighbors: int,
-        umap_metric: str,
-        umap_n_epochs: int,
-        umap_min_dist: float,
-        umap_spread: float,
-        umap_learning_rate: float,
-    ):
+    def __init__(self, settings: UmapSettings, seed: int, logger: Logger) -> None:
+        self.settings = settings
+        self.seed = seed
         self.logger = logger
 
-        self.random_state = random_state
-
-        self.reducer = UMAP(
-            random_state=self.random_state,
-            n_components=umap_components,
-            n_neighbors=umap_n_neighbors,
-            min_dist=umap_min_dist,
-            spread=umap_spread,
-            metric=umap_metric,
-            n_epochs=umap_n_epochs,
-            learning_rate=umap_learning_rate,
+    def reduce(self, vectors: NDArray[np.float32], components: int, min_dist: float) -> NDArray[np.float32]:
+        self.logger.info("reducing %s to %d dimensions with UMAP", vectors.shape, components)
+        umap = UMAP(
+            n_components=components,
+            n_neighbors=self.settings.n_neighbors,
+            min_dist=min_dist,
+            metric=self.settings.metric,
+            n_epochs=self.settings.n_epochs,
+            random_state=self.seed,
         )
 
-    def run(self, embeddings: np.ndarray) -> np.ndarray:
-        self.logger.info("reducing dimensions with UMAP...")
-
-        reduced_embeddings = self.reducer.fit_transform(embeddings)
-        assert isinstance(reduced_embeddings, np.ndarray)
-
-        return reduced_embeddings
+        return np.asarray(umap.fit_transform(vectors), dtype=np.float32)
