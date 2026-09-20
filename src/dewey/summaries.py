@@ -3,8 +3,8 @@ from logging import Logger
 
 from tqdm import tqdm
 
-from lib.llm import LLM
-from lib.repo_data import RepoData
+from dewey.llm import LLM
+from dewey.repo_data import RepoData
 
 
 class GenerateSummaries:

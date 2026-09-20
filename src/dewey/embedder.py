@@ -6,7 +6,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.preprocessing import normalize
 
-from lib.repo_data import RepoData
+from dewey.repo_data import RepoData
 
 
 class Embedder:

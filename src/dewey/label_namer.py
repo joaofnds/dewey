@@ -5,7 +5,7 @@ from os import path
 
 import numpy as np
 
-from lib.llm import LLM
+from dewey.llm import LLM
 
 
 class LabelNamer:

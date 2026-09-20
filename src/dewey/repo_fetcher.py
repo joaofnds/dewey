@@ -5,7 +5,7 @@ from os import path
 import github
 import github.Repository
 
-from lib.repo_data import RepoData
+from dewey.repo_data import RepoData
 
 
 class RepoFetcher:

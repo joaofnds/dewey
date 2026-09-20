@@ -1,27 +1,53 @@
 [project]
 name = "dewey"
-version = "0.0.1"
-requires-python = ">=3.13"
+version = "0.1.0"
+description = "Clusters and maps a GitHub user's starred repositories"
+readme = "README.md"
+requires-python = ">=3.14"
 dependencies = [
-    "numpy",
-    "scipy",
-    "scikit-learn",
-    "hdbscan",
-    "httpx",
-    "pandas",
-    "sentence-transformers",
-    "matplotlib",
-    "plotly",
-    "umap-learn",
-    "pygithub>=2.6.1",
-    "tqdm",
+    "anthropic>=1.7",
+    "hdbscan>=0.8.44",
+    "httpx>=0.28",
+    "numpy>=2.5",
+    "pandas>=2.3",
+    "plotly>=7.1",
+    "pygithub>=2.10",
+    "scikit-learn>=1.9",
+    "sentence-transformers>=6.1",
+    "tqdm>=4.70",
+    "umap-learn>=0.5.12",
 ]
+
+[project.scripts]
+dewey = "dewey.cli:main"
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.414",
+    "pytest>=9.1",
+    "ruff>=0.16",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
 
 [tool.ruff]
 line-length = 120
+target-version = "py314"
 
 [tool.ruff.lint]
-extend-select = ["I"]
+select = ["ALL"]
+ignore = ["D"]
 
-[tool.setuptools]
-py-modules = []
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["S101"]
+
+[tool.pyright]
+typeCheckingMode = "strict"
+pythonVersion = "3.14"
+include = ["src", "tests"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
