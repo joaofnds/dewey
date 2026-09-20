@@ -1,8 +1,7 @@
 from concurrent.futures import ThreadPoolExecutor
 from typing import TYPE_CHECKING, Any, Protocol
 
-import github
-import github.Auth
+import httpx
 
 from dewey.repos import RepoSnapshot, RepoStore, StarredRepo
 
@@ -10,6 +9,7 @@ if TYPE_CHECKING:
     from logging import Logger
 
 HTTP_NOT_FOUND = 404
+PAGE_SIZE = 100
 
 
 class GitHubClient(Protocol):
@@ -17,20 +17,36 @@ class GitHubClient(Protocol):
     def readme(self, full_name: str) -> dict[str, Any] | None: ...
 
 
-class PyGithubClient:
-    def __init__(self, token: str, timeout_seconds: int) -> None:
-        self.client = github.Github(auth=github.Auth.Token(token), per_page=100, timeout=timeout_seconds)
+class GitHubRestClient:
+    def __init__(self, token: str, timeout_seconds: int, base_url: str = "https://api.github.com") -> None:
+        self.client = httpx.Client(
+            base_url=base_url,
+            timeout=timeout_seconds,
+            headers={
+                "Authorization": f"Bearer {token}",
+                "Accept": "application/vnd.github+json",
+                "X-GitHub-Api-Version": "2022-11-28",
+            },
+        )
 
     def starred(self, username: str) -> list[dict[str, Any]]:
-        return [repo.raw_data for repo in self.client.get_user(username).get_starred()]
+        repos: list[dict[str, Any]] = []
+        url: str | None = f"/users/{username}/starred?per_page={PAGE_SIZE}"
+        while url is not None:
+            response = self.client.get(url)
+            response.raise_for_status()
+            repos.extend(response.json())
+            url = response.links.get("next", {}).get("url")
+
+        return repos
 
     def readme(self, full_name: str) -> dict[str, Any] | None:
-        try:
-            return self.client.get_repo(full_name, lazy=True).get_readme().raw_data
-        except github.GithubException as error:
-            if error.status == HTTP_NOT_FOUND:
-                return None
-            raise
+        response = self.client.get(f"/repos/{full_name}/readme")
+        if response.status_code == HTTP_NOT_FOUND:
+            return None
+        response.raise_for_status()
+
+        return response.json()
 
 
 class StarFetcher:

@@ -9,7 +9,6 @@ dependencies = [
     "httpx>=0.28",
     "numpy>=2.5",
     "plotly>=7.1",
-    "pygithub>=2.10",
     "scikit-learn>=1.9",
     "sentence-transformers>=6.1",
     "tqdm>=4.70",

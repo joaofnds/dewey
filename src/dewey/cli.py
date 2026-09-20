@@ -12,7 +12,7 @@ from dewey.ollama import Ollama
 from dewey.pipeline import PipelineSettings, Services, run
 from dewey.reducer import UmapSettings
 from dewey.repos import RepoStore
-from dewey.stars import PyGithubClient
+from dewey.stars import GitHubRestClient
 
 if TYPE_CHECKING:
     from dewey.llm import LLM
@@ -48,7 +48,7 @@ def main() -> None:
     llm = build_llm(args)
     services = Services(
         store=RepoStore(args.data_dir),
-        github=PyGithubClient(github_token(), GITHUB_TIMEOUT_SECONDS),
+        github=GitHubRestClient(github_token(), GITHUB_TIMEOUT_SECONDS),
         summarizer=llm,
         namer=llm,
         embedder=SentenceTransformerEmbedder(args.embedding_model, batch_size=32, logger=logger),
