@@ -9,8 +9,6 @@ class HDBSCAN:
         self,
         min_cluster_size: int = 5,
         min_samples: int | None = None,
-        max_cluster_size: int | None = None,
-        metric: str = "euclidean",
         copy: bool = False,
     ) -> None: ...
     def fit(self, x: NDArray[np.floating], /) -> HDBSCAN: ...

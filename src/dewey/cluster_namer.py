@@ -18,14 +18,14 @@ if TYPE_CHECKING:
     from dewey.repos import StarredRepo
 
 UNCLUSTERED = "Unclustered"
-KEYWORDS_PER_CLUSTER = 10
+DISTINCTIVE_WORDS_PER_CLUSTER = 10
 
 
 class ClusterNamer:
-    def __init__(self, directory: Path, llm: LLM, representatives: int, logger: Logger) -> None:
+    def __init__(self, directory: Path, llm: LLM, central_repos: int, logger: Logger) -> None:
         self.directory = directory
         self.llm = llm
-        self.representatives = representatives
+        self.central_repos = central_repos
         self.logger = logger
         self.template = load_prompt("cluster_name")
 
@@ -36,12 +36,12 @@ class ClusterNamer:
             return {int(cluster_id): name for cluster_id, name in json.loads(path.read_text(encoding="utf-8")).items()}
 
         cluster_ids = clustering.cluster_ids()
-        keywords = distinctive_words(clustering, cluster_ids, summaries)
+        words = distinctive_words(clustering, cluster_ids, summaries)
         self.logger.info("naming %d clusters with %s", len(cluster_ids), self.llm.model)
 
         names = {NOISE: UNCLUSTERED}
         for cluster_id in cluster_ids:
-            prompt = self.prompt(clustering, cluster_id, keywords[cluster_id], repos, summaries)
+            prompt = self.prompt(clustering, cluster_id, words[cluster_id], repos, summaries)
             names[cluster_id] = self.llm.generate(prompt).strip().strip('"')
             self.logger.info("cluster %d: %s", cluster_id, names[cluster_id])
 
@@ -54,21 +54,21 @@ class ClusterNamer:
         self,
         clustering: Clustering,
         cluster_id: int,
-        keywords: list[str],
+        words: list[str],
         repos: list[StarredRepo],
         summaries: list[str],
     ) -> str:
         members = clustering.members(cluster_id)
         order: list[int] = np.argsort(-clustering.probabilities[members], kind="stable").tolist()
-        central = [members[position] for position in order[: self.representatives]]
+        central = [members[position] for position in order[: self.central_repos]]
         lines = [f"- {repos[index].full_name}: {summaries[index]}" for index in central]
 
-        return self.template.format(keywords=", ".join(keywords), representatives="\n".join(lines))
+        return self.template.format(distinctive_words=", ".join(words), central_repos="\n".join(lines))
 
     def key(self, clustering: Clustering, summaries: list[str]) -> str:
         digest = blake2b(self.llm.model.encode())
         digest.update(self.template.encode())
-        digest.update(str(self.representatives).encode())
+        digest.update(str(self.central_repos).encode())
         digest.update(clustering.labels.tobytes())
         for text in summaries:
             digest.update(text.encode())
@@ -92,4 +92,4 @@ def distinctive_words(clustering: Clustering, cluster_ids: list[int], summaries:
 def top_words(weights: NDArray[np.float64], vocabulary: list[str]) -> list[str]:
     columns: list[int] = np.argsort(-weights, kind="stable").tolist()
 
-    return [vocabulary[column] for column in columns[:KEYWORDS_PER_CLUSTER]]
+    return [vocabulary[column] for column in columns[:DISTINCTIVE_WORDS_PER_CLUSTER]]

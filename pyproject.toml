@@ -43,6 +43,7 @@ ignore = ["D", "CPY", "COM812"]
 
 [tool.pyright]
 typeCheckingMode = "strict"
+enableTypeIgnoreComments = false
 pythonVersion = "3.14"
 include = ["src", "tests"]
 

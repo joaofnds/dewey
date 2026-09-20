@@ -66,7 +66,7 @@ class RepoStore:
         self.root = root
         self.repos_dir = root / "repos"
         self.embeddings_dir = root / "embeddings"
-        self.labels_dir = root / "labels"
+        self.names_dir = root / "names"
         self.starred_ids_path = root / "starred_ids.txt"
 
     def has_starred_ids(self) -> bool:

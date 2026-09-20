@@ -31,7 +31,7 @@ class PipelineSettings:
     refresh_stars: bool
     overwrite_summaries: bool
     summary_workers: int
-    representatives: int
+    central_repos: int
     umap: UmapSettings
     hdbscan: HdbscanSettings
     seed: int
@@ -72,7 +72,7 @@ def run(settings: PipelineSettings, services: Services) -> MapResult:
     map_space = reducer.reduce(vectors, settings.plot_dimensions, MAP_MIN_DIST)
 
     clustering = Clusterer(settings.hdbscan, logger).run(cluster_space)
-    names = ClusterNamer(store.labels_dir, services.namer, settings.representatives, logger).run(
+    names = ClusterNamer(store.names_dir, services.namer, settings.central_repos, logger).run(
         clustering, repos, summaries
     )
 

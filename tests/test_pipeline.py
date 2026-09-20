@@ -36,7 +36,7 @@ def settings(tmp_path: Path, dimensions: int = 2) -> PipelineSettings:
         refresh_stars=False,
         overwrite_summaries=False,
         summary_workers=2,
-        representatives=3,
+        central_repos=3,
         umap=UmapSettings(n_neighbors=8, metric="cosine", n_epochs=100),
         hdbscan=HdbscanSettings(min_cluster_size=5, min_samples=2),
         seed=3,

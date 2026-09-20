@@ -40,7 +40,7 @@ def main() -> None:
         refresh_stars=args.refresh_stars,
         overwrite_summaries=args.overwrite_summaries,
         summary_workers=args.summary_workers,
-        representatives=args.representatives,
+        central_repos=args.central_repos,
         umap=UmapSettings(n_neighbors=args.neighbors, metric="cosine", n_epochs=200),
         hdbscan=HdbscanSettings(min_cluster_size=args.min_cluster_size, min_samples=args.min_samples),
         seed=args.seed,
@@ -68,7 +68,7 @@ def main() -> None:
 def parse_args(argv: list[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(prog="dewey", description="Cluster and map a GitHub user's starred repositories.")
     parser.add_argument("username", help="GitHub user whose stars to map")
-    parser.add_argument("--output", type=Path, default=Path("cluster_visualization.html"), help="HTML file to write")
+    parser.add_argument("--output", type=Path, default=Path("map.html"), help="HTML file to write")
     parser.add_argument("--data-dir", type=Path, default=Path("data"), help="where repos, summaries and caches live")
     parser.add_argument("--dimensions", type=int, choices=(2, 3), default=2, help="map dimensions (default: 2)")
     parser.add_argument("--llm", choices=("claude", "ollama"), default="claude", help="who writes summaries and names")
@@ -80,9 +80,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--neighbors", type=int, default=15, help="UMAP n_neighbors (default: 15)")
     parser.add_argument("--min-cluster-size", type=int, default=15, help="HDBSCAN min_cluster_size (default: 15)")
     parser.add_argument("--min-samples", type=int, default=5, help="HDBSCAN min_samples (default: 5)")
-    parser.add_argument(
-        "--representatives", type=int, default=8, help="repos shown to the LLM per cluster (default: 8)"
-    )
+    parser.add_argument("--central-repos", type=int, default=8, help="repos shown to the LLM per cluster (default: 8)")
     parser.add_argument("--summary-workers", type=int, default=4, help="parallel summary requests (default: 4)")
     parser.add_argument("--seed", type=int, default=42, help="UMAP random state (default: 42)")
     parser.add_argument(

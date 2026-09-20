@@ -12,8 +12,8 @@ if TYPE_CHECKING:
     from pathlib import Path
 
 
-def a_namer(root: Path, llm: FakeLLM, representatives: int = 2) -> ClusterNamer:
-    return ClusterNamer(directory=root, llm=llm, representatives=representatives, logger=logging.getLogger("test"))
+def a_namer(root: Path, llm: FakeLLM, central_repos: int = 2) -> ClusterNamer:
+    return ClusterNamer(directory=root, llm=llm, central_repos=central_repos, logger=logging.getLogger("test"))
 
 
 def two_clusters_and_noise() -> Clustering:
@@ -46,13 +46,13 @@ class TestClusterNamer:
     def test_prompts_with_the_most_central_repos(self, tmp_path: Path) -> None:
         llm = FakeLLM()
 
-        a_namer(tmp_path, llm, representatives=2).run(two_clusters_and_noise(), REPOS, SUMMARIES)
+        a_namer(tmp_path, llm, central_repos=2).run(two_clusters_and_noise(), REPOS, SUMMARIES)
 
         assert "org/repo0" in llm.prompts[0]
         assert "org/repo2" in llm.prompts[0]
         assert "org/repo1" not in llm.prompts[0]
 
-    def test_prompts_with_the_cluster_keywords(self, tmp_path: Path) -> None:
+    def test_prompts_with_the_distinctive_words(self, tmp_path: Path) -> None:
         llm = FakeLLM()
 
         a_namer(tmp_path, llm).run(two_clusters_and_noise(), REPOS, SUMMARIES)
