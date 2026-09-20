@@ -74,3 +74,32 @@ class FakeEmbedder:
         vector = np.random.default_rng(seed).standard_normal(self.dimensions).astype(np.float32)
 
         return vector / np.linalg.norm(vector)
+
+
+class EchoLLM:
+    model = "echo"
+
+    def generate(self, prompt: str) -> str:
+        return prompt
+
+
+class KeywordEmbedder:
+    def __init__(self, dimensions: int = 8) -> None:
+        self.model_name = "keyword-embedder"
+        self.dimensions = dimensions
+        self.axes: dict[str, int] = {}
+
+    def anchor(self, keyword: str, axis: int) -> None:
+        self.axes[keyword.lower()] = axis
+
+    def embed(self, texts: list[str]) -> NDArray[np.float32]:
+        return np.stack([self.vector(text) for text in texts]).astype(np.float32)
+
+    def vector(self, text: str) -> NDArray[np.float32]:
+        seed = int.from_bytes(blake2b(text.encode(), digest_size=4).digest(), "big")
+        vector = np.random.default_rng(seed).standard_normal(self.dimensions).astype(np.float32) * 0.05
+        for keyword, axis in self.axes.items():
+            if keyword in text.lower():
+                vector[axis] += 1.0
+
+        return vector / np.linalg.norm(vector)

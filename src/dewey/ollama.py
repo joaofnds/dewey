@@ -2,24 +2,20 @@ import httpx
 
 
 class Ollama:
-    def __init__(self, model: str, base_url: str, timeout: int):
+    def __init__(self, model: str, base_url: str, timeout_seconds: int) -> None:
         self.model = model
-        self.base_url = base_url
-        self.timeout = timeout
+        self.client = httpx.Client(base_url=base_url, timeout=timeout_seconds)
 
     def generate(self, prompt: str) -> str:
-        response = httpx.post(
-            f"{self.base_url}/api/generate",
+        response = self.client.post(
+            "/api/generate",
             json={
                 "model": self.model,
                 "prompt": prompt,
                 "stream": False,
-                "options": {
-                    "temperature": 0.1,
-                    "top_p": 0.9,
-                },
+                "options": {"temperature": 0.1, "top_p": 0.9},
             },
-            timeout=self.timeout,
         )
-        assert response.status_code == 200
-        return response.json()["response"].strip()
+        response.raise_for_status()
+
+        return str(response.json()["response"]).strip()

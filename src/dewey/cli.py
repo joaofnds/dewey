@@ -1,87 +1,109 @@
+import argparse
 import logging
+import os
+import sys
+from pathlib import Path
+from typing import TYPE_CHECKING
 
-import numpy as np
-
-from dewey.clusterer import Clusterer
-from dewey.embedder import Embedder
-from dewey.env import must_get_env
-from dewey.label_namer import LabelNamer
+from dewey.claude import Claude
+from dewey.clusterer import HdbscanSettings
+from dewey.embeddings import SentenceTransformerEmbedder
 from dewey.ollama import Ollama
-from dewey.reducer import Reducer
-from dewey.repo_fetcher import RepoFetcher
-from dewey.summaries import GenerateSummaries
-from dewey.viz import plot
+from dewey.pipeline import PipelineSettings, Services, run
+from dewey.reducer import UmapSettings
+from dewey.repos import RepoStore
+from dewey.stars import PyGithubClient
+
+if TYPE_CHECKING:
+    from dewey.llm import LLM
+
+CLAUDE_MODEL = "claude-sonnet-5"
+OLLAMA_MODEL = "mistral"
+OLLAMA_URL = "http://localhost:11434"
+EMBEDDING_MODEL = "Qwen/Qwen3-Embedding-0.6B"
+LLM_TIMEOUT_SECONDS = 120
+LLM_MAX_TOKENS = 400
+GITHUB_TIMEOUT_SECONDS = 30
 
 
 def main() -> None:
-    np.random.seed(42)
-
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+    args = parse_args(sys.argv[1:])
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     logging.getLogger("httpx").setLevel(logging.WARNING)
-    logger = logging.getLogger(__name__)
+    logger = logging.getLogger("dewey")
 
-    repo_fetcher = RepoFetcher(
-        logger=logger,
-        token=must_get_env("GITHUB_TOKEN"),
-        workers=10,
+    settings = PipelineSettings(
+        username=args.username,
+        output=args.output,
+        title=f"{args.username}'s starred repositories",
+        plot_dimensions=args.dimensions,
+        refresh_stars=args.refresh_stars,
+        overwrite_summaries=args.overwrite_summaries,
+        summary_workers=args.summary_workers,
+        representatives=args.representatives,
+        umap=UmapSettings(n_neighbors=args.neighbors, metric="cosine", n_epochs=200),
+        hdbscan=HdbscanSettings(min_cluster_size=args.min_cluster_size, min_samples=args.min_samples),
+        seed=args.seed,
     )
-    summary_generator = GenerateSummaries(
+    llm = build_llm(args)
+    services = Services(
+        store=RepoStore(args.data_dir),
+        github=PyGithubClient(github_token(), GITHUB_TIMEOUT_SECONDS),
+        summarizer=llm,
+        namer=llm,
+        embedder=SentenceTransformerEmbedder(args.embedding_model, batch_size=32, logger=logger),
         logger=logger,
-        overwrite=False,
-        workers=1,
-        llm=Ollama(
-            model="mistral",
-            base_url="http://localhost:11434",
-            timeout=60,
-        ),
-    )
-    embedder = Embedder(
-        logger=logger,
-        model_name="all-MiniLM-L6-v2",
-    )
-    reducer = Reducer(
-        logger=logger,
-        random_state=np.random.randint(100),
-        umap_components=3,
-        umap_n_neighbors=9,
-        umap_metric="cosine",
-        umap_n_epochs=200,
-        umap_min_dist=0.04,
-        umap_spread=1.0,
-        umap_learning_rate=1.0,
-    )
-    clusterer = Clusterer(
-        logger=logger,
-        min_cluster_size=15,
-        min_samples=2,
-        epsilon=0.25,
-        max_cluster_size=0,
-        metric="euclidean",
-    )
-    label_namer = LabelNamer(
-        logger=logger,
-        samples_per_cluster=10,
-        llm=Ollama(
-            model="mistral",
-            base_url="http://localhost:11434",
-            timeout=20,
-        ),
     )
 
-    repos = repo_fetcher.run("joaofnds")
-    summary_generator.run(repos)
-    embeddings = embedder.run(repos)
-    reduced_embeddings = reducer.run(embeddings)
-    labels = clusterer.run(reduced_embeddings)
-    summaries = [repo.summary() for repo in repos]
-    label_to_name = label_namer.run(labels, summaries)
-
-    plot(
-        embeddings=reduced_embeddings,
-        labels=[label_to_name.get(label, f"Cluster {label}") for label in labels],
-        texts=summaries,
-        ids=[repo.full_name() for repo in repos],
-        label_cutoff=50,
-        text_cutoff=50,
-        output_file="cluster_visualization.html",
+    result = run(settings, services)
+    logger.info(
+        "%d repos in %d clusters, %d unclustered: %s",
+        result.repos,
+        result.clusters,
+        result.unclustered,
+        result.output,
     )
+
+
+def parse_args(argv: list[str]) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(prog="dewey", description="Cluster and map a GitHub user's starred repositories.")
+    parser.add_argument("username", help="GitHub user whose stars to map")
+    parser.add_argument("--output", type=Path, default=Path("cluster_visualization.html"), help="HTML file to write")
+    parser.add_argument("--data-dir", type=Path, default=Path("data"), help="where repos, summaries and caches live")
+    parser.add_argument("--dimensions", type=int, choices=(2, 3), default=2, help="map dimensions (default: 2)")
+    parser.add_argument("--llm", choices=("claude", "ollama"), default="claude", help="who writes summaries and names")
+    parser.add_argument("--llm-model", default=None, help=f"model name (default: {CLAUDE_MODEL} or {OLLAMA_MODEL})")
+    parser.add_argument("--ollama-url", default=OLLAMA_URL, help=f"Ollama server (default: {OLLAMA_URL})")
+    parser.add_argument(
+        "--embedding-model", default=EMBEDDING_MODEL, help=f"sentence-transformers model (default: {EMBEDDING_MODEL})"
+    )
+    parser.add_argument("--neighbors", type=int, default=15, help="UMAP n_neighbors (default: 15)")
+    parser.add_argument("--min-cluster-size", type=int, default=15, help="HDBSCAN min_cluster_size (default: 15)")
+    parser.add_argument("--min-samples", type=int, default=5, help="HDBSCAN min_samples (default: 5)")
+    parser.add_argument(
+        "--representatives", type=int, default=8, help="repos shown to the LLM per cluster (default: 8)"
+    )
+    parser.add_argument("--summary-workers", type=int, default=4, help="parallel summary requests (default: 4)")
+    parser.add_argument("--seed", type=int, default=42, help="UMAP random state (default: 42)")
+    parser.add_argument(
+        "--refresh-stars", action="store_true", help="list the stars again instead of using the cached list"
+    )
+    parser.add_argument("--overwrite-summaries", action="store_true", help="regenerate every summary")
+
+    return parser.parse_args(argv)
+
+
+def build_llm(args: argparse.Namespace) -> LLM:
+    if args.llm == "ollama":
+        return Ollama(args.llm_model or OLLAMA_MODEL, args.ollama_url, LLM_TIMEOUT_SECONDS)
+
+    return Claude(args.llm_model or CLAUDE_MODEL, LLM_MAX_TOKENS, LLM_TIMEOUT_SECONDS)
+
+
+def github_token() -> str:
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    if token:
+        return token
+
+    message = "GITHUB_TOKEN is not set (try: export GITHUB_TOKEN=$(gh auth token))"
+    raise SystemExit(message)

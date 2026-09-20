@@ -11,6 +11,7 @@ if TYPE_CHECKING:
     from pathlib import Path
 
 SUMMARY_PREVIEW = 160
+PLANE = 2
 OPEN_ON_CLICK = """
 document.getElementById('{plot_id}').on('plotly_click', function (event) {
   var url = event.points[0].customdata;
@@ -84,7 +85,7 @@ def label_trace(clusters: dict[str, list[MapPoint]]) -> go.BaseTraceType:
 
 def trace(members: list[MapPoint], **style: object) -> go.BaseTraceType:
     coordinates = np.array([point.coordinates for point in members])
-    if coordinates.shape[1] == 2:  # noqa: PLR2004
+    if coordinates.shape[1] == PLANE:
         return go.Scatter(x=coordinates[:, 0], y=coordinates[:, 1], **style)
 
     return go.Scatter3d(x=coordinates[:, 0], y=coordinates[:, 1], z=coordinates[:, 2], **style)

@@ -1,9 +1,12 @@
 import re
-from pathlib import Path
+from typing import TYPE_CHECKING
 
 import pytest
 
 from dewey.map_writer import MapPoint, write_map
+
+if TYPE_CHECKING:
+    from pathlib import Path
 
 
 def embedded_text(output: Path) -> str:
