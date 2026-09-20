@@ -3,6 +3,7 @@
 .pytest_cache
 __pycache__
 *.egg-info
+dist
 *.html
 .env
 data/starred_ids.txt

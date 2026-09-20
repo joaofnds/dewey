@@ -1,8 +1,9 @@
-from hashlib import blake2b
 from typing import TYPE_CHECKING, Protocol
 
 import numpy as np
 from sentence_transformers import SentenceTransformer
+
+from dewey.fingerprint import fingerprint
 
 if TYPE_CHECKING:
     from logging import Logger
@@ -59,9 +60,4 @@ class EmbeddingCache:
         return vectors
 
     def key(self, texts: list[str]) -> str:
-        digest = blake2b(self.embedder.model_name.encode())
-        for text in texts:
-            digest.update(text.encode())
-            digest.update(b"\x00")
-
-        return digest.hexdigest()
+        return fingerprint([self.embedder.model_name.encode()], texts)

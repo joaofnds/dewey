@@ -1,11 +1,11 @@
 import json
-from hashlib import blake2b
 from typing import TYPE_CHECKING
 
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 from dewey.clusterer import NOISE, Clustering
+from dewey.fingerprint import fingerprint
 from dewey.prompts import load_prompt
 
 if TYPE_CHECKING:
@@ -66,15 +66,14 @@ class ClusterNamer:
         return self.template.format(distinctive_words=", ".join(words), central_repos="\n".join(lines))
 
     def key(self, clustering: Clustering, summaries: list[str]) -> str:
-        digest = blake2b(self.llm.model.encode())
-        digest.update(self.template.encode())
-        digest.update(str(self.central_repos).encode())
-        digest.update(clustering.labels.tobytes())
-        for text in summaries:
-            digest.update(text.encode())
-            digest.update(b"\x00")
+        parts = [
+            self.llm.model.encode(),
+            self.template.encode(),
+            str(self.central_repos).encode(),
+            clustering.labels.tobytes(),
+        ]
 
-        return digest.hexdigest()
+        return fingerprint(parts, summaries)
 
 
 def distinctive_words(clustering: Clustering, cluster_ids: list[int], summaries: list[str]) -> dict[int, list[str]]:
