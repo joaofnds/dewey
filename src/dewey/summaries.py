@@ -1,103 +1,59 @@
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from logging import Logger
+from concurrent.futures import ThreadPoolExecutor
+from typing import TYPE_CHECKING
 
 from tqdm import tqdm
 
-from dewey.llm import LLM
-from dewey.repo_data import RepoData
+from dewey.prompts import load_prompt
+
+if TYPE_CHECKING:
+    from logging import Logger
+
+    from dewey.llm import LLM
+    from dewey.repos import RepoStore, StarredRepo
+
+README_LIMIT = 4000
 
 
-class GenerateSummaries:
-    def __init__(
-        self,
-        logger: Logger,
-        workers: int,
-        overwrite: bool,
-        llm: LLM,
-    ):
-        self.logger = logger
+class SummaryWriter:
+    def __init__(self, store: RepoStore, llm: LLM, workers: int, logger: Logger, *, overwrite: bool) -> None:
+        self.store = store
+        self.llm = llm
         self.workers = workers
         self.overwrite = overwrite
-        self.llm = llm
-        self.max_readme_length = 4000
-        self.prompt_template = """Generate a technical abstract for this GitHub repository. This abstract will be used for vector embedding and clustering, so focus on distinctive technical characteristics.
+        self.logger = logger
+        self.template = load_prompt("summary")
 
-**Repository Data:**
-- **Name:** {full_name}
-- **Description:** {description}
-- **Language:** {language}
-- **License:** {license}
-- **Size:** {size} KB
-- **Created:** {created_at}
-- **Topics:** {topics}
-{readme_section}
-
-**Requirements:**
-Write a single, dense paragraph (3-5 sentences) that captures:
-
-1. **Primary function and domain** - What problem does it solve? What technical domain (web dev, ML, systems, etc.)?
-2. **Core features and capabilities** - What can users do with it?
-3. **Technology stack** - Key languages, frameworks, libraries, architectural patterns
-4. **Project type** - Library, application, framework, tool, etc.
-5. **Target users** - Who uses this? (only if clearly evident)
-
-**Style:**
-- Start directly with technical details, no introductory phrases
-- Use precise technical language
-- Focus on distinguishing characteristics for clustering
-- Keep it factual and information-dense
-
-**Examples:**
-• "A TypeScript HTTP client library providing promise-based request handling with automatic retries, request/response interceptors, and built-in timeout management for Node.js and browser environments."
-• "A Python command-line tool for automated code formatting and linting, integrating Black, isort, and flake8 to enforce consistent style across Python projects."
-• "A React component library implementing Google's Material Design system with TypeScript support, featuring customizable themes, accessibility compliance, and tree-shaking optimization."
-
-Generate the abstract:"""
-
-    def run(self, repos: list[RepoData]):
-        self.logger.info(f"Processing {len(repos)} repositories...")
+    def run(self, repos: list[StarredRepo]) -> None:
+        pending = [repo for repo in repos if self.overwrite or not self.store.has_summary(repo.id)]
+        self.logger.info("summarizing %d of %d repos with %s", len(pending), len(repos), self.llm.model)
 
         with ThreadPoolExecutor(max_workers=self.workers) as executor:
-            futures = {executor.submit(self.process_repo, repo) for repo in repos}
+            results = executor.map(self.summarize, pending)
+            for _ in tqdm(results, total=len(pending), desc="Summarizing", disable=not pending):
+                pass
 
-            for future in tqdm(
-                as_completed(futures),
-                total=len(repos),
-                desc="Generating summaries",
-            ):
-                future.result()
+    def summarize(self, repo: StarredRepo) -> None:
+        summary = self.llm.generate(self.prompt(repo))
+        self.store.save_summary(repo.id, summary)
 
-        self.logger.info("Processing complete!")
-
-    def process_repo(self, repo: RepoData):
-        if repo.summary_exists() and not self.overwrite:
-            return
-
-        prompt = self.summary_prompt(repo)
-        summary = self.llm.generate(prompt)
-        repo.write_summary(summary)
-
-    def summary_prompt(self, repo_data: RepoData) -> str:
-        repo = repo_data.repo_json()
-
-        return self.prompt_template.format(
-            full_name=repo["full_name"],
-            description=repo.get("description", "No description provided"),
-            topics=", ".join(repo.get("topics", [])) or "None",
-            language=repo.get("language", "Unknown"),
-            license=(repo.get("license") or {}).get("name", "No license provided"),
-            size=repo.get("size", 0),
-            created_at=repo["created_at"][:4],  # year only
-            readme_section=self.format_readme(repo_data),
+    def prompt(self, repo: StarredRepo) -> str:
+        return self.template.format(
+            full_name=repo.full_name,
+            description=repo.description,
+            language=repo.language,
+            license=repo.license,
+            size=repo.size_kb,
+            created_at=repo.created_year,
+            topics=", ".join(repo.topics) or "None",
+            readme_section=readme_section(repo.readme),
         )
 
-    def format_readme(self, repo_data: RepoData) -> str:
-        if not repo_data.readme_exists():
-            return "- **README:** Not available"
 
-        readme = repo_data.readme_content()
+def readme_section(readme: str | None) -> str:
+    if readme is None:
+        return "- **README:** Not available"
 
-        if len(readme) > self.max_readme_length:
-            readme = readme[: self.max_readme_length] + "\n\n[README truncated...]"
+    if len(readme) > README_LIMIT:
+        readme = readme[:README_LIMIT] + "\n\n[README truncated...]"
 
-        return f"- **README:**\n{readme}"
+    return f"- **README:**\n{readme}"
