@@ -16,7 +16,6 @@ NOISE = -1
 class HdbscanSettings:
     min_cluster_size: int
     min_samples: int
-    epsilon: float
 
 
 @dataclass(frozen=True)
@@ -25,13 +24,17 @@ class Clustering:
     probabilities: NDArray[np.float64]
 
     def cluster_ids(self) -> list[int]:
-        return [int(label) for label in np.unique(self.labels) if label != NOISE]
+        labels: list[int] = np.unique(self.labels).tolist()
 
-    def members(self, cluster_id: int) -> NDArray[np.intp]:
-        return np.flatnonzero(self.labels == cluster_id)
+        return [label for label in labels if label != NOISE]
+
+    def members(self, cluster_id: int) -> list[int]:
+        members: list[int] = np.flatnonzero(self.labels == cluster_id).tolist()
+
+        return members
 
     def noise_count(self) -> int:
-        return int(np.sum(self.labels == NOISE))
+        return int(np.count_nonzero(self.labels == NOISE))
 
 
 class Clusterer:
@@ -44,7 +47,7 @@ class Clusterer:
         model = HDBSCAN(
             min_cluster_size=self.settings.min_cluster_size,
             min_samples=self.settings.min_samples,
-            cluster_selection_epsilon=self.settings.epsilon,
+            copy=True,
         )
         model.fit(points)
 

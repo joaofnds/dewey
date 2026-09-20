@@ -16,7 +16,7 @@ def three_blobs_and_an_outlier() -> np.ndarray:
 
 
 def a_clusterer() -> Clusterer:
-    return Clusterer(HdbscanSettings(min_cluster_size=5, min_samples=3, epsilon=0.0), logger=logging.getLogger("test"))
+    return Clusterer(HdbscanSettings(min_cluster_size=5, min_samples=3), logger=logging.getLogger("test"))
 
 
 class TestClusterer:
@@ -36,7 +36,7 @@ class TestClusterer:
 
         members = clustering.members(clustering.labels[0])
 
-        assert sorted(members.tolist()) == list(range(20))
+        assert sorted(members) == list(range(20))
 
     def test_scores_membership_between_zero_and_one(self, three_blobs_and_an_outlier: np.ndarray) -> None:
         clustering = a_clusterer().run(three_blobs_and_an_outlier)
