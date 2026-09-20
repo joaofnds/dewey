@@ -1,6 +1,6 @@
 from base64 import b64encode
 
-from dewey.repos import RepoSnapshot
+from dewey.repos import RepoSnapshot, StarredRepo
 
 
 def a_snapshot(
@@ -26,3 +26,18 @@ def a_snapshot(
     readme_json = None if readme is None else {"content": b64encode(readme.encode()).decode(), "encoding": "base64"}
 
     return RepoSnapshot(repo=repo, readme=readme_json)
+
+
+def a_repo(repo_id: int, full_name: str = "octo/cat") -> StarredRepo:
+    return StarredRepo(
+        id=repo_id,
+        full_name=full_name,
+        description="a repo",
+        language="Python",
+        topics=(),
+        license="MIT License",
+        size_kb=1,
+        created_year="2021",
+        url=f"https://github.com/{full_name}",
+        readme=None,
+    )
