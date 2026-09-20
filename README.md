@@ -1,210 +1,94 @@
-# Dewey 🗂️
+# Dewey
 
-**Intelligent GitHub Repository Clustering and Visualization**
+Dewey draws a map of one GitHub user's starred repositories. Each star becomes a point. Repositories that do similar things sit close together in named clusters, so a few thousand stars become something you can browse.
 
-Dewey is a sophisticated tool that automatically discovers, analyzes, and visualizes patterns in GitHub repositories using machine learning. It fetches repositories from a GitHub user, generates AI-powered summaries, creates semantic embeddings, clusters similar repositories, and produces interactive 3D/2D visualizations.
+For every starred repository it fetches the metadata and README, has an LLM write a one-paragraph technical summary, embeds the summaries, reduces them with UMAP, clusters them with HDBSCAN, has the LLM name each cluster from its most central repositories and distinctive words, and writes an interactive HTML map. Hover a point for the summary, click it to open the repository.
 
-## 🎯 What Dewey Does
+The words used here (star, summary, cluster, unclustered, central repository) are defined in [GLOSSARY.md](GLOSSARY.md).
 
-1. **Repository Discovery**: Fetches all public repositories from a specified GitHub user
-2. **AI-Powered Summarization**: Uses local LLMs (via Ollama) to generate intelligent summaries of each repository
-3. **Semantic Analysis**: Creates embeddings using sentence transformers to capture repository meaning
-4. **Intelligent Clustering**: Groups similar repositories using UMAP dimensionality reduction and HDBSCAN clustering
-5. **Interactive Visualization**: Generates beautiful 3D/2D visualizations that let you explore repository relationships
+## Setup
 
-## 🚀 Features
-
-- **🤖 AI-Powered**: Uses Mistral LLM for repository summarization and cluster labeling
-- **📊 Advanced ML Pipeline**: UMAP + HDBSCAN for high-quality clustering
-- **🎨 Interactive Visualizations**: Plotly-based 3D scatter plots with hover information
-- **⚡ Efficient**: Parallel processing for repository fetching and analysis
-- **🔧 Configurable**: Extensive hyperparameter tuning options
-- **💾 Persistent**: Caches embeddings and summaries for faster re-runs
-
-## 📋 Requirements
-
-- [mise](https://mise.jdx.dev/environments/) - tool version manager
-- GitHub Personal Access Token
-
-## 🛠️ Setup
-
-### 1. Install Dependencies
+Requires [mise](https://mise.jdx.dev/) and a GitHub token with public read access.
 
 ```bash
-# Install tools (python, uv, and ollama)
-mise install
-
-# Create and activate virtual environment
-uv venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-
-# Install project dependencies
-uv sync
+mise install          # python, uv, ollama at the pinned versions
+uv sync               # the virtualenv and every dependency
 ```
 
-### 2. Set Up Ollama
+Tokens go in `.env`, which mise loads:
 
 ```bash
-# Start Ollama
-ollama start
-
-# Pull the Mistral model (in another terminal)
-ollama pull mistral
+echo "GITHUB_TOKEN=$(gh auth token)" >> .env
+echo "ANTHROPIC_API_KEY=sk-ant-..." >> .env
 ```
 
-### 3. Configure Environment
+## Run
 
 ```bash
-# Set your GitHub token
-echo "GITHUB_TOKEN=your_github_personal_access_token" > .env
+uv run dewey joaofnds
 ```
 
-### 4. Run Dewey
+This writes `map.html`. The first run of a user lists their stars, fetches each repository once, and writes one summary per repository with Claude (`claude-sonnet-5` by default). Later runs reuse everything under `data/`. Pass `--refresh-stars` to list the stars again and `--overwrite-summaries` to rewrite every summary.
+
+To run without an API key, use a local model through Ollama:
 
 ```bash
-# Run with default settings (analyzes joaofnds' repositories)
-python main.py
-
-# The visualization will be saved as cluster_visualization.html
-```
-
-## 🎛️ Configuration
-
-Dewey offers extensive configuration options in `main.py`:
-
-### Core Settings
-
-- `USERNAME`: GitHub username to analyze
-- `SUMMARY_LLM_MODEL`: LLM model for summarization (default: "mistral")
-- `EMBEDDING_MODEL_NAME`: Sentence transformer model (default: "all-MiniLM-L6-v2")
-
-### UMAP Parameters (Dimensionality Reduction)
-
-- `UMAP_COMPONENTS`: Output dimensions (2 or 3)
-- `UMAP_N_NEIGHBORS`: Local neighborhood size
-- `UMAP_METRIC`: Distance metric ("cosine", "euclidean", etc.)
-- `UMAP_MIN_DIST`: Minimum distance between points
-
-### HDBSCAN Parameters (Clustering)
-
-- `HDBSCAN_MIN_CLUSTER_SIZE`: Minimum cluster size
-- `HDBSCAN_MIN_SAMPLES`: Core point threshold
-- `HDBSCAN_EPSILON`: Distance threshold
-
-## 📁 Project Structure
-
-```
-dewey/
-├── main.py                 # Main execution script
-├── lib/
-│   ├── repo_fetcher.py     # GitHub API interaction
-│   ├── generate_summaries.py # LLM-based summarization
-│   ├── embbed.py           # Sentence embedding generation
-│   ├── reducer.py          # UMAP dimensionality reduction
-│   ├── clusterer.py        # HDBSCAN clustering
-│   ├── labe_namer.py       # LLM-based cluster labeling
-│   ├── ollama.py           # Ollama LLM client
-│   └── viz.py              # Plotly visualization
-├── data/
-│   ├── repos/              # Cached repository data
-│   ├── embeddings/         # Cached embeddings
-│   └── labels/             # Cached cluster labels
-└── cluster_visualization.html # Generated visualization
-```
-
-## 🔬 How It Works
-
-1. **Data Collection**: Fetches repository metadata from GitHub API
-2. **Content Analysis**: Generates summaries using repository README, description, and metadata
-3. **Vectorization**: Creates semantic embeddings using sentence transformers
-4. **Dimensionality Reduction**: Uses UMAP to reduce to 2D/3D while preserving structure
-5. **Clustering**: Applies HDBSCAN to identify repository groups
-6. **Labeling**: Uses LLM to generate meaningful cluster names
-7. **Visualization**: Creates interactive plots showing repository relationships
-
-## 🎨 Visualization Features
-
-The generated HTML visualization includes:
-
-- **Interactive 3D/2D scatter plot** of repository clusters
-- **Hover information** showing repository names and summaries
-- **Color-coded clusters** with meaningful labels
-- **Zoom and pan** capabilities for detailed exploration
-
-## 🔧 Customization
-
-### Analyzing Different Users
-
-```python
-USERNAME = "your_target_username"
-```
-
-### Adjusting Clustering Sensitivity
-
-```python
-# For tighter clusters
-HDBSCAN_MIN_CLUSTER_SIZE = 20
-HDBSCAN_EPSILON = 0.15
-
-# For looser clusters
-HDBSCAN_MIN_CLUSTER_SIZE = 10
-HDBSCAN_EPSILON = 0.35
-```
-
-### Using Different Models
-
-```python
-# Different embedding models
-EMBEDDING_MODEL_NAME = "all-mpnet-base-v2"  # Better quality, slower
-EMBEDDING_MODEL_NAME = "all-MiniLM-L12-v2"  # Good balance
-
-# Different LLM models (ensure they're available in Ollama)
-SUMMARY_LLM_MODEL = "llama2"
-LABLER_LLM_MODEL = "codellama"
-```
-
-## 📊 Example Use Cases
-
-- **Portfolio Analysis**: Visualize patterns in your GitHub repositories
-- **Technology Exploration**: Discover clusters of repositories by language or domain
-- **Research**: Analyze open-source project ecosystems
-- **Code Discovery**: Find similar projects to ones you're interested in
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-**Ollama Connection Error**
-
-```bash
-# Ensure Ollama is running
 ollama serve
-
-# Check if model is available
-ollama list
+ollama pull gemma3:4b
+uv run dewey joaofnds --llm ollama --llm-model gemma3:4b
 ```
 
-**GitHub API Rate Limiting**
+The knobs that change the map most:
 
-- Ensure your `GITHUB_TOKEN` is set correctly
-- The tool respects rate limits automatically
+| Option | Default | Effect |
+| --- | --- | --- |
+| `--dimensions {2,3}` | 2 | 2-D maps carry cluster names on the map; 3-D maps rotate |
+| `--min-cluster-size N` | 15 | smallest group HDBSCAN will call a cluster |
+| `--min-samples N` | 5 | higher values leave more repositories unclustered, but clusters get tighter |
+| `--embedding-model NAME` | `Qwen/Qwen3-Embedding-0.6B` | any sentence-transformers model |
+| `--seed N` | 42 | UMAP's random state; the same seed and data give the same map |
 
-**Memory Issues with Large Datasets**
+`uv run dewey --help` lists the rest.
 
-- Reduce the number of repositories or adjust worker count in `repo_fetcher.py`
+## How the map is built
 
-## 🤝 Contributing
+1. **Stars.** The user's starred repositories come from the GitHub API. Each is stored once under `data/repos/<id>/` as the repository object and the README contents object, exactly as GitHub returned them, and the star list is cached in `data/starred_ids.txt`.
+2. **Summaries.** The LLM gets the repository's name, description, language, license, size, year, topics and the first 4,000 characters of its README, and returns a dense paragraph written for clustering (the prompt is `src/dewey/prompts/summary.md`). Summaries are stored beside the repository and never rewritten unless asked. Summaries rather than raw READMEs go into the embedding because READMEs vary from a badge wall to a book, and the summary normalizes them to the same register and length.
+3. **Embeddings.** Summaries are embedded with a sentence-transformers model and L2-normalized. Vectors are cached in `data/embeddings/` keyed by model name and text, so changing either re-embeds.
+4. **Two reductions.** UMAP reduces the vectors twice: to five dimensions with `min_dist=0` for clustering, and to two or three dimensions for the map. Clustering on the plotted coordinates, which is what the first version did, throws away structure that the plot does not need but the clusterer does.
+5. **Clusters.** scikit-learn's HDBSCAN clusters the five-dimensional points and gives each repository a membership probability. Repositories it cannot place are unclustered and drawn in grey.
+6. **Names.** For each cluster the LLM sees the repositories with the highest membership probability and the cluster's top TF-IDF terms, computed with one document per cluster, and answers with a two-to-four-word category (the prompt is `src/dewey/prompts/cluster_name.md`). Names are cached in `data/names/` keyed by model, prompt, clustering and texts.
+7. **Map.** Plotly draws one trace per cluster and, on 2-D maps, each cluster's name at its median position.
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
+### Why these models
 
-## 📄 License
+Measured on this user's 2,872 summaries on an Apple M5 Pro on 2026-09-21, with UMAP to five dimensions and HDBSCAN at `min_cluster_size=15, min_samples=5`:
 
-This project is open source. Please check the license file for details.
+| Embedding model | Embed time | Clusters | Unclustered | Silhouette (5-D) |
+| --- | --- | --- | --- | --- |
+| `all-MiniLM-L6-v2` (the first version's model) | 10 s | 49 | 18.6% | 0.491 |
+| `Qwen/Qwen3-Embedding-0.6B` | 60 s | 57 | 21.4% | 0.571 |
 
----
+Qwen3 separated clusters better at every setting tried, at six times the embedding cost, and became the default. Both models run locally. The first run downloads the weights (about 1.2 GB for Qwen3).
 
-**Built with ❤️ using Python, UMAP, HDBSCAN, Sentence Transformers, and Ollama**
+The LLM writes the summaries and the cluster names, so pick it by cost and writing quality. Regenerating all summaries with `claude-sonnet-5` is roughly seven million input tokens; the [Message Batches API](https://platform.claude.com/docs/en/build-with-claude/batch-processing) halves that price but is not wired in.
+
+## Data
+
+`data/repos/` is committed because it holds the fetched repositories and their summaries, and the summaries are the expensive part. `data/embeddings/`, `data/names/` and `data/starred_ids.txt` are caches and are ignored by git. Delete a cache to force that stage to run again.
+
+## Development
+
+```bash
+mise run check    # ruff format, ruff lint (all rules), pyright strict, pytest
+mise run fix      # format and auto-fix
+```
+
+The test suite runs the whole pipeline through in-memory fakes of GitHub, the LLM and the embedder, so it needs no network and no model weights. Libraries that ship no type information (umap, scikit-learn, plotly, sentence-transformers) have minimal stubs under `typings/` declaring only what this project calls.
+
+## Troubleshooting
+
+- **`GITHUB_TOKEN is not set`**: put it in `.env` or export it. `gh auth token` prints one if you use the GitHub CLI.
+- **Ollama connection errors**: `ollama serve` must be running and the model pulled (`ollama list`).
+- **A gated embedding model** (for example `google/embeddinggemma-300m`) needs a Hugging Face login that has accepted its terms; Qwen3-Embedding is Apache-2.0 and needs none.
+- **HDBSCAN `cluster_selection_epsilon`** is not exposed because scikit-learn 1.9.1 raises a NumPy scalar-conversion error on that path whenever it would merge clusters ([scikit-learn#34243](https://github.com/scikit-learn/scikit-learn/pull/34243)).
