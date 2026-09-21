@@ -11,6 +11,9 @@ def a_snapshot(
     language: str | None = "Python",
     topics: tuple[str, ...] = (),
     readme: str | None = "# hello",
+    readme_bytes: bytes | None = None,
+    readme_encoding: str = "base64",
+    url: str | None = None,
 ) -> RepoSnapshot:
     repo = {
         "id": repo_id,
@@ -21,9 +24,11 @@ def a_snapshot(
         "license": {"name": "MIT License"},
         "size": 42,
         "created_at": "2021-05-01T00:00:00Z",
-        "html_url": f"https://github.com/{full_name}",
+        "html_url": url or f"https://github.com/{full_name}",
     }
-    readme_json = None if readme is None else {"content": b64encode(readme.encode()).decode(), "encoding": "base64"}
+    readme_json = (
+        None if readme is None else {"content": b64encode(readme.encode()).decode(), "encoding": readme_encoding}
+    )
 
     return RepoSnapshot(repo=repo, readme=readme_json)
 

@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from dewey.repos import RepoStore, StarredRepo
+from dewey.repos import MalformedSnapshotError, RepoStore, StarredRepo
 from tests.builders import a_snapshot
 
 
@@ -88,3 +88,34 @@ class TestRepoStore:
         def test_raises_on_load(self, tmp_path: Path) -> None:
             with pytest.raises(FileNotFoundError):
                 RepoStore(tmp_path).load(404)
+
+    class TestWhenTheReadmeIsNotUtf8:
+        def test_replaces_the_undecodable_bytes(self, tmp_path: Path) -> None:
+            store = RepoStore(tmp_path)
+            store.save_snapshot(a_snapshot(7, readme_bytes=b"caf\xe9"))
+
+            assert store.load(7).readme == "caf\ufffd"
+
+    class TestWhenTheReadmeIsTooLargeForTheApi:
+        def test_loads_with_no_readme(self, tmp_path: Path) -> None:
+            store = RepoStore(tmp_path)
+            store.save_snapshot(a_snapshot(7, readme_encoding="none"))
+
+            assert store.load(7).readme is None
+
+    class TestWhenTheSnapshotIsMalformed:
+        def test_refuses_a_url_off_github(self, tmp_path: Path) -> None:
+            store = RepoStore(tmp_path)
+            store.save_snapshot(a_snapshot(7, url="javascript:alert(1)"))
+
+            with pytest.raises(MalformedSnapshotError):
+                store.load(7)
+
+        def test_refuses_a_missing_field(self, tmp_path: Path) -> None:
+            store = RepoStore(tmp_path)
+            snapshot = a_snapshot(7)
+            del snapshot.repo["created_at"]
+            store.save_snapshot(snapshot)
+
+            with pytest.raises(MalformedSnapshotError):
+                store.load(7)

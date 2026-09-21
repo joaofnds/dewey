@@ -6,9 +6,14 @@ from typing import TYPE_CHECKING, Any
 if TYPE_CHECKING:
     from pathlib import Path
 
+GITHUB = "https://github.com/"
 NO_DESCRIPTION = "No description provided"
 NO_LICENSE = "No license provided"
 UNKNOWN_LANGUAGE = "Unknown"
+
+
+class MalformedSnapshotError(ValueError):
+    pass
 
 
 @dataclass(frozen=True)
@@ -40,25 +45,34 @@ class StarredRepo:
         license_field: dict[str, Any] = repo.get("license") or {}
         topics: list[Any] = repo.get("topics") or []
 
-        return cls(
-            id=snapshot.id,
-            full_name=str(repo["full_name"]),
-            description=str(repo.get("description") or NO_DESCRIPTION),
-            language=str(repo.get("language") or UNKNOWN_LANGUAGE),
-            topics=tuple(str(topic) for topic in topics),
-            license=str(license_field.get("name") or NO_LICENSE),
-            size_kb=int(repo.get("size") or 0),
-            created_year=str(repo["created_at"])[:4],
-            url=str(repo["html_url"]),
-            readme=decode_readme(snapshot.readme),
-        )
+        try:
+            url = str(repo["html_url"])
+            if not url.startswith(GITHUB):
+                message = f"repo {snapshot.id} has a url off GitHub: {url!r}"
+                raise MalformedSnapshotError(message)
+
+            return cls(
+                id=snapshot.id,
+                full_name=str(repo["full_name"]),
+                description=str(repo.get("description") or NO_DESCRIPTION),
+                language=str(repo.get("language") or UNKNOWN_LANGUAGE),
+                topics=tuple(str(topic) for topic in topics),
+                license=str(license_field.get("name") or NO_LICENSE),
+                size_kb=int(repo.get("size") or 0),
+                created_year=str(repo["created_at"])[:4],
+                url=url,
+                readme=decode_readme(snapshot.readme),
+            )
+        except KeyError as missing:
+            message = f"repo {snapshot.id} is missing {missing}"
+            raise MalformedSnapshotError(message) from missing
 
 
 def decode_readme(readme: dict[str, Any] | None) -> str | None:
-    if readme is None:
+    if readme is None or readme.get("encoding") != "base64":
         return None
 
-    return b64decode(str(readme.get("content", ""))).decode("utf-8").strip()
+    return b64decode(str(readme.get("content", ""))).decode("utf-8", errors="replace").strip()
 
 
 class RepoStore:

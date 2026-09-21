@@ -52,3 +52,17 @@ class TestWriteMap:
 
             with pytest.raises(ValueError, match="dimensions"):
                 write_map(points, output=tmp_path / "map.html", title="stars")
+
+    class TestWhenTextContainsHtml:
+        def test_escapes_it_in_the_hover(self, tmp_path: Path) -> None:
+            output = tmp_path / "map.html"
+            points = [
+                a_point("a/one", "Rust <script>alert(1)</script>", 0.0, 0.0),
+                a_point("b/two", "Rust <T>", 0.1, 0.1),
+            ]
+
+            write_map(points, output=output, title="stars")
+
+            html = embedded_text(output)
+            assert "&lt;script&gt;" in html
+            assert "<script>alert" not in html

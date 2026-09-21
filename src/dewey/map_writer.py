@@ -1,3 +1,4 @@
+import html
 from collections import defaultdict
 from dataclasses import dataclass
 from typing import TYPE_CHECKING
@@ -52,7 +53,10 @@ def write_map(points: list[MapPoint], output: Path, title: str) -> None:
 
 def cluster_trace(name: str, members: list[MapPoint]) -> go.BaseTraceType:
     unclustered = name == UNCLUSTERED
-    hover = [f"<b>{point.name}</b><br>{point.cluster}<br>{preview(point.summary)}" for point in members]
+    hover = [
+        f"<b>{html.escape(point.name)}</b><br>{html.escape(point.cluster)}<br>{html.escape(preview(point.summary))}"
+        for point in members
+    ]
     marker: dict[str, object] = {"size": 4 if unclustered else 7, "opacity": 0.35 if unclustered else 0.85}
     if unclustered:
         marker["color"] = "#9e9e9e"

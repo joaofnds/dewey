@@ -1,7 +1,9 @@
 import logging
 from typing import TYPE_CHECKING
 
-from dewey.repos import RepoStore
+import pytest
+
+from dewey.repos import MalformedSnapshotError, RepoStore
 from dewey.stars import StarFetcher
 from tests.builders import a_snapshot
 from tests.fakes import FakeGitHub
@@ -74,3 +76,15 @@ class TestStarFetcher:
             repos = a_fetcher(store, github).run("ada", refresh=False)
 
             assert repos[0].readme is None
+
+    class TestWhenAListingEntryIsMalformed:
+        def test_stores_nothing_for_it(self, tmp_path: Path) -> None:
+            github = FakeGitHub()
+            broken = a_snapshot(1, url="javascript:alert(1)")
+            github.seed_star("ada", broken.repo, broken.readme)
+            store = RepoStore(tmp_path)
+
+            with pytest.raises(MalformedSnapshotError):
+                a_fetcher(store, github).run("ada", refresh=False)
+
+            assert not store.has_repo(1)

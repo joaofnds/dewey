@@ -18,7 +18,7 @@ if TYPE_CHECKING:
     from dewey.llm import LLM
 
 CLAUDE_MODEL = "claude-sonnet-5"
-OLLAMA_MODEL = "mistral"
+OLLAMA_MODEL = "gemma3:4b"
 OLLAMA_URL = "http://localhost:11434"
 EMBEDDING_MODEL = "Qwen/Qwen3-Embedding-0.6B"
 LLM_TIMEOUT_SECONDS = 120
@@ -45,7 +45,7 @@ def main() -> None:
         hdbscan=HdbscanSettings(min_cluster_size=args.min_cluster_size, min_samples=args.min_samples),
         seed=args.seed,
     )
-    llm = build_llm(args)
+    llm = build_llm(args.llm, args.llm_model, args.ollama_url)
     services = Services(
         store=RepoStore(args.data_dir),
         github=GitHubRestClient(github_token(), GITHUB_TIMEOUT_SECONDS),
@@ -91,11 +91,11 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     return parser.parse_args(argv)
 
 
-def build_llm(args: argparse.Namespace) -> LLM:
-    if args.llm == "ollama":
-        return Ollama(args.llm_model or OLLAMA_MODEL, args.ollama_url, LLM_TIMEOUT_SECONDS)
+def build_llm(provider: str, model: str | None, ollama_url: str) -> LLM:
+    if provider == "ollama":
+        return Ollama(model or OLLAMA_MODEL, ollama_url, LLM_TIMEOUT_SECONDS)
 
-    return Claude(args.llm_model or CLAUDE_MODEL, LLM_MAX_TOKENS, LLM_TIMEOUT_SECONDS)
+    return Claude(model or CLAUDE_MODEL, LLM_MAX_TOKENS, LLM_TIMEOUT_SECONDS)
 
 
 def github_token() -> str:

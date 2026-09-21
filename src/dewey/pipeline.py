@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from typing import TYPE_CHECKING
 
 from dewey.cluster_namer import ClusterNamer
-from dewey.clusterer import Clusterer, HdbscanSettings
+from dewey.clusterer import Clusterer, Clustering, HdbscanSettings
 from dewey.embeddings import Embedder, EmbeddingCache
 from dewey.map_writer import MapPoint, write_map
 from dewey.reducer import Reducer, UmapSettings
@@ -13,8 +13,11 @@ if TYPE_CHECKING:
     from logging import Logger
     from pathlib import Path
 
+    import numpy as np
+    from numpy.typing import NDArray
+
     from dewey.llm import LLM
-    from dewey.repos import RepoStore
+    from dewey.repos import RepoStore, StarredRepo
 
 CLUSTER_SPACE_DIMENSIONS = 5
 CLUSTER_SPACE_MIN_DIST = 0.0
@@ -76,17 +79,7 @@ def run(settings: PipelineSettings, services: Services) -> MapResult:
         clustering, repos, summaries
     )
 
-    points = [
-        MapPoint(
-            name=repo.full_name,
-            url=repo.url,
-            cluster=names[int(label)],
-            summary=summary,
-            coordinates=tuple(float(value) for value in coordinates),
-        )
-        for repo, summary, label, coordinates in zip(repos, summaries, clustering.labels, map_space, strict=True)
-    ]
-    write_map(points, settings.output, settings.title)
+    write_map(map_points(repos, summaries, clustering, names, map_space), settings.output, settings.title)
     logger.info("wrote %s", settings.output)
 
     return MapResult(
@@ -95,3 +88,24 @@ def run(settings: PipelineSettings, services: Services) -> MapResult:
         clusters=len(clustering.cluster_ids()),
         unclustered=clustering.noise_count(),
     )
+
+
+def map_points(
+    repos: list[StarredRepo],
+    summaries: list[str],
+    clustering: Clustering,
+    names: dict[int, str],
+    map_space: NDArray[np.float32],
+) -> list[MapPoint]:
+    labels: list[int] = clustering.labels.tolist()
+
+    return [
+        MapPoint(
+            name=repo.full_name,
+            url=repo.url,
+            cluster=names[label],
+            summary=summary,
+            coordinates=tuple(float(value) for value in coordinates),
+        )
+        for repo, summary, label, coordinates in zip(repos, summaries, labels, map_space, strict=True)
+    ]

@@ -78,5 +78,6 @@ class StarFetcher:
         if self.store.has_repo(int(repo["id"])):
             return
 
-        readme = self.github.readme(str(repo["full_name"]))
-        self.store.save_snapshot(RepoSnapshot(repo=repo, readme=readme))
+        snapshot = RepoSnapshot(repo=repo, readme=self.github.readme(str(repo["full_name"])))
+        StarredRepo.from_snapshot(snapshot)
+        self.store.save_snapshot(snapshot)
