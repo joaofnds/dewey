@@ -2,7 +2,7 @@
 
 Dewey draws a map of one GitHub user's starred repositories. Each star becomes a point. Repositories that do similar things sit close together in named clusters, so a few thousand stars become something you can browse.
 
-For every starred repository it fetches the metadata and README, has an LLM write a one-paragraph technical summary, embeds the summaries, reduces them with UMAP, clusters them with HDBSCAN, has the LLM name each cluster from its most central repositories and distinctive words, and writes an interactive HTML map. Hover a point for the summary, click it to open the repository.
+For every starred repository it fetches the metadata and README, has an LLM write a one-paragraph technical summary, embeds the summaries, reduces them with UMAP, clusters them with HDBSCAN, has the LLM name each cluster from its most central repositories and distinctive words, and writes an interactive HTML map. Hover a point for the first lines of its summary, click it to open the repository.
 
 The words used here (star, summary, cluster, unclustered, central repository) are defined in [GLOSSARY.md](GLOSSARY.md).
 
@@ -15,12 +15,14 @@ mise install          # python, uv, ollama at the pinned versions
 uv sync               # the virtualenv and every dependency
 ```
 
-Tokens go in `.env`, which mise loads:
+Tokens go in `.env`:
 
 ```bash
 echo "GITHUB_TOKEN=$(gh auth token)" >> .env
 echo "ANTHROPIC_API_KEY=sk-ant-..." >> .env
 ```
+
+mise loads `.env` into the shell when its [activation](https://mise.jdx.dev/getting-started.html#activate-mise) is installed. Without it, pass the file to uv on each run: `uv run --env-file .env dewey ...`.
 
 ## Run
 
@@ -28,14 +30,14 @@ echo "ANTHROPIC_API_KEY=sk-ant-..." >> .env
 uv run dewey joaofnds
 ```
 
-This writes `map.html`. The first run of a user lists their stars, fetches each repository once, and writes one summary per repository with Claude (`claude-sonnet-5` by default). Later runs reuse everything under `data/`. Pass `--refresh-stars` to list the stars again and `--overwrite-summaries` to rewrite every summary.
+This writes `map.html`. The first run for a user lists their stars, fetches each repository not yet under `data/repos/`, and writes one summary per new repository with Claude (`claude-sonnet-5` by default). The star list is kept in `data/starred_ids.txt`, and later runs reuse it and everything else under `data/`. Pass `--refresh-stars` to list the stars again and `--overwrite-summaries` to rewrite every summary.
 
-To run without an API key, use a local model through Ollama:
+To run without an API key, use a local model through Ollama (`gemma3:4b` is the default, `--llm-model` picks another):
 
 ```bash
 ollama serve
 ollama pull gemma3:4b
-uv run dewey joaofnds --llm ollama --llm-model gemma3:4b
+uv run dewey joaofnds --llm ollama
 ```
 
 The knobs that change the map most:
@@ -62,7 +64,7 @@ The knobs that change the map most:
 
 ### Why these models
 
-Measured on this user's 2,872 summaries on an Apple M5 Pro on 2026-09-21, with UMAP to five dimensions and HDBSCAN at `min_cluster_size=15, min_samples=5`:
+Measured on this user's 2,872 summaries on an Apple M5 Pro on 2026-09-21 with `uv run dewey-measure sentence-transformers/all-MiniLM-L6-v2 Qwen/Qwen3-Embedding-0.6B`, which runs the pipeline's own reduction and clustering at the CLI defaults and prints this table:
 
 | Embedding model | Embed time | Clusters | Unclustered | Silhouette (5-D) |
 | --- | --- | --- | --- | --- |
@@ -71,16 +73,16 @@ Measured on this user's 2,872 summaries on an Apple M5 Pro on 2026-09-21, with U
 
 Qwen3 separated clusters better at every setting tried, at six times the embedding cost, and became the default. Both models run locally. The first run downloads the weights (about 1.2 GB for Qwen3).
 
-The LLM writes the summaries and the cluster names, so pick it by cost and writing quality. Regenerating all summaries with `claude-sonnet-5` is roughly seven million input tokens; the [Message Batches API](https://platform.claude.com/docs/en/build-with-claude/batch-processing) halves that price but is not wired in.
+The LLM writes the summaries and the cluster names, so pick it by cost and writing quality. The 2,872 summary prompts total 14.8 million characters, about four million input tokens, so regenerating every summary with `claude-sonnet-5` costs on the order of ten dollars. The [Message Batches API](https://platform.claude.com/docs/en/build-with-claude/batch-processing) halves that price but is not wired in.
 
 ## Data
 
-`data/repos/` is committed because it holds the fetched repositories and their summaries, and the summaries are the expensive part. `data/embeddings/`, `data/names/` and `data/starred_ids.txt` are caches and are ignored by git. Delete a cache to force that stage to run again.
+`data/repos/` is committed because it holds the fetched repositories and their summaries, and the summaries are the expensive part. `data/embeddings/`, `data/names/` and `data/starred_ids.txt` are caches and are ignored by git. Delete a file in one of those three places to force that stage to run again.
 
 ## Development
 
 ```bash
-mise run check    # ruff format, ruff lint (all rules), pyright strict, pytest
+mise run check    # ruff format, ruff lint, pyright strict, pytest
 mise run fix      # format and auto-fix
 ```
 
