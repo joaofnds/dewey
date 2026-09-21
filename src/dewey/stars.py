@@ -12,15 +12,24 @@ HTTP_NOT_FOUND = 404
 PAGE_SIZE = 100
 
 
+class MissingTokenError(ValueError):
+    pass
+
+
 class GitHubClient(Protocol):
     def starred(self, username: str) -> list[dict[str, Any]]: ...
     def readme(self, full_name: str) -> dict[str, Any] | None: ...
 
 
 class GitHubRestClient:
-    def __init__(self, token: str, timeout_seconds: int, base_url: str = "https://api.github.com") -> None:
-        self.client = httpx.Client(
-            base_url=base_url,
+    def __init__(self, client: httpx.Client, token: str) -> None:
+        self.client = client
+        self.token = token
+
+    @classmethod
+    def for_token(cls, token: str, timeout_seconds: int) -> GitHubRestClient:
+        client = httpx.Client(
+            base_url="https://api.github.com",
             timeout=timeout_seconds,
             headers={
                 "Authorization": f"Bearer {token}",
@@ -29,7 +38,10 @@ class GitHubRestClient:
             },
         )
 
+        return cls(client, token)
+
     def starred(self, username: str) -> list[dict[str, Any]]:
+        self.require_token()
         repos: list[dict[str, Any]] = []
         url: str | None = f"/users/{username}/starred?per_page={PAGE_SIZE}"
         while url is not None:
@@ -41,12 +53,18 @@ class GitHubRestClient:
         return repos
 
     def readme(self, full_name: str) -> dict[str, Any] | None:
+        self.require_token()
         response = self.client.get(f"/repos/{full_name}/readme")
         if response.status_code == HTTP_NOT_FOUND:
             return None
         response.raise_for_status()
 
         return response.json()
+
+    def require_token(self) -> None:
+        if not self.token:
+            message = "GITHUB_TOKEN is not set (try: export GITHUB_TOKEN=$(gh auth token))"
+            raise MissingTokenError(message)
 
 
 class StarFetcher:

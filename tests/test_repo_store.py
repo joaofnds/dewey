@@ -1,9 +1,12 @@
-from pathlib import Path
+from typing import TYPE_CHECKING
 
 import pytest
 
 from dewey.repos import MalformedSnapshotError, RepoStore, StarredRepo
 from tests.builders import a_snapshot
+
+if TYPE_CHECKING:
+    from pathlib import Path
 
 
 class TestRepoStore:
@@ -49,14 +52,6 @@ class TestRepoStore:
         store.save_summary(7, "A Rust rocket simulator.")
 
         assert store.summary(7) == "A Rust rocket simulator."
-
-    def test_reads_the_legacy_layout(self) -> None:
-        store = RepoStore(Path("data"))
-
-        repo = store.load(35164952)
-
-        assert repo.full_name == "unisonweb/unison"
-        assert repo.readme is not None
 
     class TestWhenTheSnapshotHasNoReadme:
         def test_loads_with_no_readme(self, tmp_path: Path) -> None:

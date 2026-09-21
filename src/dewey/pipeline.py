@@ -5,6 +5,7 @@ from dewey.cluster_namer import ClusterNamer
 from dewey.clusterer import Clusterer, Clustering, HdbscanSettings
 from dewey.embeddings import Embedder, EmbeddingCache
 from dewey.map_writer import MapPoint, write_map
+from dewey.prompts import load_prompt
 from dewey.reducer import Reducer, UmapSettings
 from dewey.stars import GitHubClient, StarFetcher
 from dewey.summaries import SummaryWriter
@@ -50,6 +51,10 @@ class Services:
     logger: Logger
 
 
+class NoStarsError(ValueError):
+    pass
+
+
 @dataclass(frozen=True)
 class MapResult:
     output: Path
@@ -64,6 +69,10 @@ def run(settings: PipelineSettings, services: Services) -> MapResult:
     repos = StarFetcher(store, services.github, FETCH_WORKERS, logger).run(
         settings.username, refresh=settings.refresh_stars
     )
+    if not repos:
+        message = f"{settings.username} has no starred repositories"
+        raise NoStarsError(message)
+
     SummaryWriter(
         store, services.summarizer, settings.summary_workers, logger, overwrite=settings.overwrite_summaries
     ).run(repos)
@@ -75,9 +84,8 @@ def run(settings: PipelineSettings, services: Services) -> MapResult:
     map_space = reducer.reduce(vectors, settings.plot_dimensions, MAP_MIN_DIST)
 
     clustering = Clusterer(settings.hdbscan, logger).run(cluster_space)
-    names = ClusterNamer(store.names_dir, services.namer, settings.central_repos, logger).run(
-        clustering, repos, summaries
-    )
+    namer = ClusterNamer(store.names_dir, services.namer, settings.central_repos, load_prompt("cluster_name"), logger)
+    names = namer.run(clustering, repos, summaries)
 
     write_map(map_points(repos, summaries, clustering, names, map_space), settings.output, settings.title)
     logger.info("wrote %s", settings.output)
@@ -103,6 +111,7 @@ def map_points(
         MapPoint(
             name=repo.full_name,
             url=repo.url,
+            cluster_id=label,
             cluster=names[label],
             summary=summary,
             coordinates=tuple(float(value) for value in coordinates),

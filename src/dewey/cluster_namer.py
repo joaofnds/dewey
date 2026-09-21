@@ -6,9 +6,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 from dewey.clusterer import NOISE, Clustering
 from dewey.fingerprint import fingerprint
-from dewey.prompts import load_prompt
 
 if TYPE_CHECKING:
+    from collections.abc import Iterable
     from logging import Logger
     from pathlib import Path
 
@@ -22,12 +22,12 @@ DISTINCTIVE_WORDS_PER_CLUSTER = 10
 
 
 class ClusterNamer:
-    def __init__(self, directory: Path, llm: LLM, central_repos: int, logger: Logger) -> None:
+    def __init__(self, directory: Path, llm: LLM, central_repos: int, template: str, logger: Logger) -> None:
         self.directory = directory
         self.llm = llm
         self.central_repos = central_repos
+        self.template = template
         self.logger = logger
-        self.template = load_prompt("cluster_name")
 
     def run(self, clustering: Clustering, repos: list[StarredRepo], summaries: list[str]) -> dict[int, str]:
         path = self.directory / f"{self.key(clustering, summaries)}.json"
@@ -42,7 +42,7 @@ class ClusterNamer:
         names = {NOISE: UNCLUSTERED}
         for cluster_id in cluster_ids:
             prompt = self.prompt(clustering, cluster_id, words[cluster_id], repos, summaries)
-            names[cluster_id] = self.llm.generate(prompt).strip().strip('"')
+            names[cluster_id] = distinct(self.llm.generate(prompt).strip().strip('"'), names.values())
             self.logger.info("cluster %d: %s", cluster_id, names[cluster_id])
 
         self.directory.mkdir(parents=True, exist_ok=True)
@@ -74,6 +74,17 @@ class ClusterNamer:
         ]
 
         return fingerprint(parts, summaries)
+
+
+def distinct(name: str, taken: Iterable[str]) -> str:
+    existing = set(taken)
+    candidate = name
+    count = 1
+    while candidate in existing:
+        count += 1
+        candidate = f"{name} ({count})"
+
+    return candidate
 
 
 def distinctive_words(clustering: Clustering, cluster_ids: list[int], summaries: list[str]) -> dict[int, list[str]]:

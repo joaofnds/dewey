@@ -9,10 +9,10 @@ from dewey.claude import Claude
 from dewey.clusterer import HdbscanSettings
 from dewey.embeddings import SentenceTransformerEmbedder
 from dewey.ollama import Ollama
-from dewey.pipeline import PipelineSettings, Services, run
+from dewey.pipeline import NoStarsError, PipelineSettings, Services, run
 from dewey.reducer import UmapSettings
 from dewey.repos import RepoStore
-from dewey.stars import GitHubRestClient
+from dewey.stars import GitHubRestClient, MissingTokenError
 
 if TYPE_CHECKING:
     from dewey.llm import LLM
@@ -22,7 +22,7 @@ OLLAMA_MODEL = "gemma3:4b"
 OLLAMA_URL = "http://localhost:11434"
 EMBEDDING_MODEL = "Qwen/Qwen3-Embedding-0.6B"
 LLM_TIMEOUT_SECONDS = 120
-LLM_MAX_TOKENS = 400
+LLM_MAX_TOKENS = 1024
 GITHUB_TIMEOUT_SECONDS = 30
 
 
@@ -48,14 +48,17 @@ def main() -> None:
     llm = build_llm(args.llm, args.llm_model, args.ollama_url)
     services = Services(
         store=RepoStore(args.data_dir),
-        github=GitHubRestClient(github_token(), GITHUB_TIMEOUT_SECONDS),
+        github=GitHubRestClient.for_token(os.environ.get("GITHUB_TOKEN", "").strip(), GITHUB_TIMEOUT_SECONDS),
         summarizer=llm,
         namer=llm,
         embedder=SentenceTransformerEmbedder(args.embedding_model, batch_size=32, logger=logger),
         logger=logger,
     )
 
-    result = run(settings, services)
+    try:
+        result = run(settings, services)
+    except (MissingTokenError, NoStarsError) as error:
+        raise SystemExit(str(error)) from error
     logger.info(
         "%d repos in %d clusters, %d unclustered: %s",
         result.repos,
@@ -96,12 +99,3 @@ def build_llm(provider: str, model: str | None, ollama_url: str) -> LLM:
         return Ollama(model or OLLAMA_MODEL, ollama_url, LLM_TIMEOUT_SECONDS)
 
     return Claude(model or CLAUDE_MODEL, LLM_MAX_TOKENS, LLM_TIMEOUT_SECONDS)
-
-
-def github_token() -> str:
-    token = os.environ.get("GITHUB_TOKEN", "").strip()
-    if token:
-        return token
-
-    message = "GITHUB_TOKEN is not set (try: export GITHUB_TOKEN=$(gh auth token))"
-    raise SystemExit(message)

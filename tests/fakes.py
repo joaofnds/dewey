@@ -1,3 +1,4 @@
+import re
 from collections import deque
 from hashlib import blake2b
 from typing import TYPE_CHECKING, Any
@@ -14,9 +15,6 @@ class FakeGitHub:
         self.readmes: dict[str, dict[str, Any]] = {}
         self.readme_requests: list[str] = []
         self.star_requests: list[str] = []
-
-    def reset(self) -> None:
-        self.__init__()
 
     def seed_star(self, username: str, repo: dict[str, Any], readme: dict[str, Any] | None = None) -> None:
         self.stars.setdefault(username, []).append(repo)
@@ -40,10 +38,6 @@ class FakeLLM:
         self.prompts: list[str] = []
         self.responses: deque[str] = deque()
 
-    def reset(self) -> None:
-        self.prompts.clear()
-        self.responses.clear()
-
     def queue(self, *responses: str) -> None:
         self.responses.extend(responses)
 
@@ -61,9 +55,6 @@ class FakeEmbedder:
         self.dimensions = dimensions
         self.calls: list[list[str]] = []
 
-    def reset(self) -> None:
-        self.calls.clear()
-
     def embed(self, texts: list[str]) -> NDArray[np.float32]:
         self.calls.append(list(texts))
 
@@ -76,11 +67,16 @@ class FakeEmbedder:
         return vector / np.linalg.norm(vector)
 
 
-class EchoLLM:
-    model = "echo"
+class SummaryStub:
+    model = "summary-stub"
 
     def generate(self, prompt: str) -> str:
-        return prompt
+        name = re.search(r"\*\*Name:\*\* (\S+)", prompt)
+        language = re.search(r"\*\*Language:\*\* (\S+)", prompt)
+        assert name is not None
+        assert language is not None
+
+        return f"{language.group(1)} project {name.group(1)}"
 
 
 class KeywordEmbedder:

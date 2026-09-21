@@ -1,5 +1,7 @@
 import httpx
 
+from dewey.llm import TruncatedReplyError
+
 
 class Ollama:
     def __init__(self, model: str, base_url: str, timeout_seconds: int) -> None:
@@ -17,5 +19,9 @@ class Ollama:
             },
         )
         response.raise_for_status()
+        reply = response.json()
+        if reply.get("done_reason") == "length":
+            message = f"{self.model} hit its output length limit"
+            raise TruncatedReplyError(message)
 
-        return str(response.json()["response"]).strip()
+        return str(reply["response"]).strip()

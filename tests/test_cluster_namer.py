@@ -12,8 +12,17 @@ if TYPE_CHECKING:
     from pathlib import Path
 
 
-def a_namer(root: Path, llm: FakeLLM, central_repos: int = 2) -> ClusterNamer:
-    return ClusterNamer(directory=root, llm=llm, central_repos=central_repos, logger=logging.getLogger("test"))
+TEMPLATE = "words: {distinctive_words}\nrepos:\n{central_repos}"
+
+
+def a_namer(root: Path, llm: FakeLLM, central_repos: int = 2, template: str = TEMPLATE) -> ClusterNamer:
+    return ClusterNamer(
+        directory=root,
+        llm=llm,
+        central_repos=central_repos,
+        template=template,
+        logger=logging.getLogger("test"),
+    )
 
 
 def two_clusters_and_noise() -> Clustering:
@@ -70,6 +79,24 @@ class TestClusterNamer:
 
         assert second == first
         assert second_llm.prompts == []
+
+    def test_asks_again_when_the_prompt_changes(self, tmp_path: Path) -> None:
+        a_namer(tmp_path, FakeLLM()).run(two_clusters_and_noise(), REPOS, SUMMARIES)
+        llm = FakeLLM()
+
+        a_namer(tmp_path, llm, template="other {distinctive_words} {central_repos}").run(
+            two_clusters_and_noise(), REPOS, SUMMARIES
+        )
+
+        assert len(llm.prompts) == 2
+
+    def test_keeps_names_distinct_when_the_llm_repeats_one(self, tmp_path: Path) -> None:
+        llm = FakeLLM()
+        llm.queue("Tooling", "Tooling")
+
+        names = a_namer(tmp_path, llm).run(two_clusters_and_noise(), REPOS, SUMMARIES)
+
+        assert names == {0: "Tooling", 1: "Tooling (2)", -1: UNCLUSTERED}
 
     def test_stores_names_as_json(self, tmp_path: Path) -> None:
         a_namer(tmp_path, FakeLLM()).run(two_clusters_and_noise(), REPOS, SUMMARIES)

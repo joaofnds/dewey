@@ -26,9 +26,8 @@ def a_snapshot(
         "created_at": "2021-05-01T00:00:00Z",
         "html_url": url or f"https://github.com/{full_name}",
     }
-    readme_json = (
-        None if readme is None else {"content": b64encode(readme.encode()).decode(), "encoding": readme_encoding}
-    )
+    content = readme_bytes if readme_bytes is not None else (None if readme is None else readme.encode())
+    readme_json = None if content is None else {"content": b64encode(content).decode(), "encoding": readme_encoding}
 
     return RepoSnapshot(repo=repo, readme=readme_json)
 

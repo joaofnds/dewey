@@ -102,9 +102,9 @@ class RepoStore:
         folder = self._folder(snapshot.id)
         folder.mkdir(parents=True, exist_ok=True)
 
-        self._repo_path(snapshot.id).write_text(json.dumps(snapshot.repo, indent=2), encoding="utf-8")
         if snapshot.readme is not None:
-            self._readme_path(snapshot.id).write_text(json.dumps(snapshot.readme, indent=2), encoding="utf-8")
+            write_atomically(self._readme_path(snapshot.id), json.dumps(snapshot.readme, indent=2))
+        write_atomically(self._repo_path(snapshot.id), json.dumps(snapshot.repo, indent=2))
 
     def load(self, repo_id: int) -> StarredRepo:
         repo = json.loads(self._repo_path(repo_id).read_text(encoding="utf-8"))
@@ -120,7 +120,7 @@ class RepoStore:
         return self._summary_path(repo_id).read_text(encoding="utf-8").strip()
 
     def save_summary(self, repo_id: int, text: str) -> None:
-        self._summary_path(repo_id).write_text(text, encoding="utf-8")
+        write_atomically(self._summary_path(repo_id), text)
 
     def _folder(self, repo_id: int) -> Path:
         return self.repos_dir / str(repo_id)
@@ -133,3 +133,9 @@ class RepoStore:
 
     def _summary_path(self, repo_id: int) -> Path:
         return self._folder(repo_id) / "summary.txt"
+
+
+def write_atomically(path: Path, text: str) -> None:
+    staging = path.with_name(path.name + ".tmp")
+    staging.write_text(text, encoding="utf-8")
+    staging.replace(path)
